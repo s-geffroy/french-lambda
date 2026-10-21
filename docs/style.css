@@ -54,6 +54,8 @@ button, select, input { font: inherit; color: inherit; }
 h1 { margin: 0; font-size: clamp(1.6rem, 4vw, 2.5rem); line-height: 1.1; letter-spacing: -0.02em; }
 h1 span { color: var(--ink-2); font-weight: 500; }
 .lede { color: var(--ink-2); margin: 8px 0 16px; }
+/* L'accroche tient sur une ligne dès que l'écran le permet. */
+@media (min-width: 900px) { .lede { white-space: nowrap; font-size: clamp(13px, 1.25vw, 15px); } }
 .stats { display: flex; flex-wrap: wrap; gap: 10px; }
 .stat { background: var(--surface); border: 1px solid var(--ring); border-radius: var(--radius); padding: 10px 14px; min-width: 120px; }
 .stat b { display: block; font-size: 1.5rem; line-height: 1.1; }
@@ -74,7 +76,7 @@ h1 span { color: var(--ink-2); font-weight: 500; }
 @media (max-width: 900px) { .layout.avec-fiche { grid-template-columns: minmax(0, 1fr); } }
 .vue { background: var(--surface); border: 1px solid var(--ring); border-radius: var(--radius); padding: 16px; min-height: 420px; min-width: 0; }
 .vue h2 { margin: 0 0 4px; font-size: 1.15rem; }
-.vue .intro { color: var(--ink-2); margin: 0 0 14px; max-width: 75ch; }
+.vue .intro { color: var(--ink-2); margin: 0 0 14px; }
 .scroll-x { overflow-x: auto; }
 svg { display: block; max-width: 100%; }
 svg text { fill: var(--ink-2); font-size: 11px; }
@@ -136,3 +138,14 @@ tr:hover td { background: var(--surface-2); }
   .vue { border: 0; }
 }
 .tag.doute { border-color: var(--s4); color: var(--ink); }
+
+/* Journée : une ligne par catégorie dans chaque moment. */
+.moment .cats { display: grid; gap: 8px; }
+.moment .cat { display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 8px; align-items: baseline; }
+.moment .cat > span { color: var(--ink-2); font-size: 0.85rem; }
+@media (max-width: 600px) { .moment .cat { grid-template-columns: 1fr; gap: 2px; } }
+.bascule { display: inline-flex; border: 1px solid var(--ring); border-radius: 8px; overflow: hidden; margin-bottom: 12px; }
+.bascule button { background: none; border: 0; padding: 6px 14px; cursor: pointer; color: var(--ink-2); }
+.bascule button[aria-pressed="true"] { background: var(--surface-2); color: var(--ink); font-weight: 600; }
+.recherche-liste { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
+.recherche-liste input { flex: 1 1 260px; background: var(--surface); border: 1px solid var(--ring); border-radius: 8px; padding: 6px 10px; }

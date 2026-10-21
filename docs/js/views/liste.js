@@ -1,5 +1,5 @@
-import { esc } from "../fiche.js";
-import { paysLabel } from "../data.js";
+import { esc } from "../fiche.js?v=dev";
+import { paysLabel, norm } from "../data.js?v=dev";
 
 const COLS = [
   ["marque", "Marque", (b) => b.marque],
@@ -12,15 +12,20 @@ const COLS = [
 ];
 let tri = { col: "poste", dir: 1 };
 let mode = "table";
+let rech = "";
 
 // Vue de référence : tout est lisible ici, sans couleur ni survol.
 export function render(el, brands, ctx) {
   el.innerHTML = `<h2>Liste</h2>
-    <p class="intro">${brands.length} marques. Cliquer un en-tête pour trier, une ligne pour ouvrir la fiche.</p>
-    <p><label>Regrouper : <select name="mode">
-      <option value="table">Aucun (tableau)</option>
-      <option value="groupe">Par contrôleur ultime</option>
-      <option value="cat">Par catégorie</option></select></label></p>
+    <p class="intro">Cliquer un en-tête pour trier, une ligne pour ouvrir la fiche. La recherche porte sur la marque, son type, sa catégorie et toute la chaîne de groupes qui la contrôle.</p>
+    <div class="recherche-liste">
+      <input type="search" name="rech" placeholder="Chercher dans la liste : Starbucks, Nestlé, yaourt…" aria-label="Chercher dans la liste">
+      <label>Regrouper : <select name="mode">
+        <option value="table">Aucun (tableau)</option>
+        <option value="groupe">Par contrôleur ultime</option>
+        <option value="cat">Par catégorie</option></select></label>
+      <span class="compte muted"></span>
+    </div>
     <div class="corps scroll-x"></div>`;
   const sel = el.querySelector("[name=mode]");
   sel.value = mode;
@@ -28,9 +33,25 @@ export function render(el, brands, ctx) {
     mode = sel.value;
     corps();
   };
+  const champ = el.querySelector("[name=rech]");
+  champ.value = rech;
+  let frappe;
+  champ.oninput = () => {
+    clearTimeout(frappe);
+    frappe = setTimeout(() => {
+      rech = champ.value;
+      corps();
+    }, 150);
+  };
+  // Seul le corps est redessiné : le champ garde le focus pendant la frappe.
   const corps = () => {
+    const q = norm(rech.trim());
+    const vus = q ? brands.filter((b) => b.search.includes(q)) : brands;
+    el.querySelector(".compte").textContent = `${vus.length} marque${vus.length > 1 ? "s" : ""}${q ? ` sur ${brands.length}` : ""}`;
     const c = el.querySelector(".corps");
-    c.innerHTML = mode === "table" ? table(brands) : groupes(brands, ctx, mode);
+    c.innerHTML = !vus.length
+      ? '<p class="muted">Aucune marque ne correspond.</p>'
+      : mode === "table" ? table(vus) : groupes(vus, ctx, mode);
   };
   corps();
   el.onclick = (e) => {

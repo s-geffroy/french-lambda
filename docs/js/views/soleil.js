@@ -1,5 +1,5 @@
-import { esc } from "../fiche.js";
-import { legende } from "./journee.js";
+import { esc } from "../fiche.js?v=dev";
+import { legende } from "./journee.js?v=dev";
 
 // Soleil : poste de vie -> catégorie -> contrôleur ultime -> marque.
 // Cliquer un secteur zoome dessus ; le centre remonte d'un niveau.

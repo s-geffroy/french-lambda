@@ -1,4 +1,4 @@
-import { esc } from "../fiche.js";
+import { esc } from "../fiche.js?v=dev";
 
 let avecMarques = null;
 

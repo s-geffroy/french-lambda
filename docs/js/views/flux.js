@@ -1,5 +1,5 @@
-import { esc } from "../fiche.js";
-import { paysLabel } from "../data.js";
+import { esc } from "../fiche.js?v=dev";
+import { paysLabel } from "../data.js?v=dev";
 
 const TOP = 30;
 

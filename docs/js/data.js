@@ -4,7 +4,7 @@
 export async function loadData() {
   const [ref, groupes, marques] = await Promise.all(
     ["categories", "groupes", "marques"].map((f) =>
-      fetch(`data/${f}.json`).then((r) => {
+      fetch(`data/${f}.json?v=dev`).then((r) => {
         if (!r.ok) throw new Error(`data/${f}.json : HTTP ${r.status}`);
         return r.json();
       })

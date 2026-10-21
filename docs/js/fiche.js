@@ -1,4 +1,4 @@
-import { paysLabel } from "./data.js";
+import { paysLabel } from "./data.js?v=dev";
 
 export const esc = (s) =>
   String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);

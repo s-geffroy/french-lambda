@@ -1,6 +1,6 @@
-import { loadData, applyFilters, paysLabel } from "./data.js";
-import { renderFiche } from "./fiche.js";
-import { need } from "./lib.js";
+import { loadData, applyFilters, paysLabel } from "./data.js?v=dev";
+import { renderFiche } from "./fiche.js?v=dev";
+import { need } from "./lib.js?v=dev";
 
 // Chaque vue n'est téléchargée qu'à sa première ouverture, avec ses bibliothèques.
 const VUES = {
@@ -13,7 +13,7 @@ const VUES = {
   classement: ["d3"],
   methode: [],
 };
-const loadVue = (v) => Promise.all([import(`./views/${v}.js`), need(...VUES[v])]).then(([m]) => m);
+const loadVue = (v) => Promise.all([import(`./views/${v}.js?v=dev`), need(...VUES[v])]).then(([m]) => m);
 const FILTRES = ["q", "macro", "cat", "nature", "statut", "pays", "groupe"];
 
 const $ = (s) => document.querySelector(s);

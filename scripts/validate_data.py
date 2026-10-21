@@ -28,6 +28,7 @@ def main():
     cats = {c["id"] for c in ref["categories"]}
     macros = {m["id"] for m in ref["macros"]}
     moments = {m["id"] for m in ref["moments"]}
+    saisons = {x["id"] for x in ref.get("saisons", [])}
     natures = {n["id"] for n in ref["natures"]}
     statuts = {s["id"] for s in ref["statuts"]}
     for c in ref["categories"]:
@@ -102,6 +103,9 @@ def main():
         bad = set(m.get("moments", [])) - moments
         if bad or not m.get("moments"):
             err(f"marque {mid} : moments invalides {sorted(bad) or 'vide'}")
+        bad = set(m.get("saisons", [])) - saisons
+        if bad:
+            err(f"marque {mid} : saisons inconnues {sorted(bad)}")
         if not m.get("sources"):
             err(f"marque {mid} : aucune source")
 

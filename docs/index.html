@@ -5,16 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Le Français lambda et ses entreprises</title>
   <meta name="description" content="Toutes les entreprises qu'un Français moyen croise dans sa vie : marques, groupes, actionnaires.">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=dev">
   <!-- Tout ce dont la vue d'accueil a besoin part en parallèle, dès l'en-tête. -->
-  <link rel="preload" href="data/categories.json" as="fetch" crossorigin>
-  <link rel="preload" href="data/groupes.json" as="fetch" crossorigin>
-  <link rel="preload" href="data/marques.json" as="fetch" crossorigin>
-  <link rel="modulepreload" href="js/app.js">
-  <link rel="modulepreload" href="js/data.js">
-  <link rel="modulepreload" href="js/fiche.js">
-  <link rel="modulepreload" href="js/lib.js">
-  <link rel="modulepreload" href="js/views/journee.js">
+  <link rel="preload" href="data/categories.json?v=dev" as="fetch" crossorigin>
+  <link rel="preload" href="data/groupes.json?v=dev" as="fetch" crossorigin>
+  <link rel="preload" href="data/marques.json?v=dev" as="fetch" crossorigin>
+  <link rel="modulepreload" href="js/app.js?v=dev">
+  <link rel="modulepreload" href="js/data.js?v=dev">
+  <link rel="modulepreload" href="js/fiche.js?v=dev">
+  <link rel="modulepreload" href="js/lib.js?v=dev">
+  <link rel="modulepreload" href="js/views/journee.js?v=dev">
   <script>
     try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch {}
   </script>
@@ -64,6 +64,6 @@
 
   <div id="tip" class="tip" hidden></div>
 
-  <script type="module" src="js/app.js"></script>
+  <script type="module" src="js/app.js?v=dev"></script>
 </body>
 </html>
