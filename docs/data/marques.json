@@ -1338,9 +1338,10 @@
    "mensuel"
   ],
   "part_marche": "≈ 1er réseau bancaire (≈ 25 % des dépôts des ménages)",
-  "note": "Part de marché indicative, source à reconfirmer.",
+  "note": "Part de marché indicative (Wikipédia cite 28 % du marché français, chiffre ancien) : à confirmer.",
   "sources": [
-   "https://www.credit-agricole.com"
+   "https://www.credit-agricole.com",
+   "https://fr.wikipedia.org/wiki/Cr%C3%A9dit_agricole"
   ]
  },
  {
@@ -4500,20 +4501,6 @@
   ]
  },
  {
-  "id": "cubyn-marque",
-  "marque": "Cubyn",
-  "groupe": "cubyn",
-  "categorie": "courrier-colis",
-  "sous_categorie": "Logistique e-commerce",
-  "nature": "invisible",
-  "moments": [
-   "occasionnel"
-  ],
-  "sources": [
-   "https://www.cubyn.com/"
-  ]
- },
- {
   "id": "dhl-express",
   "marque": "DHL Express",
   "groupe": "dhl-group",
@@ -5080,7 +5067,7 @@
    "soir"
   ],
   "part_marche": "Groupe Casino : 3 % des PGC-FLS en 2025 (Worldpanel)",
-  "note": "Enseignes regroupées sous la seule marque « Casino » (annonce avril 2025).",
+  "note": "Petit Casino, Casino Shop et Casino#toutprès regroupées sous la seule marque « Casino » en 2025.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Groupe_Casino",
    "https://www.rayon-boissons.com/distribution/bilan-parts-de-marche-2025-un-trio-gagnant-compose-de-carrefour-intermarche-et-u"
@@ -5662,7 +5649,7 @@
  {
   "id": "sherpa",
   "marque": "Sherpa",
-  "groupe": "casino",
+  "groupe": "sherpa-cooperative",
   "categorie": "distribution-alimentaire",
   "sous_categorie": "Proximité (stations de montagne)",
   "nature": "direct",
@@ -5670,9 +5657,10 @@
    "courses",
    "occasionnel"
   ],
-  "note": "Rattachement à Casino non revérifié en 2026.",
+  "note": "Enseigne de la coopérative Sherpa (filiale Coréma), sans lien capitalistique avec Casino ; Casino en est le fournisseur depuis fin 2009 (contrat d'approvisionnement). Contrat d'approvisionnement actuel à confirmer.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Groupe_Casino"
+   "https://fr.wikipedia.org/wiki/Groupe_Casino",
+   "https://fr.wikipedia.org/wiki/Sherpa_(enseigne)"
   ],
   "saisons": [
    "hiver"
@@ -8026,7 +8014,7 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Marque du groupe Hamelin (avec Oxford, Unilux, Herlitz, Pelikan).",
   "sources": [
    "https://www.hamelinbrands.com/"
   ],
@@ -10866,9 +10854,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Rattachement à OGF non revérifié.",
+  "note": "Enseigne d'OGF (avec PFG, Essentiel, Henri de Borniol, Roblot).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Pompes_funèbres_générales"
+   "https://fr.wikipedia.org/wiki/Pompes_funèbres_générales",
+   "https://www.ogf.fr/services-funeraires"
   ]
  },
  {
@@ -10957,9 +10946,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Funecap détient Roc-Eclerc depuis 2015 ; Latour Capital majoritaire depuis 2021 selon CFNEWS, à confirmer.",
+  "note": "Funecap détient Roc-Eclerc depuis 2015 ; Latour Capital majoritaire de Funecap depuis le 24/03/2021, aux côtés de Charterhouse et des fondateurs (réinvestissement en 2023).",
   "sources": [
-   "https://ac-franchise.com/article/la-franchise-roceclerc-dans-lescarcelle-du-groupe-funecap-6893"
+   "https://ac-franchise.com/article/la-franchise-roceclerc-dans-lescarcelle-du-groupe-funecap-6893",
+   "https://www.clearygottlieb.com/news-and-insights/news-listing/latour-capital-acquires-majority-stake-in-funecap"
   ]
  },
  {
@@ -12697,7 +12687,7 @@
   "moments": [
    "matin"
   ],
-  "note": "Rattachement de Demak'Up à Essity non revérifié.",
+  "note": "Demak'Up figure dans la liste des marques d'Essity (consultée en 10/2026).",
   "sources": [
    "https://www.essity.com/brands/"
   ]
@@ -13397,9 +13387,10 @@
   "moments": [
    "nuit"
   ],
-  "note": "Actionnariat de 2017, non revérifié.",
+  "note": "Propriété de LifeStyles Healthcare depuis 2017 (rachat à Ansell) ; LifeStyles racheté par le fonds américain Linden Capital Partners en 2022.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Manix_(préservatif)"
+   "https://fr.wikipedia.org/wiki/Manix_(préservatif)",
+   "https://fr.wikipedia.org/wiki/Manix"
   ]
  },
  {
@@ -15869,9 +15860,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Actionnaires de Digit RE Group non vérifiés.",
+  "note": "Exploité par Capi SAS, présidée par Digit RE Group (lui-même présidé par Difinn), qui gère aussi Optimhome.",
   "sources": [
-   "https://www.mysweetimmo.com/2025/04/09/immobilier-le-reseau-capifrance-recherche-pres-de-200-mandataires-partout-en-france/"
+   "https://www.mysweetimmo.com/2025/04/09/immobilier-le-reseau-capifrance-recherche-pres-de-200-mandataires-partout-en-france/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=digit%20re%20group"
   ]
  },
  {
@@ -16044,9 +16036,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Actionnariat (fondateurs et fonds de capital-investissement) non vérifié.",
+  "note": "Réseau iad (CA 613 M€ à fin juin 2026) ; Insight Partners entré comme partenaire financier en 2021 ; répartition actuelle du capital à confirmer.",
   "sources": [
-   "https://www.observatoiredelafranchise.fr/dossier-thematique/agent-mandataire-immobilier.htm"
+   "https://www.observatoiredelafranchise.fr/dossier-thematique/agent-mandataire-immobilier.htm",
+   "https://www.mysweetimmo.com/2026/07/10/reseau-immobilier-iad-franchit-le-cap-des-600-millions-deuros-de-chiffre-daffaires/",
+   "https://www.mysweetimmo.com/2021/07/07/iad-le-leader-de-limmobilier-digital-en-europe-affiche-une-croissance-insolente-de-plus-de-40/"
   ]
  },
  {
@@ -17906,10 +17900,12 @@
    "soir",
    "courses"
   ],
-  "note": "Division alimentaire d'Unilever en cours de cession à McCormick (annoncée le 31/03/2026, finalisation attendue mi-2027).",
+  "note": "Rapprochement de la division alimentaire d'Unilever avec McCormick annoncé le 31/03/2026 ; finalisation attendue mi-2027 sous réserve des autorisations (actionnaires d'Unilever 55,1 % + Unilever 9,9 %, actionnaires de McCormick 35 % de l'ensemble).",
   "sources": [
    "https://www.force-ouvriere.fr/unilever-vend-sa-branche-alimentaire-incertitudes-sur-l-emploi",
-   "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars"
+   "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars",
+   "https://mynews13.com/fl/orlando/ap-top-news/2026/03/31/spice-maker-mccormick-is-combining-with-unilevers-food-division",
+   "https://www.euronews.com/2026/03/31/unilever-and-mccormick-are-closing-in-on-a-mega-deal-to-create-a-food-giant"
   ]
  },
  {
@@ -18544,7 +18540,7 @@
   "moments": [
    "courses"
   ],
-  "note": "MDD Intermarché (biscuits, petit-déjeuner) ; fabricant non vérifié.",
+  "note": "MDD Intermarché (biscuits, petit-déjeuner) ; fabricant à confirmer (sources inaccessibles en 10/2026).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Les_Mousquetaires"
   ]
@@ -18680,9 +18676,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Présence en France limitée — à confirmer.",
+  "note": "Marque du pôle Chocolat de la Compagnie du Bois Sauvage (avec Neuhaus, Jeff de Bruges, Artista Chocolates).",
   "sources": [
-   "https://www.bois-sauvage.be/wp-content/uploads/2023/03/CBS2022FR.pdf"
+   "https://www.bois-sauvage.be/wp-content/uploads/2023/03/CBS2022FR.pdf",
+   "https://www.bois-sauvage.be/participations/"
   ],
   "saisons": [
    "paques",
@@ -20009,9 +20006,11 @@
    "soir",
    "courses"
   ],
-  "note": "LDC est partenaire industriel de la filière Loué ; périmètre exact de sa participation à confirmer.",
+  "note": "Marque de la coopérative des Fermiers de Loué ; LDC abat et commercialise les produits Loué, et la coopérative détenait 9,35 % du capital de LDC (mars 2022).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Loué_(marque)"
+   "https://fr.wikipedia.org/wiki/Loué_(marque)",
+   "https://fr.wikipedia.org/wiki/LDC_(entreprise)",
+   "https://www.loue.fr/"
   ],
   "saisons": [
    "noel"
@@ -21590,9 +21589,10 @@
    "matin",
    "courses"
   ],
-  "note": "Actionnariat familial non revérifié.",
+  "note": "Entreprise familiale française et indépendante fondée en 1905 (site officiel).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/St_Michel_(biscuiterie)"
+   "https://fr.wikipedia.org/wiki/St_Michel_(biscuiterie)",
+   "https://www.stmichel.fr/notre-histoire"
   ],
   "saisons": [
    "chandeleur"
@@ -24913,9 +24913,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Réseau exploité par TÜV DCTA (filiale française de TÜV Rheinland) selon une offre d'emploi 2025 ; à confirmer.",
+  "note": "Réseau exploité par SECTA (Courbevoie, RCS Nanterre 353 716 335), dont le conseil compte TÜV International et TÜV Rheinland Schaden und Wertgutachten (ainsi que la Macif) ; présidée par Matthias Schubert.",
   "sources": [
-   "https://www.auto-infos.fr/auto-securite/2/"
+   "https://www.auto-infos.fr/auto-securite/2/",
+   "https://www.autosur.fr/mentions-legales",
+   "https://www.societe.com/societe/secta-353716335.html"
   ]
  },
  {
@@ -25127,22 +25129,6 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Bolt_(entreprise)"
-  ]
- },
- {
-  "id": "bp-stations",
-  "marque": "BP (stations)",
-  "groupe": "bp",
-  "categorie": "mobilite",
-  "sous_categorie": "Station-service",
-  "nature": "direct",
-  "moments": [
-   "trajet"
-  ],
-  "note": "Selon North Atlantic, des stations BP ont été intégrées au réseau Esso France en 2023 ; présence résiduelle de la marque BP en France non vérifiée.",
-  "sources": [
-   "https://fr.wikipedia.org/wiki/BP",
-   "https://northatlantic.ca/wp-content/uploads/2026/05/North-Atlantic-France-SAS-apporte-des-elements-dactualisation-lies-a-son-projet-dacquisition-.pdf"
   ]
  },
  {
@@ -27309,9 +27295,12 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Réseau de franchise rattaché à Goodyear (non revérifié).",
+  "note": "Réseau de franchise adossé à Goodyear (filiale Goodyear-Dunlop), animé par Vulco Développement ; partenaire de Goodyear depuis 25 ans selon Franchise Magazine.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Goodyear"
+   "https://fr.wikipedia.org/wiki/Goodyear",
+   "https://www.franchise-magazine.com/franchise/franchise-vulco",
+   "https://j2rauto.com/reseaux/vulco-se-renouvelle-pour-simposer-sur-le-marche",
+   "https://recherche-entreprises.api.gouv.fr/search?q=vulco"
   ]
  },
  {
@@ -28798,7 +28787,7 @@
   "moments": [
    "midi"
   ],
-  "note": "Actionnariat de 2017 ; évolution ultérieure non vérifiée.",
+  "note": "Contrôlé par Blue Gem Capital Partners (80 % depuis 2017, via Big Groupe) ; procédure de sauvegarde ouverte en 2026.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Big_Fernand"
   ]
@@ -29440,9 +29429,11 @@
    "matin",
    "trajet"
   ],
-  "note": "Marque Starbucks Corporation ; France opérée sous licence par Alsea (accord 2018, non revérifié en 2026).",
+  "note": "Marque Starbucks Corporation ; cafés en France exploités sous licence par Alsea depuis l'accord de 2018 ; aucune cession signalée à 10/2026.",
   "sources": [
-   "https://nrn.com/operations/starbucks-cafes-europe-be-operated-alsea"
+   "https://nrn.com/operations/starbucks-cafes-europe-be-operated-alsea",
+   "https://fooddigital.com/franchising/starbucks-signs-licensing-deal-alsea-operate-stores-four-european-markets",
+   "https://www.starbucks.fr/"
   ]
  },
  {
@@ -29661,9 +29652,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Filiale d'Aurobindo (non revérifié).",
+  "note": "Filiale française d'Aurobindo Pharma depuis 2014 (siège à Lyon) ; reprise de l'usine Martin Dow de Meymac en juin 2026.",
   "sources": [
-   "https://www.aurobindo.com"
+   "https://www.aurobindo.com",
+   "https://www.lejournaldesentreprises.com/article/sauvee-du-redressement-lusine-correzienne-de-medicaments-martin-dow-se-relance-sous-pavillon-indien-2144558",
+   "https://www.expanscience.com/sites/default/files/press_release/Cession-Medicaments-Expanscience-Arrow_communique-presse_251126.pdf"
   ]
  },
  {
@@ -29937,7 +29930,7 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Fabricant (Sanofi) : rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Vaccin grippe haute dose (65 ans et plus) listé pour la campagne 2026-2027 ; fabricant Sanofi de connaissance générale, titulaire de l'AMM à confirmer.",
   "sources": [
    "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027"
   ],
@@ -30136,9 +30129,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Fabricant (Viatris) : rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Vaccin trivalent commercialisé en France par Viatris (campagne 2026-2027) ; Influvac Tetra arrêté le 7/03/2025.",
   "sources": [
-   "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027"
+   "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027",
+   "https://www.mesvaccins.net/web/vaccines",
+   "https://www.mesvaccins.net/web/vaccines/562-influvac-tetra"
   ],
   "saisons": [
    "hiver",
@@ -30641,9 +30636,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Fabricant (Sanofi) : rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Vaccin trivalent de Sanofi (Sanofi Pasteur), proposé pour la campagne 2026-2027.",
   "sources": [
-   "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027"
+   "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027",
+   "https://www.mesvaccins.net/web/vaccines"
   ],
   "saisons": [
    "hiver",
@@ -30813,7 +30809,7 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Date de finalisation du rachat par Emova à confirmer.",
+  "note": "Racheté par Emova Group (Monceau Fleurs) en 2016 ; opération effective à la rentrée de septembre 2016.",
   "sources": [
    "https://www.observatoiredelafranchise.fr/indiscretions-actualite/MONCEAU-FLEURS-emova-group-va-racheter-au-nom-de-la-rose-61209.htm"
   ],
@@ -32681,24 +32677,6 @@
   ]
  },
  {
-  "id": "wedze",
-  "marque": "Wed'ze",
-  "groupe": "decathlon",
-  "categorie": "sport",
-  "sous_categorie": "Marque propre (ski)",
-  "nature": "direct",
-  "moments": [
-   "occasionnel"
-  ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
-  "sources": [
-   "https://www.decathlon.fr/"
-  ],
-  "saisons": [
-   "hiver"
-  ]
- },
- {
   "id": "benson-hedges",
   "marque": "Benson & Hedges",
   "groupe": "japan-tobacco",
@@ -33569,9 +33547,10 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Boucle locale cuivre (en cours d'extinction) et une grande partie de la fibre utilisée par les autres opérateurs.",
+  "note": "Orange possède 99,99 % de la boucle locale cuivre, dont la fermeture technique par lots court de 2023 à 2030 ; la fibre couvrait près de 94 % des locaux début 2026 (Arcep).",
   "sources": [
-   "https://www.orange.com/fr"
+   "https://www.orange.com/fr",
+   "https://www.arcep.fr/la-regulation/grands-dossiers-reseaux-fixes/la-fermeture-du-reseau-cuivre.html"
   ]
  },
  {
@@ -34128,9 +34107,11 @@
   "moments": [
    "travail"
   ],
-  "note": "Rattachée à RGF Staffing (Recruit) ; non revérifié.",
+  "note": "Start People SAS (Saint-Julien-lès-Metz, RCS Metz 339 993 164) est présidée par RGF Staffing France, branche de Recruit Holdings.",
   "sources": [
-   "https://recruit-holdings.com/en/ir/"
+   "https://recruit-holdings.com/en/ir/",
+   "https://www.startpeople.fr/mentions-legales",
+   "https://recherche-entreprises.api.gouv.fr/search?q=339993164"
   ]
  },
  {
