@@ -94,6 +94,7 @@ svg text { fill: var(--ink-2); font-size: 11px; }
 .chaine .act { font-size: 0.85rem; color: var(--ink-2); }
 .lien { background: none; border: 0; padding: 0; color: var(--accent); cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
 .sources { font-size: 0.8rem; word-break: break-all; }
+.signaler { font-size: 0.85rem; border-top: 1px solid var(--ring); padding-top: 8px; }
 
 /* Liste */
 table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }

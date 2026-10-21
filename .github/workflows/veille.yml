@@ -1,0 +1,31 @@
+# Chaque trimestre, ouvre une issue « Veille » listant les opérations à
+# surveiller et les fiches à revérifier (scripts/veille.py). Aucune clé
+# d'API : le jeton du workflow suffit pour créer l'issue.
+name: veille
+
+on:
+  schedule:
+    - cron: "0 6 1 1,4,7,10 *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  releve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+      - name: Établir le relevé
+        run: python3 scripts/veille.py > veille.md
+      - name: Ouvrir l'issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create veille --color 0E8A16 --description "Relevé trimestriel" --force
+          gh label create correction --color D93F0B --description "Erreur signalée depuis le site" --force
+          gh issue create --title "Veille $(date +%Y-%m)" --label veille --body-file veille.md

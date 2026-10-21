@@ -100,7 +100,21 @@ Il est indépendant du worker : rien ne tourne sur le VPS pour lui.
 | `docs/index.html`, `docs/js/` | le site : journée type, liste, graphe, soleil, flux, carte, classement |
 | `scripts/validate_data.py` | contrôle de cohérence, exécuté par GitHub Actions avant chaque publication |
 | `.github/workflows/pages.yml` | validation puis déploiement sur GitHub Pages |
+| `scripts/veille.py`, `.github/workflows/veille.yml` | relevé trimestriel des fiches à revérifier, publié en issue « Veille » |
+| `.github/ISSUE_TEMPLATE/correction.yml` | formulaire « Signaler une erreur », ouvert depuis chaque fiche du site |
 
 Corriger ou ajouter une entrée : éditer les JSON, pousser sur `main`. Le
 workflow refuse de publier si un identifiant est en double, une référence
 cassée, une nationalité d'actionnaire absente ou une source manquante.
+
+Tenir les données à jour :
+
+- un visiteur signale une erreur depuis la fiche concernée : l'issue arrive
+  avec l'étiquette `correction` et l'identifiant de la fiche ;
+- le 1er janvier, avril, juillet et octobre, le workflow `veille` ouvre une
+  issue qui liste les rachats et OPA non finalisés, les groupes douteux par
+  nombre de marques touchées et les fiches vérifiées il y a plus de six mois.
+  Il se lance aussi à la main : `sudo appctl run gh workflow run veille -R s-geffroy/french-lambda` ;
+- une fiche porte « à confirmer » sur le site tant que sa note contient un mot
+  de doute (`confirmer`, `non vérifié`, `en cours`, `annoncé`…) : on retire le
+  mot quand le fait est établi, avec sa source.

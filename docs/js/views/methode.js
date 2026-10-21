@@ -17,7 +17,13 @@ export function render(el, brands, ctx) {
   <ul>
     <li>Une photographie : les actionnariats bougent (cessions, fusions). Dernière vérification : ${model.groupes.map((g) => g.verifie_le).filter(Boolean).sort().at(-1) || "—"}.</li>
     <li>Le nombre de marques mesure la <i>présence</i> d'un groupe, pas son chiffre d'affaires ni ce que dépense un ménage.</li>
-    <li>L'exhaustivité est visée, pas garantie : une marque manquante ou une erreur se signale par une <i>issue</i> sur le dépôt GitHub.</li>
+    <li>L'exhaustivité est visée, pas garantie.</li>
+  </ul>
+  <h3>Corriger et tenir à jour</h3>
+  <ul>
+    <li>Chaque fiche porte un lien <b>Signaler une erreur</b>, qui ouvre un formulaire pré-rempli sur le <a href="https://github.com/s-geffroy/french-lambda/issues" target="_blank" rel="noopener">dépôt GitHub</a> (compte GitHub requis). Une marque manquante se signale de la même façon.</li>
+    <li>Les fiches marquées <span class="tag doute">à confirmer</span> n'ont pas pu être établies par une source récente, ou décrivent une opération (rachat, OPA, cession) pas encore finalisée.</li>
+    <li>Chaque trimestre, un relevé automatique liste les opérations à surveiller et les fiches les plus anciennes, dans une <i>issue</i> « Veille » du dépôt.</li>
   </ul>
   <h3>En chiffres</h3>
   <p>${model.brands.length} marques, ${model.groupes.length} entreprises et actionnaires, ${model.ref.categories.length} catégories regroupées en ${model.ref.macros.length} postes de vie.</p>

@@ -1,10 +1,17 @@
 import { esc } from "../fiche.js?v=dev";
 
 let avecMarques = null;
+let arreter = null;
+// Budget de calcul par image : plusieurs pas de simulation pour un seul
+// redessin, sinon des milliers d'éléments SVG bougent à chaque pas.
+const BUDGET_MS = 24;
 
 // Réseau de propriété : marque -> exploitant -> parents -> actionnaires.
 export function render(el, brands, ctx) {
   const { model } = ctx;
+  // Un nouveau rendu (filtre, case à cocher) arrête la simulation précédente.
+  arreter?.();
+  arreter = null;
   if (avecMarques === null) avecMarques = brands.length <= 400;
   el.innerHTML = `<h2>Graphe de propriété</h2>
     <p class="intro">Qui possède qui. Survoler un nœud isole son voisinage ; cliquer ouvre sa fiche. Molette ou pincement pour zoomer.</p>
@@ -101,19 +108,36 @@ export function render(el, brands, ctx) {
     })
     .on("click", (e, d) => d.sel && ctx.select(d.sel))
     .call(d3.drag()
-      .on("start", (e, d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+      .on("start", (e, d) => { if (!e.active) { actif = false; sim.alphaTarget(0.3).restart(); } d.fx = d.x; d.fy = d.y; })
       .on("drag", (e, d) => { d.fx = e.x; d.fy = e.y; })
       .on("end", (e, d) => { if (!e.active) sim.alphaTarget(0); d.fx = d.fy = null; }));
 
   const sim = d3.forceSimulation(N)
     .force("link", d3.forceLink(L).id((d) => d.id).distance((l) => (l.source.kind === "marque" ? 14 : 40)).strength(0.7))
-    .force("charge", d3.forceManyBody().strength((d) => (d.kind === "marque" ? -12 : -60 - d.n * 2)))
+    .force("charge", d3.forceManyBody().theta(1.2).strength((d) => (d.kind === "marque" ? -12 : -60 - d.n * 2)))
     .force("collide", d3.forceCollide((d) => r(d) + 1.5))
     .force("x", d3.forceX(W / 2).strength(0.04))
     .force("y", d3.forceY(H / 2).strength(0.06))
-    .on("tick", () => {
-      link.attr("x1", (d) => d.source.x).attr("y1", (d) => d.source.y).attr("x2", (d) => d.target.x).attr("y2", (d) => d.target.y);
-      node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
-      label.attr("x", (d) => d.x).attr("y", (d) => d.y);
-    });
+    .stop();
+  const dessin = () => {
+    link.attr("x1", (d) => d.source.x).attr("y1", (d) => d.source.y).attr("x2", (d) => d.target.x).attr("y2", (d) => d.target.y);
+    node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
+    label.attr("x", (d) => d.x).attr("y", (d) => d.y);
+  };
+  // sim.tick() n'émet pas d'événement : ce rappel ne sert qu'au glisser, qui
+  // relance la simulation au rythme normal.
+  sim.on("tick", dessin);
+  let actif = true;
+  arreter = () => {
+    actif = false;
+    sim.stop();
+  };
+  const etape = () => {
+    if (!actif || !svg.node().isConnected) return;
+    const t0 = performance.now();
+    while (sim.alpha() > sim.alphaMin() && performance.now() - t0 < BUDGET_MS) sim.tick();
+    dessin();
+    if (sim.alpha() > sim.alphaMin()) requestAnimationFrame(etape);
+  };
+  requestAnimationFrame(etape);
 }

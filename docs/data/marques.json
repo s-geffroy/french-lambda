@@ -840,9 +840,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Propriété BGL non revérifiée en 2026.",
+  "note": "Propriété BGL Group (maison mère de Compare the Market) à confirmer en 2026.",
   "sources": [
-   "https://www.lesfurets.com"
+   "https://www.lesfurets.com",
+   "https://en.wikipedia.org/wiki/BGL_Group"
   ]
  },
  {
@@ -1055,9 +1056,10 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Premier assureur vie français par encours (à reconfirmer) ; actionnaire de Ramsay Santé et Clariane.",
+  "note": "Filiale vie de Crédit Agricole Assurances (n°1 des assureurs vie français par chiffre d'affaires et n°2 par encours en 2020) ; actionnaire de Ramsay Santé et Clariane.",
   "sources": [
-   "https://www.ca-assurances.com"
+   "https://www.ca-assurances.com",
+   "https://fr.wikipedia.org/wiki/Predica"
   ]
  },
  {
@@ -1216,10 +1218,10 @@
   "moments": [
    "mensuel"
   ],
-  "part_marche": "≈ 7 millions de clients (2025, BoursoBank)",
-  "note": "Chiffre de clients à reconfirmer.",
+  "part_marche": "≈ 7,6 millions de clients (fin mars 2025)",
   "sources": [
-   "https://www.boursobank.com"
+   "https://www.boursobank.com",
+   "https://fr.wikipedia.org/wiki/Boursorama"
   ]
  },
  {
@@ -1604,21 +1606,6 @@
   ]
  },
  {
-  "id": "ma-french-bank",
-  "marque": "Ma French Bank (fermée)",
-  "groupe": "la-banque-postale",
-  "categorie": "banque-paiement",
-  "sous_categorie": "Banque mobile (fermée)",
-  "nature": "direct",
-  "moments": [
-   "mensuel"
-  ],
-  "note": "Fermée définitivement le 10 juillet 2025.",
-  "sources": [
-   "https://fr.wikipedia.org/wiki/Ma_French_Bank"
-  ]
- },
- {
   "id": "mastercard-carte",
   "marque": "Mastercard",
   "groupe": "mastercard",
@@ -1804,9 +1791,11 @@
    "mensuel",
    "travail"
   ],
-  "note": "Cédée par Société Générale à Ageras (devenu Shine) ; rachat par Cegid annoncé nov. 2025.",
+  "note": "Cédée par Société Générale à Ageras (devenu Shine) en 2024 ; rachetée par Cegid (accord du 26/11/2025, opération finalisée début juin 2026).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Shine_(banque)"
+   "https://fr.wikipedia.org/wiki/Shine_(banque)",
+   "https://www.maddyness.com/2025/11/26/shine-18-mois-apres-son-rachat-par-ageras-la-fintech-bascule-dans-le-giron-de-cegid/",
+   "https://fr.wikipedia.org/wiki/Cegid"
   ]
  },
  {
@@ -2102,6 +2091,9 @@
   ],
   "sources": [
    "https://www.pernod-ricard.com/fr/nos-marques"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -2177,9 +2169,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Maison indépendante fondée en 1829 à Aÿ ; la famille reste actionnaire majoritaire.",
   "sources": [
-   "https://www.champagne-bollinger.com/"
+   "https://www.champagne-bollinger.com/",
+   "https://fr.wikipedia.org/wiki/Champagne_Bollinger"
   ],
   "saisons": [
    "noel",
@@ -2383,6 +2376,9 @@
   ],
   "sources": [
    "https://www.pernod-ricard.com/fr/nos-marques"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -2689,8 +2685,8 @@
    "https://www.duboeuf.com/en/?p=3466"
   ],
   "saisons": [
-   "beaujolais",
-   "automne"
+   "automne",
+   "beaujolais"
   ]
  },
  {
@@ -3002,6 +2998,9 @@
   ],
   "sources": [
    "https://www.pernod-ricard.com/fr/nos-marques"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -3017,6 +3016,9 @@
   ],
   "sources": [
    "https://www.diageo.com/en/our-brands"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -3113,9 +3115,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Maison détenue majoritairement par LVMH (Moët Hennessy).",
   "sources": [
-   "https://www.lvmh.com/"
+   "https://www.lvmh.com/",
+   "https://en.wikipedia.org/wiki/Krug_(Champagne)"
   ],
   "saisons": [
    "noel",
@@ -3150,6 +3153,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/La_Martiniquaise"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -3339,9 +3345,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Maison fondée en 1858, fusionnée avec Moët & Chandon en 1970, sous contrôle de LVMH depuis 1987 (exploitée par MHCS, Moët Hennessy).",
   "sources": [
-   "https://www.lvmh.com/"
+   "https://www.lvmh.com/",
+   "https://fr.wikipedia.org/wiki/Champagne_Mercier"
   ],
   "saisons": [
    "noel",
@@ -3442,9 +3449,10 @@
    "soir",
    "week-end"
   ],
-  "note": "Pernod Ricard a annoncé en 2025 étudier la cession de ses maisons de vins ; statut des champagnes à vérifier.",
+  "note": "Mumm Champagne reste chez Pernod Ricard : seuls les vins internationaux (Jacob's Creek, Campo Viejo, cédés à AWL en avril 2025) et les mousseux américains Mumm Napa (Trinchero, décembre 2025) ont été cédés.",
   "sources": [
-   "https://www.pernod-ricard.com/fr/nos-marques"
+   "https://www.pernod-ricard.com/fr/nos-marques",
+   "https://en.wikipedia.org/wiki/Pernod_Ricard"
   ],
   "saisons": [
    "noel",
@@ -3645,9 +3653,10 @@
    "soir",
    "week-end"
   ],
-  "note": "Pernod Ricard a annoncé en 2025 étudier la cession de ses maisons de vins ; statut des champagnes à vérifier.",
+  "note": "Propriété de Pernod Ricard depuis 2005 ; aucune cession de la maison de champagne repérée en octobre 2026.",
   "sources": [
-   "https://www.pernod-ricard.com/fr/nos-marques"
+   "https://www.pernod-ricard.com/fr/nos-marques",
+   "https://fr.wikipedia.org/wiki/Perrier-Jouët"
   ],
   "saisons": [
    "noel",
@@ -4615,9 +4624,10 @@
   "moments": [
    "matin"
   ],
-  "note": "Distribue les prospectus en boîtes aux lettres (financé par les annonceurs).",
+  "note": "Filiale de la branche Services-Courrier-Colis de La Poste ; distribue les prospectus en boîtes aux lettres, service financé par les enseignes émettrices.",
   "sources": [
-   "https://www.groupelaposte.com/fr/gouvernance"
+   "https://www.groupelaposte.com/fr/gouvernance",
+   "https://fr.wikipedia.org/wiki/Mediapost"
   ]
  },
  {
@@ -4678,10 +4688,12 @@
   "moments": [
    "courses"
   ],
-  "note": "Rachat des principaux actifs (≈7 000 points relais + marque) par GLS France annoncé le 22/05/2026, finalisation prévue été 2026 (non confirmée). Auparavant détenu par Walden Group (famille Baudry).",
+  "note": "Rachat du réseau (≈ 7 000 points relais) par GLS France annoncé le 22/05/2026, clôture prévue à l'été 2026 sous réserve du contrôle des concentrations ; finalisation à confirmer. Auparavant détenu par Walden Group (famille Baudry).",
   "sources": [
    "https://www.ecommerce-nation.fr/gls-france-rachete-relais-colis/",
-   "https://gls-group.com/EU/en/newsroom/gls-group-acquisition-relais-colis-france-parcel-shops/"
+   "https://gls-group.com/EU/en/newsroom/gls-group-acquisition-relais-colis-france-parcel-shops/",
+   "https://gls-group.com/FR/en/relais-colis-gls/",
+   "https://gls-group.com/FR/downloads/CP-FR-22-05-26-GLS-FRANCE-Acquisition-Relais-Colis.pdf"
   ]
  },
  {
@@ -4702,14 +4714,14 @@
  {
   "id": "shipup",
   "marque": "Shipup",
-  "groupe": "vinted",
+  "groupe": "zigzag-global",
   "categorie": "courrier-colis",
   "sous_categorie": "Suivi de livraison (logiciel)",
   "nature": "invisible",
   "moments": [
    "occasionnel"
   ],
-  "note": "Rattachement de Shipup à Vinted NON vérifié (indiqué dans la mission, non confirmé).",
+  "note": "Le site officiel s'intitule « Shipup by ZigZag » (2026) : rattaché à ZigZag, plateforme britannique de gestion des retours, et non à Vinted.",
   "sources": [
    "https://www.shipup.co/"
   ]
@@ -4877,10 +4889,12 @@
   "moments": [
    "courses"
   ],
-  "note": "En cours de passage sous enseignes Intermarché/Netto en franchise (fin 2026, sous réserve de l'Autorité de la concurrence).",
+  "note": "Passage de 167 magasins Auchan sous enseignes Intermarché ou Netto (coentreprise ITM Entreprises / Auchan Retail International) autorisé sans condition par l'Autorité de la concurrence le 3/07/2026 (décision 26-DCC-149) ; changement d'enseigne échelonné d'octobre 2026 à mai 2027.",
   "sources": [
    "https://www.abcbourse.com/marches/auchan-va-disparaitre-en-france-tous-ses-supermarches-deviendront-intermarche-e_681165",
-   "https://fr.wikipedia.org/wiki/Auchan"
+   "https://fr.wikipedia.org/wiki/Auchan",
+   "https://www.autoritedelaconcurrence.fr/en/article/food-retail-autorite-unconditionally-clears-conversion-167-stores-currently-operating-under",
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2026-08/26-031-%20Publique-De%CC%81cision%2026-DCC-149_0.pdf"
   ]
  },
  {
@@ -5291,22 +5305,6 @@
   ]
  },
  {
-  "id": "geant-casino",
-  "marque": "Géant Casino",
-  "groupe": "casino",
-  "categorie": "distribution-alimentaire",
-  "sous_categorie": "Hypermarché",
-  "nature": "direct",
-  "moments": [
-   "courses",
-   "week-end"
-  ],
-  "note": "N'existe plus en France métropolitaine (hypers cédés ou fermés en 2023-2024) ; subsiste à l'international via ExtenC.",
-  "sources": [
-   "https://fr.wikipedia.org/wiki/Groupe_Casino"
-  ]
- },
- {
   "id": "hyper-u",
   "marque": "Hyper U",
   "groupe": "systeme-u",
@@ -5400,7 +5398,7 @@
   "moments": [
    "courses"
   ],
-  "note": "567 magasins cédés à Aldi en 2020 ; Casino a gardé la marque et des franchisés, activité classée 'abandonnée' en 2024 : présence résiduelle incertaine en 2026.",
+  "note": "567 magasins cédés à Aldi en 2020 ; Casino a gardé la marque et des franchisés, activité classée « abandonnée » au 1er semestre 2024 et absente des enseignes recentrées : présence résiduelle en 2026 à confirmer.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Aldi",
    "https://fr.wikipedia.org/wiki/Groupe_Casino"
@@ -5655,9 +5653,10 @@
   "moments": [
    "courses"
   ],
-  "note": "Rattachement à Carrefour Proximité non revérifié en 2026.",
+  "note": "Enseigne déposée par Carrefour en 1989, exploitée en franchise au sein de Carrefour Proximité (centrale Prodim).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Carrefour_(entreprise)"
+   "https://fr.wikipedia.org/wiki/Carrefour_(entreprise)",
+   "https://fr.wikipedia.org/wiki/Proxi"
   ]
  },
  {
@@ -5787,7 +5786,7 @@
    "soir",
    "week-end"
   ],
-  "note": "Livraison depuis enseignes partenaires (Carrefour, etc.) ; partenariats non revérifiés.",
+  "note": "Service de livraison de courses d'Uber Eats (Uber), depuis des enseignes partenaires.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Uber_Eats"
   ]
@@ -5959,9 +5958,11 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Parts 40/40/20 établies en 2022 ; non revérifiées pour 2026.",
+  "note": "Nouveau Suez (2022) : Meridiam ≈ 40 %, GIP ≈ 40 %, Caisse des Dépôts et CNP Assurances ≈ 20 % ; répartition 2026 à confirmer.",
   "sources": [
-   "https://www.economiematin.fr/?p=50143"
+   "https://www.economiematin.fr/?p=50143",
+   "https://www.lemondedudroit.fr/deals/79910-clifford-chance-acquisition-nouveau-suez.html",
+   "https://allnews.ch/node/132395"
   ]
  },
  {
@@ -6046,9 +6047,11 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Titularité du contrat SEDIF après 2025 non revérifiée.",
+  "note": "Depuis le 1/1/2025, le délégataire du SEDIF est Franciliane, filiale à 100 % de Veolia (contrat de 12 ans, 2025-2036, signé le 16/03/2024) ; Veolia Eau d'Île-de-France l'était de 2011 à 2024.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Syndicat_des_eaux_d'Île-de-France"
+   "https://fr.wikipedia.org/wiki/Syndicat_des_eaux_d'Île-de-France",
+   "https://www.veolia.com/fr/nos-medias/communiques-presse/veolia-remporte-gestion-du-plus-grand-service-public-leau-europe",
+   "https://debatpublic.fr/sites/default/files/2025-02/SEDIF_concertation%20continue_plaquette_WEB2.pdf"
   ]
  },
  {
@@ -6309,9 +6312,10 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "OPA d'EP Group (Křetínský) en cours, clôture le 9 novembre 2026.",
+  "note": "OPA d'EP Group (Křetínský, 36 €/action) : avis favorable du conseil le 10/03/2026, visa AMF le 7/05/2026, feu vert de la Commission européenne le 20/10/2026 ; clôture de l'offre le 9/11/2026, en cours. Křetínský détenait 28,45 % via Vesa Equity Investment.",
   "sources": [
-   "https://www.globenewswire.com/news-release/2026/10/20/3384786/0/fr/fnac-darty-offre-publique-d-achat-initi%C3%A9e-par-ep-group-cl%C3%B4ture-de-l-offre-publique-le-9-novembre-2026.html"
+   "https://www.globenewswire.com/news-release/2026/10/20/3384786/0/fr/fnac-darty-offre-publique-d-achat-initi%C3%A9e-par-ep-group-cl%C3%B4ture-de-l-offre-publique-le-9-novembre-2026.html",
+   "https://fr.wikipedia.org/wiki/Fnac_Darty"
   ],
   "saisons": [
    "black-friday",
@@ -6700,9 +6704,12 @@
    "trajet",
    "soir"
   ],
-  "note": "Retour progressif en France après un retrait partiel en 2024 lié à un litige de brevets (à vérifier).",
+  "note": "Retrait du marché français en juillet 2023 (litige brevets 5G avec Nokia), accord de licence croisée avec Nokia en janvier 2024, retour en France avec les Reno12 en juin 2024. Propriétaire : Guangdong Oplus Holdings (ex-BBK) depuis 2023.",
   "sources": [
-   "https://en.wikipedia.org/wiki/Oppo"
+   "https://en.wikipedia.org/wiki/Oppo",
+   "https://www.tomsguide.fr/oppo-de-retour-en-france-la-firme-annonce-son-comeback-en-europe/",
+   "https://kulturegeek.fr/news-311853/oppo-retour-france",
+   "https://fr.wikipedia.org/wiki/Oppo"
   ]
  },
  {
@@ -6968,7 +6975,7 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Présence actuelle sur le marché résidentiel français incertaine.",
+  "note": "Offre d'électricité aux particuliers en France depuis 2021 via Alpiq Retail France (plus de 330 000 clients revendiqués en 2026), étendue aux TPE en 2024.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Alpiq"
   ]
@@ -7172,9 +7179,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Actionnariat de BDR Thermea non vérifié.",
+  "note": "Marque de BDR Thermea Group (issu en 2009 de Baxi et De Dietrich Remeha), société non cotée.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/BDR_Thermea"
+   "https://fr.wikipedia.org/wiki/BDR_Thermea",
+   "https://en.wikipedia.org/wiki/BDR_Thermea"
   ]
  },
  {
@@ -7375,9 +7383,10 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Statut de cotation et actionnariat 2026 non revérifiés.",
+  "note": "Mint cotée sur Euronext Growth (ALBUD) ; Holding Gay (Eoden) ≈ 62 % en avril 2021 après OPA ; actionnariat 2026 à confirmer.",
   "sources": [
-   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2022/02/FCECO062358_20220224.pdf"
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2022/02/FCECO062358_20220224.pdf",
+   "https://fr.wikipedia.org/wiki/Mint_(entreprise)"
   ]
  },
  {
@@ -7404,9 +7413,10 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Part exacte d'Engie non revérifiée (≈ 60-75 % selon sources).",
+  "note": "Engie ≈ 61 %, Société d'infrastructures gazières (CNP Assurances, CDC) ≈ 38,6 %, salariés 0,6 % depuis le 22/12/2021.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/GRTgaz"
+   "https://fr.wikipedia.org/wiki/GRTgaz",
+   "https://fr.wikipedia.org/wiki/NaTran"
   ]
  },
  {
@@ -7466,9 +7476,11 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Eni a cédé des minorités de Plenitude en 2024-2025 ; parts non revérifiées.",
+  "note": "Eni ≈70 % ; Energy Infrastructure Partners 10 % (2024-2025) ; Ares 20 % (cession finalisée le 4/11/2025, valorisation 10 Md€).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Eni"
+   "https://fr.wikipedia.org/wiki/Eni",
+   "https://www.eni.com/content/dam/enicom/documents/press-release/migrated/2025-en/11/pr-eni-completed-sale-capital-ares.pdf",
+   "https://en.wikipedia.org/wiki/Eni_Plenitude"
   ]
  },
  {
@@ -7583,7 +7595,7 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Parts des actionnaires non revérifiées.",
+  "note": "Snam 40,5 %, GIC 31,5 %, EDF (via Ouestgaz) 18 %, Predica 10 % ; rachat de la part de GIC par Enagás annoncé (avril 2026), finalisation à confirmer.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Teréga"
   ]
@@ -7819,7 +7831,7 @@
  {
   "id": "belin-education",
   "marque": "Belin Éducation",
-  "groupe": "humensis",
+  "groupe": "albin-michel",
   "categorie": "enfance-education",
   "sous_categorie": "Éditeur scolaire",
   "nature": "invisible",
@@ -7831,7 +7843,8 @@
   ],
   "saisons": [
    "rentree"
-  ]
+  ],
+  "note": "Ex-Humensis, dissoute le 11/05/2026 : marque intégrée au groupe Albin Michel."
  },
  {
   "id": "bic",
@@ -7879,9 +7892,10 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "Rattachement à Dorel non revérifié en 2026.",
+  "note": "Maxi-Cosi et Bébé Confort sont des marques de Dorel Juvenile (Dorel Industries, coté à Toronto).",
   "sources": [
-   "https://www.dorel.com/"
+   "https://www.dorel.com/",
+   "https://en.wikipedia.org/wiki/Dorel_Industries"
   ]
  },
  {
@@ -7993,9 +8007,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Marque de VF Corporation depuis 2000.",
   "sources": [
-   "https://www.vfc.com/"
+   "https://www.vfc.com/",
+   "https://en.wikipedia.org/wiki/VF_Corporation"
   ],
   "saisons": [
    "rentree"
@@ -8096,9 +8111,9 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
   "sources": [
-   "https://corporate.mattel.com/"
+   "https://corporate.mattel.com/",
+   "https://en.wikipedia.org/wiki/Hot_Wheels"
   ],
   "saisons": [
    "noel"
@@ -8349,9 +8364,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Division de Sanford L.P., filiale de Newell Brands.",
   "sources": [
-   "https://www.newellbrands.com/"
+   "https://www.newellbrands.com/",
+   "https://en.wikipedia.org/wiki/Paper_Mate"
   ],
   "saisons": [
    "rentree"
@@ -8381,9 +8397,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Franchise créée et développée par Spin Master depuis 2010 (série coproduite avec Guru Studio).",
   "sources": [
-   "https://www.spinmaster.com/"
+   "https://www.spinmaster.com/",
+   "https://en.wikipedia.org/wiki/Spin_Master"
   ],
   "saisons": [
    "noel"
@@ -8414,9 +8431,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "FriXion (encre gel effaçable) est une marque de Pilot Corporation (Tokyo).",
   "sources": [
-   "https://www.pilot.co.jp/"
+   "https://www.pilot.co.jp/",
+   "https://en.wikipedia.org/wiki/Pilot_(pen_company)"
   ],
   "saisons": [
    "rentree"
@@ -8537,9 +8555,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Marque allemande rachetée par le groupe BIC en 1996.",
   "sources": [
-   "https://www.bic.com/"
+   "https://www.bic.com/",
+   "https://fr.wikipedia.org/wiki/Tipp-Ex"
   ],
   "saisons": [
    "rentree"
@@ -8805,7 +8824,7 @@
  {
   "id": "destop",
   "marque": "Destop",
-  "groupe": "reckitt",
+  "groupe": "vestacy",
   "categorie": "entretien-maison",
   "sous_categorie": "Déboucheur",
   "nature": "direct",
@@ -8813,9 +8832,11 @@
    "courses",
    "week-end"
   ],
-  "note": "Rattachement de Destop à Reckitt (et non à Essential Home) non revérifié.",
+  "note": "Dans le périmètre Essential Home cédé par Reckitt à Advent (70 %, finalisé le 31/12/2025), devenu Vestacy.",
   "sources": [
-   "https://www.reckitt.com/our-brands/"
+   "https://www.reckitt.com/our-brands/",
+   "https://www.fmcgceo.co.uk/reckitt-sells-essential-homecare-division-to-advent-for-4-8bn/",
+   "https://www.jobteaser.com/fr/job-offers/3db4eb47-cf12-4099-a947-9fa97d12ed75-vestacy-stage-assistant-e-chef-fe-de-produit-airwick-destop-calgon-cillit-bang-saint-marc-juillet-septembre-2026"
   ]
  },
  {
@@ -9460,7 +9481,7 @@
    "courses",
    "week-end"
   ],
-  "note": "Cédée par Reckitt à Advent (31/12/2025), Reckitt conserve 30 %. Inclusion de Woolite dans le périmètre non revérifiée.",
+  "note": "Incluse (avec Air Wick, Calgon, Cillit Bang) dans l'activité Essential Home cédée par Reckitt à Advent, Reckitt conservant 30 % (finalisation au 31/12/2025).",
   "sources": [
    "https://www.ajbell.co.uk/news/articles/reckitt-sells-essential-home-unit-advent-48-billion-deal",
    "https://www.alimarket.es/nonfood/noticia/411794/reckitt-desinvierte-en-marcas-del-hogar-como--air-wick----calgon--y--cillit-bang-"
@@ -9511,21 +9532,6 @@
   ],
   "sources": [
    "https://www.electroluxgroup.com/"
-  ]
- },
- {
-  "id": "alinea",
-  "marque": "Alinéa",
-  "groupe": "alinea",
-  "categorie": "equipement-maison",
-  "sous_categorie": "Ameublement",
-  "nature": "direct",
-  "moments": [
-   "occasionnel",
-   "week-end"
-  ],
-  "sources": [
-   "https://www.alinea.com/"
   ]
  },
  {
@@ -9741,7 +9747,8 @@
    "https://en.wikipedia.org/wiki/Campingaz"
   ],
   "saisons": [
-   "ete"
+   "ete",
+   "fete-des-peres"
   ]
  },
  {
@@ -10014,9 +10021,10 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "Cessation des paiements annoncée en octobre 2026.",
+  "note": "Cessation des paiements révélée le 18/10/2026 ; demande de redressement judiciaire au tribunal de commerce de Toulouse annoncée aux salariés le 20/10/2026 (513 magasins restés ouverts).",
   "sources": [
-   "https://www.lagazettefrance.fr/article/gifi-arrache-un-soutien-de-ses-banques-pour-assurer-son-avenir"
+   "https://www.lagazettefrance.fr/article/gifi-arrache-un-soutien-de-ses-banques-pour-assurer-son-avenir",
+   "https://lexpress-franchise.com/actualites/gifi-serait-en-cessation-de-paiements/"
   ],
   "saisons": [
    "halloween"
@@ -10887,9 +10895,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Forme juridique exacte du réseau non vérifiée.",
+  "note": "Réseau de concessionnaires funéraires indépendants fondé en 1991 par Philippe Martineau ; société mère Udife, dont le conseil d'administration est composé de concessionnaires.",
   "sources": [
-   "https://www.lechoixfuneraire.com"
+   "https://www.lechoixfuneraire.com",
+   "https://www.lejournaldesentreprises.com/article/le-choix-funeraire-renoue-avec-un-capitalisme-plus-solidaire-742738",
+   "https://businesscoot.com/en/company/le-choix-funeraire"
   ]
  },
  {
@@ -10902,9 +10912,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Répartition du capital d'OGF datée de 2017, non revérifiée pour 2026.",
+  "note": "OGF détenu en 2017 par Ontario Teachers' (74 %), Pamplona (20 %) et le management (6 %) ; aucune cession ultérieure trouvée, répartition 2026 à confirmer.",
   "sources": [
-   "https://www.paulhastings.com/news/news-ogf-group-in-majority-takeover-by-ontario-teachers-pension-plan"
+   "https://www.paulhastings.com/news/news-ogf-group-in-majority-takeover-by-ontario-teachers-pension-plan",
+   "https://www.privateequitywire.co.uk/ontario-teachers-acquires-additional-ogf-stake-pamplona/",
+   "https://www.benefitscanada.com/?p=23590"
   ]
  },
  {
@@ -11312,9 +11324,11 @@
    "week-end",
    "occasionnel"
   ],
-  "note": "Activité européenne de Hanesbrands (Dim, Playtex) cédée à Regent en 2022 ; statut 2025-2026 non revérifié.",
+  "note": "Activité européenne de Hanesbrands (Dim, Playtex, Wonderbra...) cédée à Regent en 2021-2022, rebaptisée Dim Brands International ; pôle de Regent Apparel Group (avec Petit Bateau) dirigé par Guillaume de Blic depuis septembre 2026.",
   "sources": [
-   "https://www.dim.fr/"
+   "https://www.dim.fr/",
+   "https://ie.fashionnetwork.com/news/Hanes-Europe-Innerwear-renamed-Dim-Brands-International-after-sale,1385439.html",
+   "https://fashionunited.fr/actualite/people/guillaume-de-blic-prend-la-tete-de-regent-apparel-group-proprietaire-de-dim-et-petit-bateau/2026090742911"
   ]
  },
  {
@@ -11592,23 +11606,6 @@
   ],
   "sources": [
    "https://www.jdplc.com/"
-  ]
- },
- {
-  "id": "jennyfer",
-  "marque": "Jennyfer",
-  "groupe": "jennyfer-sas",
-  "categorie": "habillement",
-  "sous_categorie": "Mode adolescente",
-  "nature": "direct",
-  "moments": [
-   "week-end",
-   "occasionnel"
-  ],
-  "note": "Liquidation judiciaire (avril 2025) ; 26 magasins repris par Beaumanoir, 7 par Celio. Statut de la marque en 2026 incertain.",
-  "sources": [
-   "https://www.lsa-conso.fr/en-cessation-de-paiement-jennyfer-demande-sa-mise-en-liquidation-judiciaire,460515",
-   "https://www.lejournaldesentreprises.com/breve/beaumanoir-reprend-26-magasins-de-la-marque-jennyfer-2121529"
   ]
  },
  {
@@ -12129,9 +12126,11 @@
    "week-end",
    "occasionnel"
   ],
-  "note": "Artémis cède ses 29,06 % à Anta (annonce janvier 2026, clôture attendue fin 2026).",
+  "note": "Anta Sports a finalisé le 7/10/2026 le rachat des 29,06 % d'Artémis (≈ 1,5 Md€, 35 € par action) et devient premier actionnaire de Puma.",
   "sources": [
-   "https://www.worldfootwear.com/news/anta-sports-to-acquire-29-stake-in-puma/11215.html"
+   "https://www.worldfootwear.com/news/anta-sports-to-acquire-29-stake-in-puma/11215.html",
+   "https://fashionunited.com/news/business/anta-sports-completes-puma-acquisition-and-becomes-largest-shareholder/2026100775077",
+   "https://en.wikipedia.org/wiki/Puma_(brand)"
   ]
  },
  {
@@ -12476,9 +12475,10 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Gamme solaire de La Roche-Posay, laboratoire acquis par L'Oréal en 1989 (division Beauté Dermatologique).",
   "sources": [
-   "https://www.loreal.com/"
+   "https://www.loreal.com/",
+   "https://fr.wikipedia.org/wiki/La_Roche-Posay_(marque)"
   ],
   "saisons": [
    "ete"
@@ -12509,9 +12509,10 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Eau Thermale Avène, filiale des Laboratoires Pierre Fabre (station d'Avène acquise en 1975) ; groupe détenu majoritairement par la Fondation Pierre Fabre.",
   "sources": [
-   "https://www.pierre-fabre.com/"
+   "https://www.pierre-fabre.com/",
+   "https://fr.wikipedia.org/wiki/Laboratoires_Pierre_Fabre"
   ],
   "saisons": [
    "ete"
@@ -12741,6 +12742,9 @@
   ],
   "sources": [
    "https://www.lvmh.fr/maisons/parfums-cosmetiques/"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -12924,9 +12928,10 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Gamme solaire de Garnier, marque du groupe L'Oréal depuis 1965.",
   "sources": [
-   "https://www.loreal.com/"
+   "https://www.loreal.com/",
+   "https://fr.wikipedia.org/wiki/Garnier_(entreprise)"
   ],
   "saisons": [
    "ete"
@@ -12944,6 +12949,9 @@
   ],
   "sources": [
    "https://us.pg.com/brands/"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -12972,6 +12980,9 @@
   ],
   "sources": [
    "https://www.loreal.com/fr/nos-marques/"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -13041,9 +13052,10 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Marque d'Edgewell Personal Care depuis sa scission d'Energizer.",
   "sources": [
-   "https://edgewell.com/"
+   "https://edgewell.com/",
+   "https://en.wikipedia.org/wiki/Hawaiian_Tropic"
   ],
   "saisons": [
    "ete"
@@ -13130,10 +13142,11 @@
   "moments": [
    "matin"
   ],
-  "note": "Kenvue ; rachat par Kimberly-Clark en cours (clôture attendue fin 2026).",
+  "note": "Kenvue ; rachat par Kimberly-Clark approuvé par les actionnaires le 29/01/2026, clôture attendue au 4e trimestre 2026 (autorisations étrangères en cours).",
   "sources": [
    "https://www.kenvue.com/our-brands",
-   "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais"
+   "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais",
+   "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000141/q226earningspressrelease.htm"
   ]
  },
  {
@@ -13181,17 +13194,19 @@
  {
   "id": "kleenex",
   "marque": "Kleenex",
-  "groupe": "kimberly-clark",
+  "groupe": "arbex",
   "categorie": "hygiene-beaute",
   "sous_categorie": "Mouchoirs",
   "nature": "direct",
   "moments": [
    "courses"
   ],
-  "note": "Hors États-Unis, la marque passe dans une coentreprise détenue à 51 % par Suzano (clôture annoncée 2026) — à confirmer.",
+  "note": "Hors Amérique du Nord, l'activité passe le 1/7/2026 dans Arbex, coentreprise Suzano (51 %) / Kimberly-Clark (49 %), avec accords de licence de propriété intellectuelle de Kimberly-Clark.",
   "sources": [
    "https://www.gamaconsumer.com/netherlands-suzano-kimberly-clark-announce-joint-venture/",
-   "https://www.portaltela.com/noticias/economia/2026/05/11/suzano-recebe-aprovacao-da-ue-para-ser-socia-majoritaria-da-kimberly-clark/"
+   "https://www.portaltela.com/noticias/economia/2026/05/11/suzano-recebe-aprovacao-da-ue-para-ser-socia-majoritaria-da-kimberly-clark/",
+   "https://www.midlandco.com/suzano-and-kimberly-clark-finalize-3-4-billion-jv-to-create-arbex/",
+   "https://www.suno.com.br/noticias/suzano-suzb3-conclusao-joint-venture-kimberly-clark-go/"
   ],
   "saisons": [
    "hiver"
@@ -13319,10 +13334,11 @@
   "moments": [
    "matin"
   ],
-  "note": "Kenvue ; rachat par Kimberly-Clark en cours (clôture attendue fin 2026).",
+  "note": "Kenvue ; rachat par Kimberly-Clark annoncé le 3/11/2025, approuvé par les actionnaires le 29/01/2026, clôture attendue au S2 2026.",
   "sources": [
    "https://www.kenvue.com/our-brands",
-   "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais"
+   "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais",
+   "https://en.wikipedia.org/wiki/Kenvue"
   ]
  },
  {
@@ -13335,10 +13351,12 @@
   "moments": [
    "matin"
   ],
-  "note": "Kenvue ; rachat par Kimberly-Clark en cours (clôture attendue fin 2026).",
+  "note": "Kenvue ; rachat par Kimberly-Clark approuvé par les actionnaires le 29/01/2026, clôture attendue au second semestre 2026 (en cours mi-octobre 2026).",
   "sources": [
    "https://www.kenvue.com/our-brands",
-   "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais"
+   "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais",
+   "https://en.wikipedia.org/wiki/Kenvue",
+   "https://www.sec.gov/Archives/edgar/data/0000055785/000162828026027800/kmb-20260331.htm"
   ]
  },
  {
@@ -13455,9 +13473,10 @@
   "moments": [
    "matin"
   ],
-  "note": "Appartenance actuelle de Monsavon à Unilever non revérifiée.",
+  "note": "Marque Unilever depuis 2010 (rachat à Sara Lee) ; hors du périmètre alimentaire cédé à McCormick.",
   "sources": [
-   "https://www.unilever.com/brands/"
+   "https://www.unilever.com/brands/",
+   "https://fr.wikipedia.org/wiki/Monsavon"
   ]
  },
  {
@@ -13498,10 +13517,11 @@
   "moments": [
    "matin"
   ],
-  "note": "Kenvue ; rachat par Kimberly-Clark en cours (clôture attendue fin 2026).",
+  "note": "Kenvue ; rachat par Kimberly-Clark approuvé par les actionnaires le 29/01/2026, clôture attendue au 4e trimestre 2026 (autorisations étrangères en cours).",
   "sources": [
    "https://www.kenvue.com/our-brands",
-   "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais"
+   "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais",
+   "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000141/q226earningspressrelease.htm"
   ]
  },
  {
@@ -13529,9 +13549,10 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Gamme solaire de Nivea, marque de Beiersdorf (Hambourg).",
   "sources": [
-   "https://www.beiersdorf.com/"
+   "https://www.beiersdorf.com/",
+   "https://en.wikipedia.org/wiki/Nivea"
   ],
   "saisons": [
    "ete"
@@ -13594,10 +13615,11 @@
   "moments": [
    "matin"
   ],
-  "note": "Kenvue ; rachat par Kimberly-Clark en cours (clôture attendue fin 2026).",
+  "note": "Kenvue ; rachat par Kimberly-Clark annoncé le 3/11/2025, approuvé par les actionnaires le 29/01/2026, clôture attendue au S2 2026.",
   "sources": [
    "https://www.kenvue.com/our-brands",
-   "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais"
+   "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais",
+   "https://en.wikipedia.org/wiki/Kenvue"
   ]
  },
  {
@@ -13612,6 +13634,9 @@
   ],
   "sources": [
    "https://us.pg.com/brands/"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -13957,6 +13982,9 @@
   ],
   "sources": [
    "https://ir.edgewell.com/"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -13986,6 +14014,9 @@
   "note": "Marque Kering exploitée sous licence par L'Oréal depuis 2008.",
   "sources": [
    "https://www.loreal.com/fr/nos-marques/"
+  ],
+  "saisons": [
+   "fete-des-peres"
   ]
  },
  {
@@ -14126,9 +14157,11 @@
   "moments": [
    "travail"
   ],
-  "note": "Passage sous contrôle des créanciers obligataires annoncé le 01/06/2026 ; finalisation non confirmée.",
+  "note": "Accord de recapitalisation du 1/06/2026 : les porteurs d'obligations (918 M€, échéance 2028) deviennent les premiers actionnaires ; 98,25 % des porteurs ont adhéré au 15/06/2026. Passage sous contrôle des créanciers en cours en octobre 2026.",
   "sources": [
-   "https://atalian.com"
+   "https://atalian.com",
+   "https://atalian.com/wp-content/uploads/2026/06/20260601-market-update-CP-re-Agreement-vFR.pdf",
+   "https://www.cfnews.net/L-actualite/Retournement/Operations/Creanciers/L-actionnariat-d-Atalian-rince-par-un-lender-led-710031"
   ]
  },
  {
@@ -14155,10 +14188,12 @@
   "moments": [
    "courses"
   ],
-  "note": "Non vérifiée par source primaire.",
+  "note": "Alliance d'achats créée en septembre 2024 pour dix ans entre Intermarché (avec Netto), Auchan et Casino : cinq structures (achats alimentaires et MDD à Massy, international à Bruxelles, non-alimentaire à Villeneuve-d'Ascq).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Les_Mousquetaires",
-   "https://www.abcbourse.com/marches/auchan-va-disparaitre-en-france-tous-ses-supermarches-deviendront-intermarche-e_681165"
+   "https://www.abcbourse.com/marches/auchan-va-disparaitre-en-france-tous-ses-supermarches-deviendront-intermarche-e_681165",
+   "https://esmmagazine.com/retail/intermarche-auchan-and-casino-sign-purchasing-partnership-273681",
+   "https://www.retail-insight-network.com/news/aura-retail-alliance-france/"
   ]
  },
  {
@@ -14303,9 +14338,10 @@
   "moments": [
    "courses"
   ],
-  "note": "Contrôle par Hellman & Friedman non revérifié en 2026.",
+  "note": "Détenue depuis 2022 par Hellman & Friedman, Vestar, New Mountain Capital et le management (fusion IRI-NPD) ; part majoritaire de H&F à confirmer.",
   "sources": [
-   "https://www.circana.com"
+   "https://www.circana.com",
+   "https://en.wikipedia.org/wiki/Circana"
   ]
  },
  {
@@ -14411,16 +14447,18 @@
  {
   "id": "corteva-pioneer",
   "marque": "Corteva / Pioneer",
-  "groupe": "corteva",
+  "groupe": "vylor",
   "categorie": "intermediaires",
   "sous_categorie": "Semences et agrochimie",
   "nature": "invisible",
   "moments": [
    "courses"
   ],
-  "note": "Activité semences en cours de scission (Vylor) ; réalisation au 01/10/2026 non confirmée.",
+  "note": "Semences Pioneer séparées de Corteva dans Vylor Inc. (NYSE : VYLR) le 1/10/2026 ; Corteva garde la protection des cultures.",
   "sources": [
-   "https://www.corteva.fr"
+   "https://www.corteva.fr",
+   "https://www.panabee.com/news/corteva-completes-seed-segment-separation-into-vylor",
+   "https://www.panabee.com/news/corteva-completes-seed-business-separation-launching-independent-vylor-inc"
   ]
  },
  {
@@ -14942,9 +14980,10 @@
   "moments": [
    "courses"
   ],
-  "note": "Rapproché de Numerator en 2025 ; nom commercial susceptible d'avoir changé (non vérifié).",
+  "note": "Division Worldpanel de Kantar rapprochée de Numerator (filiale de Kantar depuis 2021) en janvier 2025, sous le nom « Worldpanel by Numerator » ; Kantar détenu par Bain Capital (60 %) et WPP (40 %).",
   "sources": [
-   "https://www.kantar.com"
+   "https://www.kantar.com",
+   "https://en.wikipedia.org/wiki/Kantar_Group"
   ]
  },
  {
@@ -15041,9 +15080,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Intégré à Teleperformance depuis fin 2023 ; marque en cours d'absorption.",
+  "note": "Rachetée par Teleperformance (offre close début novembre 2023, ≈ 3 Md€) ; sort de la marque Majorel en 2026 à confirmer.",
   "sources": [
-   "https://www.tp.com"
+   "https://www.tp.com",
+   "https://en.wikipedia.org/wiki/Majorel",
+   "https://fr.wikipedia.org/wiki/Teleperformance"
   ]
  },
  {
@@ -15602,9 +15643,10 @@
    "week-end",
    "occasionnel"
   ],
-  "note": "Rachat par Banijay Gaming annoncé en juillet 2026.",
+  "note": "Rachat par Banijay Gaming (Betclic) signé en juillet 2026 auprès de Blackstone et Kings Park Capital ; finalisation attendue au second semestre 2026.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Groupe_Joa"
+   "https://fr.wikipedia.org/wiki/Groupe_Joa",
+   "https://www.yogonet.com/international/news/2026/07/08/125264-banijay-gaming-to-take-full-control-of-france-39s-joa-casino-group"
   ]
  },
  {
@@ -15959,7 +16001,7 @@
    "mensuel"
   ],
   "part_marche": "1er administrateur de biens en France",
-  "note": "Répartition exacte Partners Group / TA Associates (25 %, opération ~2020-2021) non revérifiée pour 2026.",
+  "note": "Emeria (Foncia) détenue par Partners Group depuis 2016 ; cession de 25 % du capital en octobre 2021 (BFM Business), acquéreur TA Associates et répartition 2026 à confirmer.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Foncia"
   ]
@@ -16277,9 +16319,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Actionnariat précis (part des fondateurs, éventuels fonds) non vérifié.",
+  "note": "Fondateurs et management majoritaires ; Permira et Qualium Investissement minoritaires ; capital ouvert à plusieurs centaines de conseillers et salariés en 2025.",
   "sources": [
-   "https://www.mysweetimmo.com/2025/06/10/immobilier-safti-ouvre-son-capital-a-ses-meilleurs-conseillers-immobiliers/"
+   "https://www.mysweetimmo.com/2025/06/10/immobilier-safti-ouvre-son-capital-a-ses-meilleurs-conseillers-immobiliers/",
+   "https://fr.wikipedia.org/wiki/Safti"
   ]
  },
  {
@@ -16685,9 +16728,11 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "Ex-Vivendi Ticketing, rattaché à See Tickets ; non revérifié.",
+  "note": "Digitick, devenue See Tickets SA en 2019 (ex-Vivendi Ticketing), est passée avec See Tickets sous le contrôle de CTS Eventim en 2024.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/CTS_Eventim"
+   "https://fr.wikipedia.org/wiki/CTS_Eventim",
+   "https://en.wikipedia.org/wiki/See_Tickets",
+   "https://fr.wikipedia.org/wiki/Digitick"
   ]
  },
  {
@@ -16791,7 +16836,7 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Organisé par l'association Festival d'Avignon (loi 1901), financée par l'État et les collectivités.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Festival_d%27Avignon"
   ],
@@ -16825,7 +16870,7 @@
    "week-end",
    "occasionnel"
   ],
-  "note": "OPA d'EP Group (Kretinsky) en cours en 2026.",
+  "note": "OPA d'EP Group (Kretinsky) en cours : conforme AMF (7/05/2026), autorisée par Bruxelles (20/10/2026), clôture attendue d'ici fin 2026.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Fnac_Darty"
   ],
@@ -16845,9 +16890,10 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "France Billet : coentreprise Fnac Darty / CTS Eventim (parts non revérifiées).",
+  "note": "France Billet détenue à 100 % par la Fnac depuis 2009 ; partenariat avec CTS Eventim depuis 2019 (Fnac Darty a pris le contrôle de la filiale française d'Eventim) : participation éventuelle d'Eventim dans France Billet à confirmer.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Fnac_Darty"
+   "https://fr.wikipedia.org/wiki/Fnac_Darty",
+   "https://fr.wikipedia.org/wiki/France_Billet"
   ]
  },
  {
@@ -17396,10 +17442,11 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "Fnac Darty cherche un repreneur/partenaire (janvier 2026) — en cours de cession possible.",
+  "note": "Fnac Darty a annoncé le 26/01/2026 chercher un repreneur ou partenaire pour Nature & Découvertes (91 magasins) ; aucun acquéreur connu en octobre 2026, cession en cours.",
   "sources": [
    "https://www.globenewswire.com/fr/news-release/2019/07/31/1894919/0/en/Fnac-Darty-completes-the-acquisition-of-Nature-D%C3%A9couvertes.html",
-   "https://www.retaildetail.eu/news/leisure/fnac-darty-wants-to-get-rid-of-nature-decouvertes/"
+   "https://www.retaildetail.eu/news/leisure/fnac-darty-wants-to-get-rid-of-nature-decouvertes/",
+   "https://www.boursorama.com/bourse/actualites/fnac-darty-cherche-a-vendre-nature-decouvertes-7956df309bac35ca9d3d78f44e4d47f4"
   ],
   "saisons": [
    "noel",
@@ -17638,9 +17685,10 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "Cession de Vivendi à CTS Eventim (2024) non revérifiée en ligne.",
+  "note": "Cédée par Vivendi à CTS Eventim avec son pôle billetterie et festivals (accord de juin 2024, rachat de 323 M$ finalisé).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/CTS_Eventim"
+   "https://fr.wikipedia.org/wiki/CTS_Eventim",
+   "https://en.wikipedia.org/wiki/See_Tickets"
   ]
  },
  {
@@ -18255,7 +18303,7 @@
    "soir",
    "courses"
   ],
-  "note": "Usine de Caudry cédée à Italpizza (fév. 2024) ; Wikipédia mentionne NewPrinces comme actionnaire sans détail — périmètre exact à confirmer.",
+  "note": "Marque Nestlé depuis 1988 ; une partie de la gamme (pâtes, biscuits) est exploitée depuis 2008 par TMT Finances (Lugano), qui partage la marque ; usine de pizzas de Caudry cédée à Italpizza en février 2024.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Buitoni"
   ]
@@ -18542,9 +18590,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Propriété de Perfetti Van Melle depuis juillet 2006.",
   "sources": [
-   "https://www.perfettivanmelle.com/"
+   "https://www.perfettivanmelle.com/",
+   "https://en.wikipedia.org/wiki/Chupa_Chups"
   ],
   "saisons": [
    "halloween"
@@ -19030,9 +19079,10 @@
    "week-end",
    "courses"
   ],
-  "note": "Rattachement de GMP à Vivescia non revérifié en 2026.",
+  "note": "Marque associée au pôle meunerie (Nutrixo, Grands Moulins de Paris) de Vivescia Industries selon Wikipédia (données de 2012) ; rattachement 2026 à confirmer.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Francine_(marque)"
+   "https://fr.wikipedia.org/wiki/Francine_(marque)",
+   "https://fr.wikipedia.org/wiki/Vivescia"
   ],
   "saisons": [
    "chandeleur"
@@ -19157,9 +19207,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Marque détenue par Yıldız Holding, exploitée via pladis (intégration en avril 2024) ; activités Japon, Corée et Australie cédées à MBK Partners en 2019 sous licence perpétuelle.",
   "sources": [
-   "https://www.godiva.com/"
+   "https://www.godiva.com/",
+   "https://en.wikipedia.org/wiki/Godiva_Chocolatier"
   ],
   "saisons": [
    "noel",
@@ -19290,9 +19341,10 @@
    "soir",
    "courses"
   ],
-  "note": "Projet de scission de Kraft Heinz annoncé en 2025 ; calendrier non vérifié.",
+  "note": "Projet de scission de Kraft Heinz présenté le 2/9/2025, mis en pause par le conseil le 11/2/2026 ; aucun calendrier depuis (rapport trimestriel de mai 2026).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Kraft_Heinz"
+   "https://fr.wikipedia.org/wiki/Kraft_Heinz",
+   "https://en.wikipedia.org/wiki/Kraft_Heinz"
   ]
  },
  {
@@ -19306,10 +19358,11 @@
    "soir",
    "courses"
   ],
-  "note": "Division alimentaire d'Unilever en cours de cession à McCormick (annoncée le 31/03/2026, finalisation attendue mi-2027).",
+  "note": "Division alimentaire d'Unilever (Knorr, Hellmann's, Maille…) en cours de cession à McCormick : accord annoncé le 31/03/2026, finalisation attendue mi-2027.",
   "sources": [
    "https://www.force-ouvriere.fr/unilever-vend-sa-branche-alimentaire-incertitudes-sur-l-emploi",
-   "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars"
+   "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars",
+   "https://abc17news.com/money/cnn-business-consumer/2026/03/31/mccormick-is-merging-with-unilevers-food-business/"
   ]
  },
  {
@@ -19371,9 +19424,10 @@
    "week-end",
    "courses"
   ],
-  "note": "General Mills hors USA/Canada (Froneri aux USA) ; rattachement Europe non revérifié en 2026.",
+  "note": "General Mills exploite Häagen-Dazs hors Amérique du Nord ; aux États-Unis et au Canada, licence détenue par Froneri depuis 2019.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/General_Mills"
+   "https://fr.wikipedia.org/wiki/General_Mills",
+   "https://en.wikipedia.org/wiki/H%C3%A4agen-Dazs"
   ],
   "saisons": [
    "ete"
@@ -19543,10 +19597,12 @@
    "soir",
    "courses"
   ],
-  "note": "Division alimentaire d'Unilever en cours de cession à McCormick (annoncée le 31/03/2026, finalisation attendue mi-2027).",
+  "note": "Division alimentaire d'Unilever (dont Knorr) en cours de rapprochement avec McCormick : accord du 31/03/2026 (≈44,8 Md$), finalisation attendue mi-2027.",
   "sources": [
    "https://www.force-ouvriere.fr/unilever-vend-sa-branche-alimentaire-incertitudes-sur-l-emploi",
-   "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars"
+   "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars",
+   "https://www.fooddive.com/news/mccormick-unilever-food-business-45B-acquisition/816202/",
+   "https://www.financierworldwide.com/fw-news/2026/4/2/mccormick-combines-with-unilever-food-units-in-448bn-deal"
   ]
  },
  {
@@ -19798,9 +19854,10 @@
   "moments": [
    "courses"
   ],
-  "note": "Marque conservée par Casino après la cession des magasins à Aldi ; usage 2026 incertain.",
+  "note": "Casino est resté propriétaire de la marque après la vente des magasins à Aldi (nov. 2020) ; produits Leader Price vendus chez Franprix, Petit Casino, Casino Shop ; franchise France classée en activités abandonnées (S1 2024) ; magasins à La Réunion et Madagascar (2025).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Aldi"
+   "https://fr.wikipedia.org/wiki/Aldi",
+   "https://fr.wikipedia.org/wiki/Leader_Price"
   ]
  },
  {
@@ -19987,9 +20044,10 @@
    "soir",
    "courses"
   ],
-  "note": "Pâtes fraîches restées chez Ebro lors de la cession de Panzani à CVC ; propriétaire de la marque Lustucru en pâtes sèches non vérifié.",
+  "note": "Pâtes fraîches et riz Lustucru exploités par Lustucru Frais SAS (Ebro Foods) ; les pâtes sèches Lustucru relèvent de Lustucru Rivoire & Carret (groupe Pastacorp).",
   "sources": [
-   "https://www.just-food.com/news/ebro-foods-in-talks-to-sell-panzani-dried-pasta-business-to-cvc/"
+   "https://www.just-food.com/news/ebro-foods-in-talks-to-sell-panzani-dried-pasta-business-to-cvc/",
+   "https://fr.wikipedia.org/wiki/Lustucru_(marque)"
   ]
  },
  {
@@ -20092,10 +20150,12 @@
    "soir",
    "courses"
   ],
-  "note": "Division alimentaire d'Unilever en cours de cession à McCormick (annoncée le 31/03/2026, finalisation attendue mi-2027).",
+  "note": "Division alimentaire d'Unilever (Knorr, Hellmann's, Maille…) en cours de cession à McCormick : accord annoncé le 31/03/2026, finalisation attendue mi-2027.",
   "sources": [
    "https://www.force-ouvriere.fr/unilever-vend-sa-branche-alimentaire-incertitudes-sur-l-emploi",
-   "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars"
+   "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars",
+   "https://abc17news.com/money/cnn-business-consumer/2026/03/31/mccormick-is-merging-with-unilevers-food-business/",
+   "https://www.foodanddrinkbusiness.com.au/news/mccormick-acquires-unilever-food-in-65bn-deal"
   ]
  },
  {
@@ -20146,7 +20206,7 @@
    "matin",
    "courses"
   ],
-  "note": "Actionnariat à confirmer. Peut recouper la catégorie boissons.",
+  "note": "Exploitée par la Compagnie Méditerranéenne des Cafés (Carros), propriété du groupe belge Rombouts depuis 1968 (Hugo Rombouts PDG).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Malongo"
   ]
@@ -20316,10 +20376,11 @@
    "soir",
    "courses"
   ],
-  "note": "Division alimentaire d'Unilever en cours de cession à McCormick (annoncée le 31/03/2026, finalisation attendue mi-2027).",
+  "note": "Division alimentaire d'Unilever en cours de rapprochement avec McCormick (accord du 31/03/2026, finalisation attendue mi-2027) ; inclusion de Maïzena dans le périmètre à confirmer.",
   "sources": [
    "https://www.force-ouvriere.fr/unilever-vend-sa-branche-alimentaire-incertitudes-sur-l-emploi",
-   "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars"
+   "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars",
+   "https://www.fooddive.com/news/mccormick-unilever-food-business-45B-acquisition/816202/"
   ]
  },
  {
@@ -20362,9 +20423,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Chocolats produits par August Storck KG, titulaire de la marque.",
   "sources": [
-   "https://www.storck.com/"
+   "https://www.storck.com/",
+   "https://de.wikipedia.org/wiki/Merci_(Schokolade)"
   ],
   "saisons": [
    "noel",
@@ -20486,9 +20548,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Marque Ferrero depuis 1956, produite à Stadtallendorf (Allemagne).",
   "sources": [
-   "https://www.ferrero.fr/"
+   "https://www.ferrero.fr/",
+   "https://fr.wikipedia.org/wiki/Mon_Chéri"
   ],
   "saisons": [
    "noel"
@@ -20523,9 +20586,10 @@
   "moments": [
    "courses"
   ],
-  "note": "MDD charcuterie Intermarché, liée au pôle Agromousquetaires (non revérifié).",
+  "note": "Marque propre du groupement Les Mousquetaires, vendue chez Intermarché.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Les_Mousquetaires"
+   "https://fr.wikipedia.org/wiki/Les_Mousquetaires",
+   "https://fr.wikipedia.org/wiki/Monique_Ranou"
   ]
  },
  {
@@ -20871,9 +20935,10 @@
    "matin",
    "courses"
   ],
-  "note": "Composition exacte de l'actionnariat de Laïta à confirmer.",
+  "note": "Laïta : Even 51 %, Terrena 31 %, Eureden 18 % (Les Échos, février 2024).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/La%C3%AFta"
+   "https://fr.wikipedia.org/wiki/La%C3%AFta",
+   "https://fr.wikipedia.org/wiki/Groupe_La%C3%AFta"
   ]
  },
  {
@@ -21009,10 +21074,11 @@
    "courses",
    "midi"
   ],
-  "note": "Ferrero propriétaire depuis oct. 2025 (ex-Eurazeo). Wikipédia mentionne aussi l'exploitation de la chocolaterie par Andros : à confirmer.",
+  "note": "Carambar & Co (dont la marque Poulain) racheté par Ferrero à Eurazeo (annonce juillet 2025) ; l'usine de Villebarou/Blois qui fabriquait le chocolat Poulain a été reprise par Andros (accord de septembre 2024).",
   "sources": [
    "https://en.wikipedia.org/wiki/Carambar_%26_Co",
-   "https://www.cfnews.net/Acces-libre/Carambar-et-Lutti-bientot-avales-par-un-industriel-536478"
+   "https://www.cfnews.net/Acces-libre/Carambar-et-Lutti-bientot-avales-par-un-industriel-536478",
+   "https://fr.wikipedia.org/wiki/Carambar_%26_Co"
   ],
   "saisons": [
    "noel",
@@ -21154,9 +21220,9 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
   "sources": [
-   "https://www.ferrero.fr/"
+   "https://www.ferrero.fr/",
+   "https://fr.wikipedia.org/wiki/Raffaello_(confiserie)"
   ],
   "saisons": [
    "noel",
@@ -21191,10 +21257,11 @@
    "week-end"
   ],
   "part_marche": "Leader du fromage à raclette en France (Savencia)",
-  "note": "Exploitée par CF&R, filiale commune Savencia-Sodiaal (gouvernance modifiée) — à confirmer.",
+  "note": "Exploitée par CF&R (Compagnie des Fromages & RichesMonts), coentreprise Savencia 51 % / Sodiaal 49 %.",
   "sources": [
    "https://savencia.com/en/marque/richesmonts/",
-   "https://www.lsa-conso.fr/compagnie-des-fromages-et-richesmonts/"
+   "https://www.lsa-conso.fr/compagnie-des-fromages-et-richesmonts/",
+   "https://fr.wikipedia.org/wiki/RichesMonts"
   ],
   "saisons": [
    "hiver"
@@ -21823,10 +21890,11 @@
    "matin",
    "week-end"
   ],
-  "note": "Rossel (50 %) reprend les 50 % de SIPA Ouest-France (passage à 100 % annoncé ; clôture non confirmée).",
+  "note": "SIPA Ouest-France cède en 2026 ses 50 % à Rossel, qui devient actionnaire unique (100 % selon Wikipédia) ; date de clôture non publiée.",
   "sources": [
    "https://www.cbnews.fr/node/98512",
-   "https://fr.themedialeader.com/rossel-sapprete-a-prendre-le-controle-de-20-minutes/"
+   "https://fr.themedialeader.com/rossel-sapprete-a-prendre-le-controle-de-20-minutes/",
+   "https://fr.wikipedia.org/wiki/20_Minutes_(France)"
   ]
  },
  {
@@ -21871,7 +21939,7 @@
    "soir",
    "mensuel"
   ],
-  "note": "Contrôle par Média-Participations non revérifié.",
+  "note": "Média-Participations actionnaire majoritaire depuis le 27/07/2022 (séparation d'avec Crunchyroll).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Anime_Digital_Network"
   ]
@@ -22092,25 +22160,6 @@
   ],
   "sources": [
    "https://www.journaldunet.com/business/1531475-rachat-officiel-d-altice-media-bfm-et-rmc-par-cma-cgm/"
-  ]
- },
- {
-  "id": "c8",
-  "marque": "C8",
-  "groupe": "canal-plus",
-  "categorie": "medias",
-  "sous_categorie": "Ancienne chaîne TNT",
-  "nature": "direct",
-  "moments": [
-   "soir",
-   "week-end"
-  ],
-  "note": "Fermée le 28/02/2025 après non-renouvellement de sa fréquence par l'Arcom.",
-  "sources": [
-   "https://fr.wikipedia.org/wiki/Groupe_Canal%2B",
-   "https://forbesafrique.com/avec-le-rachat-du-sud-africain-multichoice-canal-change-dechelle/",
-   "https://fr.themedialeader.com/?p=108892",
-   "https://www.cbnews.fr/node/90821"
   ]
  },
  {
@@ -23494,9 +23543,10 @@
    "soir",
    "trajet"
   ],
-  "note": "Rattachement à Publicis non revérifié.",
+  "note": "GIE de régies (Metrobus, MediaGares...) rattaché à Publicis Groupe ; JCDecaux détient 33 % de Metrobus depuis 2005 ; contrats RATP et SNCF Gares & Connexions renouvelés en 2021 pour cinq ans.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/M%C3%A9diatransports"
+   "https://fr.wikipedia.org/wiki/M%C3%A9diatransports",
+   "https://fr.wikipedia.org/wiki/Mediatransports"
   ]
  },
  {
@@ -24936,9 +24986,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Concession Vinci en fin de contrat / remise en concurrence : statut 2026 non vérifié.",
+  "note": "Exploité depuis 2011 par Aéroports du Grand Ouest (Vinci, CCI 10 %, ETPO 5 %) ; appel d'offres de 2023 annulé, nouvel appel lancé (candidatures jusqu'au 29/03/2024) : attributaire de la nouvelle concession à confirmer.",
   "sources": [
-   "https://www.vinci-airports.com/fr"
+   "https://www.vinci-airports.com/fr",
+   "https://fr.wikipedia.org/wiki/Aéroport_de_Nantes-Atlantique",
+   "https://www.banquedesterritoires.fr/aeroport-de-nantes-clement-beaune-promet-un-nouvel-appel-doffres-dici-la-fin-de-lannee"
   ]
  },
  {
@@ -25644,9 +25696,10 @@
    "trajet",
    "soir"
   ],
-  "note": "Racheté à BMW et Mercedes par Lyft (2025) — à confirmer.",
+  "note": "Rachat par Lyft (175 M€) finalisé en juillet 2025.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Free_Now"
+   "https://fr.wikipedia.org/wiki/Free_Now",
+   "https://en.wikipedia.org/wiki/Freenow"
   ]
  },
  {
@@ -26400,16 +26453,17 @@
  {
   "id": "peugeot-motocycles",
   "marque": "Peugeot Motocycles",
-  "groupe": "mahindra",
+  "groupe": "mutares",
   "categorie": "mobilite",
   "sous_categorie": "Deux-roues motorisés",
   "nature": "direct",
   "moments": [
    "trajet"
   ],
-  "note": "Peugeot Motocycles est contrôlée par l'indien Mahindra (Stellantis/PSA n'en est plus l'actionnaire principal ; actionnariat exact non revérifié).",
+  "note": "Contrôlée depuis février 2023 par l'allemand Mutares (50 % du capital, 80 % du contrôle), rachat à Mahindra (accord de novembre 2022).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Peugeot_Motocycles"
+   "https://fr.wikipedia.org/wiki/Peugeot_Motocycles",
+   "https://en.wikipedia.org/wiki/Peugeot_Motocycles"
   ]
  },
  {
@@ -26664,7 +26718,7 @@
   "moments": [
    "trajet"
   ],
-  "note": "En France, réseau Shell limité ; exploitant(s) des stations sous marque Shell non vérifié(s).",
+  "note": "Réseau Shell réduit à ≈ 90 stations à la fin des années 2000 (autoroutes, voies rapides) ; exploitant(s) actuel(s) des stations sous marque Shell en France à confirmer.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Shell_(entreprise)"
   ]
@@ -26981,9 +27035,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Coentreprise SNCF Voyageurs / CFF (majorité SNCF, non revérifié).",
+  "note": "Coentreprise détenue à 74 % par la SNCF et 26 % par les CFF.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Lyria"
+   "https://fr.wikipedia.org/wiki/Lyria",
+   "https://fr.wikipedia.org/wiki/TGV_Lyria"
   ]
  },
  {
@@ -27269,9 +27324,10 @@
   "moments": [
    "trajet"
   ],
-  "note": "Réseau TBM exploité par Keolis Bordeaux Métropole Mobilités ; à vérifier pour le contrat en vigueur.",
+  "note": "Réseau TBM exploité par Keolis Bordeaux Métropole Mobilités depuis le 1/5/2009 (vélos « Le Vélo », ex-VCub) ; contrat en vigueur après 2022 à confirmer.",
   "sources": [
-   "https://www.autoritedelaconcurrence.fr/en/communiques-de-presse/3-august-2012-public-transport"
+   "https://www.autoritedelaconcurrence.fr/en/communiques-de-presse/3-august-2012-public-transport",
+   "https://fr.wikipedia.org/wiki/Transports_Bordeaux_M%C3%A9tropole"
   ]
  },
  {
@@ -27922,9 +27978,10 @@
    "travail",
    "soir"
   ],
-  "note": "Moteur dominant en France (environ 90 % des requêtes selon les mesures d'audience usuelles, non revérifié).",
+  "note": "Google ≈ 88 % des recherches en France en septembre 2026 (StatCounter, toutes plateformes), devant Bing 5,5 %.",
   "sources": [
-   "https://abc.xyz/investor/"
+   "https://abc.xyz/investor/",
+   "https://gs.statcounter.com/search-engine-market-share/all/france"
   ]
  },
  {
@@ -28368,7 +28425,7 @@
    "matin",
    "soir"
   ],
-  "note": "Actionnariat récent non revérifié.",
+  "note": "Contrôlé par le cofondateur David Dayan (Ancelle, ≈37 % du capital et 48 % des droits de vote depuis 2022).",
   "sources": [
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/09/FCACT061289_20220901.pdf"
   ]
@@ -28695,9 +28752,11 @@
    "trajet",
    "occasionnel"
   ],
-  "note": "Exploite des aires d'autoroute en France ; actionnariat PAI confirmé en 2021, non revérifié depuis.",
+  "note": "Exploite des aires d'autoroute en France ; détenue par PAI Partners depuis sa sortie d'Elior en 2019 (fonds PAI Europe VII) ; vente envisagée par PAI, pas avant 2027.",
   "sources": [
-   "https://www.paipartners.com/"
+   "https://www.paipartners.com/",
+   "https://www.cfnews.net/Acces-libre/Areas-quitte-Elior-297183",
+   "https://lexpress-franchise.com/es/ultimas-noticias/areas-restaurantes-aeropuertos-venta-cuando-motivos/"
   ]
  },
  {
@@ -28755,7 +28814,7 @@
    "midi",
    "mensuel"
   ],
-  "note": "Ex-filiale BPCE rapprochée de Swile en 2022 ; marque en cours d'absorption.",
+  "note": "Rapprochement de Bimpli (filiale BPCE) avec Swile annoncé en juillet 2022 ; état de la marque en 2026 à confirmer.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Swile"
   ]
@@ -28990,7 +29049,7 @@
    "midi",
    "week-end"
   ],
-  "note": "Exploitant France (coentreprise) et son actionnariat non vérifiés.",
+  "note": "Implantée en France depuis 2016 (Bercy Village), CA France 103 M€ en 2024 ; exploitant France et son actionnariat à confirmer.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Five_Guys"
   ]
@@ -29023,21 +29082,6 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Groupe_Bertrand"
-  ]
- },
- {
-  "id": "just-eat",
-  "marque": "Just Eat",
-  "groupe": "prosus",
-  "categorie": "restauration",
-  "sous_categorie": "Livraison de repas",
-  "nature": "direct",
-  "moments": [
-   "soir"
-  ],
-  "note": "Just Eat Takeaway racheté par Prosus (2025) ; activité française réduite depuis 2023 (à vérifier).",
-  "sources": [
-   "https://www.retaildetail.eu/news/food/acquisition-of-just-eat-takeaway-completed-the-hard-work-is-just-beginning/"
   ]
  },
  {
@@ -29674,9 +29718,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Rattachement à Krys Group non revérifié.",
+  "note": "Krys Group exploite l'enseigne Krys Audition (depuis 2014) ; rattachement d'Audition Conseil à Krys Group à confirmer.",
   "sources": [
-   "https://www.krys-group.com"
+   "https://www.krys-group.com",
+   "https://fr.wikipedia.org/wiki/Krys_Group"
   ]
  },
  {
@@ -30015,9 +30060,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Enseigne GrandVision (appartenance actuelle non revérifiée).",
+  "note": "Enseigne de GrandVision, contrôlée par EssilorLuxottica depuis le rachat de 2021 ; aucune cession de l'enseigne relevée depuis.",
   "sources": [
-   "https://www.essilorluxottica.com/en/investors/"
+   "https://www.essilorluxottica.com/en/investors/",
+   "https://www.tradingsat.com/essilorluxottica-FR0000121667/actualites/essilorluxottica-essilorluxottica-propose-jusqu-a-72-milliards-d-euros-pour-acquerir-grandvision-873529.html"
   ]
  },
  {
@@ -30534,9 +30580,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Marque Reckitt depuis le rachat de Boots Healthcare International en 2006.",
   "sources": [
-   "https://www.reckitt.com/"
+   "https://www.reckitt.com/",
+   "https://en.wikipedia.org/wiki/Strepsils"
   ],
   "saisons": [
    "hiver"
@@ -30627,9 +30674,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Marque Procter & Gamble (Wick dans les pays germanophones).",
   "sources": [
-   "https://www.pg.com/"
+   "https://www.pg.com/",
+   "https://en.wikipedia.org/wiki/Vicks"
   ],
   "saisons": [
    "hiver"
@@ -30818,9 +30866,10 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Actionnaire Orpea attesté en 2020-2021 ; rattachement actuel à Emeis non vérifié.",
+  "note": "Éditée par Domidom Services (Paris, RCS 442 396 032) ; actionnaire Orpea attesté en 2020-2021, rattachement actuel à Emeis à confirmer.",
   "sources": [
-   "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-domidom-1719.htm"
+   "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-domidom-1719.htm",
+   "https://www.domidom.fr/mentions-legales"
   ]
  },
  {
@@ -30924,24 +30973,27 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Actionnariat précis de Oui Care non revérifié.",
+  "note": "Oui Care présidé par son fondateur Guillaume Richard (2024) ; répartition du capital à confirmer.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/O2_(entreprise)"
+   "https://fr.wikipedia.org/wiki/O2_(entreprise)",
+   "https://fr.wikipedia.org/wiki/Oui_Care"
   ]
  },
  {
   "id": "petits-fils",
   "marque": "Petits-fils",
-  "groupe": "clariane",
+  "groupe": "credit-agricole-sa",
   "categorie": "services-personne",
   "sous_categorie": "Aide à domicile seniors (franchise)",
   "nature": "direct",
   "moments": [
    "mensuel"
   ],
-  "note": "Racheté par Korian (Clariane) en 2018 ; maintien dans le groupe en 2026 non revérifié.",
+  "note": "Racheté par Korian (Clariane) en 2018 puis cédé à Crédit Agricole Santé & Territoires (filiale de Crédit Agricole SA) : acquisition finalisée le 29/07/2025 (≈ 243 M€ de valeur des titres).",
   "sources": [
-   "https://www.observatoiredelafranchise.fr/indiscretions-actualite/PETITS-FILS-le-reseau-petits-fils-vient-d-etre-rachete-par-korian-66524.htm"
+   "https://www.observatoiredelafranchise.fr/indiscretions-actualite/PETITS-FILS-le-reseau-petits-fils-vient-d-etre-rachete-par-korian-66524.htm",
+   "https://pressroom.credit-agricole.com/news/credit-agricole-sante-territoires-completes-the-acquisition-of-petits-fils-the-leading-provider-of-at-home-services-for-seniors-in-france-5c02a-94727.html",
+   "https://www.boursorama.com/bourse/actualites-amp/credit-agricole-sante-territoires-finalise-l-acquisition-de-petits-fils-d8c82b8751895a10cbec34c23c160c9e"
   ]
  },
  {
@@ -30954,9 +31006,10 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Groupe Acadomia depuis 2004 ; capital du groupe non vérifié.",
+  "note": "Filiale du groupe Acadomia (Domia Group) depuis sa création en 2005 ; Acadomia contrôlée par MCP Education (fonds britannique Metric Capital Partners) depuis 2014.",
   "sources": [
-   "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-shiva-804.htm"
+   "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-shiva-804.htm",
+   "https://fr.wikipedia.org/wiki/Acadomia"
   ]
  },
  {
@@ -31145,21 +31198,6 @@
   "note": "Billets imprimés notamment par l'imprimerie de la Banque de France (Chamalières).",
   "sources": [
    "https://www.banque-france.fr"
-  ]
- },
- {
-  "id": "bloctel",
-  "marque": "Bloctel",
-  "groupe": "etat-francais",
-  "categorie": "services-publics",
-  "sous_categorie": "Liste d'opposition au démarchage téléphonique",
-  "nature": "public",
-  "moments": [
-   "occasionnel"
-  ],
-  "note": "Service de l'État dont l'opérateur technique est un prestataire privé (non vérifié pour le marché en cours).",
-  "sources": [
-   "https://www.bloctel.gouv.fr"
   ]
  },
  {
@@ -31448,9 +31486,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Le changement de nom ANTS → France Titres est à confirmer sur les dates exactes.",
+  "note": "L'ANTS (créée par décret du 22/02/2007) a pris le nom de France Titres le 28/02/2024, tout en conservant le sigle ANTS.",
   "sources": [
-   "https://ants.gouv.fr"
+   "https://ants.gouv.fr",
+   "https://fr.wikipedia.org/wiki/France_Titres"
   ]
  },
  {
@@ -31801,9 +31840,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Répartition exacte du capital de la SAS non vérifiée.",
+  "note": "SAS pass Culture financée quasi intégralement par l'État ; répartition du capital à confirmer.",
   "sources": [
-   "https://pass.culture.fr"
+   "https://pass.culture.fr",
+   "https://fr.wikipedia.org/wiki/Pass_Culture"
   ]
  },
  {
@@ -32055,9 +32095,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Filiale d'Amer Sports depuis novembre 1994.",
   "sources": [
-   "https://www.amersports.com/"
+   "https://www.amersports.com/",
+   "https://en.wikipedia.org/wiki/Atomic_Skis"
   ],
   "saisons": [
    "hiver"
@@ -32105,9 +32146,10 @@
    "week-end",
    "occasionnel"
   ],
-  "note": "Racheté par JD Sports à Equistone (2024) ; non revérifié en ligne.",
+  "note": "Racheté par JD Sports à Equistone pour 520 M€ (finalisé le 27/11/2024) ; 15 magasins en France cédés à Snipes à la demande de la Commission européenne.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/JD_Sports"
+   "https://fr.wikipedia.org/wiki/JD_Sports",
+   "https://www.theretailbulletin.com/fashion/jd-sports-completes-acquisition-of-courir-27-11-2024/"
   ]
  },
  {
@@ -33242,7 +33284,8 @@
   ],
   "note": "Exploitant technique et réseau hôte non revérifiés (historiquement réseau Bouygues Telecom).",
   "sources": [
-   "https://www.lsa-conso.fr/cdiscount-est-rachete-a-100-par-casino-et-est-ainsi-valorise-a-moins-de-30-millions-d,452746"
+   "https://www.lsa-conso.fr/cdiscount-est-rachete-a-100-par-casino-et-est-ainsi-valorise-a-moins-de-30-millions-d,452746",
+   "https://fr.wikipedia.org/wiki/Cdiscount"
   ]
  },
  {
@@ -33373,10 +33416,11 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Historiquement sur réseau SFR ; migration vers Orange annoncée (à confirmer). Actionnariat du groupe non vérifié.",
+  "note": "Groupe Lebara racheté par Waterland Private Equity en août 2024 ; réseau hôte en France (SFR ou Orange depuis 2024) à confirmer.",
   "sources": [
    "https://www.resilier.com/guides/telecommunications/actu-lebara-orange",
-   "https://bonforfait.fr/lebara"
+   "https://bonforfait.fr/lebara",
+   "https://en.wikipedia.org/wiki/Lebara"
   ]
  },
  {
@@ -33465,7 +33509,7 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Répartition 50/50 non revérifiée en 2026.",
+  "note": "Répartition 50/50 entre Orange et le consortium Banque des Territoires / CNP Assurances / EDF Invest (cession de 2021) à confirmer en 2026.",
   "sources": [
    "https://www.orange.com/fr"
   ]
@@ -33541,10 +33585,11 @@
    "mensuel",
    "soir"
   ],
-  "note": "En cours de cession : protocole d'accord du 6 juin 2026 avec Bouygues Telecom (≈ 42 % du prix), iliad (≈ 31 %) et Orange (≈ 27 %) ; décision réglementaire attendue au plus tôt fin 2027.",
+  "note": "En cours de cession : protocole d'accord du 6 juin 2026 avec Bouygues Telecom (≈ 42 %), iliad (≈ 31 %) et Orange (≈ 27 %) pour ≈ 20,35 Md€ ; finalisation visée au second semestre 2027 sous réserve des autorisations.",
   "sources": [
    "https://www.orange.com/fr/communiques/signature-dun-protocole-daccord-en-vue-de-lacquisition-de-sfr-476229",
-   "https://jechange.fr/telecom/internet/news/rachat-sfr-faq-arcep-box-decodeur-tv-changer-sans-reponse"
+   "https://jechange.fr/telecom/internet/news/rachat-sfr-faq-arcep-box-decodeur-tv-changer-sans-reponse",
+   "https://fr.wikipedia.org/wiki/SFR"
   ]
  },
  {
@@ -34667,16 +34712,17 @@
  {
   "id": "selectour",
   "marque": "Selectour",
-  "groupe": "marietton",
+  "groupe": "selectour-cooperative",
   "categorie": "voyage-tourisme",
   "sous_categorie": "Réseau d'agences de voyages",
   "nature": "direct",
   "moments": [
    "occasionnel"
   ],
-  "note": "Rattachement à Marietton non revérifié.",
+  "note": "Coopérative d'agences de voyages indépendantes ; Marietton Développement (Laurent Abitbol, président du directoire de Selectour) en est le principal adhérent et a racheté plusieurs agences du réseau.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Selectour"
+   "https://fr.wikipedia.org/wiki/Selectour",
+   "https://www.lechotouristique.com/article/marietton-acquiert-deux-agences-selectour"
   ]
  },
  {
@@ -34797,6 +34843,919 @@
   ],
   "saisons": [
    "ete"
+  ]
+ },
+ {
+  "id": "louis-jadot-vins",
+  "marque": "Louis Jadot",
+  "groupe": "louis-jadot",
+  "categorie": "boissons",
+  "sous_categorie": "Vins de Bourgogne et Beaujolais",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "week-end"
+  ],
+  "note": "Château des Jacques (Moulin-à-Vent) depuis 1996.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Maison_Louis_Jadot"
+  ],
+  "saisons": [
+   "beaujolais",
+   "noel"
+  ]
+ },
+ {
+  "id": "mommessin",
+  "marque": "Mommessin",
+  "groupe": "boisset",
+  "categorie": "boissons",
+  "sous_categorie": "Beaujolais / Beaujolais nouveau",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Maison fondée en 1865, intégrée au groupe Boisset (date de reprise donnée variablement : 1997 ou 2017).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Boisset_Collection",
+   "https://www.systembolaget.se/produkt/vin/7659001"
+  ],
+  "saisons": [
+   "beaujolais"
+  ]
+ },
+ {
+  "id": "bouchard-aine",
+  "marque": "Bouchard Aîné & Fils",
+  "groupe": "boisset",
+  "categorie": "boissons",
+  "sous_categorie": "Vins de Bourgogne et Beaujolais",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Boisset_Collection"
+  ],
+  "saisons": [
+   "beaujolais"
+  ]
+ },
+ {
+  "id": "henry-fessy",
+  "marque": "Henry Fessy",
+  "groupe": "louis-latour",
+  "categorie": "boissons",
+  "sous_categorie": "Beaujolais / crus du Beaujolais",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Négociant beaujolais racheté par Louis Latour en 2008 (≈ 1,5 M de bouteilles par an).",
+  "sources": [
+   "https://www.decanter.com/wine-news/louis-latour-buys-maison-fessy-85427/"
+  ],
+  "saisons": [
+   "beaujolais"
+  ]
+ },
+ {
+  "id": "braun-rasoirs",
+  "marque": "Braun (rasoirs, tondeuses, épilateurs)",
+  "groupe": "procter-gamble",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Rasoirs électriques",
+  "nature": "direct",
+  "moments": [
+   "matin"
+  ],
+  "note": "L'électroménager Braun est exploité sous licence par De'Longhi depuis 2012.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Braun_(entreprise)"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "philips-oneblade",
+  "marque": "Philips (rasoirs, OneBlade, tondeuses)",
+  "groupe": "philips",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Rasoirs électriques et tondeuses",
+  "nature": "direct",
+  "moments": [
+   "matin"
+  ],
+  "note": "Activité Personal Health conservée par Philips (l'électroménager est passé chez Versuni).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philips"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "remington",
+  "marque": "Remington",
+  "groupe": "spectrum-brands",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Rasoirs, tondeuses, coiffure",
+  "nature": "direct",
+  "moments": [
+   "matin"
+  ],
+  "note": "Wikipédia mentionne aussi Oak Hill Capital aux côtés de Spectrum Brands, sans détail.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Remington_Products"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "babyliss",
+  "marque": "BaByliss (dont BaByliss for Men)",
+  "groupe": "conair",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Sèche-cheveux, lisseurs, tondeuses",
+  "nature": "direct",
+  "moments": [
+   "matin"
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/BaByliss",
+   "https://en.wikipedia.org/wiki/Conair_Corporation"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "fete-des-meres",
+   "noel"
+  ]
+ },
+ {
+  "id": "azzaro-parfums",
+  "marque": "Azzaro (parfums)",
+  "groupe": "l-oreal",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Parfums masculins",
+  "nature": "direct",
+  "moments": [
+   "matin",
+   "occasionnel"
+  ],
+  "note": "Racheté à Clarins avec Mugler (finalisé le 31 mars 2020).",
+  "sources": [
+   "https://www.loreal.com/fr/news/finance/l'oréal-finalise-l'acquisition-des-marques-mugler-et-des-parfums-azzaro/"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "rabanne-parfums",
+  "marque": "Rabanne (ex-Paco Rabanne : 1 Million, Phantom)",
+  "groupe": "puig",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Parfums",
+  "nature": "direct",
+  "moments": [
+   "matin",
+   "occasionnel"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puig_(company)"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "jean-paul-gaultier-parfums",
+  "marque": "Jean Paul Gaultier (Le Male, Scandal)",
+  "groupe": "puig",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Parfums",
+  "nature": "direct",
+  "moments": [
+   "matin",
+   "occasionnel"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puig_(company)"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "carolina-herrera-parfums",
+  "marque": "Carolina Herrera (parfums)",
+  "groupe": "puig",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Parfums",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puig_(company)"
+  ],
+  "saisons": [
+   "fete-des-meres",
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "nina-ricci-parfums",
+  "marque": "Nina Ricci (parfums)",
+  "groupe": "puig",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Parfums",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puig_(company)"
+  ],
+  "saisons": [
+   "fete-des-meres",
+   "noel"
+  ]
+ },
+ {
+  "id": "jack-daniels",
+  "marque": "Jack Daniel's",
+  "groupe": "brown-forman",
+  "categorie": "boissons",
+  "sous_categorie": "Whiskey américain",
+  "nature": "direct",
+  "moments": [
+   "soir",
+   "week-end"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Daniel%27s"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "glenfiddich",
+  "marque": "Glenfiddich",
+  "groupe": "william-grant",
+  "categorie": "boissons",
+  "sous_categorie": "Single malt écossais",
+  "nature": "direct",
+  "moments": [
+   "soir",
+   "occasionnel"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/William_Grant_%26_Sons"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "grants-whisky",
+  "marque": "Grant's",
+  "groupe": "william-grant",
+  "categorie": "boissons",
+  "sous_categorie": "Blended whisky",
+  "nature": "direct",
+  "moments": [
+   "soir"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/William_Grant_%26_Sons"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "hendricks",
+  "marque": "Hendrick's",
+  "groupe": "william-grant",
+  "categorie": "boissons",
+  "sous_categorie": "Gin",
+  "nature": "direct",
+  "moments": [
+   "soir"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/William_Grant_%26_Sons"
+  ]
+ },
+ {
+  "id": "jim-beam",
+  "marque": "Jim Beam",
+  "groupe": "suntory",
+  "categorie": "boissons",
+  "sous_categorie": "Bourbon",
+  "nature": "direct",
+  "moments": [
+   "soir"
+  ],
+  "note": "Exploité par Suntory Global Spirits (ex-Beam Suntory), filiale de Suntory Holdings.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jim_Beam"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "nikka",
+  "marque": "Nikka",
+  "groupe": "asahi",
+  "categorie": "boissons",
+  "sous_categorie": "Whisky japonais",
+  "nature": "direct",
+  "moments": [
+   "soir",
+   "occasionnel"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nikka_Whisky_Distilling"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "aberlour",
+  "marque": "Aberlour",
+  "groupe": "pernod-ricard",
+  "categorie": "boissons",
+  "sous_categorie": "Single malt écossais",
+  "nature": "direct",
+  "moments": [
+   "soir",
+   "occasionnel"
+  ],
+  "note": "Distillerie de Chivas Brothers (Pernod Ricard).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aberlour_distillery"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "noel"
+  ]
+ },
+ {
+  "id": "cutty-sark",
+  "marque": "Cutty Sark",
+  "groupe": "la-martiniquaise",
+  "categorie": "boissons",
+  "sous_categorie": "Blended whisky",
+  "nature": "direct",
+  "moments": [
+   "soir"
+  ],
+  "note": "Ancienne marque d'Edrington ; date de reprise non vérifiée.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cutty_Sark_(whisky)"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "william-peel",
+  "marque": "William Peel",
+  "groupe": "mbws",
+  "categorie": "boissons",
+  "sous_categorie": "Blended whisky (premier prix)",
+  "nature": "direct",
+  "moments": [
+   "soir",
+   "courses"
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Marie_Brizard_Wine_%26_Spirits"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "sobieski",
+  "marque": "Sobieski",
+  "groupe": "mbws",
+  "categorie": "boissons",
+  "sous_categorie": "Vodka",
+  "nature": "direct",
+  "moments": [
+   "soir"
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Marie_Brizard_Wine_%26_Spirits"
+  ]
+ },
+ {
+  "id": "marie-brizard",
+  "marque": "Marie Brizard",
+  "groupe": "mbws",
+  "categorie": "boissons",
+  "sous_categorie": "Liqueurs",
+  "nature": "direct",
+  "moments": [
+   "soir",
+   "occasionnel"
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Marie_Brizard_Wine_%26_Spirits"
+  ]
+ },
+ {
+  "id": "dewalt",
+  "marque": "DeWalt",
+  "groupe": "stanley-black-decker",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Outillage électroportatif",
+  "nature": "direct",
+  "moments": [
+   "week-end"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stanley_Black_%26_Decker"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "black-decker",
+  "marque": "Black+Decker",
+  "groupe": "stanley-black-decker",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Outillage et petit électroménager",
+  "nature": "direct",
+  "moments": [
+   "week-end"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stanley_Black_%26_Decker"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "stanley-outillage",
+  "marque": "Stanley",
+  "groupe": "stanley-black-decker",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Outillage à main",
+  "nature": "direct",
+  "moments": [
+   "week-end"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stanley_Black_%26_Decker"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "facom",
+  "marque": "Facom",
+  "groupe": "stanley-black-decker",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Outillage à main",
+  "nature": "direct",
+  "moments": [
+   "week-end"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stanley_Black_%26_Decker"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "makita-outillage",
+  "marque": "Makita",
+  "groupe": "makita",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Outillage électroportatif",
+  "nature": "direct",
+  "moments": [
+   "week-end"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Makita"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "ryobi",
+  "marque": "Ryobi",
+  "groupe": "techtronic",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Outillage électroportatif et jardin",
+  "nature": "direct",
+  "moments": [
+   "week-end"
+  ],
+  "note": "Marque exploitée par TTI sous licence de Ryobi Ltd (Japon).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Techtronic_Industries"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "parkside",
+  "marque": "Parkside",
+  "groupe": "lidl",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Outillage (marque propre)",
+  "nature": "direct",
+  "moments": [
+   "courses",
+   "week-end"
+  ],
+  "note": "Marque propre Lidl vendue en arrivages ; rattachement non revérifié sur une source dédiée.",
+  "sources": [
+   "https://www.lidl.fr"
+  ],
+  "saisons": [
+   "fete-des-peres"
+  ]
+ },
+ {
+  "id": "smartbox-coffrets",
+  "marque": "Smartbox",
+  "groupe": "smartbox",
+  "categorie": "loisirs-culture",
+  "sous_categorie": "Coffrets cadeaux",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "part_marche": "Smartbox + Wonderbox ≥ 70 % des coffrets cadeaux en BtoC (Autorité de la concurrence, 2023)",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Smartbox",
+   "https://www.autoritedelaconcurrence.fr/en/press-release/takeover-smartbox-wonderbox-autorite-de-la-concurrence-opens-depth-review"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "fete-des-meres",
+   "saint-valentin",
+   "noel"
+  ]
+ },
+ {
+  "id": "wonderbox-coffrets",
+  "marque": "Wonderbox",
+  "groupe": "wonderbox",
+  "categorie": "loisirs-culture",
+  "sous_categorie": "Coffrets cadeaux",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Actionnariat de W Group non publié.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Wonderbox",
+   "https://www.autoritedelaconcurrence.fr/en/press-release/takeover-smartbox-wonderbox-autorite-de-la-concurrence-opens-depth-review"
+  ],
+  "saisons": [
+   "fete-des-peres",
+   "fete-des-meres",
+   "saint-valentin",
+   "noel"
+  ]
+ },
+ {
+  "id": "demeco",
+  "marque": "Demeco",
+  "groupe": "hexvia",
+  "categorie": "services-personne",
+  "sous_categorie": "Déménagement",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Réseau mixte succursales/franchises (≈ 119 à 200+ agences selon les sources).",
+  "sources": [
+   "https://lepetitjournal.com/ho-chi-minh/installation/demeco-histoire-reseau-demenagement-france-438867"
+  ],
+  "saisons": [
+   "ete",
+   "rentree"
+  ]
+ },
+ {
+  "id": "ags-demenagement",
+  "marque": "AGS",
+  "groupe": "mobilitas",
+  "categorie": "services-personne",
+  "sous_categorie": "Déménagement (national et international)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "sources": [
+   "https://lemoci.com/ags-mobilitas",
+   "https://www.agsmovers.com/news/in-depth-interview-with-mobilitas-chairman/"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
+  "id": "gentlemen-du-demenagement-m",
+  "marque": "Les Gentlemen du Déménagement",
+  "groupe": "gentlemen-du-demenagement",
+  "categorie": "services-personne",
+  "sous_categorie": "Déménagement",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "≈ 72 entreprises membres, 130 points de vente.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Les_Gentlemen_du_D%C3%A9m%C3%A9nagement"
+  ],
+  "saisons": [
+   "ete",
+   "rentree"
+  ]
+ },
+ {
+  "id": "demenageurs-bretons",
+  "marque": "Les Déménageurs Bretons",
+  "groupe": "elif",
+  "categorie": "services-personne",
+  "sous_categorie": "Déménagement",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "≈ 145-150 agences en franchise ; actionnariat d'ELIF non publié.",
+  "sources": [
+   "https://selectra.info/demenagement/demenageurs/demenageurs-bretons"
+  ],
+  "saisons": [
+   "ete",
+   "rentree"
+  ]
+ },
+ {
+  "id": "leclerc-location",
+  "marque": "Location E.Leclerc",
+  "groupe": "leclerc",
+  "categorie": "mobilite",
+  "sous_categorie": "Location d'utilitaires et de voitures",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "week-end"
+  ],
+  "sources": [
+   "https://www.location.leclerc/"
+  ]
+ },
+ {
+  "id": "point-fort-fichet",
+  "marque": "Point Fort Fichet",
+  "groupe": "assa-abloy",
+  "categorie": "services-personne",
+  "sous_categorie": "Serrurerie, portes blindées (réseau d'installateurs)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Assa_Abloy",
+   "https://fr.wikipedia.org/wiki/Fichet"
+  ]
+ },
+ {
+  "id": "vachette",
+  "marque": "Vachette",
+  "groupe": "assa-abloy",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Serrures, cylindres",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Assa_Abloy"
+  ]
+ },
+ {
+  "id": "fidelia-assistance",
+  "marque": "Fidelia Assistance",
+  "groupe": "covea",
+  "categorie": "assurance-protection",
+  "sous_categorie": "Assistance habitation (serrurier, plombier) et auto",
+  "nature": "invisible",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Met en œuvre l'assistance des contrats MAAF, MMA, GMF (groupe Covéa).",
+  "sources": [
+   "https://www.fidelia-assistance.fr/"
+  ]
+ },
+ {
+  "id": "pompes-funebres-de-france-m",
+  "marque": "Pompes Funèbres de France",
+  "groupe": "pompes-funebres-de-france",
+  "categorie": "funeraire",
+  "sous_categorie": "Pompes funèbres (franchise)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "≈ 154-158 agences ouvertes ou en cours (2025) ; OGF est entré en négociations exclusives pour l'acquérir (avril 2026), finalisation non vérifiée.",
+  "sources": [
+   "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-pompes-funebres-de-france-5489.htm",
+   "https://www.businesswire.com/news/home/20260408712270/fr"
+  ]
+ },
+ {
+  "id": "crematoriums-de-france",
+  "marque": "Crématoriums de France",
+  "groupe": "funecap",
+  "categorie": "funeraire",
+  "sous_categorie": "Crématoriums",
+  "nature": "invisible",
+  "moments": [
+   "occasionnel"
+  ],
+  "sources": [
+   "https://www.funecap.group/"
+  ]
+ },
+ {
+  "id": "roc-prevoyance-obseques",
+  "marque": "Roc Prévoyance Obsèques",
+  "groupe": "funecap",
+  "categorie": "funeraire",
+  "sous_categorie": "Contrats obsèques",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "sources": [
+   "https://www.funecap.group/"
+  ]
+ },
+ {
+  "id": "france-obseques",
+  "marque": "France Obsèques",
+  "groupe": "funecap",
+  "categorie": "funeraire",
+  "sous_categorie": "Pompes funèbres",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "sources": [
+   "https://www.funecap.group/"
+  ]
+ },
+ {
+  "id": "eurodreams",
+  "marque": "EuroDreams",
+  "groupe": "fdj-united",
+  "categorie": "jeux-argent",
+  "sous_categorie": "Loterie (rente)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "sources": [
+   "https://www.fdj.fr/jeux-de-tirage"
+  ]
+ },
+ {
+  "id": "casinos-tranchant",
+  "marque": "Casinos Tranchant",
+  "groupe": "groupe-tranchant",
+  "categorie": "jeux-argent",
+  "sous_categorie": "Casinos",
+  "nature": "direct",
+  "moments": [
+   "week-end",
+   "soir"
+  ],
+  "part_marche": "4e casinotier français, ≈ 240 M€ de produit des jeux (fin des années 2010, Wikipédia)",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Groupe_Tranchant",
+   "https://fr.wikipedia.org/wiki/Casino_en_France"
+  ]
+ },
+ {
+  "id": "nicollin-collecte",
+  "marque": "Nicollin",
+  "groupe": "nicollin",
+  "categorie": "eau-dechets",
+  "sous_categorie": "Collecte des déchets, propreté urbaine",
+  "nature": "invisible",
+  "moments": [
+   "matin",
+   "mensuel"
+  ],
+  "note": "CA ≈ 550 M€ (2022) ; rang de 3e acteur français non sourcé sur Wikipédia.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Groupe_Nicollin"
+  ]
+ },
+ {
+  "id": "agences-de-l-eau",
+  "marque": "Agences de l'eau (redevances sur la facture d'eau)",
+  "groupe": "etat-francais",
+  "categorie": "eau-dechets",
+  "sous_categorie": "Établissements publics de bassin",
+  "nature": "public",
+  "moments": [
+   "mensuel"
+  ],
+  "note": "Six établissements publics ; redevances financées à ≈ 82 % par les usagers domestiques.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Agence_de_l%27eau"
+  ]
+ },
+ {
+  "id": "saint-marc",
+  "marque": "Saint Marc",
+  "groupe": "vestacy",
+  "categorie": "entretien-maison",
+  "sous_categorie": "Nettoyants multi-usages",
+  "nature": "direct",
+  "moments": [
+   "courses",
+   "week-end"
+  ],
+  "note": "Portefeuille Essential Home cédé à 70 % à Advent par Reckitt (finalisé le 31/12/2025), désormais Vestacy.",
+  "sources": [
+   "https://www.jobteaser.com/de/companies/vestacy",
+   "https://www.ajbell.co.uk/news/articles/reckitt-sells-essential-home-unit-advent-48-billion-deal"
+  ],
+  "saisons": [
+   "printemps"
+  ]
+ },
+ {
+  "id": "schleich",
+  "marque": "Schleich",
+  "groupe": "partners-group",
+  "categorie": "enfance-education",
+  "sous_categorie": "Figurines et jouets",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Propriété de Partners Group depuis 2019 ; aucune cession ultérieure trouvée.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Schleich"
+  ],
+  "saisons": [
+   "noel"
+  ]
+ },
+ {
+  "id": "tanns",
+  "marque": "Tann's",
+  "groupe": "aliseo",
+  "categorie": "enfance-education",
+  "sous_categorie": "Cartables, maroquinerie scolaire",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Licence cédée par Le Tanneur à Aliseo en 2006, Aliseo désormais propriétaire de la marque.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Tann%27s"
+  ],
+  "saisons": [
+   "rentree"
   ]
  }
 ]

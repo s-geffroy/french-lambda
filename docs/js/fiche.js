@@ -37,6 +37,14 @@ function chaine(ctx, groups) {
   );
 }
 
+// Ouvre une issue GitHub pré-remplie : le formulaire est
+// .github/ISSUE_TEMPLATE/correction.yml, ses champs se remplissent par leur id.
+const DEPOT = "https://github.com/s-geffroy/french-lambda";
+function signaler(sel, nom) {
+  const q = new URLSearchParams({ template: "correction.yml", title: `Correction : ${nom}`, fiche: `${sel} (${nom})` });
+  return `<p class="signaler"><a href="${DEPOT}/issues/new?${esc(q.toString())}" target="_blank" rel="noopener">Signaler une erreur sur cette fiche</a></p>`;
+}
+
 function sources(list) {
   if (!list?.length) return "";
   return (
@@ -67,7 +75,8 @@ export function renderFiche(el, ctx) {
       <h4>Qui est derrière</h4>
       ${chaine(ctx, b.chain)}
       <p><button class="lien" data-groupe="${esc(b.top.id)}">Toutes les marques de ${esc(b.top.nom)}</button></p>
-      ${sources(b.sources)}`;
+      ${sources(b.sources)}
+      ${signaler(ctx.state.sel, b.marque)}`;
   } else {
     const g = model.g.get(id);
     if (!g) return false;
@@ -93,7 +102,8 @@ export function renderFiche(el, ctx) {
         .map((b) => `<button class="marque-btn" style="--c:${ctx.color(b.macroObj?.id)}" data-sel="m:${esc(b.id)}">${esc(b.marque)}</button>`)
         .join("")}${under.length > 80 ? `<span class="plus muted">+${under.length - 80}</span>` : ""}</div>
         <p><button class="lien" data-groupe="${esc(id)}">Filtrer toutes les vues sur ce groupe</button></p>` : ""}
-      ${sources(g.sources)}`;
+      ${sources(g.sources)}
+      ${signaler(ctx.state.sel, g.nom)}`;
   }
   el.innerHTML = `<button class="ghost ferme" type="button" aria-label="Fermer">×</button>` + html;
   el.onclick = (e) => {
