@@ -62,7 +62,12 @@ function table(brands) {
 function groupes(brands, ctx, by) {
   const key = by === "groupe" ? (b) => b.top.id : (b) => b.categorie;
   const label = by === "groupe" ? (id) => ctx.model.g.get(id)?.nom || id : (id) => ctx.model.cat.get(id)?.label || id;
-  const m = d3.group(brands, key);
+  const m = new Map();
+  for (const b of brands) {
+    const k = key(b);
+    if (!m.has(k)) m.set(k, []);
+    m.get(k).push(b);
+  }
   const keys = [...m.keys()].sort((a, b) => (by === "groupe" ? m.get(b).length - m.get(a).length : 0) || label(a).localeCompare(label(b), "fr"));
   return keys
     .map(

@@ -1,15 +1,19 @@
 import { loadData, applyFilters, paysLabel } from "./data.js";
 import { renderFiche } from "./fiche.js";
-import * as journee from "./views/journee.js";
-import * as liste from "./views/liste.js";
-import * as graphe from "./views/graphe.js";
-import * as soleil from "./views/soleil.js";
-import * as flux from "./views/flux.js";
-import * as carte from "./views/carte.js";
-import * as classement from "./views/classement.js";
-import * as methode from "./views/methode.js";
+import { need } from "./lib.js";
 
-const VUES = { journee, liste, graphe, soleil, flux, carte, classement, methode };
+// Chaque vue n'est téléchargée qu'à sa première ouverture, avec ses bibliothèques.
+const VUES = {
+  journee: [],
+  liste: [],
+  graphe: ["d3"],
+  soleil: ["d3"],
+  flux: ["d3", "sankey"],
+  carte: ["d3", "topojson"],
+  classement: ["d3"],
+  methode: [],
+};
+const loadVue = (v) => Promise.all([import(`./views/${v}.js`), need(...VUES[v])]).then(([m]) => m);
 const FILTRES = ["q", "macro", "cat", "nature", "statut", "pays", "groupe"];
 
 const $ = (s) => document.querySelector(s);
@@ -35,6 +39,7 @@ function fillSelect(name, items) {
   for (const it of items) sel.append(new Option(it.label, it.id));
 }
 
+let frappe;
 function setupFilters() {
   const { ref } = model;
   fillSelect("macro", ref.macros);
@@ -56,7 +61,10 @@ function setupFilters() {
       const c = model.cat.get(state.cat);
       if (c && state.macro && c.macro !== state.macro) form.elements.cat.value = state.cat = "";
     }
-    update();
+    // La recherche attend une courte pause de frappe avant de redessiner.
+    clearTimeout(frappe);
+    if (e.target.name === "q") frappe = setTimeout(update, 180);
+    else update();
   });
   form.addEventListener("submit", (e) => e.preventDefault());
   form.addEventListener("reset", () => {
@@ -151,7 +159,9 @@ function renderStats(brands) {
     .join("");
 }
 
-function update() {
+let rendu = 0;
+async function update() {
+  const tour = ++rendu;
   writeHash();
   for (const b of document.querySelectorAll("#tabs button"))
     b.setAttribute("aria-selected", b.dataset.vue === state.vue);
@@ -163,10 +173,18 @@ function update() {
   renderStats(brands);
   ctx.tip.hide();
   const el = $("#vue");
-  el.innerHTML = "";
+  if (el.dataset.vue !== state.vue) {
+    el.dataset.vue = state.vue;
+    el.innerHTML = '<p class="muted">Chargement…</p>';
+  }
   try {
-    VUES[state.vue].render(el, brands, ctx);
+    const vue = await loadVue(state.vue);
+    // Un clic plus récent a déjà pris la main : ce rendu est périmé.
+    if (tour !== rendu) return;
+    el.innerHTML = "";
+    await vue.render(el, brands, ctx);
   } catch (err) {
+    if (tour !== rendu) return;
     console.error(err);
     el.innerHTML = `<p>Cette vue n'a pas pu s'afficher : ${err.message}</p>`;
   }
@@ -189,10 +207,16 @@ async function main() {
     Object.assign(state, readHash());
     update();
   });
-  let rt;
+  // Sur mobile, la barre d'adresse qui se replie au défilement change la
+  // hauteur : seule une vraie variation de largeur justifie de redessiner.
+  let rt, largeur = innerWidth;
   addEventListener("resize", () => {
     clearTimeout(rt);
-    rt = setTimeout(update, 200);
+    rt = setTimeout(() => {
+      if (Math.abs(innerWidth - largeur) < 40 || ["journee", "liste", "methode"].includes(state.vue)) return;
+      largeur = innerWidth;
+      update();
+    }, 250);
   });
   update();
 }
