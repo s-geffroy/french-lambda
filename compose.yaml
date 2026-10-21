@@ -35,10 +35,35 @@ services:
     # cycle en cours : si un cycle peut durer plus longtemps, augmenter ici.
     stop_grace_period: 30s
 
+  # Outil jetable, jamais demarre par 'up' : 'sudo appctl run gh <args>' pour
+  # gh, 'sudo appctl run gh git <args>' pour git (push en HTTPS via gh).
+  gh:
+    profiles: ["cli"]
+    build:
+      context: ./tools/gh
+    networks:
+      - internal
+    volumes:
+      - .:/work
+    secrets:
+      - gh_token
+    deploy:
+      resources:
+        limits:
+          cpus: "1.0"
+          memory: 256M
+          pids: 128
+
 networks:
   internal:
     name: french-lambda-internal
     external: true
+
+# Fine-grained token GitHub, limite au depot french-lambda. Fichier en 0444 :
+# le conteneur tourne en utilisateur non privilegie.
+secrets:
+  gh_token:
+    file: /etc/app-secrets/french-lambda/gh_token
 
 volumes:
   state:

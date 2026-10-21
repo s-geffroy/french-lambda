@@ -1,0 +1,73 @@
+{
+  "macros": [
+    {"id": "se-loger", "label": "Se loger", "slot": 1},
+    {"id": "manger", "label": "Manger & boire", "slot": 2},
+    {"id": "s-equiper", "label": "S'équiper & s'habiller", "slot": 3},
+    {"id": "communiquer", "label": "Communiquer & se divertir", "slot": 4},
+    {"id": "se-deplacer", "label": "Se déplacer & voyager", "slot": 5},
+    {"id": "argent", "label": "Argent & protection", "slot": 6},
+    {"id": "vivre", "label": "Santé, famille & travail", "slot": 7},
+    {"id": "coulisses", "label": "État & coulisses", "slot": 8}
+  ],
+  "categories": [
+    {"id": "logement", "label": "Logement", "macro": "se-loger"},
+    {"id": "energie", "label": "Énergie", "macro": "se-loger"},
+    {"id": "eau-dechets", "label": "Eau & déchets", "macro": "se-loger"},
+    {"id": "services-personne", "label": "Services à la personne", "macro": "se-loger"},
+    {"id": "distribution-alimentaire", "label": "Courses (distribution)", "macro": "manger"},
+    {"id": "marques-alimentaires", "label": "Marques alimentaires", "macro": "manger"},
+    {"id": "boissons", "label": "Boissons", "macro": "manger"},
+    {"id": "restauration", "label": "Restauration", "macro": "manger"},
+    {"id": "tabac", "label": "Tabac", "macro": "manger"},
+    {"id": "habillement", "label": "Habillement & chaussures", "macro": "s-equiper"},
+    {"id": "hygiene-beaute", "label": "Hygiène & beauté", "macro": "s-equiper"},
+    {"id": "entretien-maison", "label": "Entretien de la maison", "macro": "s-equiper"},
+    {"id": "equipement-maison", "label": "Équipement de la maison", "macro": "s-equiper"},
+    {"id": "electronique", "label": "Électronique", "macro": "s-equiper"},
+    {"id": "animaux", "label": "Animaux", "macro": "s-equiper"},
+    {"id": "telecoms", "label": "Télécoms", "macro": "communiquer"},
+    {"id": "numerique", "label": "Numérique & plateformes", "macro": "communiquer"},
+    {"id": "medias", "label": "Médias", "macro": "communiquer"},
+    {"id": "loisirs-culture", "label": "Loisirs & culture", "macro": "communiquer"},
+    {"id": "sport", "label": "Sport", "macro": "communiquer"},
+    {"id": "jeux-argent", "label": "Jeux d'argent", "macro": "communiquer"},
+    {"id": "mobilite", "label": "Mobilité", "macro": "se-deplacer"},
+    {"id": "voyage-tourisme", "label": "Voyage & tourisme", "macro": "se-deplacer"},
+    {"id": "courrier-colis", "label": "Courrier & colis", "macro": "se-deplacer"},
+    {"id": "banque-paiement", "label": "Banque & paiement", "macro": "argent"},
+    {"id": "assurance-protection", "label": "Assurance & mutuelle", "macro": "argent"},
+    {"id": "sante", "label": "Santé", "macro": "vivre"},
+    {"id": "enfance-education", "label": "Enfance & éducation", "macro": "vivre"},
+    {"id": "travail-emploi", "label": "Travail & emploi", "macro": "vivre"},
+    {"id": "funeraire", "label": "Funéraire", "macro": "vivre"},
+    {"id": "services-publics", "label": "Services publics", "macro": "coulisses"},
+    {"id": "intermediaires", "label": "Intermédiaires invisibles", "macro": "coulisses"}
+  ],
+  "moments": [
+    {"id": "matin", "label": "Réveil & petit-déjeuner", "heure": "6h30"},
+    {"id": "trajet", "label": "Trajet", "heure": "8h00"},
+    {"id": "travail", "label": "Au travail", "heure": "9h00"},
+    {"id": "midi", "label": "Pause déjeuner", "heure": "12h30"},
+    {"id": "courses", "label": "Courses", "heure": "18h00"},
+    {"id": "soir", "label": "Soirée & écrans", "heure": "20h00"},
+    {"id": "nuit", "label": "La nuit, sans y penser", "heure": "0h00"},
+    {"id": "week-end", "label": "Le week-end", "heure": "samedi"},
+    {"id": "mensuel", "label": "Chaque mois : factures & abonnements", "heure": "le 5"},
+    {"id": "occasionnel", "label": "De temps en temps", "heure": "parfois"}
+  ],
+  "natures": [
+    {"id": "direct", "label": "Contact direct"},
+    {"id": "invisible", "label": "Intermédiaire invisible"},
+    {"id": "public", "label": "Service public"}
+  ],
+  "statuts": [
+    {"id": "cote", "label": "Coté en bourse"},
+    {"id": "prive", "label": "Privé non coté"},
+    {"id": "familial", "label": "Familial / personne"},
+    {"id": "fonds", "label": "Fonds d'investissement"},
+    {"id": "public", "label": "Public"},
+    {"id": "cooperatif", "label": "Coopératif"},
+    {"id": "mutualiste", "label": "Mutualiste"},
+    {"id": "associatif", "label": "Associatif"}
+  ]
+}

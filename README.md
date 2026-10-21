@@ -84,3 +84,23 @@ secrets:
 `0444` et non `0400` : le mode est reporte tel quel dans le conteneur, ou le
 worker tourne en utilisateur non privilegie. Sur l'hote, c'est le repertoire
 (0700 root) qui protege le secret.
+
+## Site « Le Français lambda et ses entreprises »
+
+Le dépôt porte aussi un site statique, publié par GitHub Pages, qui recense
+les entreprises qu'un Français moyen croise au quotidien : marque → entreprise
+exploitante → chaîne de contrôle → actionnaires (avec leur nationalité).
+Il est indépendant du worker : rien ne tourne sur le VPS pour lui.
+
+| chemin | rôle |
+|---|---|
+| `docs/data/categories.json` | postes de vie, catégories, moments de la journée, listes de référence |
+| `docs/data/groupes.json` | entreprises, groupes, familles, États, fonds : siège, statut, actionnaires, parent |
+| `docs/data/marques.json` | marques et services, rattachés à leur exploitant |
+| `docs/index.html`, `docs/js/` | le site : journée type, liste, graphe, soleil, flux, carte, classement |
+| `scripts/validate_data.py` | contrôle de cohérence, exécuté par GitHub Actions avant chaque publication |
+| `.github/workflows/pages.yml` | validation puis déploiement sur GitHub Pages |
+
+Corriger ou ajouter une entrée : éditer les JSON, pousser sur `main`. Le
+workflow refuse de publier si un identifiant est en double, une référence
+cassée, une nationalité d'actionnaire absente ou une source manquante.
