@@ -1966,6 +1966,26 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "aquarelle",
+  "nom": "Aquarelle.com Group",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille de Maublanc",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Fleuriste en ligne fondé en 1997 par les frères de Maublanc.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aquarelle.com_Group",
+   "https://www.lagazettefrance.fr/article/aquarelle-com-l-eternel-pouvoir-des-fleurs"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Actionnariat détaillé à confirmer."
+ },
+ {
   "id": "aramis-group",
   "nom": "Aramis Group",
   "pays_siege": "FR",
@@ -2569,6 +2589,25 @@
    "https://www.abcbourse.com/marches/auchan-va-disparaitre-en-france-tous-ses-supermarches-deviendront-intermarche-e_681165"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "august-storck",
+  "nom": "August Storck",
+  "pays_siege": "DE",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Storck/Oberwelland",
+    "type": "famille",
+    "pays": "DE"
+   }
+  ],
+  "description": "Confiseur allemand familial (merci, Toffifee, Werther's).",
+  "sources": [
+   "https://www.storck.com/"
+  ],
+  "verifie_le": "2026-10",
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer"
  },
  {
   "id": "aura-retail",
@@ -4005,6 +4044,25 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "bollinger",
+  "nom": "Société Jacques Bollinger",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Bollinger",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Groupe familial champenois (Bollinger, Ayala).",
+  "sources": [
+   "https://www.champagne-bollinger.com/"
+  ],
+  "verifie_le": "2026-10",
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer"
+ },
+ {
   "id": "bollore",
   "nom": "Bolloré SE",
   "pays_siege": "FR",
@@ -4427,6 +4485,39 @@
    "https://investors.brinks.com"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "brittany-ferries",
+  "nom": "Brittany Ferries",
+  "pays_siege": "FR",
+  "statut": "prive",
+  "actionnaires": [
+   {
+    "nom": "Coopératives agricoles bretonnes (Sica Participations, Cerafel…)",
+    "part_pct": 75.0,
+    "type": "societaires",
+    "pays": "FR"
+   },
+   {
+    "nom": "CMA CGM",
+    "id": "cma-cgm",
+    "part_pct": 12.0,
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "CCI bretonnes",
+    "type": "public",
+    "pays": "FR"
+   }
+  ],
+  "description": "Compagnie de ferries bretonne (Manche, Espagne, Irlande), fondée par des agriculteurs.",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/brittany-ferries-accueille-huit-nouveaux-actionnaires-son-capital-2102628",
+   "https://www.lechotouristique.com/article/brittany-ferries-ouvre-son-capital-a-huit-nouveaux-actionnaires-bretons"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Parts avant/après ouverture du capital 2024-2025 — à confirmer."
  },
  {
   "id": "britvic",
@@ -5209,6 +5300,26 @@
    "https://fr.wikipedia.org/wiki/Caudalie"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "cb-expansion",
+  "nom": "CB Expansion (groupe Buton)",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Buton",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Groupe familial de Pornic (Christian Buton), pôle chocolat-confiserie Saveurs et Délices (Réauté, Monbana, Maffren).",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/la-recette-du-groupe-buton-pour-croquer-le-marche-du-chocolat-131209",
+   "https://www.lsa-conso.fr/reaute-chocolat-le-groupe-buton-nous-apporte-beaucoup-de-synergies-entre-biscuits-et-chocolats-video,234345"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Sources 2015-2018 ; actionnariat actuel à confirmer."
  },
  {
   "id": "ccep",
@@ -6520,6 +6631,44 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "compagnie-du-bois-sauvage",
+  "nom": "Compagnie du Bois Sauvage",
+  "pays_siege": "BE",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Famille Paquot (via holdings)",
+    "type": "famille",
+    "pays": "BE"
+   },
+   {
+    "nom": "Flottant",
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Holding belge cotée, propriétaire du pôle chocolatier Neuhaus, Jeff de Bruges, Corné Port-Royal.",
+  "sources": [
+   "https://www.bois-sauvage.be/en/detail/?id=1402113",
+   "https://www.bois-sauvage.be/wp-content/uploads/2023/03/CBS2022FR.pdf"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Contrôle familial (famille Paquot) décrit par des sources tierces — pourcentage à confirmer."
+ },
+ {
+  "id": "compagnie-loueurs-skis",
+  "nom": "La Compagnie des Loueurs de Skis",
+  "pays_siege": "FR",
+  "statut": "prive",
+  "actionnaires": [],
+  "description": "Premier réseau de location de skis (Skiset, Skimium, Netski, Go Sport Montagne).",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/skimium-integre-le-groupe-la-compagnie-des-loueurs-de-skis-1563574"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Actionnaires non trouvés — à confirmer."
+ },
+ {
   "id": "compass",
   "nom": "Compass Group",
   "pays_siege": "GB",
@@ -6549,6 +6698,26 @@
    "https://www.completude.com/"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "comtesse-du-barry",
+  "nom": "Comtesse du Barry",
+  "pays_siege": "FR",
+  "statut": "prive",
+  "actionnaires": [
+   {
+    "nom": "Consortium d'entrepreneurs (dont Ariane Daguin)",
+    "type": "personne",
+    "pays": "FR"
+   }
+  ],
+  "description": "Épicerie fine de Gimont (foie gras, conserves), réseau de boutiques.",
+  "sources": [
+   "https://www.lsa-conso.fr/la-comtesse-du-barry/",
+   "https://en.wikipedia.org/wiki/Comtesse_du_Barry_(company)"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Cédée par Maïsadour le 31 mars 2026 selon LSA — composition du consortium à confirmer."
  },
  {
   "id": "concentrix",
@@ -7559,6 +7728,30 @@
    "https://www.derichebourg.com"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "desjoyaux",
+  "nom": "Piscines Desjoyaux",
+  "pays_siege": "FR",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Famille Desjoyaux",
+    "type": "famille",
+    "pays": "FR"
+   },
+   {
+    "nom": "Flottant",
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Constructeur de piscines enterrées (Loire), réseau de concessionnaires.",
+  "sources": [
+   "https://ac-franchise.com/article/desjoyaux-60-ans-de-piscines-made-in-loire-et-lambition-dune-souverainete-industrielle-totale"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Part familiale et maintien de la cotation à confirmer."
  },
  {
   "id": "dessange-international",
@@ -8768,6 +8961,31 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "emova",
+  "nom": "Emova Group",
+  "pays_siege": "FR",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Emova Holding",
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "Flottant",
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Réseau de fleuristes franchisés (Monceau Fleurs, Cœur de Fleurs ex-Rapid'Flore, Au Nom de la Rose).",
+  "sources": [
+   "https://site.financialmodelingprep.com/news/ALEMV.PA",
+   "https://www.observatoiredelafranchise.fr/indiscretions-actualite/MONCEAU-FLEURS-emova-group-va-racheter-au-nom-de-la-rose-61209.htm"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Part d'Emova Holding non trouvée — à confirmer."
+ },
+ {
   "id": "empruntis",
   "nom": "Empruntis",
   "pays_siege": "FR",
@@ -8966,6 +9184,26 @@
    "https://epicompany.eu"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "epi-descours",
+  "nom": "EPI (famille Descours)",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Descours",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Société d'investissement de la famille Descours (Piper-Heidsieck, Charles Heidsieck, Rare, J.M. Weston, Bonpoint).",
+  "sources": [
+   "https://www.decanter.com/wine-news/piper-heidsieck-and-charles-heidsieck-sale-to-epi-completed-38486/",
+   "https://www.meininger.de/weinwirtschaft/champagne/neuer-champagner-chef-fuer-epi"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Id distinct de `epi` (European Payments Initiative)."
  },
  {
   "id": "epic-games",
@@ -9217,6 +9455,24 @@
   "description": "État du Qatar, via ses véhicules d'investissement.",
   "sources": [
    "https://www.qia.qa/"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
+  "id": "euralis",
+  "nom": "Euralis",
+  "pays_siege": "FR",
+  "statut": "cooperatif",
+  "actionnaires": [
+   {
+    "nom": "Agriculteurs adhérents",
+    "type": "societaires",
+    "pays": "FR"
+   }
+  ],
+  "description": "Coopérative agricole du Sud-Ouest (Euralis Gastronomie : Rougié, Montfort).",
+  "sources": [
+   "https://www.reussir.fr/lesmarches/les-fondamentaux-du-foie-gras-selon-euralis"
   ],
   "verifie_le": "2026-10"
  },
@@ -11436,6 +11692,19 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "festival-d-avignon",
+  "nom": "Festival d'Avignon",
+  "pays_siege": "FR",
+  "statut": "associatif",
+  "actionnaires": [],
+  "description": "Association subventionnée (État, collectivités) organisant le festival de théâtre.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Festival_d%27Avignon"
+  ],
+  "verifie_le": "2026-10",
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer"
+ },
+ {
   "id": "feu-vert",
   "nom": "Feu Vert",
   "pays_siege": "FR",
@@ -11494,6 +11763,31 @@
    "https://www.fiducial.fr"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "fila",
+  "nom": "F.I.L.A. (Fabbrica Italiana Lapis ed Affini)",
+  "pays_siege": "IT",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Pencil S.p.A. (famille Candela)",
+    "type": "famille",
+    "pays": "IT"
+   },
+   {
+    "nom": "Flottant",
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Groupe italien coté d'articles de dessin et d'écriture (Canson, Giotto, Daler-Rowney).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/F.I.L.A._(company)",
+   "https://investors.filagroup.it/files/press_release/F-I-L-A-S-p-A-Canson-acquisition.pdf"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Actionnaire de contrôle : rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer"
  },
  {
   "id": "fimalac",
@@ -11670,6 +11964,25 @@
    "https://www.floabank.fr"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "florajet",
+  "nom": "Florajet",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Lefrancq",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Réseau de transmission florale (Vaucluse).",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/florajet-change-de-tete-et-dimage-2112917"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Actionnariat détaillé à confirmer."
  },
  {
   "id": "flutter",
@@ -12705,6 +13018,25 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "gillardeau",
+  "nom": "Maison Gillardeau",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Gillardeau",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Ostréiculteur familial de Marennes-Oléron fondé en 1898.",
+  "sources": [
+   "https://maisongillardeau.fr/en",
+   "https://bendbulletin.com/2008/10/27/french-family-dynasty-reinvents-the-oyster"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "gip",
   "nom": "Global Infrastructure Partners",
   "pays_siege": "US",
@@ -13569,6 +13901,25 @@
    "https://fr.wikipedia.org/wiki/Heineken_Holding"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "hellfest-productions",
+  "nom": "Hellfest Productions",
+  "pays_siege": "FR",
+  "statut": "prive",
+  "actionnaires": [
+   {
+    "nom": "Ben Barbaud et associés",
+    "type": "personne",
+    "pays": "FR"
+   }
+  ],
+  "description": "Société organisatrice du festival Hellfest (Clisson), fondée par Ben Barbaud.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hellfest"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Forme juridique et capital à confirmer."
  },
  {
   "id": "hellowork-group",
@@ -14584,6 +14935,27 @@
    "https://www.intc.com/"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "interflora-france",
+  "nom": "Interflora France (MyFlower)",
+  "pays_siege": "FR",
+  "statut": "fonds",
+  "actionnaires": [
+   {
+    "nom": "PAI Partners",
+    "id": "pai-partners",
+    "type": "fonds",
+    "pays": "FR"
+   }
+  ],
+  "description": "Réseau de transmission florale et vente de fleurs en ligne.",
+  "sources": [
+   "https://www.consultor.fr/articles/vente-d-interflora-indefi-cote-acheteur-roland-berger-cote-vendeur",
+   "https://autoritedelaconcurrence.fr/fr/entityprint/pdf/node/7635"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Rachat par PAI autorisé par l'AdlC en février 2021 ; actionnariat actuel à confirmer."
  },
  {
   "id": "international-distribution-services",
@@ -16026,6 +16398,38 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "labeyrie-fine-foods",
+  "nom": "Labeyrie Fine Foods",
+  "pays_siege": "FR",
+  "statut": "fonds",
+  "actionnaires": [
+   {
+    "nom": "LB PAI Holdco — Lur Berri (≈50 % de la holding)",
+    "id": "lur-berri",
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "LB PAI Holdco — PAI Partners (≈50 % de la holding)",
+    "id": "pai-partners",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Management",
+    "type": "salaries",
+    "pays": "FR"
+   }
+  ],
+  "description": "Groupe de produits festifs : foie gras, saumon fumé, blinis (Labeyrie, Blini, Delpierre).",
+  "sources": [
+   "https://www.paipartners.com/mediaitem/lur-berri-and-pai-partners-to-become-joint-venture-partners-in-labeyrie-fine-foods/",
+   "https://www.agra.fr/agra-innovation/pai-partners-souhaiterait-ceder-sa-participation-dans-labeyrie"
+  ],
+  "verifie_le": "2026-10",
+  "note": "La holding LB PAI contrôlerait ~86 % ; PAI cherchait à céder sa part : situation actuelle à confirmer."
+ },
+ {
   "id": "lactalis",
   "nom": "Groupe Lactalis",
   "pays_siege": "FR",
@@ -16135,6 +16539,30 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "lanson-bcc",
+  "nom": "Lanson-BCC",
+  "pays_siege": "FR",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Familles fondatrices (Paillard, Boizel, Baijot)",
+    "part_pct": 90.8,
+    "type": "famille",
+    "pays": "FR"
+   },
+   {
+    "nom": "Flottant",
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Groupe champenois coté sur Euronext Growth (Lanson, Philipponnat, Chanoine, Boizel, Heidsieck & C° Monopole…).",
+  "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2026/01/FCECO080645_20260109.pdf"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "lapeyre",
   "nom": "Lapeyre",
   "pays_siege": "FR",
@@ -16208,6 +16636,32 @@
    "https://www.cfnews.net/L-actualite/LBO/Operations/Refinancement/Un-financement-fait-battre-le-coeur-de-Funecap-549567"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "laurent-perrier",
+  "nom": "Laurent-Perrier",
+  "pays_siege": "FR",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Famille de Nonancourt",
+    "part_pct": 65.0,
+    "type": "famille",
+    "pays": "FR"
+   },
+   {
+    "nom": "Flottant",
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Groupe champenois coté (Laurent-Perrier, Salon, Delamotte).",
+  "sources": [
+   "https://www.shankennewsdaily.com/?p=17130",
+   "https://placera.se/analys/rean-pa-champagneaktien-racker-inte-2023-07-10"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Part familiale 60-65 % selon les dates — à confirmer."
  },
  {
   "id": "lavazza",
@@ -16638,6 +17092,26 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "leonidas",
+  "nom": "Confiserie Leonidas",
+  "pays_siege": "BE",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Descendants de Leonidas Kestekides",
+    "type": "famille",
+    "pays": "BE"
+   }
+  ],
+  "description": "Chocolatier belge (réseau de boutiques, franchises en France).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leonidas_(chocolate_maker)",
+   "https://www.retaildetail.eu/news/food/leonidas-record-turnover-but-profits-under-pressure/"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Répartition du capital non publiée — à confirmer."
+ },
+ {
   "id": "les-3-brasseurs",
   "nom": "Les 3 Brasseurs",
   "pays_siege": "FR",
@@ -16986,6 +17460,36 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "listel-sa",
+  "nom": "Listel SA",
+  "pays_siege": "FR",
+  "statut": "prive",
+  "groupe_parent": "castel",
+  "actionnaires": [
+   {
+    "nom": "Groupe Castel",
+    "id": "castel",
+    "part_pct": 50.0,
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "Vranken-Pommery Monopole",
+    "id": "vranken-pommery",
+    "part_pct": 50.0,
+    "type": "groupe",
+    "pays": "FR"
+   }
+  ],
+  "description": "Coentreprise de vins rosés (Listel, Billette).",
+  "sources": [
+   "https://www.lsa-conso.fr/castel-et-vranken-pommery-officialise-la-naissance-de-listel-futur-leader-mondial-des-vins-roses,168460",
+   "https://www.meininger.de/wein/personal/castel-strukturiert-um"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Répartition 50/50 de 2014 ; en 2026 Listel est présenté dans la division vins de Castel — à confirmer."
+ },
+ {
   "id": "live-nation",
   "nom": "Live Nation Entertainment",
   "pays_siege": "US",
@@ -17290,6 +17794,24 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "lur-berri",
+  "nom": "Lur Berri",
+  "pays_siege": "FR",
+  "statut": "cooperatif",
+  "actionnaires": [
+   {
+    "nom": "Agriculteurs adhérents",
+    "type": "societaires",
+    "pays": "FR"
+   }
+  ],
+  "description": "Coopérative agricole basque, coactionnaire de Labeyrie Fine Foods.",
+  "sources": [
+   "https://www.lsa-conso.fr/acquisition-lur-berri-prend-le-controle-de-labeyrie,127626"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "lush",
   "nom": "Lush",
   "pays_siege": "GB",
@@ -17590,6 +18112,43 @@
    "https://www.maif.fr"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "maisadour",
+  "nom": "Maïsadour",
+  "pays_siege": "FR",
+  "statut": "cooperatif",
+  "actionnaires": [
+   {
+    "nom": "Agriculteurs adhérents",
+    "type": "societaires",
+    "pays": "FR"
+   }
+  ],
+  "description": "Coopérative agricole landaise (canard, Delpeyrat).",
+  "sources": [
+   "https://www.lemondedudroit.fr/deals/75854-racine-conseille-mvvh-pole-gastronomique-du-groupe-maisadour-dans-la-cession-des-societes-delpeyrat-chevallier-salaisons-pyreneennes-et-harraguy-a-fipso.html"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
+  "id": "maison-duboeuf",
+  "nom": "Maison Georges Dubœuf",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Dubœuf",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Négociant-éleveur du Beaujolais, figure du beaujolais nouveau.",
+  "sources": [
+   "https://www.duboeuf.com/en/?p=3466"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Actionnariat détaillé non trouvé — à confirmer."
  },
  {
   "id": "maisons-du-monde",
@@ -19371,6 +19930,26 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "norac",
+  "nom": "Groupe Norac",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille fondatrice (Bruno Caron)",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Groupe agroalimentaire breton (pâtisseries, crêpes Whaou!, La Boulangère).",
+  "sources": [
+   "https://dubocalalassiette.fr/blog/crepes-whaou-groupe/",
+   "https://www.lejournaldesentreprises.com/article/christian-faure-quitte-crepes-whaou-277172"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Actionnariat : rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer"
+ },
+ {
   "id": "north-atlantic",
   "nom": "North Atlantic (groupe canadien)",
   "pays_siege": "CA",
@@ -20202,6 +20781,38 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "pandora",
+  "nom": "Pandora A/S",
+  "pays_siege": "DK",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Parvus Asset Management",
+    "part_pct": 10.25,
+    "type": "fonds",
+    "pays": "GB"
+   },
+   {
+    "nom": "BlackRock",
+    "id": "blackrock",
+    "part_pct": 9.99,
+    "type": "fonds",
+    "pays": "US"
+   },
+   {
+    "nom": "Flottant",
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Joaillier danois coté (bracelets à charms).",
+  "sources": [
+   "https://www.nasdaq.com/press-release/major-shareholder-announcement-2025-09-18",
+   "https://www.placera.se/pressmeddelanden/pandora-major-shareholder-announcement-20250619"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "panzani",
   "nom": "Panzani",
   "pays_siege": "FR",
@@ -20801,6 +21412,25 @@
    "https://fr.wikipedia.org/wiki/Groupe_Pierre_%26_Vacances-Center_Parcs"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "pilot-corporation",
+  "nom": "Pilot Corporation",
+  "pays_siege": "JP",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Flottant",
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Fabricant japonais coté d'instruments d'écriture (FriXion).",
+  "sources": [
+   "https://www.pilot.co.jp/"
+  ],
+  "verifie_le": "2026-10",
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer"
  },
  {
   "id": "pinterest",
@@ -22156,6 +22786,32 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "rossignol-group",
+  "nom": "Groupe Rossignol",
+  "pays_siege": "FR",
+  "statut": "fonds",
+  "actionnaires": [
+   {
+    "nom": "Altor",
+    "part_pct": 80.0,
+    "type": "fonds",
+    "pays": "SE"
+   },
+   {
+    "nom": "Management et minoritaires",
+    "type": "autre",
+    "pays": "XX"
+   }
+  ],
+  "description": "Fabricant d'équipements de ski (Rossignol, Dynastar, Look, Lange).",
+  "sources": [
+   "https://altor.com/altor-to-acquire-rossignol-group/",
+   "https://www.snowindustrynews.com/articles/rossignol-to-close-historic-dynastar-factory-in-sallanches"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Répartition de 2013 ; actionnariat 2026 à confirmer."
+ },
+ {
   "id": "rte",
   "nom": "RTE",
   "pays_siege": "FR",
@@ -23443,6 +24099,24 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "snmsf",
+  "nom": "Syndicat national des moniteurs du ski français",
+  "pays_siege": "FR",
+  "statut": "associatif",
+  "actionnaires": [
+   {
+    "nom": "Moniteurs adhérents",
+    "type": "societaires",
+    "pays": "FR"
+   }
+  ],
+  "description": "Syndicat professionnel fédérant ~200 Écoles du ski français (≈16 000 moniteurs).",
+  "sources": [
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/2026-03/Diapo_ESF_ADLCweb_FR.pdf"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "societe-generale",
   "nom": "Société Générale",
   "pays_siege": "FR",
@@ -23618,6 +24292,18 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "solidarite-sida",
+  "nom": "Solidarité Sida",
+  "pays_siege": "FR",
+  "statut": "associatif",
+  "actionnaires": [],
+  "description": "Association organisatrice du festival Solidays.",
+  "sources": [
+   "https://leclaireur.fnac.com/article/297136-festivalmania-episode-2-les-festivals-de-musique-en-france/"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "sonos",
   "nom": "Sonos",
   "pays_siege": "US",
@@ -23789,6 +24475,30 @@
    "https://journalauto.com/industrie/bridgestone-prend-le-controle-de-speedy/"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "spin-master",
+  "nom": "Spin Master",
+  "pays_siege": "CA",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Fondateurs (Ronnen Harary, Anton Rabie)",
+    "type": "personne",
+    "pays": "CA"
+   },
+   {
+    "nom": "Flottant",
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Fabricant canadien de jouets (Pat' Patrouille).",
+  "sources": [
+   "https://www.spinmaster.com/"
+  ],
+  "verifie_le": "2026-10",
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer"
  },
  {
   "id": "sport-2000",
@@ -24410,6 +25120,26 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "taittinger",
+  "nom": "Champagne Taittinger",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Taittinger",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Maison de champagne familiale rachetée par la famille en 2006.",
+  "sources": [
+   "https://www.forbes.be/fr/saga-taittinger-heritiere-vitalie-maison-champagne/",
+   "https://cluboenologique.com/story/vitalie-taittinger-took-control-champagne-house/"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Partenaires financiers éventuels (banque régionale au rachat de 2006) à confirmer."
+ },
+ {
   "id": "tcl",
   "nom": "TCL",
   "pays_siege": "CN",
@@ -24708,6 +25438,25 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "tevc",
+  "nom": "Terroirs et Vignerons de Champagne",
+  "pays_siege": "FR",
+  "statut": "cooperatif",
+  "actionnaires": [
+   {
+    "nom": "Vignerons coopérateurs (≈6 000)",
+    "type": "societaires",
+    "pays": "FR"
+   }
+  ],
+  "description": "Union coopérative champenoise (Nicolas Feuillatte, Castelnau, Henriot).",
+  "sources": [
+   "https://www.decanter.com/wine-news/major-champagne-merger-for-nicolas-feuillatte-to-go-ahead-471088/",
+   "https://www.lemondedudroit.fr/deals/89506-aramis-conseille-tevc-terroirs-et-vignerons-de-champagne-dans-le-cadre-de-l-acquisition-de-champagne-henriot-aupres-d-artemis-domaines.html"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "tf1",
   "nom": "Groupe TF1",
   "pays_siege": "FR",
@@ -24797,6 +25546,25 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "thienot",
+  "nom": "Groupe Thiénot (Arvitis)",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Thiénot",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Groupe familial d'Alain Thiénot (Thiénot, Canard-Duchêne, Joseph Perrier, Marie Stuart, Dourthe).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Canard-Duch%C3%AAne",
+   "https://www.thedrinksbusiness.com/2026/01/ambitious-plans-afoot-for-champagne-canard-duchene-in-uk/"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "thiriet",
   "nom": "Thiriet",
   "pays_siege": "FR",
@@ -24813,6 +25581,31 @@
    "https://fr.wikipedia.org/wiki/Thiriet_(entreprise)"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "thom-group",
+  "nom": "THOM Group",
+  "pays_siege": "FR",
+  "statut": "fonds",
+  "actionnaires": [
+   {
+    "nom": "Altamir",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Fonds gérés par Amboise Partners",
+    "type": "fonds",
+    "pays": "FR"
+   }
+  ],
+  "description": "Leader européen de la bijouterie (Histoire d'Or, Marc Orian, TrésOr, Stroili).",
+  "sources": [
+   "https://bridgepointgroup.com/private-equity/portfolio/middle-market/consumer/groupe-thom",
+   "https://thomgroup.com/wp-content/uploads/2026/01/THOM-Group-RA2025-260120-MD.pdf"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Rachat 2021 ; répartition actuelle à confirmer."
  },
  {
   "id": "tolomei",
@@ -25569,6 +26362,25 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "urgo",
+  "nom": "Urgo Healthcare",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Le Lous",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Laboratoire familial dijonnais (Urgo, Humex, Alvityl).",
+  "sources": [
+   "https://www.lequotidiendupharmacien.fr/formation/specialites-medicales/une-grande-bouffee-dhumex"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Contrôle familial : à confirmer."
+ },
+ {
   "id": "urssaf",
   "nom": "Urssaf",
   "pays_siege": "FR",
@@ -25861,6 +26673,25 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "vf-corporation",
+  "nom": "VF Corporation",
+  "pays_siege": "US",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Flottant",
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Groupe américain coté d'habillement et bagagerie (The North Face, Vans, Eastpak).",
+  "sources": [
+   "https://www.vfc.com/"
+  ],
+  "verifie_le": "2026-10",
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer"
+ },
+ {
   "id": "viatris",
   "nom": "Viatris",
   "pays_siege": "US",
@@ -25875,6 +26706,18 @@
   "description": "Laboratoire de génériques et marques matures (ex-Mylan).",
   "sources": [
    "https://investor.viatris.com"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
+  "id": "vieilles-charrues-asso",
+  "nom": "Association Les Vieilles Charrues",
+  "pays_siege": "FR",
+  "statut": "associatif",
+  "actionnaires": [],
+  "description": "Association organisatrice du festival de Carhaix.",
+  "sources": [
+   "https://leclaireur.fnac.com/article/297136-festivalmania-episode-2-les-festivals-de-musique-en-france/"
   ],
   "verifie_le": "2026-10"
  },
@@ -26270,6 +27113,33 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "vranken-pommery",
+  "nom": "Vranken-Pommery Monopole",
+  "pays_siege": "FR",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Compagnie Vranken (Paul-François Vranken)",
+    "part_pct": 70.93,
+    "type": "famille",
+    "pays": "FR"
+   },
+   {
+    "nom": "Flottant",
+    "part_pct": 28.48,
+    "type": "flottant",
+    "pays": "XX"
+   }
+  ],
+  "description": "Groupe champenois coté (Pommery, Vranken, Charles Lafitte).",
+  "sources": [
+   "https://www.boerse.de/unternehmensprofil/VRANKEN-POMMONINH-Aktie/FR0000062796",
+   "https://live.euronext.com/en/products/equities/company-news/2024-12-17-repeat-financial-press-release-governance-evolution"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Répartition non datée (boerse.de) — à confirmer."
+ },
+ {
   "id": "vtech",
   "nom": "VTech Holdings",
   "pays_siege": "HK",
@@ -26368,6 +27238,25 @@
   "description": "Fabricant du lubrifiant WD-40.",
   "sources": [
    "https://investor.wd40company.com/"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
+  "id": "weber-inc",
+  "nom": "Weber (Weber Blackstone)",
+  "pays_siege": "US",
+  "statut": "fonds",
+  "actionnaires": [
+   {
+    "nom": "BDT Capital Partners",
+    "type": "fonds",
+    "pays": "US"
+   }
+  ],
+  "description": "Fabricant de barbecues, retiré de la Bourse en 2023, fusionné avec Blackstone Products en 2025.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weber_Inc.",
+   "https://www.businesswire.com/news/home/20230220005342/en"
   ],
   "verifie_le": "2026-10"
  },
@@ -26751,6 +27640,25 @@
    "https://www.yara.com/investor-relations/"
   ],
   "verifie_le": "2026-10"
+ },
+ {
+  "id": "yelloh-village",
+  "nom": "Yelloh! Village",
+  "pays_siege": "FR",
+  "statut": "prive",
+  "actionnaires": [
+   {
+    "nom": "Propriétaires de campings fondateurs",
+    "type": "autre",
+    "pays": "FR"
+   }
+  ],
+  "description": "Réseau de campings haut de gamme en franchise, créé en 2000 par des propriétaires de campings.",
+  "sources": [
+   "https://hospitality-on.com/fr/hotellerie-de-plein-air/etienne-page-chez-yelloh-village-cest-avant-tout-une-affaire-de-familles"
+  ],
+  "verifie_le": "2026-10",
+  "note": "Actionnariat à confirmer."
  },
  {
   "id": "yellow-wood-partners",

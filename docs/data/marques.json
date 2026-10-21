@@ -2168,6 +2168,25 @@
   ]
  },
  {
+  "id": "bollinger-champagne",
+  "marque": "Bollinger",
+  "groupe": "bollinger",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.champagne-bollinger.com/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
   "id": "bombay-sapphire",
   "marque": "Bombay Sapphire",
   "groupe": "bacardi",
@@ -2227,6 +2246,25 @@
   ]
  },
  {
+  "id": "canard-duchene",
+  "marque": "Canard-Duchêne",
+  "groupe": "thienot",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Canard-Duch%C3%AAne"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
   "id": "caprisun",
   "marque": "Capri-Sun",
   "groupe": "capri-sun-group",
@@ -2273,6 +2311,25 @@
   ]
  },
  {
+  "id": "castelnau-champagne",
+  "marque": "Champagne Castelnau",
+  "groupe": "tevc",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.decanter.com/wine-news/nicolas-feuillatte-owner-poised-to-purchase-champagne-henriot-500575/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
   "id": "champomy",
   "marque": "Champomy",
   "groupe": "suntory-beverage-food",
@@ -2288,6 +2345,29 @@
    "https://fr.wikipedia.org/wiki/Pampryl",
    "https://fr.wikipedia.org/wiki/Pulco",
    "https://www.orangina-suntory.fr/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
+  "id": "charles-heidsieck",
+  "marque": "Charles Heidsieck",
+  "groupe": "epi-descours",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.decanter.com/wine-news/piper-heidsieck-and-charles-heidsieck-sale-to-epi-completed-38486/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -2491,6 +2571,10 @@
   ],
   "sources": [
    "https://www.lvmh.fr/maisons/vins-spiritueux/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -2588,6 +2672,25 @@
   "sources": [
    "https://investors.coca-colacompany.com/",
    "https://fr.wikipedia.org/wiki/Coca-Cola_Europacific_Partners"
+  ]
+ },
+ {
+  "id": "georges-duboeuf",
+  "marque": "Georges Dubœuf",
+  "groupe": "maison-duboeuf",
+  "categorie": "boissons",
+  "sous_categorie": "Vin du Beaujolais (beaujolais nouveau)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.duboeuf.com/en/?p=3466"
+  ],
+  "saisons": [
+   "beaujolais",
+   "automne"
   ]
  },
  {
@@ -2742,6 +2845,25 @@
   ]
  },
  {
+  "id": "heidsieck-monopole",
+  "marque": "Heidsieck & C° Monopole",
+  "groupe": "lanson-bcc",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Racheté 100 % par Lanson-BCC le 5 janvier 2026 (50 M€).",
+  "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2026/01/FCECO080645_20260109.pdf"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
   "id": "heineken-m",
   "marque": "Heineken",
   "groupe": "heineken",
@@ -2784,6 +2906,25 @@
   ],
   "sources": [
    "https://www.lvmh.fr/maisons/vins-spiritueux/"
+  ]
+ },
+ {
+  "id": "henriot",
+  "marque": "Henriot",
+  "groupe": "tevc",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Acquis auprès d'Artémis Domaines.",
+  "sources": [
+   "https://www.lemondedudroit.fr/deals/89506-aramis-conseille-tevc-terroirs-et-vignerons-de-champagne-dans-le-cadre-de-l-acquisition-de-champagne-henriot-aupres-d-artemis-domaines.html"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -2893,6 +3034,25 @@
   ]
  },
  {
+  "id": "joseph-perrier",
+  "marque": "Joseph Perrier",
+  "groupe": "thienot",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Canard-Duch%C3%AAne"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
   "id": "jp-chenet",
   "marque": "JP Chenet",
   "groupe": "grands-chais-de-france",
@@ -2905,6 +3065,26 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Grands_Chais_de_France"
+  ]
+ },
+ {
+  "id": "kriter",
+  "marque": "Kriter",
+  "groupe": "castel",
+  "categorie": "boissons",
+  "sous_categorie": "Vin effervescent",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Via Patriarche (Kriter Brut de Brut), racheté par Castel en 2011.",
+  "sources": [
+   "https://www.agra.fr/agra-innovation/castel-confirme-la-reprise-de-patriarche",
+   "https://www.meininger.de/wein/personal/castel-strukturiert-um"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -2921,6 +3101,25 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/Brasseries_Kronenbourg",
    "https://carlsberggroup.com/newsroom/carlsberg-group-completes-acquisition-of-britvic-plc/"
+  ]
+ },
+ {
+  "id": "krug",
+  "marque": "Krug",
+  "groupe": "moet-hennessy",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.lvmh.com/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -2951,6 +3150,44 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/La_Martiniquaise"
+  ]
+ },
+ {
+  "id": "lanson",
+  "marque": "Lanson",
+  "groupe": "lanson-bcc",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2025/07/FCECO078996_20250704.pdf"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
+  "id": "laurent-perrier-champagne",
+  "marque": "Laurent-Perrier",
+  "groupe": "laurent-perrier",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.shankennewsdaily.com/?p=17130"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -3014,6 +3251,25 @@
   ]
  },
  {
+  "id": "listel",
+  "marque": "Listel",
+  "groupe": "listel-sa",
+  "categorie": "boissons",
+  "sous_categorie": "Vin rosé",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "week-end"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.vitisphere.com/news-62428-castel-is-set-to-become-the-market-leader-for-rose-wines-with-the-acquisition-of-listel.html"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
   "id": "malesan",
   "marque": "Malesan",
   "groupe": "castel",
@@ -3071,6 +3327,25 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Bacardi"
+  ]
+ },
+ {
+  "id": "mercier",
+  "marque": "Mercier",
+  "groupe": "moet-hennessy",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.lvmh.com/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -3150,6 +3425,10 @@
   ],
   "sources": [
    "https://www.lvmh.fr/maisons/vins-spiritueux/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -3166,6 +3445,10 @@
   "note": "Pernod Ricard a annoncé en 2025 étudier la cession de ses maisons de vins ; statut des champagnes à vérifier.",
   "sources": [
    "https://www.pernod-ricard.com/fr/nos-marques"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -3212,6 +3495,25 @@
   "note": "Premier réseau de cavistes en France (≈500 boutiques).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Nicolas_(entreprise)"
+  ]
+ },
+ {
+  "id": "nicolas-feuillatte",
+  "marque": "Nicolas Feuillatte",
+  "groupe": "tevc",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.decanter.com/wine-news/major-champagne-merger-for-nicolas-feuillatte-to-go-ahead-471088/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -3281,6 +3583,9 @@
   ],
   "sources": [
    "https://www.pernod-ricard.com/fr/nos-marques"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -3343,6 +3648,29 @@
   "note": "Pernod Ricard a annoncé en 2025 étudier la cession de ses maisons de vins ; statut des champagnes à vérifier.",
   "sources": [
    "https://www.pernod-ricard.com/fr/nos-marques"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
+  "id": "piper-heidsieck",
+  "marque": "Piper-Heidsieck",
+  "groupe": "epi-descours",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.decanter.com/wine-news/piper-heidsieck-and-charles-heidsieck-sale-to-epi-completed-38486/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -3358,6 +3686,25 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/La_Martiniquaise"
+  ]
+ },
+ {
+  "id": "pommery",
+  "marque": "Pommery",
+  "groupe": "vranken-pommery",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/entreprise/vranken-pommery-monopole"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -3484,6 +3831,9 @@
   ],
   "sources": [
    "https://www.pernod-ricard.com/fr/nos-marques"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -3528,6 +3878,10 @@
   ],
   "sources": [
    "https://www.lvmh.fr/maisons/vins-spiritueux/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -3752,6 +4106,25 @@
   ]
  },
  {
+  "id": "taittinger-champagne",
+  "marque": "Taittinger",
+  "groupe": "taittinger",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.forbes.be/fr/saga-taittinger-heritiere-vitalie-maison-champagne/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
   "id": "tanqueray",
   "marque": "Tanqueray",
   "groupe": "diageo",
@@ -3780,6 +4153,25 @@
   "note": "Britvic, racheté par Carlsberg (janvier 2025).",
   "sources": [
    "https://www.marketscreener.com/quote/stock/BRITVIC-9677176/news/Carlsberg-completes-GBP3-3-billion-takeover-of-Britvic-48800319/"
+  ]
+ },
+ {
+  "id": "thienot-champagne",
+  "marque": "Thiénot",
+  "groupe": "thienot",
+  "categorie": "boissons",
+  "sous_categorie": "Champagne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.decanter.com/wine-news/champagne-thienot-takes-major-stake-in-dourthe-89860"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -3886,6 +4278,10 @@
   ],
   "sources": [
    "https://www.lvmh.fr/maisons/vins-spiritueux/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -4637,6 +5033,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Carrefour_(entreprise)"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -4972,6 +5371,9 @@
   "note": "Exploitée par Le Bon Marché (LVMH).",
   "sources": [
    "https://fr.wikipedia.org/wiki/LVMH"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -5222,6 +5624,11 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Picard_Surgel%C3%A9s"
+  ],
+  "saisons": [
+   "epiphanie",
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -5267,6 +5674,9 @@
   "note": "Rattachement à Casino non revérifié en 2026.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Groupe_Casino"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -5342,6 +5752,10 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Thiriet_(entreprise)"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -5739,6 +6153,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Back_Market"
+  ],
+  "saisons": [
+   "black-friday"
   ]
  },
  {
@@ -5769,6 +6186,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/HTM_Group"
+  ],
+  "saisons": [
+   "black-friday"
   ]
  },
  {
@@ -5828,6 +6248,9 @@
   "note": "Inclut l'abonnement de réparation Darty Max.",
   "sources": [
    "https://www.globenewswire.com/news-release/2026/10/20/3384786/0/fr/fnac-darty-offre-publique-d-achat-initi%C3%A9e-par-ep-group-cl%C3%B4ture-de-l-offre-publique-le-9-novembre-2026.html"
+  ],
+  "saisons": [
+   "black-friday"
   ]
  },
  {
@@ -5856,6 +6279,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/HTM_Group"
+  ],
+  "saisons": [
+   "black-friday"
   ]
  },
  {
@@ -5886,6 +6312,10 @@
   "note": "OPA d'EP Group (Křetínský) en cours, clôture le 9 novembre 2026.",
   "sources": [
    "https://www.globenewswire.com/news-release/2026/10/20/3384786/0/fr/fnac-darty-offre-publique-d-achat-initi%C3%A9e-par-ep-group-cl%C3%B4ture-de-l-offre-publique-le-9-novembre-2026.html"
+  ],
+  "saisons": [
+   "black-friday",
+   "noel"
   ]
  },
  {
@@ -6112,6 +6542,9 @@
   ],
   "sources": [
    "https://www.groupe-ldlc.com/"
+  ],
+  "saisons": [
+   "black-friday"
   ]
  },
  {
@@ -6171,6 +6604,9 @@
   ],
   "sources": [
    "https://www.groupe-ldlc.com/"
+  ],
+  "saisons": [
+   "black-friday"
   ]
  },
  {
@@ -6231,6 +6667,10 @@
   ],
   "sources": [
    "https://www.nintendo.co.jp/ir/en/"
+  ],
+  "saisons": [
+   "black-friday",
+   "noel"
   ]
  },
  {
@@ -6310,6 +6750,10 @@
   "note": "Exploité par Sony Interactive Entertainment.",
   "sources": [
    "https://www.sony.com/en/SonyInfo/IR/"
+  ],
+  "saisons": [
+   "black-friday",
+   "noel"
   ]
  },
  {
@@ -6339,6 +6783,9 @@
   ],
   "sources": [
    "https://global.rakuten.com/corp/investors/"
+  ],
+  "saisons": [
+   "black-friday"
   ]
  },
  {
@@ -6474,6 +6921,10 @@
   ],
   "sources": [
    "https://www.microsoft.com/en-us/investor"
+  ],
+  "saisons": [
+   "black-friday",
+   "noel"
   ]
  },
  {
@@ -6534,6 +6985,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Antargaz"
+  ],
+  "saisons": [
+   "automne"
   ]
  },
  {
@@ -6576,6 +7030,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Butagaz"
+  ],
+  "saisons": [
+   "automne"
   ]
  },
  {
@@ -6994,6 +7451,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Picoty"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -7023,6 +7483,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Primagaz"
+  ],
+  "saisons": [
+   "automne"
   ]
  },
  {
@@ -7166,6 +7629,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/TotalEnergies"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -7282,6 +7748,9 @@
   ],
   "sources": [
    "https://corporate.asmodee.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7342,6 +7811,9 @@
   ],
   "sources": [
    "https://investors.mattel.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7356,6 +7828,9 @@
   ],
   "sources": [
    "https://www.humensis.com/"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7371,6 +7846,9 @@
   ],
   "sources": [
    "https://fr.bic.com/fr/investisseurs"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7385,6 +7863,9 @@
   ],
   "sources": [
    "https://www.editis.com/"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7401,6 +7882,24 @@
   "note": "Rattachement à Dorel non revérifié en 2026.",
   "sources": [
    "https://www.dorel.com/"
+  ]
+ },
+ {
+  "id": "canson",
+  "marque": "Canson",
+  "groupe": "fila",
+  "categorie": "enfance-education",
+  "sous_categorie": "Papier à dessin",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Racheté par F.I.L.A. à Hamelin en 2016 ; usine à Annonay.",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/normandie-le-groupe-hamelin-revend-la-marque-canson-litalien-fila-97720"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7431,6 +7930,9 @@
   ],
   "sources": [
    "https://www.exacomptaclairefontaine.fr/"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7476,6 +7978,45 @@
   ],
   "sources": [
    "https://www.djeco.com/"
+  ],
+  "saisons": [
+   "noel"
+  ]
+ },
+ {
+  "id": "eastpak",
+  "marque": "Eastpak",
+  "groupe": "vf-corporation",
+  "categorie": "enfance-education",
+  "sous_categorie": "Sacs à dos",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.vfc.com/"
+  ],
+  "saisons": [
+   "rentree"
+  ]
+ },
+ {
+  "id": "elba",
+  "marque": "Elba",
+  "groupe": "hamelin",
+  "categorie": "enfance-education",
+  "sous_categorie": "Classeurs",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.hamelinbrands.com/"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7505,6 +8046,9 @@
   ],
   "sources": [
    "https://www.hachette.com/"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7520,6 +8064,9 @@
   ],
   "sources": [
    "https://investor.hasbro.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7534,6 +8081,27 @@
   ],
   "sources": [
    "https://www.hachette.com/"
+  ],
+  "saisons": [
+   "rentree"
+  ]
+ },
+ {
+  "id": "hot-wheels",
+  "marque": "Hot Wheels",
+  "groupe": "mattel",
+  "categorie": "enfance-education",
+  "sous_categorie": "Jouets (voitures miniatures)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://corporate.mattel.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7564,6 +8132,9 @@
   ],
   "sources": [
    "https://www.janod.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7579,6 +8150,9 @@
   ],
   "sources": [
    "https://www.joueclub.fr/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7609,6 +8183,9 @@
   ],
   "sources": [
    "https://www.king-jouet.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7624,6 +8201,9 @@
   ],
   "sources": [
    "https://www.lagranderecre.fr/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7639,6 +8219,9 @@
   ],
   "sources": [
    "https://www.lego.com/fr-fr/aboutus/lego-group/ownership"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7668,6 +8251,9 @@
   ],
   "sources": [
    "https://www.albin-michel.fr/"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7683,6 +8269,9 @@
   ],
   "sources": [
    "https://www.maped.com/"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7697,6 +8286,9 @@
   ],
   "sources": [
    "https://www.editis.com/"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7742,6 +8334,27 @@
   ],
   "sources": [
    "https://www.hamelin.com/"
+  ],
+  "saisons": [
+   "rentree"
+  ]
+ },
+ {
+  "id": "paper-mate",
+  "marque": "Paper Mate",
+  "groupe": "newell-brands",
+  "categorie": "enfance-education",
+  "sous_categorie": "Instruments d'écriture",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.newellbrands.com/"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7756,6 +8369,24 @@
   ],
   "sources": [
    "https://www.parcoursup.gouv.fr/"
+  ]
+ },
+ {
+  "id": "pat-patrouille",
+  "marque": "Pat' Patrouille (PAW Patrol)",
+  "groupe": "spin-master",
+  "categorie": "enfance-education",
+  "sous_categorie": "Jouets sous licence",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.spinmaster.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7774,6 +8405,24 @@
   ]
  },
  {
+  "id": "pilot-stylos",
+  "marque": "Pilot (FriXion)",
+  "groupe": "pilot-corporation",
+  "categorie": "enfance-education",
+  "sous_categorie": "Stylos",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.pilot.co.jp/"
+  ],
+  "saisons": [
+   "rentree"
+  ]
+ },
+ {
   "id": "playmobil",
   "marque": "Playmobil",
   "groupe": "brandstatter",
@@ -7786,6 +8435,9 @@
   ],
   "sources": [
    "https://www.playmobil.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7816,6 +8468,9 @@
   ],
   "sources": [
    "https://www.ravensburger.org/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7831,6 +8486,9 @@
   ],
   "sources": [
    "https://www.simbadickie.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7846,6 +8504,9 @@
   ],
   "sources": [
    "https://www.smythstoys.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7861,6 +8522,27 @@
   ],
   "sources": [
    "https://www.schwan-stabilo.com/"
+  ],
+  "saisons": [
+   "rentree"
+  ]
+ },
+ {
+  "id": "tipp-ex",
+  "marque": "Tipp-Ex",
+  "groupe": "bic",
+  "categorie": "enfance-education",
+  "sous_categorie": "Correction",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.bic.com/"
+  ],
+  "saisons": [
+   "rentree"
   ]
  },
  {
@@ -7876,6 +8558,9 @@
   ],
   "sources": [
    "https://www.toysrus.fr/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7891,6 +8576,9 @@
   ],
   "sources": [
    "https://www.vtech.com/en/investors"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -7983,6 +8671,9 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/SC_Johnson",
    "https://www.scjohnson.com/fr-fr/nos-marques"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -8882,6 +9573,11 @@
   ],
   "sources": [
    "https://www.botanic.com/"
+  ],
+  "saisons": [
+   "noel",
+   "printemps",
+   "toussaint"
   ]
  },
  {
@@ -8929,6 +9625,9 @@
   ],
   "sources": [
    "https://www.kingfisher.com/"
+  ],
+  "saisons": [
+   "printemps"
   ]
  },
  {
@@ -8959,6 +9658,9 @@
   ],
   "sources": [
    "https://www.mousquetaires.com/"
+  ],
+  "saisons": [
+   "printemps"
   ]
  },
  {
@@ -9024,6 +9726,25 @@
   ]
  },
  {
+  "id": "campingaz",
+  "marque": "Campingaz",
+  "groupe": "newell-brands",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Barbecues et réchauds à gaz, cartouches",
+  "nature": "direct",
+  "moments": [
+   "week-end",
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Campingaz"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
   "id": "castorama",
   "marque": "Castorama",
   "groupe": "kingfisher",
@@ -9036,6 +9757,9 @@
   ],
   "sources": [
    "https://www.kingfisher.com/"
+  ],
+  "saisons": [
+   "printemps"
   ]
  },
  {
@@ -9256,6 +9980,12 @@
   ],
   "sources": [
    "https://www.invivo-group.com/"
+  ],
+  "saisons": [
+   "automne",
+   "noel",
+   "printemps",
+   "toussaint"
   ]
  },
  {
@@ -9287,6 +10017,9 @@
   "note": "Cessation des paiements annoncée en octobre 2026.",
   "sources": [
    "https://www.lagazettefrance.fr/article/gifi-arrache-un-soutien-de-ses-banques-pour-assurer-son-avenir"
+  ],
+  "saisons": [
+   "halloween"
   ]
  },
  {
@@ -9382,6 +10115,11 @@
   ],
   "sources": [
    "https://www.invivo-group.com/"
+  ],
+  "saisons": [
+   "noel",
+   "printemps",
+   "toussaint"
   ]
  },
  {
@@ -9416,6 +10154,24 @@
   ]
  },
  {
+  "id": "krampouz",
+  "marque": "Krampouz",
+  "groupe": "groupe-seb",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Crêpières, planchas",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Filiale du groupe SEB depuis 2019.",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/krampouz-devoile-son-nouveau-site-de-production-taille-pour-lexport-2092133"
+  ],
+  "saisons": [
+   "chandeleur"
+  ]
+ },
+ {
   "id": "krups",
   "marque": "Krups",
   "groupe": "groupe-seb",
@@ -9445,6 +10201,9 @@
   ],
   "sources": [
    "https://www.lafoirfouille.fr/"
+  ],
+  "saisons": [
+   "halloween"
   ]
  },
  {
@@ -9506,6 +10265,9 @@
   ],
   "sources": [
    "https://www.adeo.com/"
+  ],
+  "saisons": [
+   "printemps"
   ]
  },
  {
@@ -9694,6 +10456,25 @@
   "note": "Marque Philips utilisée sous licence par Versuni.",
   "sources": [
    "https://www.versuni.com/"
+  ]
+ },
+ {
+  "id": "desjoyaux-piscines",
+  "marque": "Piscines Desjoyaux",
+  "groupe": "desjoyaux",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Piscines enterrées",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://ac-franchise.com/article/desjoyaux-60-ans-de-piscines-made-in-loire-et-lambition-dune-souverainete-industrielle-totale"
+  ],
+  "saisons": [
+   "ete",
+   "printemps"
   ]
  },
  {
@@ -9944,6 +10725,11 @@
   ],
   "sources": [
    "https://www.truffaut.com/"
+  ],
+  "saisons": [
+   "noel",
+   "printemps",
+   "toussaint"
   ]
  },
  {
@@ -9992,6 +10778,27 @@
   ],
   "sources": [
    "https://live.euronext.com/sites/default/files/company_press_releases/attachments/2025/01/14/cpr05_actus_89519_FR0010766667.pdf"
+  ]
+ },
+ {
+  "id": "weber-barbecue",
+  "marque": "Weber",
+  "groupe": "weber-inc",
+  "categorie": "equipement-maison",
+  "sous_categorie": "Barbecues",
+  "nature": "direct",
+  "moments": [
+   "week-end",
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weber_Inc.",
+   "https://www.preqin.com/data/profile/asset/weber-blackstone/742007"
+  ],
+  "saisons": [
+   "ete",
+   "fete-des-peres"
   ]
  },
  {
@@ -10474,6 +11281,9 @@
   ],
   "sources": [
    "https://www.damartex.com/"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -10611,6 +11421,9 @@
   ],
   "sources": [
    "https://www.groupegalerieslafayette.fr/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -10729,6 +11542,26 @@
   ],
   "sources": [
    "https://finance.hermes.com/"
+  ]
+ },
+ {
+  "id": "histoire-d-or",
+  "marque": "Histoire d'Or",
+  "groupe": "thom-group",
+  "categorie": "habillement",
+  "sous_categorie": "Bijouterie (boutiques)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://bridgepointgroup.com/private-equity/portfolio/middle-market/consumer/groupe-thom"
+  ],
+  "saisons": [
+   "noel",
+   "saint-valentin",
+   "fete-des-meres"
   ]
  },
  {
@@ -11017,6 +11850,26 @@
   ]
  },
  {
+  "id": "marc-orian",
+  "marque": "Marc Orian",
+  "groupe": "thom-group",
+  "categorie": "habillement",
+  "sous_categorie": "Bijouterie (boutiques)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://bridgepointgroup.com/private-equity/portfolio/middle-market/consumer/groupe-thom"
+  ],
+  "saisons": [
+   "noel",
+   "saint-valentin",
+   "fete-des-meres"
+  ]
+ },
+ {
   "id": "massimo-dutti",
   "marque": "Massimo Dutti",
   "groupe": "inditex",
@@ -11137,6 +11990,26 @@
   ]
  },
  {
+  "id": "pandora-bijoux",
+  "marque": "Pandora",
+  "groupe": "pandora",
+  "categorie": "habillement",
+  "sous_categorie": "Bijouterie (boutiques)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.nasdaq.com/press-release/major-shareholder-announcement-2025-09-18"
+  ],
+  "saisons": [
+   "noel",
+   "saint-valentin",
+   "fete-des-meres"
+  ]
+ },
+ {
   "id": "petit-bateau",
   "marque": "Petit Bateau",
   "groupe": "groupe-rocher",
@@ -11210,6 +12083,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Printemps_(entreprise)"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -11436,6 +12312,25 @@
   ]
  },
  {
+  "id": "tresor-bijoux",
+  "marque": "TrésOr",
+  "groupe": "thom-group",
+  "categorie": "habillement",
+  "sous_categorie": "Bijouterie (boutiques)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://bridgepointgroup.com/private-equity/portfolio/middle-market/consumer/groupe-thom"
+  ],
+  "saisons": [
+   "noel",
+   "saint-valentin"
+  ]
+ },
+ {
   "id": "undiz",
   "marque": "Undiz",
   "groupe": "etam",
@@ -11565,6 +12460,28 @@
   ],
   "sources": [
    "https://www.loreal.com/fr/nos-marques/"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
+  "id": "anthelios",
+  "marque": "Anthelios (La Roche-Posay)",
+  "groupe": "l-oreal",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Solaire dermo-cosmétique",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "week-end"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.loreal.com/"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -11579,6 +12496,25 @@
   ],
   "sources": [
    "https://www.haleon.com/our-brands"
+  ]
+ },
+ {
+  "id": "avene-solaire",
+  "marque": "Avène Solaire",
+  "groupe": "pierre-fabre",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Solaire dermo-cosmétique",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "week-end"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.pierre-fabre.com/"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -11978,6 +12914,25 @@
   ]
  },
  {
+  "id": "delial",
+  "marque": "Garnier Delial",
+  "groupe": "l-oreal",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Solaire",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "week-end"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.loreal.com/"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
   "id": "gillette",
   "marque": "Gillette",
   "groupe": "procter-gamble",
@@ -12073,6 +13028,25 @@
   ],
   "sources": [
    "https://www.beiersdorf.com/brands"
+  ]
+ },
+ {
+  "id": "hawaiian-tropic",
+  "marque": "Hawaiian Tropic",
+  "groupe": "edgewell",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Solaire",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "week-end"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://edgewell.com/"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -12202,6 +13176,25 @@
   ],
   "sources": [
    "https://realdeals.eu.com/article/l-catterton-acquires-majority-stake-in-kiko-from-founding-percassi-family"
+  ]
+ },
+ {
+  "id": "kleenex",
+  "marque": "Kleenex",
+  "groupe": "kimberly-clark",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Mouchoirs",
+  "nature": "direct",
+  "moments": [
+   "courses"
+  ],
+  "note": "Hors États-Unis, la marque passe dans une coentreprise détenue à 51 % par Suzano (clôture annoncée 2026) — à confirmer.",
+  "sources": [
+   "https://www.gamaconsumer.com/netherlands-suzano-kimberly-clark-announce-joint-venture/",
+   "https://www.portaltela.com/noticias/economia/2026/05/11/suzano-recebe-aprovacao-da-ue-para-ser-socia-majoritaria-da-kimberly-clark/"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -12403,6 +13396,11 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/A.S._Watson_Group"
+  ],
+  "saisons": [
+   "fete-des-meres",
+   "fete-des-peres",
+   "noel"
   ]
  },
  {
@@ -12521,6 +13519,25 @@
   ]
  },
  {
+  "id": "nivea-sun",
+  "marque": "Nivea Sun",
+  "groupe": "beiersdorf",
+  "categorie": "hygiene-beaute",
+  "sous_categorie": "Solaire",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "week-end"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.beiersdorf.com/"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
   "id": "nocibe",
   "marque": "Nocibé",
   "groupe": "douglas",
@@ -12532,6 +13549,11 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Douglas_(entreprise)"
+  ],
+  "saisons": [
+   "fete-des-meres",
+   "fete-des-peres",
+   "noel"
   ]
  },
  {
@@ -12761,6 +13783,11 @@
   ],
   "sources": [
    "https://www.lvmh.fr/maisons/distribution-selective/sephora/"
+  ],
+  "saisons": [
+   "fete-des-meres",
+   "fete-des-peres",
+   "noel"
   ]
  },
  {
@@ -15612,6 +16639,9 @@
   ],
   "sources": [
    "https://www.cultura.com/"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -15752,6 +16782,24 @@
   ]
  },
  {
+  "id": "festival-avignon",
+  "marque": "Festival d'Avignon",
+  "groupe": "festival-d-avignon",
+  "categorie": "loisirs-culture",
+  "sous_categorie": "Festival de théâtre",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Festival_d%27Avignon"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
   "id": "flammarion",
   "marque": "Flammarion / J'ai lu",
   "groupe": "madrigall",
@@ -15780,6 +16828,10 @@
   "note": "OPA d'EP Group (Kretinsky) en cours en 2026.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Fnac_Darty"
+  ],
+  "saisons": [
+   "black-friday",
+   "noel"
   ]
  },
  {
@@ -15994,6 +17046,24 @@
   ]
  },
  {
+  "id": "hellfest",
+  "marque": "Hellfest",
+  "groupe": "hellfest-productions",
+  "categorie": "loisirs-culture",
+  "sous_categorie": "Festival de musique (metal)",
+  "nature": "direct",
+  "moments": [
+   "week-end"
+  ],
+  "note": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hellfest"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
   "id": "j-aime-lire",
   "marque": "J'aime lire",
   "groupe": "bayard",
@@ -16177,6 +17247,24 @@
   ]
  },
  {
+  "id": "vieilles-charrues",
+  "marque": "Les Vieilles Charrues",
+  "groupe": "vieilles-charrues-asso",
+  "categorie": "loisirs-culture",
+  "sous_categorie": "Festival de musique",
+  "nature": "direct",
+  "moments": [
+   "week-end"
+  ],
+  "note": "",
+  "sources": [
+   "https://leclaireur.fnac.com/article/297136-festivalmania-episode-2-les-festivals-de-musique-en-france/"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
   "id": "micromania",
   "marque": "Micromania-Zing",
   "groupe": "micromania-zing",
@@ -16298,6 +17386,28 @@
   ]
  },
  {
+  "id": "nature-et-decouvertes",
+  "marque": "Nature & Découvertes",
+  "groupe": "fnac-darty",
+  "categorie": "loisirs-culture",
+  "sous_categorie": "Magasin de cadeaux nature",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "week-end"
+  ],
+  "note": "Fnac Darty cherche un repreneur/partenaire (janvier 2026) — en cours de cession possible.",
+  "sources": [
+   "https://www.globenewswire.com/fr/news-release/2019/07/31/1894919/0/en/Fnac-Darty-completes-the-acquisition-of-Nature-D%C3%A9couvertes.html",
+   "https://www.retaildetail.eu/news/leisure/fnac-darty-wants-to-get-rid-of-nature-decouvertes/"
+  ],
+  "saisons": [
+   "noel",
+   "fete-des-meres",
+   "fete-des-peres"
+  ]
+ },
+ {
   "id": "nintendo-switch-loisirs-culture",
   "marque": "Nintendo Switch",
   "groupe": "nintendo",
@@ -16310,6 +17420,10 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Nintendo_Switch_2"
+  ],
+  "saisons": [
+   "black-friday",
+   "noel"
   ]
  },
  {
@@ -16400,6 +17514,10 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/PlayStation"
+  ],
+  "saisons": [
+   "black-friday",
+   "noel"
   ]
  },
  {
@@ -16526,6 +17644,24 @@
   ]
  },
  {
+  "id": "solidays",
+  "marque": "Solidays",
+  "groupe": "solidarite-sida",
+  "categorie": "loisirs-culture",
+  "sous_categorie": "Festival de musique",
+  "nature": "direct",
+  "moments": [
+   "week-end"
+  ],
+  "note": "",
+  "sources": [
+   "https://leclaireur.fnac.com/article/297136-festivalmania-episode-2-les-festivals-de-musique-en-france/"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
   "id": "steam",
   "marque": "Steam",
   "groupe": "valve",
@@ -16645,6 +17781,10 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Xbox"
+  ],
+  "saisons": [
+   "black-friday",
+   "noel"
   ]
  },
  {
@@ -16879,6 +18019,9 @@
   "sources": [
    "https://www.euronext.com/en/about/media/euronext-press-releases/magnum-ice-cream-company-lists-euronext",
    "https://en.wikipedia.org/wiki/The_Magnum_Ice_Cream_Company"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -16924,6 +18067,26 @@
   "note": "Marque bio d'E.Leclerc (2000).",
   "sources": [
    "https://fr.wikipedia.org/wiki/E.Leclerc"
+  ]
+ },
+ {
+  "id": "blini",
+  "marque": "Blini",
+  "groupe": "labeyrie-fine-foods",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Blinis, tartinables apéritifs",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "courses"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lsa-conso.fr/acquisition-lur-berri-prend-le-controle-de-labeyrie,127626"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -16986,6 +18149,9 @@
   "note": "Biscuits Bonne Maman fabriqués sous licence par St Michel Biscuits.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Bonne_Maman"
+  ],
+  "saisons": [
+   "chandeleur"
   ]
  },
  {
@@ -17138,6 +18304,9 @@
   ],
   "sources": [
    "https://www.sodiaal.fr/"
+  ],
+  "saisons": [
+   "chandeleur"
   ]
  },
  {
@@ -17171,6 +18340,9 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Carambar_%26_Co",
    "https://www.cfnews.net/Acces-libre/Carambar-et-Lutti-bientot-avales-par-un-industriel-536478"
+  ],
+  "saisons": [
+   "halloween"
   ]
  },
  {
@@ -17247,6 +18419,9 @@
   "sources": [
    "https://www.euronext.com/en/about/media/euronext-press-releases/magnum-ice-cream-company-lists-euronext",
    "https://en.wikipedia.org/wiki/The_Magnum_Ice_Cream_Company"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -17358,6 +18533,24 @@
   ]
  },
  {
+  "id": "chupa-chups",
+  "marque": "Chupa Chups",
+  "groupe": "perfetti-van-melle",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Sucettes",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.perfettivanmelle.com/"
+  ],
+  "saisons": [
+   "halloween"
+  ]
+ },
+ {
   "id": "cochonou",
   "marque": "Cochonou",
   "groupe": "aoste",
@@ -17372,6 +18565,25 @@
   "note": "Chaîne de contrôle Campofrío → Sigma → Alfa (Wikipédia partiellement contradictoire).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Aoste_(marque)"
+  ]
+ },
+ {
+  "id": "comtesse-du-barry-m",
+  "marque": "Comtesse du Barry",
+  "groupe": "comtesse-du-barry",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Épicerie fine, foie gras (boutiques)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lsa-conso.fr/la-comtesse-du-barry/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -17404,6 +18616,28 @@
   "sources": [
    "https://www.euronext.com/en/about/media/euronext-press-releases/magnum-ice-cream-company-lists-euronext",
    "https://en.wikipedia.org/wiki/The_Magnum_Ice_Cream_Company"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
+  "id": "corne-port-royal",
+  "marque": "Corné Port-Royal",
+  "groupe": "compagnie-du-bois-sauvage",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolatier",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Présence en France limitée — à confirmer.",
+  "sources": [
+   "https://www.bois-sauvage.be/wp-content/uploads/2023/03/CBS2022FR.pdf"
+  ],
+  "saisons": [
+   "paques",
+   "noel"
   ]
  },
  {
@@ -17435,6 +18669,10 @@
   ],
   "sources": [
    "https://www.mondelezinternational.com/our-brands/"
+  ],
+  "saisons": [
+   "noel",
+   "paques"
   ]
  },
  {
@@ -17529,6 +18767,27 @@
   ]
  },
  {
+  "id": "de-neuville",
+  "marque": "De Neuville",
+  "groupe": "savencia",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolatier (boutiques franchisées)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Pôle chocolat de Savencia (Savencia Gourmet) ; ≈160 boutiques.",
+  "sources": [
+   "https://www.welcometothejungle.com/sk/companies/de-neuville-groupe-savencia/culture-1"
+  ],
+  "saisons": [
+   "paques",
+   "noel",
+   "saint-valentin",
+   "fete-des-meres"
+  ]
+ },
+ {
   "id": "delacre",
   "marque": "Delacre",
   "groupe": "pladis",
@@ -17541,6 +18800,46 @@
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Pladis"
+  ]
+ },
+ {
+  "id": "delpeyrat",
+  "marque": "Delpeyrat",
+  "groupe": "maisadour",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Foie gras, canard",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "courses"
+  ],
+  "note": "Filiale de Maïsadour depuis 1998 ; le jambon Delpeyrat-Chevallier a été cédé à Fipso.",
+  "sources": [
+   "https://businesscoot.com/en/company/delpeyrat"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
+  "id": "delpierre",
+  "marque": "Delpierre",
+  "groupe": "labeyrie-fine-foods",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Saumon fumé, poissons",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "courses"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lsa-conso.fr/acquisition-lur-berri-prend-le-controle-de-labeyrie,127626"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -17651,6 +18950,9 @@
   "note": "Marque d'origine Nestlé exploitée par Froneri ; non explicitement confirmé par la source.",
   "sources": [
    "https://en.wikipedia.org/wiki/Froneri"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -17666,6 +18968,10 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Ferrero_(entreprise)"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -17727,6 +19033,9 @@
   "note": "Rattachement de GMP à Vivescia non revérifié en 2026.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Francine_(marque)"
+  ],
+  "saisons": [
+   "chandeleur"
   ]
  },
  {
@@ -17817,6 +19126,44 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Terrena"
+  ]
+ },
+ {
+  "id": "gillardeau-huitres",
+  "marque": "Gillardeau",
+  "groupe": "gillardeau",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Huîtres",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://maisongillardeau.fr/en"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
+  "id": "godiva",
+  "marque": "Godiva",
+  "groupe": "yildiz",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolatier",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.godiva.com/"
+  ],
+  "saisons": [
+   "noel",
+   "saint-valentin"
   ]
  },
  {
@@ -17912,6 +19259,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Haribo"
+  ],
+  "saisons": [
+   "halloween"
   ]
  },
  {
@@ -18024,6 +19374,9 @@
   "note": "General Mills hors USA/Canada (Froneri aux USA) ; rattachement Europe non revérifié en 2026.",
   "sources": [
    "https://fr.wikipedia.org/wiki/General_Mills"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -18075,6 +19428,28 @@
   ]
  },
  {
+  "id": "jeff-de-bruges",
+  "marque": "Jeff de Bruges",
+  "groupe": "compagnie-du-bois-sauvage",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolatier (boutiques)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "100 % Bois Sauvage depuis le 16 avril 2026 (rachat des 34 % restants).",
+  "sources": [
+   "https://www.bois-sauvage.be/en/detail/?id=1402113",
+   "https://www.lalibre.be/economie/placements/2026/03/15/bois-sauvage-mise-sur-le-chocolat-avec-le-rachat-total-dun-acteur-majeur-du-chocolat-en-france-KPVYVBZRGRAJJBRNSZGFJKAU5Y/"
+  ],
+  "saisons": [
+   "paques",
+   "noel",
+   "saint-valentin",
+   "fete-des-meres"
+  ]
+ },
+ {
   "id": "justin-bridou",
   "marque": "Justin Bridou",
   "groupe": "aoste",
@@ -18120,6 +19495,11 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Ferrero_(entreprise)"
+  ],
+  "saisons": [
+   "halloween",
+   "noel",
+   "paques"
   ]
  },
  {
@@ -18184,6 +19564,9 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Carambar_%26_Co",
    "https://www.cfnews.net/Acces-libre/Carambar-et-Lutti-bientot-avales-par-un-industriel-536478"
+  ],
+  "saisons": [
+   "halloween"
   ]
  },
  {
@@ -18266,6 +19649,26 @@
   ]
  },
  {
+  "id": "la-maison-du-chocolat",
+  "marque": "La Maison du Chocolat",
+  "groupe": "savencia",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolatier haut de gamme",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/La_Maison_du_Chocolat"
+  ],
+  "saisons": [
+   "noel",
+   "paques",
+   "saint-valentin"
+  ]
+ },
+ {
   "id": "la-pie-qui-chante",
   "marque": "La Pie qui Chante",
   "groupe": "carambar-co",
@@ -18298,6 +19701,26 @@
   ]
  },
  {
+  "id": "labeyrie",
+  "marque": "Labeyrie",
+  "groupe": "labeyrie-fine-foods",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Foie gras, saumon fumé",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "courses"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lsa-conso.fr/acquisition-lur-berri-prend-le-controle-de-labeyrie,127626"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
   "id": "lactel",
   "marque": "Lactel",
   "groupe": "lactalis",
@@ -18310,6 +19733,9 @@
   ],
   "sources": [
    "https://www.lactalis.fr/"
+  ],
+  "saisons": [
+   "chandeleur"
   ]
  },
  {
@@ -18341,6 +19767,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/LDC_(entreprise)"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -18388,6 +19817,27 @@
   "note": "Leerdammer racheté à Bel en 2021.",
   "sources": [
    "https://www.lactalis.fr/"
+  ]
+ },
+ {
+  "id": "leonidas-chocolats",
+  "marque": "Leonidas",
+  "groupe": "leonidas",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolatier (boutiques franchisées)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leonidas_(chocolate_maker)"
+  ],
+  "saisons": [
+   "paques",
+   "noel",
+   "saint-valentin",
+   "fete-des-meres"
   ]
  },
  {
@@ -18449,6 +19899,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Liebig_(marque)"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -18464,6 +19917,11 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Lindt_%26_Spr%C3%BCngli"
+  ],
+  "saisons": [
+   "noel",
+   "paques",
+   "saint-valentin"
   ]
  },
  {
@@ -18497,6 +19955,9 @@
   "note": "LDC est partenaire industriel de la filière Loué ; périmètre exact de sa participation à confirmer.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Loué_(marque)"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -18546,6 +20007,9 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Carambar_%26_Co",
    "https://www.cfnews.net/Acces-libre/Carambar-et-Lutti-bientot-avales-par-un-industriel-536478"
+  ],
+  "saisons": [
+   "halloween"
   ]
  },
  {
@@ -18561,6 +20025,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Mars_Incorporated"
+  ],
+  "saisons": [
+   "halloween"
   ]
  },
  {
@@ -18609,6 +20076,9 @@
   "sources": [
    "https://www.euronext.com/en/about/media/euronext-press-releases/magnum-ice-cream-company-lists-euronext",
    "https://en.wikipedia.org/wiki/The_Magnum_Ice_Cream_Company"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -18626,6 +20096,26 @@
   "sources": [
    "https://www.force-ouvriere.fr/unilever-vend-sa-branche-alimentaire-incertitudes-sur-l-emploi",
    "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars"
+  ]
+ },
+ {
+  "id": "maison-montfort",
+  "marque": "Maison Montfort",
+  "groupe": "euralis",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Foie gras (GMS)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel",
+   "courses"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.reussir.fr/lesmarches/foie-gras-montfort-fin-pret-pour-les-fetes"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
   ]
  },
  {
@@ -18810,6 +20300,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/LDC_(entreprise)"
+  ],
+  "saisons": [
+   "noel"
   ]
  },
  {
@@ -18860,6 +20353,25 @@
   ]
  },
  {
+  "id": "merci-storck",
+  "marque": "merci",
+  "groupe": "august-storck",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolats en boîte",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.storck.com/"
+  ],
+  "saisons": [
+   "noel",
+   "fete-des-meres"
+  ]
+ },
+ {
   "id": "metro-chef",
   "marque": "Metro Chef / Irrésistibles",
   "groupe": "metro-ag",
@@ -18889,6 +20401,9 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Carambar_%26_Co",
    "https://www.cfnews.net/Acces-libre/Carambar-et-Lutti-bientot-avales-par-un-industriel-536478"
+  ],
+  "saisons": [
+   "halloween"
   ]
  },
  {
@@ -18922,6 +20437,9 @@
   "sources": [
    "https://www.euronext.com/en/about/media/euronext-press-releases/magnum-ice-cream-company-lists-euronext",
    "https://en.wikipedia.org/wiki/The_Magnum_Ice_Cream_Company"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -18952,6 +20470,47 @@
   ],
   "sources": [
    "https://www.mondelezinternational.com/our-brands/"
+  ],
+  "saisons": [
+   "noel",
+   "paques"
+  ]
+ },
+ {
+  "id": "mon-cheri",
+  "marque": "Mon Chéri",
+  "groupe": "ferrero",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolats fourrés",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.ferrero.fr/"
+  ],
+  "saisons": [
+   "noel"
+  ]
+ },
+ {
+  "id": "monbana",
+  "marque": "Monbana",
+  "groupe": "cb-expansion",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolat, chocolat en poudre",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/la-recette-du-groupe-buton-pour-croquer-le-marche-du-chocolat-131209"
+  ],
+  "saisons": [
+   "noel",
+   "paques"
   ]
  },
  {
@@ -19090,6 +20649,10 @@
   ],
   "sources": [
    "https://www.nestle.fr/"
+  ],
+  "saisons": [
+   "noel",
+   "paques"
   ]
  },
  {
@@ -19105,6 +20668,26 @@
   ],
   "sources": [
    "https://www.nestle.fr/"
+  ]
+ },
+ {
+  "id": "neuhaus",
+  "marque": "Neuhaus",
+  "groupe": "compagnie-du-bois-sauvage",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolatier (boutiques)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.bois-sauvage.be/wp-content/uploads/2023/03/CBS2022FR.pdf"
+  ],
+  "saisons": [
+   "paques",
+   "noel",
+   "saint-valentin"
   ]
  },
  {
@@ -19135,6 +20718,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Ferrero_(entreprise)"
+  ],
+  "saisons": [
+   "chandeleur"
   ]
  },
  {
@@ -19254,6 +20840,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Brioche_Pasquier"
+  ],
+  "saisons": [
+   "epiphanie"
   ]
  },
  {
@@ -19424,6 +21013,10 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Carambar_%26_Co",
    "https://www.cfnews.net/Acces-libre/Carambar-et-Lutti-bientot-avales-par-un-industriel-536478"
+  ],
+  "saisons": [
+   "noel",
+   "paques"
   ]
  },
  {
@@ -19485,6 +21078,9 @@
   ],
   "sources": [
    "https://www.lactalis.fr/"
+  ],
+  "saisons": [
+   "chandeleur"
   ]
  },
  {
@@ -19549,6 +21145,25 @@
   ]
  },
  {
+  "id": "raffaello",
+  "marque": "Raffaello",
+  "groupe": "ferrero",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Confiserie coco-amande",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.ferrero.fr/"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
   "id": "reflets-de-france",
   "marque": "Reflets de France",
   "groupe": "carrefour",
@@ -19562,6 +21177,27 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/Carrefour_(entreprise)",
    "https://fr.wikipedia.org/wiki/Marque_de_distributeur"
+  ]
+ },
+ {
+  "id": "richesmonts",
+  "marque": "RichesMonts",
+  "groupe": "savencia",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Fromage à raclette",
+  "nature": "direct",
+  "moments": [
+   "soir",
+   "week-end"
+  ],
+  "part_marche": "Leader du fromage à raclette en France (Savencia)",
+  "note": "Exploitée par CF&R, filiale commune Savencia-Sodiaal (gouvernance modifiée) — à confirmer.",
+  "sources": [
+   "https://savencia.com/en/marque/richesmonts/",
+   "https://www.lsa-conso.fr/compagnie-des-fromages-et-richesmonts/"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -19592,6 +21228,44 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Bolton_Group"
+  ]
+ },
+ {
+  "id": "rougie",
+  "marque": "Rougié",
+  "groupe": "euralis",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Foie gras (restauration, épiceries fines)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.reussir.fr/lesmarches/les-fondamentaux-du-foie-gras-selon-euralis"
+  ],
+  "saisons": [
+   "noel",
+   "reveillon"
+  ]
+ },
+ {
+  "id": "reaute-chocolat",
+  "marque": "Réauté Chocolat",
+  "groupe": "cb-expansion",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Chocolatier (boutiques)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "La trêve des confiseurs pèse 55 % du CA de la filiale Saveurs et Délices (source 2018).",
+  "sources": [
+   "https://www.lsa-conso.fr/reaute-chocolat-le-groupe-buton-nous-apporte-beaucoup-de-synergies-entre-biscuits-et-chocolats-video,234345"
+  ],
+  "saisons": [
+   "noel",
+   "paques"
   ]
  },
  {
@@ -19852,6 +21526,9 @@
   "note": "Actionnariat familial non revérifié.",
   "sources": [
    "https://fr.wikipedia.org/wiki/St_Michel_(biscuiterie)"
+  ],
+  "saisons": [
+   "chandeleur"
   ]
  },
  {
@@ -20066,6 +21743,25 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Barilla"
+  ]
+ },
+ {
+  "id": "whaou",
+  "marque": "Whaou!",
+  "groupe": "norac",
+  "categorie": "marques-alimentaires",
+  "sous_categorie": "Crêpes fourrées, goûters",
+  "nature": "direct",
+  "moments": [
+   "courses",
+   "matin"
+  ],
+  "note": "Fabriqué par Christian Faure Entreprise (pôle Goûters Magiques).",
+  "sources": [
+   "https://dubocalalassiette.fr/blog/crepes-whaou-groupe/"
+  ],
+  "saisons": [
+   "chandeleur"
   ]
  },
  {
@@ -25722,6 +27418,9 @@
   ],
   "sources": [
    "https://www.alibabagroup.com/en-US/ir"
+  ],
+  "saisons": [
+   "black-friday"
   ]
  },
  {
@@ -25755,6 +27454,10 @@
   "note": "Premier site d'e-commerce en France ; aussi premier distributeur en ligne de high-tech.",
   "sources": [
    "https://ir.aboutamazon.com/"
+  ],
+  "saisons": [
+   "black-friday",
+   "noel"
   ]
  },
  {
@@ -25890,6 +27593,10 @@
   "note": "Aussi distributeur majeur de high-tech et d'électroménager.",
   "sources": [
    "https://www.lsa-conso.fr/cdiscount-est-rachete-a-100-par-casino-et-est-ainsi-valorise-a-moins-de-30-millions-d,452746"
+  ],
+  "saisons": [
+   "black-friday",
+   "noel"
   ]
  },
  {
@@ -26724,6 +28431,9 @@
   ],
   "sources": [
    "https://investor.pddholdings.com/"
+  ],
+  "saisons": [
+   "black-friday"
   ]
  },
  {
@@ -26770,6 +28480,9 @@
   ],
   "sources": [
    "https://ir.mtch.com/"
+  ],
+  "saisons": [
+   "saint-valentin"
   ]
  },
  {
@@ -26938,6 +28651,9 @@
   ],
   "sources": [
    "https://www.boulangeries-ange.fr/"
+  ],
+  "saisons": [
+   "epiphanie"
   ]
  },
  {
@@ -27087,6 +28803,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Groupe_Le_Duff"
+  ],
+  "saisons": [
+   "epiphanie"
   ]
  },
  {
@@ -27255,6 +28974,9 @@
   ],
   "sources": [
    "https://www.feuillette.fr/"
+  ],
+  "saisons": [
+   "epiphanie"
   ]
  },
  {
@@ -27375,6 +29097,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Groupe_Le_Duff"
+  ],
+  "saisons": [
+   "epiphanie"
   ]
  },
  {
@@ -27404,6 +29129,9 @@
   ],
   "sources": [
    "https://www.boulangerie-louise.fr/"
+  ],
+  "saisons": [
+   "epiphanie"
   ]
  },
  {
@@ -27434,6 +29162,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Marie_Blachère"
+  ],
+  "saisons": [
+   "epiphanie"
   ]
  },
  {
@@ -27526,6 +29257,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Groupe_Holder"
+  ],
+  "saisons": [
+   "epiphanie"
   ]
  },
  {
@@ -27755,6 +29489,24 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Groupe_Up"
+  ]
+ },
+ {
+  "id": "actifed",
+  "marque": "Actifed",
+  "groupe": "kenvue",
+  "categorie": "sante",
+  "sous_categorie": "Rhume / état grippal",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.kenvue.com/"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -28131,6 +29883,25 @@
   ]
  },
  {
+  "id": "efluelda",
+  "marque": "Efluelda",
+  "groupe": "sanofi",
+  "categorie": "sante",
+  "sous_categorie": "Vaccin contre la grippe (65 ans et +)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Fabricant (Sanofi) : rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027"
+  ],
+  "saisons": [
+   "hiver",
+   "automne"
+  ]
+ },
+ {
   "id": "elsan-cliniques",
   "marque": "Elsan",
   "groupe": "elsan",
@@ -28200,6 +29971,9 @@
   ],
   "sources": [
    "https://www.upsa.fr"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -28261,6 +30035,24 @@
   ]
  },
  {
+  "id": "humex",
+  "marque": "Humex",
+  "groupe": "urgo",
+  "categorie": "sante",
+  "sous_categorie": "Rhume / état grippal",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lequotidiendupharmacien.fr/formation/specialites-medicales/une-grande-bouffee-dhumex"
+  ],
+  "saisons": [
+   "hiver"
+  ]
+ },
+ {
   "id": "hopital-public",
   "marque": "Hôpital public (CHU, CH, AP-HP)",
   "groupe": "hopitaux-publics",
@@ -28286,6 +30078,25 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Kenvue"
+  ]
+ },
+ {
+  "id": "influvac",
+  "marque": "Influvac",
+  "groupe": "viatris",
+  "categorie": "sante",
+  "sous_categorie": "Vaccin contre la grippe",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Fabricant (Viatris) : rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027"
+  ],
+  "saisons": [
+   "hiver",
+   "automne"
   ]
  },
  {
@@ -28412,6 +30223,9 @@
   ],
   "sources": [
    "https://www.dcatvci.org/top-industry-news/sanofi-completes-11-4-bn-sales-of-controlling-stake-in-consumer-healthcare-biz-opella/"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -28711,6 +30525,24 @@
   ]
  },
  {
+  "id": "strepsils",
+  "marque": "Strepsils",
+  "groupe": "reckitt",
+  "categorie": "sante",
+  "sous_categorie": "Maux de gorge",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.reckitt.com/"
+  ],
+  "saisons": [
+   "hiver"
+  ]
+ },
+ {
   "id": "synlab-labo",
   "marque": "Synlab",
   "groupe": "synlab",
@@ -28753,6 +30585,25 @@
   ]
  },
  {
+  "id": "vaxigrip",
+  "marque": "Vaxigrip",
+  "groupe": "sanofi",
+  "categorie": "sante",
+  "sous_categorie": "Vaccin contre la grippe",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Fabricant (Sanofi) : rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027"
+  ],
+  "saisons": [
+   "hiver",
+   "automne"
+  ]
+ },
+ {
   "id": "viatris-generiques",
   "marque": "Viatris (ex-Mylan)",
   "groupe": "viatris",
@@ -28764,6 +30615,24 @@
   ],
   "sources": [
    "https://investor.viatris.com"
+  ]
+ },
+ {
+  "id": "vicks",
+  "marque": "Vicks",
+  "groupe": "procter-gamble",
+  "categorie": "sante",
+  "sous_categorie": "Rhume, décongestionnant",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.pg.com/"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -28867,6 +30736,45 @@
   ]
  },
  {
+  "id": "aquarelle-fleurs",
+  "marque": "Aquarelle",
+  "groupe": "aquarelle",
+  "categorie": "services-personne",
+  "sous_categorie": "Fleuriste en ligne",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aquarelle.com_Group"
+  ],
+  "saisons": [
+   "saint-valentin",
+   "fete-des-meres",
+   "noel"
+  ]
+ },
+ {
+  "id": "au-nom-de-la-rose",
+  "marque": "Au Nom de la Rose",
+  "groupe": "emova",
+  "categorie": "services-personne",
+  "sous_categorie": "Fleuriste (roses)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Date de finalisation du rachat par Emova à confirmer.",
+  "sources": [
+   "https://www.observatoiredelafranchise.fr/indiscretions-actualite/MONCEAU-FLEURS-emova-group-va-racheter-au-nom-de-la-rose-61209.htm"
+  ],
+  "saisons": [
+   "saint-valentin",
+   "fete-des-meres"
+  ]
+ },
+ {
   "id": "cesu",
   "marque": "CESU (chèque emploi service universel)",
   "groupe": "urssaf",
@@ -28878,6 +30786,26 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Chèque_emploi_service_universel"
+  ]
+ },
+ {
+  "id": "coeur-de-fleurs",
+  "marque": "Cœur de Fleurs (ex-Rapid'Flore)",
+  "groupe": "emova",
+  "categorie": "services-personne",
+  "sous_categorie": "Fleuriste (franchise)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://ac-franchise.com/annuaire/franchise-coeur-de-fleurs"
+  ],
+  "saisons": [
+   "saint-valentin",
+   "fete-des-meres",
+   "toussaint"
   ]
  },
  {
@@ -28893,6 +30821,26 @@
   "note": "Actionnaire Orpea attesté en 2020-2021 ; rattachement actuel à Emeis non vérifié.",
   "sources": [
    "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-domidom-1719.htm"
+  ]
+ },
+ {
+  "id": "florajet-fleurs",
+  "marque": "Florajet",
+  "groupe": "florajet",
+  "categorie": "services-personne",
+  "sous_categorie": "Livraison de fleurs (réseau de fleuristes)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/florajet-change-de-tete-et-dimage-2112917"
+  ],
+  "saisons": [
+   "saint-valentin",
+   "fete-des-meres",
+   "toussaint"
   ]
  },
  {
@@ -28923,6 +30871,47 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/HomeServe"
+  ]
+ },
+ {
+  "id": "interflora",
+  "marque": "Interflora",
+  "groupe": "interflora-france",
+  "categorie": "services-personne",
+  "sous_categorie": "Livraison de fleurs (réseau de fleuristes)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.consultor.fr/articles/vente-d-interflora-indefi-cote-acheteur-roland-berger-cote-vendeur"
+  ],
+  "saisons": [
+   "saint-valentin",
+   "fete-des-meres",
+   "toussaint",
+   "noel"
+  ]
+ },
+ {
+  "id": "monceau-fleurs",
+  "marque": "Monceau Fleurs",
+  "groupe": "emova",
+  "categorie": "services-personne",
+  "sous_categorie": "Fleuriste (franchise)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.toute-la-franchise.com/news-monceau-fleurs-acquiert-rapid-flore-et-devient-n-1-mondial"
+  ],
+  "saisons": [
+   "saint-valentin",
+   "fete-des-meres",
+   "toussaint"
   ]
  },
  {
@@ -30057,6 +32046,24 @@
   ]
  },
  {
+  "id": "atomic",
+  "marque": "Atomic",
+  "groupe": "amer-sports",
+  "categorie": "sport",
+  "sous_categorie": "Skis et chaussures de ski",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.amersports.com/"
+  ],
+  "saisons": [
+   "hiver"
+  ]
+ },
+ {
   "id": "basic-fit-salles",
   "marque": "Basic-Fit",
   "groupe": "basic-fit",
@@ -30119,6 +32126,26 @@
   ]
  },
  {
+  "id": "domaines-skiables-cda",
+  "marque": "Domaines skiables Compagnie des Alpes (Tignes, Val d'Isère, Les Arcs, La Plagne, Serre Chevalier…)",
+  "groupe": "compagnie-des-alpes",
+  "categorie": "sport",
+  "sous_categorie": "Remontées mécaniques / stations de ski",
+  "nature": "direct",
+  "moments": [
+   "week-end",
+   "occasionnel"
+  ],
+  "note": "Caisse des Dépôts ≈42,7 % du capital de CDA (sept. 2025).",
+  "sources": [
+   "https://aktien.guide/stock-ownership/Compagnie-Des-Alpes-FR0000053324",
+   "https://copeps.fr/actualites/compagnie-des-apes/"
+  ],
+  "saisons": [
+   "hiver"
+  ]
+ },
+ {
   "id": "domyos",
   "marque": "Domyos",
   "groupe": "decathlon",
@@ -30131,6 +32158,44 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Decathlon"
+  ]
+ },
+ {
+  "id": "dynastar",
+  "marque": "Dynastar",
+  "groupe": "rossignol-group",
+  "categorie": "sport",
+  "sous_categorie": "Skis",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "Usine de Sallanches fermée en juillet 2025.",
+  "sources": [
+   "https://www.snowindustrynews.com/articles/rossignol-to-close-historic-dynastar-factory-in-sallanches"
+  ],
+  "saisons": [
+   "hiver"
+  ]
+ },
+ {
+  "id": "esf",
+  "marque": "ESF – École du ski français",
+  "groupe": "snmsf",
+  "categorie": "sport",
+  "sous_categorie": "Cours de ski",
+  "nature": "direct",
+  "moments": [
+   "week-end",
+   "occasionnel"
+  ],
+  "part_marche": "≈80 % des moniteurs de ski en France (AdlC, 2026)",
+  "note": "Sanction AdlC de 3,4 M€ (exclusivité imposée aux adhérents).",
+  "sources": [
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/2026-03/Diapo_ESF_ADLCweb_FR.pdf"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -30162,6 +32227,25 @@
   "note": "Repris par Intersport en 2023 ; 3 magasins restants en France en janv. 2026.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Go_Sport"
+  ]
+ },
+ {
+  "id": "go-sport-montagne",
+  "marque": "Go Sport Montagne",
+  "groupe": "compagnie-loueurs-skis",
+  "categorie": "sport",
+  "sous_categorie": "Location de skis",
+  "nature": "direct",
+  "moments": [
+   "week-end",
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/skimium-integre-le-groupe-la-compagnie-des-loueurs-de-skis-1563574"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -30240,6 +32324,24 @@
   ]
  },
  {
+  "id": "lange",
+  "marque": "Lange",
+  "groupe": "rossignol-group",
+  "categorie": "sport",
+  "sous_categorie": "Chaussures de ski",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://altor.com/altor-to-acquire-rossignol-group/"
+  ],
+  "saisons": [
+   "hiver"
+  ]
+ },
+ {
   "id": "ligue-1",
   "marque": "Ligue 1 McDonald's",
   "groupe": "lfp",
@@ -30255,6 +32357,24 @@
   ]
  },
  {
+  "id": "look-fixations",
+  "marque": "Look (fixations)",
+  "groupe": "rossignol-group",
+  "categorie": "sport",
+  "sous_categorie": "Fixations de ski",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://altor.com/altor-to-acquire-rossignol-group/"
+  ],
+  "saisons": [
+   "hiver"
+  ]
+ },
+ {
   "id": "neoness-salles",
   "marque": "Neoness",
   "groupe": "neoness",
@@ -30267,6 +32387,25 @@
   ],
   "sources": [
    "https://www.neoness.fr/"
+  ]
+ },
+ {
+  "id": "netski",
+  "marque": "Netski",
+  "groupe": "compagnie-loueurs-skis",
+  "categorie": "sport",
+  "sous_categorie": "Location de skis en ligne",
+  "nature": "direct",
+  "moments": [
+   "week-end",
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/skimium-integre-le-groupe-la-compagnie-des-loueurs-de-skis-1563574"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -30360,6 +32499,24 @@
   ]
  },
  {
+  "id": "rossignol",
+  "marque": "Rossignol",
+  "groupe": "rossignol-group",
+  "categorie": "sport",
+  "sous_categorie": "Skis et équipements",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://altor.com/altor-to-acquire-rossignol-group/"
+  ],
+  "saisons": [
+   "hiver"
+  ]
+ },
+ {
   "id": "salomon",
   "marque": "Salomon",
   "groupe": "amer-sports",
@@ -30372,6 +32529,47 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Salomon_(entreprise)"
+  ],
+  "saisons": [
+   "hiver"
+  ]
+ },
+ {
+  "id": "skimium",
+  "marque": "Skimium",
+  "groupe": "compagnie-loueurs-skis",
+  "categorie": "sport",
+  "sous_categorie": "Location de skis",
+  "nature": "direct",
+  "moments": [
+   "week-end",
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/skimium-integre-le-groupe-la-compagnie-des-loueurs-de-skis-1563574"
+  ],
+  "saisons": [
+   "hiver"
+  ]
+ },
+ {
+  "id": "skiset",
+  "marque": "Skiset",
+  "groupe": "compagnie-loueurs-skis",
+  "categorie": "sport",
+  "sous_categorie": "Location de skis",
+  "nature": "direct",
+  "moments": [
+   "week-end",
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/skimium-integre-le-groupe-la-compagnie-des-loueurs-de-skis-1563574"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -30387,6 +32585,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Sport_2000"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -30417,6 +32618,9 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/Amaury_Sport_Organisation"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -30432,6 +32636,24 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/UCPA"
+  ]
+ },
+ {
+  "id": "wedze",
+  "marque": "Wed'ze",
+  "groupe": "decathlon",
+  "categorie": "sport",
+  "sous_categorie": "Marque propre (ski)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "sources": [
+   "https://www.decathlon.fr/"
+  ],
+  "saisons": [
+   "hiver"
   ]
  },
  {
@@ -32039,6 +34261,24 @@
   ]
  },
  {
+  "id": "brittany-ferries-m",
+  "marque": "Brittany Ferries",
+  "groupe": "brittany-ferries",
+  "categorie": "voyage-tourisme",
+  "sous_categorie": "Ferries (Manche, Espagne, Irlande)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/brittany-ferries-accueille-huit-nouveaux-actionnaires-son-capital-2102628"
+  ],
+  "saisons": [
+   "ete"
+  ]
+ },
+ {
   "id": "campanile",
   "marque": "Campanile",
   "groupe": "louvre-hotels",
@@ -32064,6 +34304,9 @@
   ],
   "sources": [
    "https://www.capfun.com/"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -32416,6 +34659,9 @@
   ],
   "sources": [
    "https://www.sandaya.fr/"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -32445,6 +34691,9 @@
   ],
   "sources": [
    "https://www.siblu.fr/"
+  ],
+  "saisons": [
+   "ete"
   ]
  },
  {
@@ -32530,6 +34779,24 @@
   ],
   "sources": [
    "https://fr.wikipedia.org/wiki/VVF_(association)"
+  ]
+ },
+ {
+  "id": "yelloh-village-campings",
+  "marque": "Yelloh! Village",
+  "groupe": "yelloh-village",
+  "categorie": "voyage-tourisme",
+  "sous_categorie": "Camping (réseau franchisé)",
+  "nature": "direct",
+  "moments": [
+   "occasionnel"
+  ],
+  "note": "",
+  "sources": [
+   "https://www.franchise-magazine.com/news-franchise/reseau-camping-yelloh-village-juillet-2025"
+  ],
+  "saisons": [
+   "ete"
   ]
  }
 ]
