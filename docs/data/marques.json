@@ -16726,7 +16726,7 @@
  {
   "id": "digitick",
   "marque": "Digitick",
-  "groupe": "cts-eventim",
+  "groupe": "vivendi",
   "categorie": "loisirs-culture",
   "sous_categorie": "Billetterie",
   "nature": "direct",
@@ -16734,11 +16734,12 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "Digitick, devenue See Tickets SA en 2019 (ex-Vivendi Ticketing), est passée avec See Tickets sous le contrôle de CTS Eventim en 2024.",
+  "note": "Digitick, devenue See Tickets France, a été exclue de la cession de See Tickets à CTS Eventim (finalisée le 6/06/2024) : elle est restée chez Vivendi. Situation 2025-2026 à confirmer.",
   "sources": [
    "https://fr.wikipedia.org/wiki/CTS_Eventim",
    "https://en.wikipedia.org/wiki/See_Tickets",
-   "https://fr.wikipedia.org/wiki/Digitick"
+   "https://fr.wikipedia.org/wiki/Digitick",
+   "https://news.pollstar.com/2024/06/06/festival-ticketing-deal-between-cts-eventim-vivendi-completed/"
   ]
  },
  {
@@ -17688,7 +17689,7 @@
  {
   "id": "see-tickets",
   "marque": "See Tickets",
-  "groupe": "cts-eventim",
+  "groupe": "vivendi",
   "categorie": "loisirs-culture",
   "sous_categorie": "Billetterie",
   "nature": "direct",
@@ -17696,10 +17697,11 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "Cédée par Vivendi à CTS Eventim avec son pôle billetterie et festivals (accord de juin 2024, rachat de 323 M$ finalisé).",
+  "note": "See Tickets France (ex-Digitick) a été exclue de la cession du pôle billetterie internationale et festivals de Vivendi à CTS Eventim (finalisée le 6/06/2024) : elle est restée chez Vivendi. Situation 2025-2026 à confirmer.",
   "sources": [
    "https://fr.wikipedia.org/wiki/CTS_Eventim",
-   "https://en.wikipedia.org/wiki/See_Tickets"
+   "https://en.wikipedia.org/wiki/See_Tickets",
+   "https://news.pollstar.com/2024/06/06/festival-ticketing-deal-between-cts-eventim-vivendi-completed/"
   ]
  },
  {

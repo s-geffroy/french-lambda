@@ -71,7 +71,8 @@
     "id": "aema",
     "part_pct": 100.0,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2021"
    }
   ],
   "description": "Assureur vie et dommages racheté à Aviva en 2021.",
@@ -92,14 +93,16 @@
     "id": "mundys",
     "part_pct": 50.0,
     "pays": "IT",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2018"
    },
    {
     "nom": "ACS (avec Hochtief)",
     "id": "acs",
     "part_pct": 50.0,
     "pays": "ES",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2018"
    }
   ],
   "description": "Concessionnaire autoroutier espagnol, propriétaire de Sanef.",
@@ -211,26 +214,30 @@
     "nom": "Parvus Asset Management",
     "part_pct": 11.12,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2025-10"
    },
    {
     "nom": "Kingdom Holding",
     "part_pct": 6.77,
     "type": "groupe",
-    "pays": "SA"
+    "pays": "SA",
+    "part_date": "2025-10"
    },
    {
     "nom": "Qatar Investment Authority",
     "id": "qia",
     "part_pct": 5.61,
     "type": "etat",
-    "pays": "QA"
+    "pays": "QA",
+    "part_date": "2025-10"
    },
    {
     "nom": "BlackRock",
     "part_pct": 5.61,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-10"
    },
    {
     "nom": "Flottant / public",
@@ -316,7 +323,8 @@
     "id": "3i-group",
     "part_pct": 65.4,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2026-03"
    },
    {
     "nom": "Autres (management, co-investisseurs)",
@@ -330,7 +338,7 @@
    "https://www.action.com/"
   ],
   "verifie_le": "2026-10",
-  "note": "3i détient la majorité du capital ; part exacte non relevée."
+  "note": "3i Group détient 65,4 % du capital (mars 2026)."
  },
  {
   "id": "action-logement",
@@ -434,7 +442,8 @@
     "nom": "Vend Marketplaces (ex-Schibsted)",
     "part_pct": 14,
     "type": "groupe",
-    "pays": "NO"
+    "pays": "NO",
+    "part_date": "2025-05"
    },
    {
     "nom": "eBay (participation réinvestie lors du rachat)",
@@ -566,27 +575,31 @@
     "id": "etat-francais",
     "part_pct": 50.6,
     "pays": "FR",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Vinci",
     "id": "vinci",
     "part_pct": 8.0,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Predica / Crédit Agricole Assurances",
     "id": "credit-agricole",
     "part_pct": 7.7,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Salariés",
     "part_pct": 1.8,
     "pays": "FR",
-    "type": "salaries"
+    "type": "salaries",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -678,26 +691,30 @@
     "id": "mundys",
     "type": "groupe",
     "pays": "IT",
-    "part_pct": 64
+    "part_pct": 64,
+    "part_date": "2016"
    },
    {
     "nom": "CCI Nice Côte d'Azur",
     "type": "public",
     "pays": "FR",
-    "part_pct": 25
+    "part_pct": 25,
+    "part_date": "2016"
    },
    {
     "nom": "Caisse des Dépôts",
     "id": "caisse-des-depots",
     "type": "public",
     "pays": "FR",
-    "part_pct": 8
+    "part_pct": 8,
+    "part_date": "2016"
    },
    {
     "nom": "Région Sud, Département des Alpes-Maritimes, Métropole Nice Côte d'Azur (1 % chacun)",
     "type": "public",
     "pays": "FR",
-    "part_pct": 3
+    "part_pct": 3,
+    "part_date": "2016"
    }
   ],
   "description": "Gestionnaire des aéroports de Nice, Cannes-Mandelieu et Saint-Tropez.",
@@ -737,13 +754,15 @@
     "nom": "CCI de Lyon",
     "part_pct": 25,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2016-10"
    },
    {
     "nom": "Collectivités (Métropole de Lyon, Rhône, Région)",
     "part_pct": 15,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2016-10"
    }
   ],
   "description": "Concessionnaire de Lyon-Saint Exupéry.",
@@ -788,13 +807,15 @@
     "id": "lion-capital",
     "part_pct": 62.0,
     "pays": "GB",
-    "type": "fonds"
+    "type": "fonds",
+    "part_date": "2025-07-01"
    },
    {
     "nom": "Famille Afflelou",
     "part_pct": 38.0,
     "pays": "FR",
-    "type": "famille"
+    "type": "famille",
+    "part_date": "2025-07-01"
    }
   ],
   "description": "Franchiseur d'optique et d'audition.",
@@ -967,33 +988,38 @@
     "id": "etat-francais",
     "part_pct": 27.98,
     "pays": "FR",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "État néerlandais",
     "id": "etat-neerlandais",
     "part_pct": 9.13,
     "pays": "NL",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "CMA CGM",
     "id": "cma-cgm",
     "part_pct": 8.8,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "China Eastern Airlines",
     "part_pct": 4.58,
     "pays": "CN",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Delta Air Lines",
     "part_pct": 2.79,
     "pays": "US",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Salariés",
@@ -1240,7 +1266,8 @@
     "id": "cencora",
     "part_pct": 100.0,
     "pays": "US",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2021-06"
    }
   ],
   "description": "Grossiste-répartiteur pharmaceutique.",
@@ -1349,20 +1376,23 @@
     "nom": "Wren House Infrastructure (fonds souverain koweïtien)",
     "part_pct": 60,
     "type": "fonds",
-    "pays": "KW"
+    "pays": "KW",
+    "part_date": "2021-07"
    },
    {
     "nom": "Bpifrance",
     "id": "bpifrance",
     "part_pct": 16,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2021-07"
    },
    {
     "nom": "Autres actionnaires (non précisés)",
     "part_pct": 24,
     "type": "autre",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2021-07"
    }
   ],
   "description": "Groupe de cliniques (Sud-Est, Île-de-France).",
@@ -1479,13 +1509,15 @@
     "id": "famille-drahi",
     "part_pct": 55.0,
     "type": "personne",
-    "pays": "CH"
+    "pays": "CH",
+    "part_date": "2025-10"
    },
    {
     "nom": "Anciens créanciers (restructuration d'octobre 2025)",
     "part_pct": 45.0,
     "type": "autre",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2025-10"
    }
   ],
   "description": "Maison mère de SFR, RED by SFR et de plusieurs MVNO ; restructurée en 2025 (créanciers à 45 % du capital, validation par la cour d'appel de Paris en décembre 2025). Cession à Bouygues Telecom (42 %), Free-iliad (31 %) et Orange (27 %) en cours : protocole d'accord du 6 juin 2026 (20,35 Md€), dossier renvoyé le 15/07/2026 par la Commission européenne à l'Autorité de la concurrence ; finalisation attendue au second semestre 2027 au plus tôt.",
@@ -1605,7 +1637,8 @@
     "id": "berkshire-hathaway",
     "type": "groupe",
     "pays": "US",
-    "part_pct": 22.5
+    "part_pct": 22.5,
+    "part_date": "2026-06-30"
    },
    {
     "nom": "Flottant / public",
@@ -1688,7 +1721,8 @@
     "nom": "Ampliter (famille Holland, fondatrice)",
     "type": "famille",
     "pays": "IT",
-    "part_pct": 44.9
+    "part_pct": 44.9,
+    "part_date": "2025"
    },
    {
     "nom": "Flottant / public",
@@ -1853,7 +1887,8 @@
     "id": "financiere-lov",
     "part_pct": 35,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2023-10"
    }
   ],
   "description": "Chaîne de boulangeries en franchise fondée en 2008 par François Bultel, Patricia Gaffet et Patrice Guillois (plus de 300 boulangeries).",
@@ -1897,13 +1932,15 @@
     "nom": "Ding Shizhong et associés (dont Anta International)",
     "type": "famille",
     "pays": "CN",
-    "part_pct": 53.35
+    "part_pct": 53.35,
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Flottant",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 46.65
+    "part_pct": 46.65,
+    "part_date": "2026-03-31"
    }
   ],
   "description": "Groupe chinois d'articles de sport, premier actionnaire de Puma (29,06 %) depuis 2026.",
@@ -1928,7 +1965,8 @@
     "id": "ugi",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2004"
    }
   ],
   "description": "Distributeur de GPL, fusionné avec Finagaz (ex-Totalgaz).",
@@ -2157,14 +2195,16 @@
     "id": "eiffage",
     "part_pct": 52.0,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2022"
    },
    {
     "nom": "Fonds gérés par Macquarie Asset Management (via Eiffarie)",
     "id": "macquarie",
     "part_pct": 48.0,
     "pays": "AU",
-    "type": "fonds"
+    "type": "fonds",
+    "part_date": "2022"
    }
   ],
   "description": "Deuxième concessionnaire autoroutier français (APRR, AREA).",
@@ -2248,14 +2288,16 @@
     "nom": "Suzano",
     "part_pct": 51,
     "type": "groupe",
-    "pays": "BR"
+    "pays": "BR",
+    "part_date": "2026-07-01"
    },
    {
     "nom": "Kimberly-Clark",
     "id": "kimberly-clark",
     "part_pct": 49,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-07-01"
    }
   ],
   "description": "Coentreprise de papier d'hygiène (ex-FamPro Tissue Holdings) reprenant les activités internationales hors Amérique du Nord de Kimberly-Clark, opérationnelle depuis le 1/7/2026.",
@@ -2466,7 +2508,8 @@
     "nom": "Institut de participation de l'Ouest (CIC) et Ouest Croissance (Banque populaire)",
     "type": "fonds",
     "pays": "FR",
-    "part_pct": 25.0
+    "part_pct": 25.0,
+    "part_date": "2007"
    }
   ],
   "description": "Textile breton (marinières, vêtements de travail).",
@@ -2513,20 +2556,23 @@
     "id": "etat-francais",
     "part_pct": 25.0,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "1986-02-27"
    },
    {
     "nom": "Radio France",
     "id": "radio-france",
     "part_pct": 15.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "1986-02-27"
    },
    {
     "nom": "INA",
     "part_pct": 15.0,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "1986-02-27"
    }
   ],
   "description": "Pôle français d'Arte (GEIE franco-allemand détenu à parité avec ARTE Deutschland).",
@@ -2566,13 +2612,15 @@
     "nom": "Investindustrial (Andrea Bonomi)",
     "type": "fonds",
     "pays": "GB",
-    "part_pct": 60
+    "part_pct": 60,
+    "part_date": "2016"
    },
    {
     "nom": "Famille Catelli",
     "type": "famille",
     "pays": "IT",
-    "part_pct": 40
+    "part_pct": 40,
+    "part_date": "2016"
    }
   ],
   "description": "Groupe italien de puériculture (Chicco).",
@@ -2597,13 +2645,15 @@
     "id": "ck-hutchison",
     "part_pct": 75.0,
     "type": "groupe",
-    "pays": "HK"
+    "pays": "HK",
+    "part_date": "2014-03"
    },
    {
     "nom": "Temasek",
     "part_pct": 25.0,
     "type": "fonds",
-    "pays": "SG"
+    "pays": "SG",
+    "part_date": "2014-03"
    }
   ],
   "description": "Premier distributeur santé-beauté mondial (Marionnaud, Superdrug).",
@@ -2658,13 +2708,15 @@
     "nom": "Lars Wingefors AB (Lars Wingefors, président)",
     "type": "personne",
     "pays": "SE",
-    "part_pct": 16.9
+    "part_pct": 16.9,
+    "part_date": "2026-05-28"
    },
    {
     "nom": "Savvy Games Group (PIF, Arabie saoudite)",
     "type": "etat",
     "pays": "SA",
-    "part_pct": 7.1
+    "part_pct": 7.1,
+    "part_date": "2026-05-28"
    },
    {
     "nom": "Investisseurs institutionnels (Swedbank Robur, Alecta, DNB, Handelsbanken...) et flottant",
@@ -2742,7 +2794,8 @@
     "id": "pinnacle-pet-group",
     "type": "groupe",
     "pays": "GB",
-    "part_pct": 100
+    "part_pct": 100,
+    "part_date": "2023"
    }
   ],
   "description": "Courtier en assurance santé animale (HD Assurances, Ivry-sur-Seine), filiale de Pinnacle Pet Group.",
@@ -2851,7 +2904,8 @@
     "id": "caisse-des-depots",
     "type": "public",
     "pays": "FR",
-    "part_pct": 67.3
+    "part_pct": 67.3,
+    "part_date": "2026-07-31"
    },
    {
     "nom": "Départements de la Haute-Savoie et de l'Ain",
@@ -2916,19 +2970,22 @@
     "nom": "Melqart Asset Management",
     "part_pct": 8.97,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2025-12"
    },
    {
     "nom": "D. E. Shaw & Co.",
     "part_pct": 7.89,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-12"
    },
    {
     "nom": "Tresidor Investment Management",
     "part_pct": 5.76,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2025-12"
    },
    {
     "nom": "Flottant (ex-créanciers convertis)",
@@ -3230,25 +3287,29 @@
     "nom": "Mutuelles AXA",
     "type": "societaires",
     "pays": "FR",
-    "part_pct": 15.4
+    "part_pct": 15.4,
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Salariés et agents",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 4.26
+    "part_pct": 4.26,
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Autodétention",
     "type": "autre",
     "pays": "FR",
-    "part_pct": 1.78
+    "part_pct": 1.78,
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 78.56
+    "part_pct": 78.56,
+    "part_date": "2024-12-31"
    }
   ],
   "description": "Premier assureur français coté (dommages, santé, vie).",
@@ -3271,13 +3332,15 @@
     "id": "bouygues",
     "part_pct": 51.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2019-02"
    },
    {
     "nom": "Fonds Mirova (Natixis IM / BPCE)",
     "part_pct": 49.0,
     "type": "fonds",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2019-02"
    }
   ],
   "description": "Opérateur d'infrastructures et de réseaux fibre d'initiative publique.",
@@ -3298,7 +3361,8 @@
     "id": "societe-generale",
     "part_pct": 52.6,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2025-06"
    },
    {
     "nom": "Flottant / public",
@@ -3593,7 +3657,8 @@
     "nom": "Famille Desseigne-Barrière (Société de participation deauvillaise)",
     "part_pct": 100.0,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2023"
    }
   ],
   "description": "Casinos, hôtels et restaurants (Fimalac sorti du capital).",
@@ -3612,19 +3677,22 @@
     "nom": "René Moos",
     "part_pct": 11.74,
     "type": "personne",
-    "pays": "NL"
+    "pays": "NL",
+    "part_date": "2025-09-14"
    },
    {
     "nom": "Impactive Capital",
     "part_pct": 10.1,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-09-14"
    },
    {
     "nom": "3i",
     "part_pct": 6.6,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2025-09-14"
    },
    {
     "nom": "Flottant / public",
@@ -3648,13 +3716,15 @@
     "nom": "Premier Investissement (holding de la famille Mitterrand)",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 78.3
+    "part_pct": 78.3,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Famille Mitterrand (en direct)",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 0.2
+    "part_pct": 0.2,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -3892,14 +3962,16 @@
     "id": "arcelik",
     "part_pct": 75.0,
     "type": "groupe",
-    "pays": "TR"
+    "pays": "TR",
+    "part_date": "2024"
    },
    {
     "nom": "Whirlpool",
     "id": "whirlpool",
     "part_pct": 25.0,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2024"
    }
   ],
   "description": "Coentreprise regroupant depuis 2024 les activités européennes d'Arçelik et de Whirlpool (Whirlpool, Indesit, Hotpoint, Beko).",
@@ -3963,7 +4035,8 @@
     "nom": "État belge (via la SFPI)",
     "type": "etat",
     "pays": "BE",
-    "part_pct": 100
+    "part_pct": 100,
+    "part_date": "2011-10"
    }
   ],
   "description": "Bancassureur belge (Belfius Banque, Belfius Insurance), siège à Bruxelles (Saint-Josse-ten-Noode).",
@@ -4004,20 +4077,23 @@
     "id": "d-ieteren",
     "part_pct": 50.01,
     "type": "groupe",
-    "pays": "BE"
+    "pays": "BE",
+    "part_date": "2021"
    },
    {
     "nom": "Clayton, Dubilier & Rice",
     "id": "cdr",
     "part_pct": 20,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2021-12"
    },
    {
     "nom": "Hellman & Friedman",
     "part_pct": 9,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2021-07"
    },
    {
     "nom": "GIC",
@@ -4212,7 +4288,8 @@
     "id": "blue-gem-capital",
     "part_pct": 80.0,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2017"
    }
   ],
   "description": "Chaîne de burgers à la française.",
@@ -4501,20 +4578,23 @@
     "id": "famille-quandt",
     "type": "famille",
     "pays": "DE",
-    "part_pct": 27.7
+    "part_pct": 27.7,
+    "part_date": "2025"
    },
    {
     "nom": "Susanne Klatten",
     "id": "famille-quandt",
     "type": "famille",
     "pays": "DE",
-    "part_pct": 22.5
+    "part_pct": 22.5,
+    "part_date": "2025"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 48.5
+    "part_pct": 48.5,
+    "part_date": "2025"
    }
   ],
   "description": "Constructeur allemand (BMW, Mini, Rolls-Royce).",
@@ -4535,31 +4615,36 @@
     "nom": "BlackRock",
     "type": "fonds",
     "pays": "US",
-    "part_pct": 7.0
+    "part_pct": 7.0,
+    "part_date": "2025"
    },
    {
     "nom": "SFPI (État belge)",
     "type": "etat",
     "pays": "BE",
-    "part_pct": 5.7
+    "part_pct": 5.7,
+    "part_date": "2025"
    },
    {
     "nom": "Salariés",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 4.3
+    "part_pct": 4.3,
+    "part_date": "2025"
    },
    {
     "nom": "Grand-Duché de Luxembourg",
     "type": "etat",
     "pays": "LU",
-    "part_pct": 1.1
+    "part_pct": 1.1,
+    "part_date": "2025"
    },
    {
     "nom": "Investisseurs institutionnels et particuliers (flottant)",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 80.4
+    "part_pct": 80.4,
+    "part_date": "2025"
    }
   ],
   "description": "Première banque de la zone euro (BNP Paribas, Hello bank!, Cetelem, Nickel, Floa, Cardif).",
@@ -4641,7 +4726,8 @@
     "nom": "Boiron Développement (Sodeva 53,5 %, SHB 16,5 %, EW Healthcare Partners 23,4 %, FCPE 5,8 %)",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 78.98
+    "part_pct": 78.98,
+    "part_date": "2024-01-31"
    },
    {
     "nom": "Flottant / public",
@@ -4912,19 +4998,22 @@
     "id": "famille-bouygues",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 28.3
+    "part_pct": 28.3,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Salariés (FCPE)",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 19.2
+    "part_pct": 19.2,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Actionnaires étrangers (flottant)",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 41.6
+    "part_pct": 41.6,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Autres actionnaires français",
@@ -5040,14 +5129,16 @@
     "id": "caisse-des-depots",
     "part_pct": 49.2,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-05-02"
    },
    {
     "nom": "EPIC Bpifrance (État)",
     "id": "etat-francais",
     "part_pct": 49.2,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-05-02"
    },
    {
     "nom": "Banques",
@@ -5154,7 +5245,8 @@
     "id": "cma-cgm",
     "part_pct": 12.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2023-03"
    },
    {
     "nom": "CCI bretonnes",
@@ -5190,7 +5282,8 @@
     "id": "carlsberg",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "DK"
+    "pays": "DK",
+    "part_date": "2025-01"
    }
   ],
   "description": "Groupe de soft-drinks, filiale de Carlsberg depuis janvier 2025 ; en France : Teisseire.",
@@ -5314,7 +5407,8 @@
     "nom": "Glencore",
     "part_pct": 16.4,
     "type": "groupe",
-    "pays": "CH"
+    "pays": "CH",
+    "part_date": "2025-07-02"
    },
    {
     "nom": "Flottant",
@@ -5362,7 +5456,8 @@
     "id": "mobilux",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "LU"
+    "pays": "LU",
+    "part_date": "2024"
    }
   ],
   "description": "Société mère créée en 2024 coiffant les enseignes But et Conforama.",
@@ -5383,7 +5478,8 @@
     "id": "dcc",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "IE"
+    "pays": "IE",
+    "part_date": "2015"
    }
   ],
   "description": "Distributeur de GPL (bouteilles, citernes), gaz et électricité ; groupe DCC depuis 2015.",
@@ -5479,43 +5575,50 @@
     "nom": "Financière HG (Hervé Giaoui)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 24.8
+    "part_pct": 24.8,
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Pléiade Investissement",
     "type": "fonds",
     "pays": "FR",
-    "part_pct": 15.2
+    "part_pct": 15.2,
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Evelyne et Denis Wormser",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 20.6
+    "part_pct": 20.6,
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Gavalak (Guy-Alain Germon)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 10.0
+    "part_pct": 10.0,
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Global Investissement (André Saada)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 7.9
+    "part_pct": 7.9,
+    "part_date": "2025-09-30"
    },
    {
     "nom": "SPB (Manuel Baudouin)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 7.2
+    "part_pct": 7.2,
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Public, nominatif pur et autodétention",
     "type": "flottant",
     "pays": "FR",
-    "part_pct": 14.3
+    "part_pct": 14.3,
+    "part_date": "2025-09-30"
    }
   ],
   "description": "Groupe de distribution d'équipement de la maison (outre-mer, Vente-unique.com), propriétaire de la marque Habitat (transférée à sa filiale Vente-unique en 2026) et, depuis mars 2026, des actifs de Brandt (Brandt, De Dietrich, Sauter, Vedette).",
@@ -5632,13 +5735,15 @@
     "id": "bollore",
     "part_pct": 31.04,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-01"
    },
    {
     "nom": "Morgan Stanley",
     "part_pct": 5.0,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-12-01"
    },
    {
     "nom": "Flottant / public",
@@ -5778,7 +5883,8 @@
     "type": "groupe",
     "id": "ferrero",
     "part_pct": 100.0,
-    "pays": "LU"
+    "pays": "LU",
+    "part_date": "2025-10-31"
    }
   ],
   "description": "Confiseur et chocolatier français (Carambar, Poulain, Lutti), racheté par Ferrero à Eurazeo (oct. 2025).",
@@ -5889,7 +5995,8 @@
     "id": "famille-moulin",
     "part_pct": 9.5,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-11-12"
    },
    {
     "nom": "Carrix (famille Saadé / CMA CGM)",
@@ -6058,14 +6165,16 @@
     "nom": "Grupo Cobega (Olive Partners)",
     "part_pct": 36.1,
     "type": "famille",
-    "pays": "ES"
+    "pays": "ES",
+    "part_date": "2024"
    },
    {
     "nom": "The Coca-Cola Company",
     "id": "coca-cola-company",
     "part_pct": 19.01,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2024"
    },
    {
     "nom": "Flottant / public",
@@ -6211,19 +6320,22 @@
     "nom": "FCB (holding de la famille Labrune)",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 61.13
+    "part_pct": 61.13,
+    "part_date": "2026-09-30"
    },
    {
     "nom": "Autodétention",
     "type": "autre",
     "pays": "FR",
-    "part_pct": 2.67
+    "part_pct": 2.67,
+    "part_date": "2026-09-30"
    },
    {
     "nom": "Flottant / public (dont Amiral Gestion ≈7,8 %)",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 36.19
+    "part_pct": 36.19,
+    "part_date": "2026-09-30"
    }
   ],
   "description": "Éditeur santé (Maiia, logiciels médecins/pharmacies).",
@@ -6515,25 +6627,29 @@
     "nom": "Famille Neumüller",
     "type": "famille",
     "pays": "DE",
-    "part_pct": 27.1
+    "part_pct": 27.1,
+    "part_date": "2025"
    },
    {
     "nom": "Autodétention (CEWE Stiftung & Co. KGaA)",
     "type": "autre",
     "pays": "DE",
-    "part_pct": 6.3
+    "part_pct": 6.3,
+    "part_date": "2025"
    },
    {
     "nom": "Lazard Frères Gestion / Lazard Small Caps Euro",
     "type": "fonds",
     "pays": "FR",
-    "part_pct": 6.2
+    "part_pct": 6.2,
+    "part_date": "2025"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 60.4
+    "part_pct": 60.4,
+    "part_date": "2025"
    }
   ],
   "description": "Leader européen du livre photo (CEWE, Cheerz, Pixum, Saxoprint), coté à Francfort (SDAX) ; la Neumüller CEWE COLOR Stiftung est associée commanditée.",
@@ -6673,7 +6789,8 @@
     "id": "auchan-retail",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2012"
    }
   ],
   "description": "Drive piéton/voiture filiale d'Auchan Retail France (≈56 sites).",
@@ -6812,7 +6929,8 @@
     "id": "credit-agricole-assurances",
     "part_pct": 26.02,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2025-06"
    },
    {
     "nom": "HLD Europe",
@@ -6948,7 +7066,8 @@
     "id": "cma-cgm",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-07-02"
    }
   ],
   "description": "Pôle médias de CMA CGM : BFMTV, RMC, RMC Découverte, RMC Story, RMC Life, CMA Sport, Brut, La Provence.",
@@ -7095,7 +7214,8 @@
     "id": "la-poste",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2022-06-20"
    }
   ],
   "description": "Assureur, filiale de La Banque Postale.",
@@ -7249,7 +7369,8 @@
     "id": "cma-cgm",
     "part_pct": 100.0,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2022-04"
    }
   ],
   "description": "Livreur de colis du dernier kilomètre (e-commerce).",
@@ -7408,25 +7529,29 @@
     "id": "caisse-des-depots",
     "part_pct": 42.57,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024"
    },
    {
     "nom": "Crédit Agricole des Savoie",
     "part_pct": 6.66,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024"
    },
    {
     "nom": "Sofival",
     "part_pct": 5.58,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024"
    },
    {
     "nom": "Banque Populaire Auvergne Rhône Alpes",
     "part_pct": 4.77,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024"
    },
    {
     "nom": "Flottant / public",
@@ -7450,7 +7575,8 @@
     "nom": "Famille Paquot (via Entreprises et Chemins de Fer en Chine et Fingaren)",
     "type": "famille",
     "pays": "BE",
-    "part_pct": 52.52
+    "part_pct": 52.52,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant",
@@ -7516,13 +7642,15 @@
     "nom": "Hervé Lecat (fondateur)",
     "part_pct": 55,
     "type": "personne",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2021-11"
    },
    {
     "nom": "Raise Invest et Geneo Capital Entrepreneur",
     "part_pct": 45,
     "type": "fonds",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2021-11"
    }
   ],
   "description": "Soutien scolaire à domicile.",
@@ -7726,19 +7854,22 @@
     "nom": "Consortium d'entrepreneurs, majoritairement ultramarins",
     "type": "autre",
     "pays": "FR",
-    "part_pct": 52.0
+    "part_pct": 52.0,
+    "part_date": "2024-09-11"
    },
    {
     "nom": "Abbas Jaber (Advens-Geocoton)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 40.0
+    "part_pct": 40.0,
+    "part_date": "2024-09-11"
    },
    {
     "nom": "SEM du département de la Guadeloupe",
     "type": "public",
     "pays": "FR",
-    "part_pct": 8.0
+    "part_pct": 8.0,
+    "part_date": "2024-09-11"
    }
   ],
   "description": "Compagnie aérienne française (Antilles, Réunion, Afrique).",
@@ -7779,14 +7910,16 @@
     "nom": "The Vanguard Group",
     "part_pct": 9.4,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2024"
    },
    {
     "nom": "BlackRock",
     "id": "blackrock",
     "part_pct": 7.56,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2024"
    },
    {
     "nom": "Flottant / public",
@@ -7916,7 +8049,8 @@
     "id": "lpcr",
     "type": "groupe",
     "pays": "FR",
-    "part_pct": 100
+    "part_pct": 100,
+    "part_date": "2022"
    }
   ],
   "description": "Gestionnaire de crèches (réseau Liveli), ex-filiale de Sodexo, rachetée par le groupe Grandir.",
@@ -7988,19 +8122,22 @@
     "id": "credit-agricole",
     "part_pct": 63.5,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12"
    },
    {
     "nom": "Salariés",
     "part_pct": 6.6,
     "type": "salaries",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12"
    },
    {
     "nom": "Flottant / public (institutionnels et particuliers)",
     "part_pct": 29.9,
     "type": "flottant",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2025-12"
    }
   ],
   "description": "Société cotée du groupe Crédit Agricole (LCL, Amundi, CA Assurances, CA Personal Finance & Mobility…).",
@@ -8077,19 +8214,22 @@
     "nom": "Famille Guedj (Yvonne, Karine, Fanny Guedj, Nathalie Jaoui)",
     "part_pct": 74.5,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-12-26"
    },
    {
     "nom": "Eximium SAS",
     "part_pct": 7.97,
     "type": "fonds",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-12-26"
    },
    {
     "nom": "Amiral Gestion",
     "part_pct": 2.47,
     "type": "fonds",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-12-26"
    },
    {
     "nom": "Flottant",
@@ -8134,7 +8274,8 @@
     "nom": "KPS Stiftung (Klaus-Peter Schulenberg)",
     "type": "personne",
     "pays": "DE",
-    "part_pct": 39
+    "part_pct": 39,
+    "part_date": "2025"
    },
    {
     "nom": "Flottant / public",
@@ -8142,12 +8283,13 @@
     "pays": "XX"
    }
   ],
-  "description": "Billetterie européenne (eventim, See Tickets racheté à Vivendi en 2024) ; contrôlée par la KPS Stiftung de Klaus-Peter Schulenberg (≈ 39 % fin 2025, achats supplémentaires en avril et septembre 2026).",
+  "description": "Billetterie européenne (eventim ; See Tickets, rachetée à Vivendi le 6/06/2024, hors See Tickets France restée chez Vivendi ; 65 % de France Billet/Fnac Spectacles depuis décembre 2024) ; contrôlée par la KPS Stiftung de Klaus-Peter Schulenberg (≈ 39 % au 15/11/2025, achats supplémentaires en septembre 2026).",
   "sources": [
    "https://fr.wikipedia.org/wiki/CTS_Eventim",
    "https://www.boerse-online.de/dpa-afx/eqs-dd-cts-eventim-ag-co-kgaa-deutsch-555283.html",
    "https://finance.yahoo.com/news/42-ownership-cts-eventim-ag-083424772.html",
-   "https://de.wikipedia.org/wiki/CTS_Eventim"
+   "https://de.wikipedia.org/wiki/CTS_Eventim",
+   "https://news.pollstar.com/2024/06/06/festival-ticketing-deal-between-cts-eventim-vivendi-completed/"
   ],
   "verifie_le": "2026-10"
  },
@@ -8280,7 +8422,8 @@
     "id": "edf",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2014-07-25"
    }
   ],
   "description": "Services énergétiques et réseaux de chaleur, filiale d'EDF.",
@@ -8391,13 +8534,15 @@
     "nom": "News Corp",
     "type": "groupe",
     "pays": "US",
-    "part_pct": 6
+    "part_pct": 6,
+    "part_date": "2025-04-02"
    },
    {
     "nom": "Telstra",
     "type": "groupe",
     "pays": "AU",
-    "part_pct": 3
+    "part_pct": 3,
+    "part_date": "2025-04-02"
    },
    {
     "nom": "Surj Sports Investment (PIF saoudien)",
@@ -8519,7 +8664,8 @@
     "id": "access-industries",
     "part_pct": 39.86,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2023-04"
    },
    {
     "nom": "Flottant / public",
@@ -8581,7 +8727,8 @@
     "id": "doordash",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-10-02"
    }
   ],
   "description": "Plateforme de livraison de repas et de courses, rachetée par DoorDash (clôture 2 octobre 2025).",
@@ -8698,7 +8845,8 @@
     "nom": "Desjoyaux Finance (DEFI, holding familiale)",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 66.8
+    "part_pct": 66.8,
+    "part_date": "2019"
    },
    {
     "nom": "Membres de la famille Desjoyaux (en direct)",
@@ -8730,7 +8878,8 @@
     "nom": "ICG (Intermediate Capital Group)",
     "part_pct": 100,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2023"
    }
   ],
   "description": "Réseau de salons en franchise (Dessange, Camille Albane, Fantastic Sams).",
@@ -9154,7 +9303,8 @@
     "nom": "Famille Haji-Ioannou (Stelios)",
     "part_pct": 15.27,
     "pays": "GB",
-    "type": "famille"
+    "type": "famille",
+    "part_date": "2021-09-30"
    },
    {
     "nom": "Flottant / public",
@@ -9184,7 +9334,8 @@
     "id": "ville-de-paris",
     "part_pct": 100,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2009-05-01"
    }
   ],
   "description": "Régie publique de l'eau de Paris.",
@@ -9205,7 +9356,8 @@
     "id": "metropole-de-lyon",
     "part_pct": 100,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2023"
    }
   ],
   "description": "Régie publique de l'eau de la Métropole de Lyon depuis 2023.",
@@ -9244,7 +9396,8 @@
     "id": "credit-mutuel-alliance-federale",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2009-09"
    }
   ],
   "description": "Premier groupe de PQR de l'Est (Le Progrès, Le Dauphiné libéré, L'Est Républicain, DNA, L'Alsace, Le Républicain lorrain, Le Bien Public).",
@@ -9455,7 +9608,8 @@
     "id": "etat-francais",
     "part_pct": 100,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2023-06-08"
    }
   ],
   "description": "Électricien historique, renationalisé à 100 % en 2023.",
@@ -9497,7 +9651,8 @@
     "id": "imi",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "CZ"
+    "pays": "CZ",
+    "part_date": "2023-11"
    }
   ],
   "description": "Deuxième éditeur français (Nathan, Bordas, Le Robert...).",
@@ -9518,31 +9673,36 @@
     "id": "permira",
     "part_pct": 21.29,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Polus Capital Management (surtout via instruments financiers)",
     "part_pct": 30.37,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2026-03-31"
    },
    {
     "nom": "DWS Investment",
     "part_pct": 5.46,
     "type": "fonds",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Thomas Bushey",
     "part_pct": 5.36,
     "type": "personne",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Dana Dunne (PDG)",
     "part_pct": 3.37,
     "type": "personne",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Flottant / public",
@@ -9571,7 +9731,8 @@
     "id": "keolis",
     "part_pct": 100.0,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2010"
    }
   ],
   "description": "Opérateur de parkings, filiale de Keolis.",
@@ -9616,7 +9777,8 @@
     "nom": "BlackRock",
     "type": "fonds",
     "pays": "US",
-    "part_pct": 6.21
+    "part_pct": 6.21,
+    "part_date": "2026-08-26"
    },
    {
     "nom": "Flottant / public",
@@ -9665,7 +9827,7 @@
    {
     "nom": "Quantum Pacific",
     "id": "quantum-pacific",
-    "part_pct": 75,
+    "part_pct": 60,
     "type": "groupe",
     "pays": "GB"
    },
@@ -10008,7 +10170,8 @@
     "id": "ta-associates",
     "part_pct": 25,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2021-10"
    }
   ],
   "description": "Holding de Foncia (syndic, gestion locative, transaction) ; contrôlée par Partners Group depuis 2016.",
@@ -10047,19 +10210,22 @@
     "nom": "Haniel (Franz Haniel & Cie)",
     "part_pct": 50.1,
     "type": "famille",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2020-04"
    },
    {
     "nom": "Manuel Müller (cofondateur)",
     "part_pct": 24.95,
     "type": "personne",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2020-04"
    },
    {
     "nom": "Dennis Schmoltzi (cofondateur)",
     "part_pct": 24.95,
     "type": "personne",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2020-04"
    }
   ],
   "description": "Vendeur de matelas en ligne (Emma – The Sleep Company, Francfort), contrôlé par le groupe familial Haniel.",
@@ -10139,7 +10305,8 @@
     "id": "edf",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2008-01-01"
    }
   ],
   "description": "Gestionnaire du réseau de distribution d'électricité (~95 % du territoire).",
@@ -10182,20 +10349,23 @@
     "nom": "Salariés",
     "part_pct": 3.86,
     "type": "salaries",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025"
    },
    {
     "nom": "CDC et CNP Assurances",
     "id": "caisse-des-depots",
     "part_pct": 3.2,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025"
    },
    {
     "nom": "Flottant (dont BlackRock)",
     "part_pct": 61.9,
     "type": "flottant",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2025"
    }
   ],
   "description": "Énergéticien (gaz, électricité, réseaux, services).",
@@ -10445,7 +10615,8 @@
     "id": "disney",
     "part_pct": 9,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2024-02-07"
    },
    {
     "nom": "Sony Group",
@@ -10562,19 +10733,22 @@
     "id": "delfin",
     "type": "famille",
     "pays": "LU",
-    "part_pct": 32.42
+    "part_pct": 32.42,
+    "part_date": "2025"
    },
    {
     "nom": "Salariés et actionnaires internes",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 4.43
+    "part_pct": 4.43,
+    "part_date": "2025"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 63.13
+    "part_pct": 63.13,
+    "part_date": "2025"
    }
   ],
   "description": "Numéro un mondial des verres et montures (Essilor, Ray-Ban) et de la distribution optique (GrandVision).",
@@ -10887,7 +11061,8 @@
     "id": "green-mobility-holding",
     "part_pct": 100.0,
     "pays": "LU",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2022-07-13"
    }
   ],
   "description": "Loueur de véhicules (Europcar, Goldcar, InterRent).",
@@ -10908,27 +11083,31 @@
     "id": "sncf",
     "part_pct": 55.75,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2022-04"
    },
    {
     "nom": "CDPQ",
     "id": "cdpq",
     "part_pct": 19.31,
     "pays": "CA",
-    "type": "public"
+    "type": "public",
+    "part_date": "2022-04"
    },
    {
     "nom": "SNCB",
     "id": "sncb",
     "part_pct": 18.5,
     "pays": "BE",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2022-04"
    },
    {
     "nom": "Federated Hermes Infrastructure",
     "part_pct": 6.44,
     "pays": "US",
-    "type": "fonds"
+    "type": "fonds",
+    "part_date": "2022-04"
    }
   ],
   "description": "Opérateur des trains à grande vitesse Eurostar (ex-Thalys inclus).",
@@ -12999,31 +13178,36 @@
     "nom": "Bart Lubbers (cofondateur)",
     "type": "personne",
     "pays": "NL",
-    "part_pct": 37
+    "part_pct": 37,
+    "part_date": "2023"
    },
    {
     "nom": "Michiel Langezaal (cofondateur, CEO)",
     "type": "personne",
     "pays": "NL",
-    "part_pct": 21.5
+    "part_pct": 21.5,
+    "part_date": "2023"
    },
    {
     "nom": "Schroders Capital",
     "type": "fonds",
     "pays": "GB",
-    "part_pct": 10.6
+    "part_pct": 10.6,
+    "part_date": "2023"
    },
    {
     "nom": "Breesaap (fonds familial Lubbers)",
     "type": "famille",
     "pays": "NL",
-    "part_pct": 5.9
+    "part_pct": 5.9,
+    "part_date": "2023"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 25
+    "part_pct": 25,
+    "part_date": "2023"
    }
   ],
   "description": "Opérateur néerlandais de recharge rapide, présent en France.",
@@ -13045,19 +13229,22 @@
     "id": "etat-francais",
     "part_pct": 21.1,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-02"
    },
    {
     "nom": "Associations d'anciens combattants (concert)",
     "part_pct": 15.7,
     "type": "autre",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-02"
    },
    {
     "nom": "Salariés",
     "part_pct": 4.0,
     "type": "salaries",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-02"
    },
    {
     "nom": "Flottant",
@@ -13145,7 +13332,8 @@
     "nom": "État italien (ministère de l'Économie)",
     "part_pct": 100.0,
     "pays": "IT",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "1992"
    }
   ],
   "description": "Groupe ferroviaire public italien.",
@@ -13179,7 +13367,8 @@
     "id": "bassac",
     "part_pct": 100.0,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2026-02"
    }
   ],
   "description": "Réseau de centres auto (entretien, pneus, pièces).",
@@ -13240,7 +13429,8 @@
     "nom": "Pencil S.r.l. (famille Candela, Massimo Candela)",
     "part_pct": 27.06,
     "type": "famille",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2026-04"
    },
    {
     "nom": "Flottant",
@@ -13355,7 +13545,8 @@
     "nom": "Bernd Förtsch (via GfBk et Heliad AG)",
     "type": "personne",
     "pays": "DE",
-    "part_pct": 15
+    "part_pct": 15,
+    "part_date": "2023-10-27"
    },
    {
     "nom": "Investisseurs institutionnels (BNP Paribas AM, Amundi, BlackRock, Morgan Stanley, American Century, UBS : 3-5 % chacun)",
@@ -13416,7 +13607,8 @@
     "nom": "EQT et Kuehne+Nagel (35 % ensemble depuis juillet 2024)",
     "type": "fonds",
     "pays": "SE",
-    "part_pct": 35
+    "part_pct": 35,
+    "part_date": "2024-07"
    },
    {
     "nom": "General Atlantic, Permira, TCV, HV Capital et autres investisseurs",
@@ -13444,7 +13636,8 @@
     "id": "bnp-paribas",
     "part_pct": 100.0,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2022"
    }
   ],
   "description": "Crédit à la consommation et paiement fractionné (ex-Banque Casino), racheté par BNP Paribas en 2022.",
@@ -13518,22 +13711,25 @@
    {
     "nom": "Vesa Equity Investment (D. Kretinsky)",
     "id": "famille-kretinsky",
-    "part_pct": 28.22,
+    "part_pct": 28.45,
     "type": "fonds",
-    "pays": "CZ"
+    "pays": "CZ",
+    "part_date": "2026-03-10"
    },
    {
     "nom": "Ceconomy (en cours de rachat par JD.com)",
     "id": "ceconomy",
     "part_pct": 21.9,
     "type": "groupe",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2025-11-12"
    },
    {
     "nom": "Intermediate Capital Group",
     "part_pct": 10.2,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2025-11-12"
    },
    {
     "nom": "Flottant / public",
@@ -13722,7 +13918,8 @@
     "id": "etat-francais",
     "part_pct": 100.0,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2008-04-04"
    }
   ],
   "description": "Audiovisuel extérieur public (France 24, RFI, MCD).",
@@ -13880,7 +14077,8 @@
     "id": "rexel",
     "type": "groupe",
     "pays": "FR",
-    "part_pct": 100
+    "part_pct": 100,
+    "part_date": "2021-03"
    }
   ],
   "description": "Opérateur et fournisseur de services de recharge (badge, appli).",
@@ -13940,14 +14138,16 @@
     "type": "groupe",
     "id": "nestle",
     "part_pct": 50.0,
-    "pays": "CH"
+    "pays": "CH",
+    "part_date": "2016"
    },
    {
     "nom": "PAI Partners",
     "type": "fonds",
     "id": "pai-partners",
     "part_pct": 50.0,
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2016"
    }
   ],
   "description": "Coentreprise glaces (activités glaces Nestlé en Europe, R&R).",
@@ -13968,7 +14168,8 @@
     "id": "disney",
     "part_pct": 70.0,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-10"
    },
    {
     "nom": "Flottant / public",
@@ -14128,27 +14329,31 @@
     "id": "cpp-investments",
     "part_pct": 37,
     "type": "fonds",
-    "pays": "CA"
+    "pays": "CA",
+    "part_date": "2020-03"
    },
    {
     "nom": "Téthys Invest (famille Bettencourt Meyers)",
     "id": "famille-bettencourt-meyers",
     "part_pct": 37,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2020-03"
    },
    {
     "nom": "Montagu Private Equity",
     "part_pct": 17,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2020-03"
    },
    {
     "nom": "Bpifrance",
     "id": "bpifrance",
     "part_pct": 9,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2020-03"
    }
   ],
   "description": "Groupe d'enseignement supérieur privé (Cours Florent, PSB, Penninghen, Strate...).",
@@ -14174,7 +14379,8 @@
     "id": "vivendi",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2016-07-26"
    }
   ],
   "description": "Éditeur de jeux mobiles.",
@@ -14213,13 +14419,15 @@
     "id": "famille-seydoux",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 89.7
+    "part_pct": 89.7,
+    "part_date": "2025"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 10.1
+    "part_pct": 10.1,
+    "part_date": "2025"
    }
   ],
   "description": "Producteur et distributeur de films et séries, coté à Euronext Paris ; Ciné Par (famille Seydoux) détient 89,7 % du capital (2025).",
@@ -14354,39 +14562,45 @@
     "nom": "Banca Monte dei Paschi di Siena (via Mediobanca)",
     "part_pct": 13.32,
     "type": "groupe",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2026-06-08"
    },
    {
     "nom": "Delfin (famille Del Vecchio)",
     "id": "delfin",
     "part_pct": 10.15,
     "type": "famille",
-    "pays": "LU"
+    "pays": "LU",
+    "part_date": "2026-06-08"
    },
    {
     "nom": "UniCredit",
     "part_pct": 8.8,
     "type": "groupe",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2026-06-08"
    },
    {
     "nom": "Groupe Caltagirone",
     "part_pct": 6.32,
     "type": "famille",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2026-06-08"
    },
    {
     "nom": "Edizione (famille Benetton)",
     "id": "famille-benetton",
     "part_pct": 4.91,
     "type": "famille",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2026-06-08"
    },
    {
     "nom": "Intesa Sanpaolo",
     "part_pct": 3.13,
     "type": "groupe",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2026-06-08"
    },
    {
     "nom": "Flottant / public",
@@ -14559,13 +14773,15 @@
     "nom": "Philippe Ginestet (via sa holding GFG)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 60
+    "part_pct": 60,
+    "part_date": "2025-01"
    },
    {
     "nom": "Banques créancières via fiducie (BNP Paribas, Crédit Agricole)",
     "type": "autre",
     "pays": "FR",
-    "part_pct": 40
+    "part_pct": 40,
+    "part_date": "2025-01"
    }
   ],
   "description": "Enseigne de discount non alimentaire (≈ 500 magasins).",
@@ -14627,7 +14843,8 @@
     "id": "blackrock",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2024"
    }
   ],
   "description": "Fonds d'infrastructures, filiale de BlackRock depuis 2024.",
@@ -14668,7 +14885,8 @@
     "id": "shift4",
     "type": "groupe",
     "part_pct": 100,
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-07-03"
    }
   ],
   "description": "Spécialiste suisse de la détaxe et des services de paiement pour le commerce, propriétaire de ZigZag Global et Shipup.",
@@ -14791,7 +15009,8 @@
     "id": "engie",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2008-01-01"
    }
   ],
   "description": "Gestionnaire du réseau de distribution de gaz (~200 000 km).",
@@ -15083,9 +15302,10 @@
    {
     "nom": "Le Monde Libre (Xavier Niel, titres promis au Fonds pour l'indépendance de la presse)",
     "id": "famille-niel",
-    "part_pct": 72.5,
+    "part_pct": 75,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2020-12-16"
    },
    {
     "nom": "Pôle d'indépendance (sociétés de journalistes, salariés, lecteurs)",
@@ -15185,19 +15405,22 @@
     "nom": "Famille Lemoîne et alliés (via Socibog)",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 80
+    "part_pct": 80,
+    "part_date": "2005-04"
    },
    {
     "nom": "Société des journalistes",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 10
+    "part_pct": 10,
+    "part_date": "2005-04"
    },
    {
     "nom": "Société des personnels",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 10
+    "part_pct": 10,
+    "part_date": "2005-04"
    }
   ],
   "description": "Sud Ouest, Charente Libre, La République des Pyrénées ; en négociations exclusives de cession à Rossel (annoncé le 3/09/2026, finalisation visée fin 2026).",
@@ -15361,7 +15584,8 @@
     "id": "lagardere",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "1981"
    }
   ],
   "description": "Premier éditeur français (Hachette Éducation, Hatier, Didier...).",
@@ -15439,7 +15663,8 @@
     "id": "samsung",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "KR"
+    "pays": "KR",
+    "part_date": "2017"
    }
   ],
   "description": "Audio grand public et embarqué (JBL, Harman Kardon), filiale de Samsung depuis 2017.",
@@ -15478,7 +15703,8 @@
     "id": "bollore",
     "part_pct": 30.4,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-12"
    },
    {
     "nom": "Compagnie de l'Étoile des Mers (Bolloré Participations)",
@@ -15667,7 +15893,8 @@
     "nom": "Famille Van Eerd (Jumbo)",
     "part_pct": 100,
     "type": "famille",
-    "pays": "NL"
+    "pays": "NL",
+    "part_date": "2026-02"
    }
   ],
   "description": "Enseigne néerlandaise d'articles de maison et papeterie.",
@@ -15761,7 +15988,8 @@
     "type": "groupe",
     "id": "casa-tarradellas",
     "part_pct": 100.0,
-    "pays": "ES"
+    "pays": "ES",
+    "part_date": "2025-12"
    }
   ],
   "description": "Charcuterie libre-service (jambon, knacki), 100 % Casa Tarradellas depuis déc. 2025.",
@@ -15780,20 +16008,23 @@
     "nom": "Knighthead Capital Management",
     "part_pct": 57.5,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-06-30"
    },
    {
     "nom": "BlackRock",
     "id": "blackrock",
     "part_pct": 6.4,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-06-30"
    },
    {
     "nom": "Pershing Square (Bill Ackman)",
     "part_pct": 4.7,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-06-30"
    },
    {
     "nom": "Flottant / public",
@@ -16016,7 +16247,8 @@
     "id": "brookfield",
     "part_pct": 100,
     "type": "fonds",
-    "pays": "CA"
+    "pays": "CA",
+    "part_date": "2023"
    }
   ],
   "description": "Assistance dépannage habitat (plomberie, électricité), rachetée par Brookfield en 2023.",
@@ -16173,7 +16405,8 @@
     "id": "albin-michel",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-01-02"
    }
   ],
   "description": "Ancien groupe d'édition (Belin, PUF, Que sais-je ?), racheté par Albin Michel en 2025 puis fondu dans ses entités en 2026.",
@@ -16230,7 +16463,8 @@
     "nom": "Qatar Airways",
     "type": "etat",
     "pays": "QA",
-    "part_pct": 26.5
+    "part_pct": 26.5,
+    "part_date": "2025-09"
    },
    {
     "nom": "Flottant / public",
@@ -16258,7 +16492,8 @@
     "id": "caisse-des-depots",
     "part_pct": 39,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-03-31"
    },
    {
     "nom": "Flottant",
@@ -17181,7 +17416,8 @@
     "nom": "Pentland Group (famille Rubin)",
     "part_pct": 55,
     "type": "famille",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2019-12"
    },
    {
     "nom": "Flottant / public",
@@ -17213,7 +17449,8 @@
     "type": "groupe",
     "id": "keurig-dr-pepper",
     "part_pct": 97.75,
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-04-15"
    },
    {
     "nom": "Minoritaires résiduels",
@@ -17346,7 +17583,8 @@
     "nom": "H.I.G. Capital",
     "part_pct": 100.0,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-08"
    }
   ],
   "description": "Mesure d'audience et veille publicitaire, cédée par Kantar à H.I.G. Capital (2025).",
@@ -17454,7 +17692,8 @@
     "type": "groupe",
     "id": "mars",
     "part_pct": 100.0,
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-12-11"
    }
   ],
   "description": "Ex-Kellogg Company (Kellogg's international, Pringles), filiale de Mars depuis le 11/12/2025.",
@@ -17499,14 +17738,16 @@
     "id": "sncf",
     "part_pct": 69.7,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2012"
    },
    {
     "nom": "CDPQ",
     "id": "cdpq",
     "part_pct": 30.0,
     "pays": "CA",
-    "type": "public"
+    "type": "public",
+    "part_date": "2012"
    },
    {
     "nom": "Salariés (FCPE)",
@@ -17597,7 +17838,8 @@
     "id": "hyundai-motor",
     "part_pct": 35.17,
     "pays": "KR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2025"
    },
    {
     "nom": "Flottant / public",
@@ -17711,7 +17953,8 @@
     "nom": "Kinohold Bis (famille Bert)",
     "type": "famille",
     "pays": "BE",
-    "part_pct": 46.4
+    "part_pct": 46.4,
+    "part_date": "2019-04-24"
    },
    {
     "nom": "Flottant / public",
@@ -17737,13 +17980,15 @@
     "nom": "Famille Gueydon (Philippe Gueydon)",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 70
+    "part_pct": 70,
+    "part_date": "2023-12"
    },
    {
     "nom": "PRG Retail Group, BNP Paribas Développement, Garibaldi Participations, C2AD",
     "type": "fonds",
     "pays": "FR",
-    "part_pct": 30
+    "part_pct": 30,
+    "part_date": "2023-12"
    }
   ],
   "description": "Enseigne de magasins de jouets.",
@@ -17819,25 +18064,29 @@
     "nom": "Sequoia Capital",
     "type": "fonds",
     "pays": "US",
-    "part_pct": 20.0
+    "part_pct": 20.0,
+    "part_date": "2025-09"
    },
    {
     "nom": "Victor Jacobsson (cofondateur)",
     "type": "personne",
     "pays": "SE",
-    "part_pct": 8.0
+    "part_pct": 8.0,
+    "part_date": "2025-09"
    },
    {
     "nom": "Heartland A/S (Anders Holch Povlsen)",
     "type": "famille",
     "pays": "DK",
-    "part_pct": 7.9
+    "part_pct": 7.9,
+    "part_date": "2025-09"
    },
    {
     "nom": "Sebastian Siemiatkowski (cofondateur, PDG)",
     "type": "personne",
     "pays": "SE",
-    "part_pct": 7.0
+    "part_pct": 7.0,
+    "part_date": "2025-09"
    },
    {
     "nom": "Commonwealth Bank of Australia",
@@ -17960,7 +18209,8 @@
     "id": "carlsberg",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "DK"
+    "pays": "DK",
+    "part_date": "2008-04-29"
    }
   ],
   "description": "Filiale française de Carlsberg (brasserie d'Obernai).",
@@ -18067,7 +18317,8 @@
     "nom": "Alain Weill",
     "part_pct": 100.0,
     "type": "personne",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2023"
    }
   ],
   "description": "Hebdomadaire d'information.",
@@ -18088,14 +18339,16 @@
     "id": "famille-bettencourt-meyers",
     "part_pct": 34.7,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2023-12-31"
    },
    {
     "nom": "Nestlé",
     "id": "nestle",
     "part_pct": 20.1,
     "type": "groupe",
-    "pays": "CH"
+    "pays": "CH",
+    "part_date": "2023-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -18293,7 +18546,8 @@
     "id": "bouygues-telecom",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-11"
    }
   ],
   "description": "MVNO La Poste Mobile, racheté à 100 % par Bouygues Telecom (finalisé en novembre 2024) ; migration du réseau SFR vers Bouygues en 2026.",
@@ -18413,14 +18667,16 @@
     "type": "groupe",
     "id": "lactalis",
     "part_pct": 60.0,
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2006"
    },
    {
     "nom": "Nestlé",
     "type": "groupe",
     "id": "nestle",
     "part_pct": 40.0,
-    "pays": "CH"
+    "pays": "CH",
+    "part_date": "2006"
    }
   ],
   "description": "Coentreprise d'ultra-frais (La Laitière, Nestlé yaourts) dominée par Lactalis.",
@@ -18525,7 +18781,8 @@
     "id": "mutares",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2021-06-01"
    }
   ],
   "description": "Distributeur de menuiseries, cuisines et salles de bains.",
@@ -18547,25 +18804,29 @@
     "nom": "Freesailors Coöperatief (contrôlée à ≈ 72 % par le fondateur Fabio Cannavale)",
     "part_pct": 39,
     "type": "personne",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2024-06-07"
    },
    {
     "nom": "Sterling Active Fund",
     "part_pct": 7,
     "type": "fonds",
-    "pays": "CH"
+    "pays": "CH",
+    "part_date": "2024-06-07"
    },
    {
     "nom": "Flottant / public",
     "part_pct": 48,
     "type": "flottant",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2024-06-07"
    },
    {
     "nom": "Actions autodétenues",
     "part_pct": 6,
     "type": "autre",
-    "pays": "NL"
+    "pays": "NL",
+    "part_date": "2024-06-07"
    }
   ],
   "description": "Agence de voyage en ligne (ex-Bravofly Rumbo Group), cotée à la SIX.",
@@ -18618,13 +18879,15 @@
     "nom": "Famille de Nonancourt",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 61.0
+    "part_pct": 61.0,
+    "part_date": "2019-01-28"
    },
    {
     "nom": "First Eagle Investment Management",
     "type": "fonds",
     "pays": "US",
-    "part_pct": 9.78
+    "part_pct": 9.78,
+    "part_date": "2019-01-28"
    },
    {
     "nom": "Flottant / public",
@@ -18952,14 +19215,16 @@
     "id": "stellantis",
     "part_pct": 50.0,
     "pays": "NL",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2023-04"
    },
    {
     "nom": "Crédit Agricole Personal Finance & Mobility",
     "id": "credit-agricole",
     "part_pct": 50.0,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2023-04"
    }
   ],
   "description": "Société de location longue durée et de location courte (Leasys Rent).",
@@ -19093,7 +19358,8 @@
     "id": "belfius",
     "type": "groupe",
     "pays": "BE",
-    "part_pct": 100
+    "part_pct": 100,
+    "part_date": "2026-07-01"
    }
   ],
   "description": "Néo-assureur mobile (habitation, auto, smartphone).",
@@ -19159,7 +19425,8 @@
     "id": "lvmh",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2015-12"
    }
   ],
   "description": "Pôle médias de LVMH (Les Échos, Le Parisien, Radio Classique, Investir, Connaissance des Arts).",
@@ -19394,7 +19661,8 @@
     "id": "uber",
     "type": "groupe",
     "pays": "US",
-    "part_pct": 20
+    "part_pct": 20,
+    "part_date": "2026-07"
    },
    {
     "nom": "Fonds de capital-risque (Bain Capital Ventures, GV...)",
@@ -19541,7 +19809,8 @@
     "id": "castel",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2017-07-19"
    }
   ],
   "description": "Société de vins rosés (marque Listel), filiale de Castel.",
@@ -19564,7 +19833,8 @@
     "nom": "Liberty Live Holdings",
     "type": "groupe",
     "pays": "US",
-    "part_pct": 30
+    "part_pct": 30,
+    "part_date": "2026-06-30"
    },
    {
     "nom": "Flottant / public",
@@ -19607,7 +19877,8 @@
     "nom": "LNA Ensemble (salariés)",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 8.39
+    "part_pct": 8.39,
+    "part_date": "2022"
    },
    {
     "nom": "Flottant (Euronext Paris)",
@@ -19653,13 +19924,15 @@
     "nom": "El Corte Inglés (via Grupo Viajes El Corte Inglés)",
     "type": "groupe",
     "pays": "ES",
-    "part_pct": 75
+    "part_pct": 75,
+    "part_date": "2022-02"
    },
    {
     "nom": "Tool Factory (ex-propriétaire de Logitravel)",
     "type": "personne",
     "pays": "ES",
-    "part_pct": 25
+    "part_pct": 25,
+    "part_date": "2022-02"
    }
   ],
   "description": "Agence de voyage en ligne espagnole, intégrée depuis 2022 au Grupo Viajes El Corte Inglés.",
@@ -19768,13 +20041,15 @@
     "id": "bollore",
     "part_pct": 31.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-05-05"
    },
    {
     "nom": "Arnaud Lagardère",
     "part_pct": 8.7,
     "type": "personne",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-05-05"
    },
    {
     "nom": "Flottant / public",
@@ -19803,7 +20078,8 @@
     "id": "famille-kopf",
     "part_pct": 100.0,
     "type": "famille",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "1985"
    }
   ],
   "description": "Négociant-éleveur de Beaune (Bourgogne, Beaujolais via le Château des Jacques).",
@@ -19872,7 +20148,8 @@
     "id": "jin-jiang",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "CN"
+    "pays": "CN",
+    "part_date": "2015"
    }
   ],
   "description": "Campanile, Kyriad, Première Classe, Golden Tulip ; racheté en 2015 par Jin Jiang International (≈ 1,3 Md€).",
@@ -19920,7 +20197,8 @@
     "nom": "InfraVia Capital Partners (reprise des 41 % d'Eurazeo, 2021)",
     "type": "fonds",
     "pays": "FR",
-    "part_pct": 41
+    "part_pct": 41,
+    "part_date": "2021"
    },
    {
     "nom": "Bpifrance",
@@ -20041,7 +20319,8 @@
     "id": "famille-arnault",
     "part_pct": 49.77,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -20250,7 +20529,8 @@
     "id": "lvmh",
     "part_pct": 9.5,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2013-10"
    }
   ],
   "description": "Gallimard, Flammarion, Casterman, Folio, J'ai lu, Denoël, POL. Holding contrôlée par la famille Gallimard (98 % en 2003), LVMH entré au capital à 9,5 % en 2013.",
@@ -20562,19 +20842,22 @@
     "nom": "Certares",
     "type": "fonds",
     "pays": "US",
-    "part_pct": 49
+    "part_pct": 49,
+    "part_date": "2025"
    },
    {
     "nom": "Famille Abitbol (Laurent Abitbol)",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 20
+    "part_pct": 20,
+    "part_date": "2025"
    },
    {
     "nom": "Managers et salariés",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 15
+    "part_pct": 15,
+    "part_date": "2025"
    },
    {
     "nom": "Bpifrance et AfricInvest Europe",
@@ -20623,20 +20906,23 @@
     "nom": "Mastercard Foundation",
     "part_pct": 6.9,
     "type": "autre",
-    "pays": "CA"
+    "pays": "CA",
+    "part_date": "2026-10"
    },
    {
     "nom": "Vanguard",
     "part_pct": 6.0,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-10"
    },
    {
     "nom": "BlackRock",
     "id": "blackrock",
     "part_pct": 5.7,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-10"
    },
    {
     "nom": "Flottant / public",
@@ -20737,7 +21023,8 @@
     "id": "la-martiniquaise",
     "part_pct": 70.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2021-02"
    },
    {
     "nom": "Flottant (Euronext Paris)",
@@ -20850,7 +21137,8 @@
     "nom": "Famille Montagne",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 75
+    "part_pct": 75,
+    "part_date": "2017"
    },
    {
     "nom": "Investisseurs minoritaires (La Martinière Participations, Axa, Michelin, Caisse des dépôts, CIC Finances, Siparex, Sofina)",
@@ -20990,7 +21278,8 @@
     "nom": "Fonds pour une presse libre (via la SPIM)",
     "part_pct": 100.0,
     "type": "autre",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2019-10-15"
    }
   ],
   "description": "Journal en ligne indépendant sur abonnement.",
@@ -21119,26 +21408,30 @@
     "nom": "BAIC Group",
     "part_pct": 9.98,
     "pays": "CN",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2025"
    },
    {
     "nom": "Li Shufu (Geely, via Tenaciou3)",
     "part_pct": 9.69,
     "pays": "CN",
-    "type": "personne"
+    "type": "personne",
+    "part_date": "2025"
    },
    {
     "nom": "Kuwait Investment Authority",
     "part_pct": 5.57,
     "pays": "KW",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2025"
    },
    {
     "nom": "BlackRock",
     "id": "blackrock",
     "part_pct": 5.35,
     "pays": "US",
-    "type": "fonds"
+    "type": "fonds",
+    "part_date": "2025"
    },
    {
     "nom": "Flottant / public",
@@ -21246,13 +21539,15 @@
     "id": "famille-kretinsky",
     "type": "personne",
     "pays": "CZ",
-    "part_pct": 49.99
+    "part_pct": 49.99,
+    "part_date": "2025-03"
    },
    {
     "nom": "Meridian Stiftung (famille Schmidt-Ruthenbeck) et Beisheim Holding",
     "type": "famille",
     "pays": "DE",
-    "part_pct": 24.99
+    "part_pct": 24.99,
+    "part_date": "2025-03"
    },
    {
     "nom": "Actionnaires résiduels (non apportés à l'offre)",
@@ -21466,7 +21761,8 @@
     "nom": "ASML",
     "part_pct": 11.0,
     "type": "groupe",
-    "pays": "NL"
+    "pays": "NL",
+    "part_date": "2025-09"
    },
    {
     "nom": "Autres (Bpifrance, Nvidia, a16z, General Catalyst, Lightspeed...)",
@@ -21552,14 +21848,16 @@
     "id": "cdr",
     "part_pct": 50.0,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2020-07"
    },
    {
     "nom": "WM Holding (XXXLutz)",
     "id": "xxxlutz",
     "part_pct": 50.0,
     "type": "groupe",
-    "pays": "AT"
+    "pays": "AT",
+    "part_date": "2020-07"
    }
   ],
   "description": "Holding commune de But et Conforama.",
@@ -21633,7 +21931,8 @@
     "nom": "Ardian (Ardian Expansion)",
     "type": "fonds",
     "pays": "FR",
-    "part_pct": 20
+    "part_pct": 20,
+    "part_date": "2023-05-30"
    }
   ],
   "description": "Réseau de cliniques vétérinaires.",
@@ -21743,7 +22042,8 @@
     "id": "lenovo",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "CN"
+    "pays": "CN",
+    "part_date": "2014"
    }
   ],
   "description": "Fabricant de smartphones Motorola, filiale de Lenovo depuis 2014.",
@@ -21762,13 +22062,15 @@
     "nom": "SIMB (contrôlée par l'ANPF, association des magasins franchisés)",
     "part_pct": 54.13,
     "type": "societaires",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2021-12-31"
    },
    {
     "nom": "Public",
     "part_pct": 36.36,
     "type": "flottant",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2021-12-31"
    }
   ],
   "description": "Groupement de bricolage (Mr.Bricolage, Les Briconautes).",
@@ -21834,20 +22136,23 @@
     "id": "famille-benetton",
     "part_pct": 57,
     "type": "famille",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2022-12"
    },
    {
     "nom": "Blackstone Infrastructure",
     "id": "blackstone",
     "part_pct": 37.8,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2022-12"
    },
    {
     "nom": "Fondazione CRT",
     "part_pct": 5.2,
     "type": "autre",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2022-12"
    }
   ],
   "description": "Holding italienne d'infrastructures (Abertis, Aeroporti di Roma, aéroports de Nice).",
@@ -21868,7 +22173,8 @@
     "nom": "Robin Laik (fondateur et PDG, en direct et via Elber GmbH)",
     "part_pct": 24.0,
     "type": "personne",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2026-04-07"
    },
    {
     "nom": "Flottant",
@@ -21916,7 +22222,8 @@
     "nom": "Fondateurs (V. Stalf, M. Tayenthal)",
     "part_pct": 20,
     "pays": "AT",
-    "type": "personne"
+    "type": "personne",
+    "part_date": "2025-08"
    },
    {
     "nom": "Fonds (Tencent, Insight Partners, GIC, Third Point, Coatue, Dragoneer…)",
@@ -22002,7 +22309,8 @@
     "id": "bpce",
     "part_pct": 100.0,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2021"
    }
   ],
   "description": "Banque de financement, gestion d'actifs (Natixis IM) et paiements de BPCE ; retirée de la cote en 2021.",
@@ -22188,13 +22496,15 @@
     "nom": "Hellman & Friedman",
     "part_pct": 22.2,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-05-25"
    },
    {
     "nom": "CDP Equity (Cassa depositi e prestiti, État italien)",
     "part_pct": 19.1,
     "type": "etat",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2026-05-25"
    },
    {
     "nom": "Flottant",
@@ -22291,13 +22601,15 @@
     "id": "bnp-paribas",
     "part_pct": 95,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2017-04"
    },
    {
     "nom": "Confédération des buralistes",
     "part_pct": 5,
     "pays": "FR",
-    "type": "autre"
+    "type": "autre",
+    "part_date": "2017-04"
    }
   ],
   "description": "Compte bancaire sans conditions vendu chez les buralistes.",
@@ -22320,7 +22632,8 @@
     "id": "famille-nicollin",
     "part_pct": 100.0,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2020"
    }
   ],
   "description": "Groupe familial de collecte et traitement des déchets et de propreté urbaine.",
@@ -22518,7 +22831,8 @@
     "id": "north-atlantic",
     "part_pct": 82.89,
     "pays": "CA",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2025-11-28"
    },
    {
     "nom": "Flottant / public",
@@ -22712,7 +23026,8 @@
     "id": "phoenix-group",
     "part_pct": 100.0,
     "pays": "DE",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2022"
    }
   ],
   "description": "Grossiste-répartiteur pharmaceutique (≈ 39 dépôts).",
@@ -22770,19 +23085,22 @@
     "id": "otpp",
     "part_pct": 74,
     "type": "fonds",
-    "pays": "CA"
+    "pays": "CA",
+    "part_date": "2017-04-12"
    },
    {
     "nom": "Pamplona Capital Management",
     "part_pct": 20,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2017-04-12"
    },
    {
     "nom": "Management",
     "part_pct": 6,
     "type": "salaries",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2017-04-12"
    }
   ],
   "description": "Premier groupe funéraire français (~1 100 agences, 72 crématoriums).",
@@ -22958,21 +23276,24 @@
     "id": "cdr",
     "part_pct": 50.0,
     "pays": "US",
-    "type": "fonds"
+    "type": "fonds",
+    "part_date": "2025-04-30"
    },
    {
     "nom": "Sanofi",
     "id": "sanofi",
     "part_pct": 48.2,
     "pays": "FR",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2025-04-30"
    },
    {
     "nom": "Bpifrance",
     "id": "bpifrance",
     "part_pct": 1.8,
     "pays": "FR",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2025-04-30"
    }
   ],
   "description": "Ex-santé grand public de Sanofi (Doliprane…), contrôlé par CD&R depuis 2025.",
@@ -22992,19 +23313,22 @@
     "id": "microsoft",
     "part_pct": 27.0,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-10-28"
    },
    {
     "nom": "OpenAI Foundation (contrôle)",
     "part_pct": 26.0,
     "type": "autre",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-10-28"
    },
    {
     "nom": "Autres investisseurs et salariés",
     "part_pct": 47.0,
     "type": "autre",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2025-10-28"
    }
   ],
   "description": "Éditeur de ChatGPT, société d'intérêt public contrôlée par l'OpenAI Foundation depuis la recapitalisation d'octobre 2025.",
@@ -23129,14 +23453,16 @@
     "id": "etat-francais",
     "part_pct": 13.3,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-08-04"
    },
    {
     "nom": "Bpifrance Participations",
     "id": "bpifrance",
     "part_pct": 7.1,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-08-04"
    },
    {
     "nom": "Salariés",
@@ -23422,7 +23748,8 @@
     "id": "blackrock",
     "part_pct": 9.99,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-06-19"
    },
    {
     "nom": "Flottant",
@@ -23571,25 +23898,29 @@
     "nom": "Financière Partouche SA (holding familiale)",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 66.83
+    "part_pct": 66.83,
+    "part_date": "2023-10-31"
    },
    {
     "nom": "Butler Capital Partners",
     "type": "fonds",
     "pays": "FR",
-    "part_pct": 13.26
+    "part_pct": 13.26,
+    "part_date": "2023-10-31"
    },
    {
     "nom": "Membres du conseil de surveillance et du directoire",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 5.92
+    "part_pct": 5.92,
+    "part_date": "2023-10-31"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 13.84
+    "part_pct": 13.84,
+    "part_date": "2023-10-31"
    }
   ],
   "description": "Exploitant de casinos, coté sur Euronext Paris depuis 1995.",
@@ -23663,14 +23994,16 @@
     "id": "famille-seydoux",
     "part_pct": 80,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-05"
    },
    {
     "nom": "Famille Saadé (holding Merit France)",
     "id": "famille-saade",
     "part_pct": 20,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-05"
    }
   ],
   "description": "Exploitant de cinémas (Les Cinémas Pathé) et producteur-distributeur, contrôlé par la famille Seydoux.",
@@ -23923,13 +24256,15 @@
     "id": "famille-peugeot",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 80
+    "part_pct": 80,
+    "part_date": "2021-12-31"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 20
+    "part_pct": 20,
+    "part_date": "2021-12-31"
    }
   ],
   "description": "Société d'investissement de la famille Peugeot, actionnaire de Stellantis.",
@@ -24028,7 +24363,8 @@
     "id": "famille-zouari",
     "part_pct": 100.0,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-09"
    }
   ],
   "description": "Chaîne de magasins de surgelés (≈1 000+ magasins), contrôlée à 100 % par le family office Zouari depuis septembre 2024.",
@@ -24064,7 +24400,8 @@
     "id": "edeka",
     "part_pct": 32,
     "type": "groupe",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2025-11"
    },
    {
     "nom": "Fondateurs (dont Michiel Muller)",
@@ -24134,25 +24471,29 @@
     "nom": "Fidera",
     "part_pct": 25.05,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Alcentra",
     "part_pct": 24.96,
     "type": "fonds",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Pristine",
     "part_pct": 11.55,
     "type": "fonds",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Pastel Holding (G. Brémond)",
     "part_pct": 8.6,
     "type": "personne",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Flottant / public",
@@ -24313,7 +24654,8 @@
     "type": "groupe",
     "id": "yildiz",
     "part_pct": 100.0,
-    "pays": "TR"
+    "pays": "TR",
+    "part_date": "2014"
    }
   ],
   "description": "Groupe de biscuits (ex-United Biscuits : BN, McVitie's, Delacre).",
@@ -24359,7 +24701,8 @@
     "id": "bellon",
     "part_pct": 42.83,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-09"
    },
    {
     "nom": "Flottant / public",
@@ -24571,7 +24914,8 @@
     "id": "shv",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "NL"
+    "pays": "NL",
+    "part_date": "1999"
    }
   ],
   "description": "Distributeur de GPL, groupe SHV.",
@@ -24609,14 +24953,16 @@
     "id": "louis-hachette-group",
     "part_pct": 86.42,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Vivendi (13,58 % de Prisma Group depuis le 31/03/2026)",
     "id": "vivendi",
     "part_pct": 13.58,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-03-31"
    }
   ],
   "description": "Premier éditeur de presse magazine (Femme Actuelle, Voici, Télé Loisirs, Capital, Géo) ; pôle luxe cédé à Vivendi en mars 2026.",
@@ -24853,7 +25199,8 @@
     "nom": "Holdings de la famille Élisabeth Badinter",
     "part_pct": 6.57,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025"
    },
    {
     "nom": "Flottant / public",
@@ -24907,7 +25254,8 @@
     "id": "anta",
     "part_pct": 29.06,
     "type": "groupe",
-    "pays": "CN"
+    "pays": "CN",
+    "part_date": "2026-10-07"
    },
    {
     "nom": "Flottant",
@@ -24957,7 +25305,8 @@
     "id": "etat-qatar",
     "part_pct": 100.0,
     "type": "etat",
-    "pays": "QA"
+    "pays": "QA",
+    "part_date": "2005"
    }
   ],
   "description": "Fonds souverain du Qatar.",
@@ -25095,14 +25444,16 @@
     "id": "famille-klaba",
     "part_pct": 75,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2023-07"
    },
    {
     "nom": "Synfonium — Caisse des Dépôts",
     "id": "caisse-des-depots",
     "part_pct": 25,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2023-07"
    }
   ],
   "description": "Moteur de recherche français, repris en juillet 2023 par Synfonium (Klaba 75 %, Caisse des Dépôts 25 %).",
@@ -25199,7 +25550,6 @@
    },
    {
     "nom": "Carolam Santé",
-    "part_pct": 5.46,
     "pays": "FR",
     "type": "autre"
    },
@@ -25227,7 +25577,8 @@
     "nom": "Stichting Stad en Lant (famille Goldschmeding)",
     "type": "famille",
     "pays": "NL",
-    "part_pct": 33
+    "part_pct": 33,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Porteurs d'actions préférentielles via Stichting Administratiekantoor (NN Group, ASR...)",
@@ -25512,7 +25863,8 @@
     "nom": "État espagnol",
     "part_pct": 100.0,
     "pays": "ES",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "1941"
    }
   ],
   "description": "Compagnie ferroviaire publique espagnole.",
@@ -25537,7 +25889,8 @@
     "id": "groupama",
     "part_pct": 20.0,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2003"
    }
   ],
   "description": "Réseau français de location de voitures et utilitaires.",
@@ -26105,7 +26458,8 @@
     "id": "abertis",
     "part_pct": 100.0,
     "pays": "ES",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2017-04"
    }
   ],
   "description": "Troisième concessionnaire autoroutier français (Nord, Est, Normandie via SAPN).",
@@ -26163,13 +26517,15 @@
     "nom": "Columna Capital",
     "type": "fonds",
     "pays": "GB",
-    "part_pct": 70
+    "part_pct": 70,
+    "part_date": "2022"
    },
    {
     "nom": "Hugues Salord et son frère (fondateurs)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 30
+    "part_pct": 30,
+    "part_date": "2022"
    }
   ],
   "description": "Assureur spécialiste de la santé animale (courtier).",
@@ -26437,7 +26793,8 @@
     "id": "imperial-brands",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2008"
    }
   ],
   "description": "Ex-monopole public français du tabac, filiale d'Imperial Brands.",
@@ -26574,7 +26931,8 @@
     "id": "caisse-des-depots",
     "type": "public",
     "pays": "FR",
-    "part_pct": 99.9
+    "part_pct": 99.9,
+    "part_date": "2026-07-31"
    }
   ],
   "description": "Société publique concessionnaire du tunnel du Fréjus et de l'autoroute de la Maurienne.",
@@ -26712,7 +27070,8 @@
     "id": "cegid",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-06"
    }
   ],
   "description": "Groupe propriétaire de la néobanque pro Shine (cédée par Société Générale à Ageras en 2024), racheté par Cegid en 2026.",
@@ -26913,7 +27272,8 @@
     "nom": "Association pour le soutien des principes de la démocratie humaniste",
     "part_pct": 100.0,
     "type": "autre",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "1990-04"
    }
   ],
   "description": "Premier groupe de presse quotidienne régionale (Ouest-France, Le Courrier de l'Ouest, Presse Océan, Publihebdos/actu.fr, chaîne Novo19) ; cède sa moitié de 20 Minutes à Rossel.",
@@ -27040,7 +27400,8 @@
     "nom": "Indigo (Indigo Infra)",
     "type": "groupe",
     "pays": "FR",
-    "part_pct": 100.0
+    "part_pct": 100.0,
+    "part_date": "2024-12-31"
    }
   ],
   "description": "Opérateur du service Vélib' Métropole.",
@@ -27140,7 +27501,8 @@
     "id": "etat-francais",
     "part_pct": 100.0,
     "pays": "FR",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2020-01-01"
    }
   ],
   "description": "Groupe ferroviaire public (SA détenue à 100 % par l'État).",
@@ -27556,7 +27918,8 @@
     "nom": "Dirigeants et entités liées (Boris Saragaglia et cofondateurs)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 33.5
+    "part_pct": 33.5,
+    "part_date": "2026-10-01"
    },
    {
     "nom": "Investisseurs institutionnels et flottant",
@@ -27604,7 +27967,8 @@
     "id": "bridgestone",
     "part_pct": 100.0,
     "pays": "JP",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2016-07"
    }
   ],
   "description": "Réseau d'entretien rapide automobile (≈500 centres).",
@@ -27671,26 +28035,30 @@
     "nom": "Martin Lorentzon",
     "type": "personne",
     "pays": "SE",
-    "part_pct": 9.72
+    "part_pct": 9.72,
+    "part_date": "2026"
    },
    {
     "nom": "Tencent / Tencent Music",
     "id": "tencent",
     "type": "groupe",
     "pays": "CN",
-    "part_pct": 8.08
+    "part_pct": 8.08,
+    "part_date": "2026"
    },
    {
     "nom": "Baillie Gifford",
     "type": "fonds",
     "pays": "GB",
-    "part_pct": 6.43
+    "part_pct": 6.43,
+    "part_date": "2026"
    },
    {
     "nom": "Daniel Ek",
     "type": "personne",
     "pays": "SE",
-    "part_pct": 6.06
+    "part_pct": 6.06,
+    "part_date": "2026"
    },
    {
     "nom": "Flottant / public",
@@ -27837,21 +28205,24 @@
     "id": "exor",
     "part_pct": 15.5,
     "pays": "NL",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2026-05-19"
    },
    {
     "nom": "Peugeot Invest / Établissements Peugeot Frères (famille Peugeot)",
     "id": "peugeot-invest",
     "part_pct": 7.7,
     "pays": "FR",
-    "type": "famille"
+    "type": "famille",
+    "part_date": "2026-05-19"
    },
    {
     "nom": "Bpifrance",
     "id": "bpifrance",
     "part_pct": 6.65,
     "pays": "FR",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2026-05-19"
    },
    {
     "nom": "Flottant / public",
@@ -28005,21 +28376,24 @@
     "id": "meridiam",
     "part_pct": 40,
     "type": "fonds",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2022"
    },
    {
     "nom": "Global Infrastructure Partners",
     "id": "gip",
     "part_pct": 40,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2022"
    },
    {
     "nom": "Caisse des Dépôts et CNP Assurances",
     "id": "caisse-des-depots",
     "part_pct": 20,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2022"
    }
   ],
   "description": "« Nouveau Suez » recentré sur la France depuis 2022 (eau, déchets).",
@@ -28135,7 +28509,8 @@
     "id": "bpce",
     "type": "groupe",
     "pays": "FR",
-    "part_pct": 22
+    "part_pct": 22,
+    "part_date": "2023-01-05"
    },
    {
     "nom": "Fonds de capital-risque (Index Ventures, Eurazeo ex-Idinvest, Daphni, Kima Ventures…)",
@@ -28203,13 +28578,15 @@
     "nom": "Concert familial Barande-Vaney (HB Collector d'Henri Barande, Victorien, Julien, Manuela et Anna-Lena Vaney)",
     "part_pct": 69.2,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Actions autodétenues",
     "part_pct": 6.25,
     "type": "autre",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -28311,7 +28688,8 @@
     "nom": "Shigeru Uehara (via Taisho Pharmaceutical Holdings, ex-Otemon)",
     "type": "personne",
     "pays": "JP",
-    "part_pct": 100
+    "part_pct": 100,
+    "part_date": "2024-04"
    }
   ],
   "description": "Laboratoire japonais, propriétaire d'UPSA depuis 2019.",
@@ -28374,7 +28752,8 @@
     "id": "brookfield",
     "part_pct": 45.0,
     "type": "fonds",
-    "pays": "CA"
+    "pays": "CA",
+    "part_date": "2026-09-30"
    },
    {
     "nom": "APG et PSP Investments",
@@ -28560,27 +28939,31 @@
     "nom": "Snam",
     "part_pct": 40.5,
     "type": "groupe",
-    "pays": "IT"
+    "pays": "IT",
+    "part_date": "2018"
    },
    {
     "nom": "Enagás",
     "part_pct": 31.5,
     "type": "groupe",
-    "pays": "ES"
+    "pays": "ES",
+    "part_date": "2026-07-30"
    },
    {
     "nom": "EDF (via Ouestgaz)",
     "id": "edf",
     "part_pct": 18,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2018"
    },
    {
     "nom": "Predica (Crédit Agricole Assurances)",
     "id": "credit-agricole-assurances",
     "part_pct": 10,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2018"
    }
   ],
   "description": "Transport et stockage de gaz dans le Sud-Ouest.",
@@ -28640,7 +29023,8 @@
     "nom": "Elon Musk",
     "type": "personne",
     "pays": "US",
-    "part_pct": 19.9
+    "part_pct": 19.9,
+    "part_date": "2026-06-17"
    },
    {
     "nom": "Flottant / public",
@@ -28722,9 +29106,10 @@
    {
     "nom": "Bouygues",
     "id": "bouygues",
-    "part_pct": 43.9,
+    "part_pct": 46.1,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-05-30"
    },
    {
     "nom": "Salariés (PEE)",
@@ -28736,7 +29121,8 @@
     "id": "famille-kretinsky",
     "part_pct": 5.04,
     "type": "fonds",
-    "pays": "CZ"
+    "pays": "CZ",
+    "part_date": "2025-05-30"
    },
    {
     "nom": "Flottant / public",
@@ -28780,13 +29166,15 @@
     "id": "etat-francais",
     "part_pct": 26.6,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Dassault Aviation",
     "part_pct": 26.6,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Flottant et salariés",
@@ -28921,7 +29309,8 @@
     "nom": "Salariés",
     "part_pct": 8.13,
     "type": "salaries",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-06"
    },
    {
     "nom": "Investisseurs institutionnels (dont Amundi, BlackRock)",
@@ -29082,14 +29471,16 @@
     "id": "rethmann",
     "part_pct": 66.0,
     "pays": "DE",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2025-07-01"
    },
    {
     "nom": "Caisse des Dépôts",
     "id": "caisse-des-depots",
     "part_pct": 34.0,
     "pays": "FR",
-    "type": "public"
+    "type": "public",
+    "part_date": "2025-07-01"
    }
   ],
   "description": "Opérateur de transports publics (bus, tram, train régional).",
@@ -29168,14 +29559,16 @@
     "id": "pai-partners",
     "part_pct": 61.0,
     "type": "fonds",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2022"
    },
    {
     "nom": "PepsiCo",
     "id": "pepsico",
     "part_pct": 39.0,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2022"
    }
   ],
   "description": "Ex-activité jus de PepsiCo cédée en 2022.",
@@ -29232,13 +29625,15 @@
     "nom": "Alexeï Mordachov (participation gelée par les sanctions UE)",
     "part_pct": 10.9,
     "type": "personne",
-    "pays": "RU"
+    "pays": "RU",
+    "part_date": "2023-07"
    },
    {
     "nom": "RIU (famille Riu)",
     "part_pct": 1.1,
     "type": "famille",
-    "pays": "ES"
+    "pays": "ES",
+    "part_date": "2023-07"
    },
    {
     "nom": "Flottant / public",
@@ -29321,57 +29716,66 @@
     "id": "france-televisions",
     "type": "groupe",
     "pays": "FR",
-    "part_pct": 46.42
+    "part_pct": 46.42,
+    "part_date": "2022-01"
    },
    {
     "nom": "France Médias Monde",
     "id": "france-medias-monde",
     "type": "groupe",
     "pays": "FR",
-    "part_pct": 11.97
+    "part_pct": 11.97,
+    "part_date": "2022-01"
    },
    {
     "nom": "RTS (SRG SSR)",
     "type": "public",
     "pays": "CH",
-    "part_pct": 10.53
+    "part_pct": 10.53,
+    "part_date": "2022-01"
    },
    {
     "nom": "RTBF",
     "type": "public",
     "pays": "BE",
-    "part_pct": 10.53
+    "part_pct": 10.53,
+    "part_date": "2022-01"
    },
    {
     "nom": "Société Radio-Canada",
     "type": "public",
     "pays": "CA",
-    "part_pct": 6.32
+    "part_pct": 6.32,
+    "part_date": "2022-01"
    },
    {
     "nom": "TV Monaco",
     "type": "public",
     "pays": "MC",
-    "part_pct": 5.26
+    "part_pct": 5.26,
+    "part_date": "2022-01"
    },
    {
     "nom": "Télé-Québec",
     "type": "public",
     "pays": "CA",
-    "part_pct": 4.21
+    "part_pct": 4.21,
+    "part_date": "2022-01"
    },
    {
     "nom": "Arte France",
     "id": "arte-france",
     "type": "groupe",
     "pays": "FR",
-    "part_pct": 3.12
+    "part_pct": 3.12,
+    "part_date": "2022-01"
    },
    {
     "nom": "INA",
     "type": "public",
     "pays": "FR",
-    "part_pct": 1.65
+    "part_pct": 1.65,
+    "part_date": "2022-01"
    }
   ],
   "description": "Chaîne francophone internationale détenue par les audiovisuels publics francophones (France, Suisse, Belgique, Canada, Québec, Monaco).",
@@ -29485,14 +29889,16 @@
     "nom": "Actionnaires historiques d'UGC",
     "type": "autre",
     "pays": "FR",
-    "part_pct": 66
+    "part_pct": 66,
+    "part_date": "2025-10-16"
    },
    {
     "nom": "Canal+",
     "id": "canal-plus",
     "part_pct": 34,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-10-16"
    }
   ],
   "description": "Exploitant de cinémas (UGC Illimité) et producteur.",
@@ -29547,7 +29953,8 @@
     "id": "tencent",
     "part_pct": 11.45,
     "type": "groupe",
-    "pays": "CN"
+    "pays": "CN",
+    "part_date": "2025-03-26"
    },
    {
     "nom": "Pershing Square",
@@ -29635,7 +30042,8 @@
     "nom": "Pascal Chevalier, Gautier Normand et entités liées (dirigeants)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 34.5
+    "part_pct": 34.5,
+    "part_date": "2026-09-01"
    },
    {
     "nom": "Flottant / public",
@@ -29931,26 +30339,30 @@
     "nom": "Actionnaires individuels",
     "part_pct": 10.4,
     "type": "flottant",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Salariés",
     "part_pct": 8.9,
     "type": "salaries",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "BlackRock",
     "id": "blackrock",
-    "part_pct": 6,
+    "part_pct": 5.9,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Amundi",
-    "part_pct": 6,
+    "part_pct": 5.8,
     "type": "fonds",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Flottant",
@@ -29974,7 +30386,8 @@
     "nom": "BWGI (famille Moreira Salles), via Kaon V",
     "part_pct": 77.05,
     "type": "famille",
-    "pays": "BR"
+    "pays": "BR",
+    "part_date": "2025"
    },
    {
     "nom": "Bpifrance",
@@ -30052,14 +30465,16 @@
     "id": "advent-international",
     "part_pct": 70.0,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Reckitt",
     "id": "reckitt",
     "part_pct": 30.0,
     "type": "groupe",
-    "pays": "GB"
+    "pays": "GB",
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Ex-pôle « Essential Home » de Reckitt (Air Wick, Calgon, Cillit Bang), cédé à Advent ; cession finalisée le 31/12/2025, Reckitt garde 30 %. Nouveau nom « Vestacy » signalé (non confirmé).",
@@ -30148,19 +30563,22 @@
     "nom": "Salariés (plan d'épargne groupe)",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 10.9
+    "part_pct": 10.9,
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Qatar Holding",
     "type": "fonds",
     "pays": "QA",
-    "part_pct": 2.5
+    "part_pct": 2.5,
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Actionnaires individuels",
     "type": "flottant",
     "pays": "FR",
-    "part_pct": 11.9
+    "part_pct": 11.9,
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Investisseurs institutionnels (dont Amundi, BlackRock, Vanguard)",
@@ -30719,7 +31137,8 @@
     "id": "access-industries",
     "type": "groupe",
     "pays": "US",
-    "part_pct": 72
+    "part_pct": 72,
+    "part_date": "2025"
    },
    {
     "nom": "Flottant / public",
@@ -31094,7 +31513,8 @@
     "id": "spacex",
     "part_pct": 100.0,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-02-02"
    }
   ],
   "description": "Société d'IA (Grok) ayant absorbé X (ex-Twitter) en 2025, filiale à 100 % de SpaceX depuis le 2 février 2026.",
@@ -31139,13 +31559,15 @@
     "id": "altice-france",
     "part_pct": 50.01,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-04"
    },
    {
     "nom": "OMERS, Allianz, AXA IM (ensemble)",
     "part_pct": 49.99,
     "type": "fonds",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2026-04"
    }
   ],
   "description": "Opérateur d'infrastructure fibre (ex-SFR FTTH), exclu du périmètre de la vente de SFR ; la part d'Altice est en vente (finalistes cités : KKR, Vauban, Brookfield, DigitalBridge).",
@@ -31201,13 +31623,15 @@
     "nom": "Fonds gérés par Apollo",
     "part_pct": 90.0,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2021-09-01"
    },
    {
     "nom": "Verizon",
     "part_pct": 10.0,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2021-09-01"
    }
   ],
   "description": "Portail, Yahoo Mail et actualités (chiffres de la cession de 2021).",
@@ -31464,7 +31888,8 @@
     "id": "fdj-united",
     "part_pct": 100,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2023-09"
    }
   ],
   "description": "Opérateur de paris sportifs en ligne du groupe ZEturf, racheté par la FDJ (finalisé fin septembre 2023).",

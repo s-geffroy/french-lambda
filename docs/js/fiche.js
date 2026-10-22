@@ -3,6 +3,16 @@ import { paysLabel } from "./data.js?v=dev";
 export const esc = (s) =>
   String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
 
+// Date de la mesure d'une part : "2025", "2026-03" ou "2026-03-31".
+const MOIS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."];
+function datePart(d) {
+  if (!d) return "date inconnue";
+  const [a, m, j] = d.split("-");
+  return [j && String(+j), m && MOIS[+m - 1], a].filter(Boolean).join(" ");
+}
+const part = (a) =>
+  a.part_pct == null ? "" : ` ${a.part_pct.toLocaleString("fr-FR")} % <span class="date-part" title="date à laquelle cette part a été mesurée">${esc(datePart(a.part_date))}</span>`;
+
 const STATUT = (ctx, id) => ctx.model.ref.statuts.find((s) => s.id === id)?.label || id || "—";
 
 function actionnaires(ctx, g) {
@@ -15,7 +25,7 @@ function actionnaires(ctx, g) {
           ? `<button class="lien" data-sel="g:${esc(a.id)}">${esc(a.nom)}</button>`
           : esc(a.nom);
         const pays = a.pays || ctx.model.g.get(a.id)?.pays_siege;
-        return nom + (a.part_pct != null ? ` ${a.part_pct.toLocaleString("fr-FR")} %` : "") +
+        return nom + part(a) +
           (pays && pays !== "XX" ? ` <span class="tag">${esc(paysLabel(pays))}</span>` : "");
       })
       .join(" · ") +

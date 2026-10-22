@@ -10,7 +10,7 @@ export function render(el, brands, ctx) {
     <li><b>Services publics et para-publics</b> : organismes sociaux, entreprises publiques, administrations.</li>
   </ul>
   <h3>Comment lire la propriété</h3>
-  <p>Chaque marque est rattachée à l'entreprise qui l'exploite, puis on remonte la chaîne de contrôle (filiale → maison mère → holding) jusqu'au <b>contrôleur ultime</b> : une famille, un État, un fonds, des sociétaires, ou une société cotée sans actionnaire de contrôle. Les pourcentages sont ceux du capital lorsqu'ils sont publiés ; les droits de vote peuvent différer.</p>
+  <p>Chaque marque est rattachée à l'entreprise qui l'exploite, puis on remonte la chaîne de contrôle (filiale → maison mère → holding) jusqu'au <b>contrôleur ultime</b> : une famille, un État, un fonds, des sociétaires, ou une société cotée sans actionnaire de contrôle. Les pourcentages sont ceux du capital lorsqu'ils sont publiés ; les droits de vote peuvent différer. Chaque pourcentage porte la date à laquelle il a été mesuré (rapport annuel, déclaration, opération) ; « date inconnue » signale un chiffre dont la source ne donne pas la date : à lire comme un ordre de grandeur.</p>
   <h3>Sources</h3>
   <p>Documents d'enregistrement universels et rapports annuels, sites des groupes, décisions de l'Autorité de la concurrence, observatoires de l'Arcep et de la CRE, panels Kantar et NielsenIQ cités par la presse, presse économique ; Wikipédia en dernier recours. Chaque fiche cite ses sources et sa date de vérification.</p>
   <h3>Limites</h3>

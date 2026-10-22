@@ -11,6 +11,7 @@ from pathlib import Path
 
 DATA = Path(__file__).resolve().parent.parent / "docs" / "data"
 ISO2 = re.compile(r"^[A-Z]{2}$")
+DATE = re.compile(r"^\d{4}(-(0[1-9]|1[0-2])(-(0[1-9]|[12]\d|3[01]))?)?$")
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 TYPES_ACT = {"personne", "famille", "etat", "public", "fonds", "groupe", "flottant", "salaries", "societaires", "autre"}
 
@@ -61,6 +62,11 @@ def main():
             p = a.get("pays")
             if not p or not (ISO2.match(p)):
                 err(f"groupe {gid} : actionnaire {a.get('nom')} sans nationalité ISO (pays={p!r})")
+            d = a.get("part_date")
+            if d is not None and not (isinstance(d, str) and DATE.match(d)):
+                err(f"groupe {gid} : actionnaire {a.get('nom')} part_date {d!r} n'est pas AAAA, AAAA-MM ou AAAA-MM-JJ")
+            if d and a.get("part_pct") is None:
+                err(f"groupe {gid} : actionnaire {a.get('nom')} a une part_date sans part_pct")
             pct = a.get("part_pct")
             if pct is not None:
                 if not isinstance(pct, (int, float)) or not 0 <= pct <= 100:

@@ -24,8 +24,10 @@ def load(name):
         return json.load(f)
 
 
-def mois_ecoules(ym, ref):
-    a, m = (int(x) for x in ym.split("-")[:2])
+def mois_ecoules(date_, ref):
+    """Mois écoulés depuis "AAAA", "AAAA-MM" ou "AAAA-MM-JJ" (une année seule compte pour décembre)."""
+    parts = date_.split("-")
+    a, m = int(parts[0]), int(parts[1]) if len(parts) > 1 else 12
     return (ref.year - a) * 12 + ref.month - m
 
 
@@ -55,6 +57,12 @@ def main():
         key=lambda x: (x["verifie_le"], -impact[x["id"]]),
     )
 
+    parts = [(g_, a) for g_ in groupes for a in g_.get("actionnaires", []) if a.get("part_pct") is not None and a.get("type") != "flottant"]
+    vieilles = sorted(
+        ((g_, a) for g_, a in parts if not a.get("part_date") or mois_ecoules(a["part_date"], today) >= 24),
+        key=lambda t: (t[1].get("part_date") or "", -impact[t[0]["id"]]),
+    )
+
     nom = lambda x: x.get("nom") or x.get("marque")
     lien = lambda x, t: f"[{nom(x)}]({SITE}#vue=liste&sel={t}:{x['id']})"
     out = [
@@ -63,6 +71,7 @@ def main():
         f"- Marques affichées « à confirmer » : **{flag}** ({flag * 100 // max(len(marques), 1)} %)",
         f"- Groupes douteux : {len(gd)} · notes de marques douteuses : {len(md)}",
         f"- Groupes vérifiés il y a 6 mois ou plus : {len(vieux)}",
+        f"- Pourcentages non datés ou mesurés il y a 2 ans ou plus : {len(vieilles)} sur {len(parts)}",
         "",
         "## Opérations à surveiller",
         "Rachats, OPA et cessions décrits comme non finalisés : vérifier s'ils ont abouti.",
@@ -73,6 +82,10 @@ def main():
         out.append(f"- … et {len(ops) - LIMITE} autres")
     out += ["", "## Groupes douteux, par nombre de marques touchées", ""]
     out += [f"- {lien(x, 'g')} ({impact[x['id']]} marques) — {x.get('note') or x.get('description') or ''}" for x in gd[:LIMITE]] or ["Aucun."]
+    out += ["", "## Pourcentages à rafraîchir", "Non datés d'abord, puis du plus ancien au plus récent.", ""]
+    out += [f"- {lien(g_, 'g')} — {a['nom']} : {a['part_pct']} % ({a.get('part_date') or 'date inconnue'})" for g_, a in vieilles[:LIMITE]] or ["Aucun."]
+    if len(vieilles) > LIMITE:
+        out.append(f"- … et {len(vieilles) - LIMITE} autres")
     out += ["", "## Fiches les plus anciennes", ""]
     out += [f"- {lien(x, 'g')} — vérifié le {x['verifie_le']} ({impact[x['id']]} marques)" for x in vieux[:LIMITE]] or ["Aucune fiche de plus de 6 mois."]
     print("\n".join(out))
