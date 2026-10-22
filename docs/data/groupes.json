@@ -4708,6 +4708,8 @@
   "nom": "Biogroup",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "444542732",
+  "lei": "969500DCZL54LLTFEM37",
   "actionnaires": [
    {
     "nom": "Famille Eimer",
@@ -11845,6 +11847,8 @@
   "nom": "Europ Assistance",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "632016382",
+  "lei": "549300K4ROHPOTQWXU96",
   "groupe_parent": "generali",
   "actionnaires": [
    {
@@ -14300,6 +14304,8 @@
   "nom": "Fiducial",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "328084074",
+  "lei": "969500IDDK83I3YIJ293",
   "actionnaires": [
    {
     "nom": "Christian Latouche",
@@ -14607,6 +14613,7 @@
   "nom": "FM Logistic",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "387850423",
   "actionnaires": [
    {
     "nom": "Familles fondatrices (Faure et Machet)",
@@ -14993,6 +15000,7 @@
   "nom": "Franprix",
   "pays_siege": "FR",
   "statut": "cote",
+  "siren": "343045316",
   "groupe_parent": "casino",
   "actionnaires": [
    {
@@ -16160,6 +16168,8 @@
   "nom": "Groupe Atlantic",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "562053173",
+  "lei": "969500JWKAB8XUP2G416",
   "actionnaires": [
    {
     "nom": "Paloma Rheem Holdings",
@@ -16705,6 +16715,8 @@
   "nom": "Hamelin",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "352998827",
+  "lei": "969500Q26CSQ9U6VIE35",
   "actionnaires": [
    {
     "nom": "Famille Hamelin",
@@ -18470,6 +18482,7 @@
   "nom": "Izivia",
   "pays_siege": "FR",
   "statut": "public",
+  "siren": "419070180",
   "groupe_parent": "edf",
   "actionnaires": [
    {
@@ -19778,6 +19791,7 @@
   "nom": "La Grande Récré",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "952908465",
   "actionnaires": [
    {
     "nom": "JouéClub",
@@ -20529,6 +20543,7 @@
   "nom": "Le Train",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "881964241",
   "actionnaires": [
    {
     "nom": "Crédit Mutuel Arkéa",
@@ -21412,6 +21427,8 @@
   "nom": "Look Voyages (TUI France)",
   "pays_siege": "FR",
   "statut": "cote",
+  "siren": "331089474",
+  "lei": "213800Z3NBTGSAK59T74",
   "actionnaires": [
    {
     "nom": "TUI Group",
@@ -22898,6 +22915,7 @@
   "nom": "Meilleurtaux",
   "pays_siege": "FR",
   "statut": "fonds",
+  "siren": "824243273",
   "groupe_parent": "silver-lake",
   "actionnaires": [
    {
@@ -33904,6 +33922,7 @@
   "nom": "XpFibre",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "879907145",
   "groupe_parent": "altice-france",
   "actionnaires": [
    {
