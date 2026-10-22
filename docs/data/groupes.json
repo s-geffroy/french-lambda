@@ -14282,14 +14282,16 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Fabrice Feuillette",
-    "type": "personne",
+    "nom": "Jean-François et Laure Feuillette (fondateurs)",
+    "type": "famille",
     "pays": "FR"
    }
   ],
-  "description": "Chaîne de boulangeries fondée par Fabrice Feuillette (Touraine).",
+  "description": "Chaîne de boulangeries fondée par Jean-François et Laure Feuillette, basée à La Chaussée-Saint-Victor, près de Blois (Loir-et-Cher).",
   "sources": [
-   "https://www.feuillette.fr/"
+   "https://www.feuillette.fr/",
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/799169115",
+   "https://www.toute-la-franchise.com/news-boulangeries-feuillette-un-nouveau-directeur-general-pour-soutenir-la-croissance"
   ],
   "verifie_le": "2026-10"
  },
@@ -16157,24 +16159,30 @@
   "id": "groupe-atlantic",
   "nom": "Groupe Atlantic",
   "pays_siege": "FR",
-  "statut": "familial",
+  "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Familles Lamotte et Radisson (fondateurs)",
-    "type": "famille",
-    "pays": "FR"
+    "nom": "Paloma Rheem Holdings",
+    "id": "paloma-rheem",
+    "type": "groupe",
+    "pays": "JP"
    },
    {
-    "nom": "Management",
-    "type": "salaries",
+    "nom": "Familles fondatrices (minoritaires)",
+    "type": "famille",
     "pays": "FR"
    }
   ],
-  "description": "Fabricant de chauffage, PAC et chauffe-eau (Atlantic, Thermor, Sauter, Ygnis).",
+  "description": "Fabricant de chauffage, PAC et chauffe-eau (Atlantic, Thermor, Sauter, Ygnis), contrôlé depuis mai 2026 par le japonais Paloma Rheem Holdings.",
   "sources": [
+   "https://www.coolingpost.com/world-news/paloma-rheem-completes-groupe-atlantic-purchase",
+   "https://www.lincolninternational.com/transactions/groupe-atlantic-sold-a-majority-stake-to-paloma-rheem-holdings/",
+   "https://www.hellowatt.fr/blog/atlantic-rachete-paloma-rheem/",
    "https://fr.wikipedia.org/wiki/Groupe_Atlantic"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "groupe_parent": "paloma-rheem",
+  "note": "Participation majoritaire cédée à Paloma Rheem Holdings : accord annoncé le 22/12/2025, réalisé en mai 2026 ; le pourcentage n'est pas publié. Des familles fondatrices gardent une part minoritaire ; le siège reste en France et la direction en place."
  },
  {
   "id": "groupe-baudaire",
@@ -18993,6 +19001,33 @@
   "sources": [
    "https://www.autoritedelaconcurrence.fr/en/communiques-de-presse/3-august-2012-public-transport",
    "https://fr.wikipedia.org/wiki/Keolis"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
+  "id": "kergence",
+  "nom": "Kergence (repreneurs du BHV Marais)",
+  "pays_siege": "FR",
+  "statut": "prive",
+  "siren": "106165061",
+  "actionnaires": [
+   {
+    "nom": "Équipe dirigeante du BHV Marais (Karl-Stéphane Cottendin, président)",
+    "type": "personne",
+    "pays": "FR"
+   },
+   {
+    "nom": "Salariés du BHV (part significative ouverte)",
+    "type": "salaries",
+    "pays": "FR"
+   }
+  ],
+  "description": "SAS créée en juin 2026 par la direction du BHV Marais pour reprendre le grand magasin à la SGM, avec un capital ouvert aux salariés.",
+  "note": "Reprise signée, annoncée le 16/06/2026 (BHV Marais et Parly 2) ; sa réalisation et la répartition du capital restent à confirmer. Les murs appartiennent à Brookfield.",
+  "sources": [
+   "https://fr.fashionnetwork.com/news/Le-bhv-marais-cede-par-la-sgm-a-la-direction-du-grand-magasin,1840356.html",
+   "https://www.lyonmag.com/article/152584/le-bhv-marais-bientot-repris-par-son-management-et-ses-salaries-la-page-sgm-et-shein-tournee",
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/106165061"
   ],
   "verifie_le": "2026-10"
  },
@@ -25448,6 +25483,26 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "paloma-rheem",
+  "nom": "Paloma Rheem Holdings",
+  "pays_siege": "JP",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Kobayashi (fondateurs de Paloma)",
+    "type": "famille",
+    "pays": "JP"
+   }
+  ],
+  "description": "Groupe japonais non coté de Nagoya (Paloma, Rheem), spécialiste des chauffe-eau et de la climatisation, dirigé par Hiroaki Kobayashi.",
+  "sources": [
+   "https://www.palomaglobal.com/company/outline.html",
+   "https://en.wikipedia.org/wiki/Rheem_Manufacturing_Company",
+   "https://www.coolingpost.com/world-news/paloma-rheem-completes-groupe-atlantic-purchase"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "pandora",
   "nom": "Pandora A/S",
   "pays_siege": "DK",
@@ -28914,11 +28969,13 @@
     "pays": "FR"
    }
   ],
-  "description": "Foncière-exploitant de grands magasins, propriétaire du BHV Marais depuis 2023.",
+  "description": "Société de Frédéric Merlin exploitant des grands magasins en région (Angers, Le Mans, Limoges, Dijon, Grenoble…) ; propriétaire du BHV Marais de 2023 à 2026.",
   "sources": [
+   "https://fr.fashionnetwork.com/news/Le-bhv-marais-cede-par-la-sgm-a-la-direction-du-grand-magasin,1840356.html",
    "https://fr.wikipedia.org/wiki/BHV_Marais"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "A cédé le fonds de commerce du BHV Marais à son équipe dirigeante (accord signé, annoncé le 16/06/2026) ; les murs appartiennent à Brookfield depuis janvier 2026."
  },
  {
   "id": "sgs",

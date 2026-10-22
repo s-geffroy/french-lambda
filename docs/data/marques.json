@@ -11071,7 +11071,7 @@
  {
   "id": "bhv",
   "marque": "BHV Marais",
-  "groupe": "sgm",
+  "groupe": "kergence",
   "categorie": "habillement",
   "sous_categorie": "Grand magasin",
   "nature": "direct",
@@ -11079,8 +11079,9 @@
    "week-end",
    "occasionnel"
   ],
-  "note": "Cédé par les Galeries Lafayette à SGM en 2023.",
+  "note": "Cédé par les Galeries Lafayette à la SGM en 2023, puis par la SGM à son équipe dirigeante (Kergence) : reprise annoncée le 16/06/2026, réalisation à confirmer.",
   "sources": [
+   "https://fr.fashionnetwork.com/news/Le-bhv-marais-cede-par-la-sgm-a-la-direction-du-grand-magasin,1840356.html",
    "https://fr.wikipedia.org/wiki/BHV_Marais"
   ]
  },
