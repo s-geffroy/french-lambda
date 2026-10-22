@@ -14,7 +14,7 @@ from pathlib import Path
 DATA = Path(__file__).resolve().parent.parent / "docs" / "data"
 SITE = "https://s-geffroy.github.io/french-lambda/"
 # Même détection que le site (docs/js/data.js) : ces mots affichent « à confirmer ».
-DOUTE = re.compile(r"confirmer|incertain|non v[ée]rifi|non rev[ée]rifi|de m[ée]moire|en cours|annonc[ée]|[àa] v[ée]rifier", re.I)
+DOUTE = re.compile(r"confirmer|incertain|non v[ée]rifi|non rev[ée]rifi|de m[ée]moire|en cours|annoncée?(?![a-zà-ÿs])|[àa] v[ée]rifier", re.I)
 OPERATION = re.compile(r"annonc|en cours|finalis|attendue?|prévue?|OPA|rachat|cession|sign[ée]", re.I)
 LIMITE = 40
 

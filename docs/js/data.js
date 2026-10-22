@@ -36,7 +36,7 @@ function buildModel(ref, groupes, marques) {
   }
 
   // Une fiche dont la note (ou celle d'un groupe de sa chaîne) exprime un doute.
-  const DOUTE = /confirmer|incertain|non v[ée]rifi|non rev[ée]rifi|de m[ée]moire|en cours|annonc[ée]|[àa] v[ée]rifier/i;
+  const DOUTE = /confirmer|incertain|non v[ée]rifi|non rev[ée]rifi|de m[ée]moire|en cours|annoncée?(?![a-zà-ÿs])|[àa] v[ée]rifier/i;
   const douteux = (x) => DOUTE.test(x?.note || "") || DOUTE.test(x?.description || "");
   for (const x of groupes) x.aConfirmer = douteux(x);
 

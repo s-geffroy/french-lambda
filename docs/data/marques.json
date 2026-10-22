@@ -7366,10 +7366,13 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Mint cotée sur Euronext Growth (ALBUD) ; Holding Gay (Eoden) ≈ 62 % en avril 2021 après OPA ; actionnariat 2026 à confirmer.",
+  "note": "Mint SA cotée sur Euronext Growth (ALMIN) en octobre 2026 ; contrôlée par Erick Gay via Holding Gay / Eoden (62 % du capital en avril 2021 après OPA) ; Erick Gay et Eoden Ressources siègent au conseil d'administration (registre, 2026).",
   "sources": [
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2022/02/FCECO062358_20220224.pdf",
-   "https://fr.wikipedia.org/wiki/Mint_(entreprise)"
+   "https://fr.wikipedia.org/wiki/Mint_(entreprise)",
+   "https://recherche-entreprises.api.gouv.fr/search?q=422716878",
+   "https://www.marketscreener.com/quote/stock/MINT-33822/company/",
+   "https://www.mint-energie.com/mentions-legales"
   ]
  },
  {
@@ -15071,12 +15074,14 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Rachetée par Teleperformance (résultats de l'offre publiés le 3/11/2023, plus de 99,9 % des titres apportés, ≈ 3 Md€) ; intégration sous la marque TP, date d'abandon du nom Majorel à confirmer.",
+  "note": "Rachetée par Teleperformance (offre close en novembre 2023, plus de 99,9 % des titres, ≈ 3 Md€) ; intégrée au groupe, qui opère sous le seul nom TP depuis 2025 ; marque employeur Majorel remplacée par TP à partir de décembre 2024 au Maroc et en Afrique subsaharienne.",
   "sources": [
    "https://www.tp.com",
    "https://en.wikipedia.org/wiki/Majorel",
    "https://fr.wikipedia.org/wiki/Teleperformance",
-   "https://www.teleperformance.com/en-us/investors/shareholders-newsletter-december-2023/acquisition-of-majorel-the-new-teleperformance/"
+   "https://www.teleperformance.com/en-us/investors/shareholders-newsletter-december-2023/acquisition-of-majorel-the-new-teleperformance/",
+   "https://medias24.com/2025/01/20/teleperformance-officialise-la-transition-de-la-marque-employeur-majorel-au-maroc-et-en-afrique-subsaharienne/",
+   "https://www.businesswire.com/news/home/20250227092643/en/teleperformance-2024-annual-results/"
   ]
  },
  {
@@ -15134,7 +15139,8 @@
    "soir"
   ],
   "sources": [
-   "https://www.mediametrie.fr"
+   "https://www.mediametrie.fr",
+   "https://www.mediametrie.fr/en/mediametries-capital"
   ]
  },
  {
@@ -25000,13 +25006,14 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Exploité depuis 2011 par Aéroports du Grand Ouest (Vinci Airports, CCI Nantes Saint-Nazaire 10 %, ETPO 5 %), concession prolongée ; appel d'offres de 2023 annulé, nouvel appel lancé en décembre 2023 (candidatures jusqu'au 29/03/2024, signature visée fin 2025-début 2026) : attributaire de la nouvelle concession à confirmer.",
+  "note": "Exploité depuis 2011 par Aéroports du Grand Ouest (Vinci Airports ; CCI Nantes Saint-Nazaire 10 %, ETPO 5 %), concession prolongée dans l'attente du futur concessionnaire. Appel d'offres de 2023 annulé ; nouvelle procédure lancée en décembre 2023, désignation prévue en 2026 : procédure en cours, aucun attributaire publié au 22/10/2026.",
   "sources": [
    "https://www.vinci-airports.com/fr",
    "https://fr.wikipedia.org/wiki/Aéroport_de_Nantes-Atlantique",
    "https://www.banquedesterritoires.fr/aeroport-de-nantes-clement-beaune-promet-un-nouvel-appel-doffres-dici-la-fin-de-lannee",
    "https://www.banquedesterritoires.fr/aeroport-de-nantes-letat-lance-un-nouvel-appel-doffres",
-   "https://www.lejournaldesentreprises.com/article/un-programme-de-26-millions-deuros-de-travaux-est-lance-pour-laeroport-nantes-atlantique-2094873"
+   "https://www.lejournaldesentreprises.com/article/un-programme-de-26-millions-deuros-de-travaux-est-lance-pour-laeroport-nantes-atlantique-2094873",
+   "https://www.air-journal.fr/2025-12-02-nddl-abandonne-nantes-atlntique-sature-un-aeroport-pris-au-piege-des-contentieux-rapporte-la-cour-des-comptes-5269461.html/air-journal-passageres-journee-ensoleille-soleil-nantes-atlantique-source-vinci-airport"
   ]
  },
  {
@@ -26718,9 +26725,10 @@
   "moments": [
    "trajet"
   ],
-  "note": "Réseau Shell réduit à ≈ 90 stations à la fin des années 2000 (autoroutes, voies rapides) ; exploitant(s) actuel(s) des stations sous marque Shell en France (licencié ou distributeur) à confirmer : ni Wikipédia ni shell.fr ne le nomment.",
+  "note": "Marque de Shell plc ; en France, la filiale Shell France SAS (Puteaux, présidée par Vincent Baril) commercialise les carburants et compte 337 établissements actifs (registre, 2026). Réseau réduit à environ 90 stations à la fin des années 2000 (autoroutes, voies rapides).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Shell_(entreprise)"
+   "https://fr.wikipedia.org/wiki/Shell_(entreprise)",
+   "https://recherche-entreprises.api.gouv.fr/search?q=780130175"
   ]
  },
  {
@@ -28818,10 +28826,11 @@
    "midi",
    "mensuel"
   ],
-  "note": "Bimpli (filiale de BPCE) rapprochée de Swile (annonce de juillet 2022) ; la société Bimpli SAS, présidée par Swile, est radiée (registre, 2026), activité reprise par Swile ; maintien commercial de la marque Bimpli en 2026 à confirmer.",
+  "note": "Bimpli (ex-filiale de BPCE) rapprochée de Swile (annonce de juillet 2022) ; la société Bimpli SAS, présidée par Swile, a cessé son activité le 01/01/2024 (registre), activité reprise par Swile. Maintien commercial de la marque Bimpli en 2026 à confirmer : site bimpli.com inaccessible, swile.co ne la mentionne plus.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Swile",
-   "https://recherche-entreprises.api.gouv.fr/search?q=bimpli"
+   "https://recherche-entreprises.api.gouv.fr/search?q=bimpli",
+   "https://www.swile.co/fr-fr"
   ]
  },
  {
@@ -29544,25 +29553,6 @@
   ]
  },
  {
-  "id": "actifed",
-  "marque": "Actifed",
-  "groupe": "kenvue",
-  "categorie": "sante",
-  "sous_categorie": "Rhume / état grippal",
-  "nature": "direct",
-  "moments": [
-   "occasionnel"
-  ],
-  "note": "Rattachement à Kenvue (ex-Johnson & Johnson Santé Grand Public) à confirmer : titulaire de la marque en France non retrouvé en ligne (site actifed.fr inaccessible, absent de la liste des marques phares de Kenvue).",
-  "sources": [
-   "https://www.kenvue.com/",
-   "https://www.kenvue.com/our-brands"
-  ],
-  "saisons": [
-   "hiver"
-  ]
- },
- {
   "id": "advil",
   "marque": "Advil",
   "groupe": "haleon",
@@ -29951,9 +29941,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Vaccin grippe haute dose (65 ans et plus) listé pour la campagne 2026-2027 (Ordre des pharmaciens, 27/02/2026) ; rattachement à Sanofi (titulaire de l'AMM) à confirmer : base publique des médicaments indisponible lors de la vérification.",
+  "note": "Vaccin grippe haute dose (65 ans et plus) de Sanofi (laboratoire Sanofi Winthrop Industrie), listé pour la campagne 2026-2027 (Ordre des pharmaciens, 27/02/2026).",
   "sources": [
-   "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027"
+   "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027",
+   "https://www.mesvaccins.net/web/vaccines"
   ],
   "saisons": [
    "hiver",
@@ -33285,17 +33276,19 @@
  {
   "id": "cdiscount-mobile",
   "marque": "Cdiscount Mobile",
-  "groupe": "cdiscount",
+  "groupe": "bouygues-telecom",
   "categorie": "telecoms",
   "sous_categorie": "MVNO de distributeur",
   "nature": "direct",
   "moments": [
    "mensuel"
   ],
-  "note": "Offre mobile lancée par Cdiscount en 2016 ; réseau hôte et opérateur technique actuels à confirmer (historiquement réseau Bouygues Telecom ; site cdiscount-mobile.com inaccessible lors de la vérification).",
+  "note": "Marque sous licence Cdiscount, opérée par BTBD (ex-Euro-Information Telecom, rachetée par Bouygues Telecom fin 2020) ; toutes les offres utilisent le réseau Bouygues Telecom.",
   "sources": [
    "https://www.lsa-conso.fr/cdiscount-est-rachete-a-100-par-casino-et-est-ainsi-valorise-a-moins-de-30-millions-d,452746",
-   "https://fr.wikipedia.org/wiki/Cdiscount"
+   "https://fr.wikipedia.org/wiki/Cdiscount",
+   "https://www.journaldugeek.com/forfait-mobile/operateur/cdiscount-mobile/",
+   "https://www.edcom.fr/forfait-mobile/operateur/Cdiscount-mobile/"
   ]
  },
  {

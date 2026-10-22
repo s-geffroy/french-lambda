@@ -431,15 +431,16 @@
     "pays": "US"
    },
    {
+    "nom": "Vend Marketplaces (ex-Schibsted)",
+    "part_pct": 14,
+    "type": "groupe",
+    "pays": "NO"
+   },
+   {
     "nom": "eBay (participation réinvestie lors du rachat)",
     "id": "ebay",
     "type": "groupe",
     "pays": "US"
-   },
-   {
-    "nom": "Schibsted (participation réinvestie lors du rachat)",
-    "type": "groupe",
-    "pays": "NO"
    }
   ],
   "description": "Groupe de petites annonces (leboncoin), retiré de la cote d'Oslo en mai 2024 par un consortium Permira / Blackstone.",
@@ -450,11 +451,12 @@
    "https://fr.wikipedia.org/wiki/Adevinta",
    "https://www.tipranks.com/news/the-fly/ebay-announces-support-for-offer-led-by-permira-blackstone-to-acquire-adevinta",
    "https://www.sec.gov/Archives/edgar/data/1065088/000106508824000094/ex9901adevinta2023annualre.htm",
-   "https://chainstoreage.com/ebay-gain-22-billion-sale-shares-adevinta"
+   "https://chainstoreage.com/ebay-gain-22-billion-sale-shares-adevinta",
+   "https://www.tipranks.com/news/company-announcements/vend-marketplaces-to-distribute-eur-336-million-from-adevinta-stake"
   ],
   "verifie_le": "2026-10",
   "groupe_parent": "permira",
-  "note": "Retirée de la cote d'Oslo en mai 2024 par Permira et Blackstone (avec General Atlantic et TCV). eBay et Schibsted ont réinvesti une partie de leurs titres (eBay : ≈ 20 % prévu à la clôture, avec option d'achat des fonds pouvant le ramener à 9,99 %) ; répartition finale non publiée."
+  "note": "Retirée de la cote d'Oslo en mai 2024 par Permira et Blackstone (avec General Atlantic et TCV), via la holding Aurelia. Vend Marketplaces (ex-Schibsted) en détient environ 14 % (mai 2025) ; eBay a réinvesti une partie de ses titres ; répartition entre les fonds non publiée."
  },
  {
   "id": "adidas",
@@ -1486,7 +1488,7 @@
     "pays": "XX"
    }
   ],
-  "description": "Maison mère de SFR, RED by SFR et de plusieurs MVNO ; restructurée en 2025 (créanciers à 45 % du capital, validation par la cour d'appel de Paris en décembre 2025) et en cours de cession à Bouygues Telecom (42 %), Free-iliad (31 %) et Orange (27 %) : protocole d'accord du 6 juin 2026 (20,35 Md€), dossier renvoyé le 15/07/2026 par la Commission européenne à l'Autorité de la concurrence ; finalisation attendue au second semestre 2027.",
+  "description": "Maison mère de SFR, RED by SFR et de plusieurs MVNO ; restructurée en 2025 (créanciers à 45 % du capital, validation par la cour d'appel de Paris en décembre 2025). Cession à Bouygues Telecom (42 %), Free-iliad (31 %) et Orange (27 %) en cours : protocole d'accord du 6 juin 2026 (20,35 Md€), dossier renvoyé le 15/07/2026 par la Commission européenne à l'Autorité de la concurrence ; finalisation attendue au second semestre 2027 au plus tôt.",
   "sources": [
    "https://www.tradingsat.com/actualites/marches-financiers/marche-altice-france-plan-de-restructuration-valide-le-sort-de-sfr-en-question-1143953.html",
    "https://www.ifre.com/ifr-awards/2333229/emea-restructuring-altice-frances-24bn-restructuring",
@@ -1496,7 +1498,9 @@
    "https://www.cbnews.fr/node/101413",
    "https://fr.wikipedia.org/wiki/SFR",
    "https://www.autoritedelaconcurrence.fr/en/article/telecoms-sfr-autorite-de-la-concurrence-review-acquisition-sfr-altice-france",
-   "https://www.abcbourse.com/marches/la-vente-de-sfr-sera-finalement-examinee-par-l-autorite-de-la-concurrence-franca_699719"
+   "https://www.abcbourse.com/marches/la-vente-de-sfr-sera-finalement-examinee-par-l-autorite-de-la-concurrence-franca_699719",
+   "https://en.arcep.fr/news/press-releases/view/n/competition-080626.html",
+   "https://www.telcotitans.com/orangewatch/ec-cedes-oversight-of-sfr-takeover-to-french-authorities/10682.article"
   ],
   "verifie_le": "2026-10"
  },
@@ -2962,30 +2966,18 @@
   "groupe_parent": "elo",
   "actionnaires": [
    {
-    "nom": "ELO / Financière de Participations (AFM)",
+    "nom": "ELO (ex-Auchan Holding, famille Mulliez / AFM, salariés via ValFrance)",
     "id": "elo",
-    "part_pct": 70.0,
     "type": "groupe",
-    "pays": "FR"
-   },
-   {
-    "nom": "Soparsam",
-    "part_pct": 15.0,
-    "type": "autre",
-    "pays": "FR"
-   },
-   {
-    "nom": "Salariés (Valauchan)",
-    "part_pct": 15.0,
-    "type": "salaries",
     "pays": "FR"
    }
   ],
   "description": "Distributeur alimentaire de la famille Mulliez (hypers, supermarchés, proximité, drive).",
-  "note": "Répartition (Financière de Participations/AFM 70 %, Soparsam 15 %, salariés 15 % via Valauchan devenu ValFrance) reprise de l'infobox Wikipédia, le texte donnant 13,5 % aux salariés : à confirmer sur document officiel. Supermarchés : accord de janv. 2026 avec Intermarché (164 passent en franchise), 17 magasins cédés à Lidl (sept. 2026). Actifs russes nationalisés par décret le 18/09/2026.",
+  "note": "Filiale d'ELO (ex-Auchan Holding), holding contrôlée par la famille Mulliez (AFM), dont les salariés détiennent une part via ValFrance (ex-Valauchan) ; Wikipédia donne deux répartitions discordantes (13,5 % ou 15 % aux salariés) : pourcentages retirés faute de document officiel. Supermarchés : accord de janv. 2026 avec Intermarché (164 passent en franchise), 17 magasins cédés à Lidl (sept. 2026). Actifs russes nationalisés par décret le 18/09/2026.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Auchan",
-   "https://www.abcbourse.com/marches/auchan-va-disparaitre-en-france-tous-ses-supermarches-deviendront-intermarche-e_681165"
+   "https://www.abcbourse.com/marches/auchan-va-disparaitre-en-france-tous-ses-supermarches-deviendront-intermarche-e_681165",
+   "https://recherche-entreprises.api.gouv.fr/search?q=auchan%20retail%20international"
   ],
   "verifie_le": "2026-10"
  },
@@ -4190,6 +4182,12 @@
   "statut": "prive",
   "actionnaires": [
    {
+    "nom": "Arche (groupe Citya, Philippe Briand), actionnaire majoritaire après rachat des parts de Nexity",
+    "id": "arche",
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
     "nom": "Professionnels de l'immobilier (réseaux, administrateurs de biens, syndicats professionnels)",
     "type": "autre",
     "pays": "FR"
@@ -4198,10 +4196,13 @@
   "description": "Portail d'annonces immobilières lancé par des professionnels.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Nexity",
-   "https://recherche-entreprises.api.gouv.fr/search?q=bien%27ici"
+   "https://recherche-entreprises.api.gouv.fr/search?q=bien%27ici",
+   "https://www.mysweetimmo.com/2024/11/22/immobilier-bienici-un-allie-independant-pour-la-reprise-du-marche-cyril-janin-bienici/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=arche%20briand"
   ],
   "verifie_le": "2026-10",
-  "note": "Société non cotée ; capital non publié. SAS présidée par David Benbassat ; son conseil réunit des représentants de la profession immobilière, dont l'Union des syndicats de l'immobilier (UNIS) et Philippe Briand (registre, 2026)."
+  "note": "Société non cotée ; capital non publié. Le groupe Arche (Philippe Briand, Citya) a racheté les parts de Nexity et en est l'actionnaire majoritaire (Cyril Janin, président, MySweetImmo, nov. 2024). SAS présidée par David Benbassat ; conseil comprenant Philippe et Harold Briand, deux dirigeants des sociétés Arche et l'UNIS (registre, 2026).",
+  "groupe_parent": "arche"
  },
  {
   "id": "big-fernand",
@@ -5147,7 +5148,7 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Coopératives agricoles bretonnes (Sica Participations, Cerafel…)",
+    "nom": "Coopératives agricoles bretonnes (holding SOPARFI : Sica de Saint-Pol-de-Léon, Cerafel…)",
     "part_pct": 75.0,
     "type": "societaires",
     "pays": "FR"
@@ -5163,16 +5164,23 @@
     "nom": "CCI bretonnes",
     "type": "public",
     "pays": "FR"
+   },
+   {
+    "nom": "Investisseurs bretons entrés en 2024-2025 (Louis Le Duff, Société financière de la Loire, Alain Glon Holding, Idea Future, Helea Patri, TM Participations, FOR Invest…)",
+    "type": "autre",
+    "pays": "FR"
    }
   ],
   "description": "Compagnie de ferries bretonne (Manche, Espagne, Irlande), fondée par des agriculteurs.",
   "sources": [
    "https://www.lejournaldesentreprises.com/article/brittany-ferries-accueille-huit-nouveaux-actionnaires-son-capital-2102628",
    "https://www.lechotouristique.com/article/brittany-ferries-ouvre-son-capital-a-huit-nouveaux-actionnaires-bretons",
-   "https://fr.wikipedia.org/wiki/Brittany_Ferries"
+   "https://fr.wikipedia.org/wiki/Brittany_Ferries",
+   "https://www.lejournaldesentreprises.com/article/cma-cgm-entre-hauteur-de-12-au-capital-de-brittany-ferries-2056999",
+   "https://maritime-executive.com/article/cma-cgm-takes-stake-in-brittany-ferries"
   ],
   "verifie_le": "2026-10",
-  "note": "Infobox Wikipédia : SOPARFI (coopératives) 57 %, CCI Bretagne 23 %, CMA CGM 12 % ; effet de l'ouverture du capital 2024-2025 à confirmer."
+  "note": "CMA CGM a converti en 2023 son financement de 2021 en 12 % du capital. Après l'ouverture du capital à huit actionnaires bretons, les coopératives agricoles restent majoritaires avec 75 % (communiqué de la compagnie) ; part exacte des CCI après l'opération non publiée."
  },
  {
   "id": "britvic",
@@ -14513,10 +14521,11 @@
    "https://recherche-entreprises.api.gouv.fr/search?q=gibert%20joseph",
    "https://recherche-entreprises.api.gouv.fr/search?q=380816892",
    "https://madeinmarseille.net/actualite/206847-redressement-judiciaire-marseille-gibert-poursuit-son-activite-octobre-2026/",
-   "https://www.sudradio.fr/societe/librairies-gibert-presente-un-plan-de-redressement-avec-84-postes-supprimes"
+   "https://www.sudradio.fr/societe/librairies-gibert-presente-un-plan-de-redressement-avec-84-postes-supprimes",
+   "https://medias24.com/agence-presse/librairies-gibert-presente-un-plan-de-redressement-avec-84-postes-supprimes/"
   ],
   "verifie_le": "2026-10",
-  "note": "Groupe familial : la Financière Palidis (conseil de surveillance présidé par Philippe Rochet, avec des membres des familles Gibert, Bittore et Rochet) préside les sociétés d'exploitation ; au-dessus, la Holding Gibert Joseph (commandite, associés commandités Hervé Gibert et Sylvie Bittore-Gibert) (registre, 2026). Redressement judiciaire ouvert le 28/04/2026 ; période d'observation prolongée jusqu'à fin octobre 2026 ; plan de redressement présenté le 24/07/2026 (84 postes supprimés), décision du tribunal en cours."
+  "note": "Groupe familial : la Financière Palidis (conseil de surveillance présidé par Philippe Rochet, avec des membres des familles Gibert, Bittore et Rochet) préside les sociétés d'exploitation ; au-dessus, la Holding Gibert Joseph (commandite, associés commandités Hervé Gibert et Sylvie Bittore-Gibert) (registre, 2026). Redressement judiciaire ouvert le 28/04/2026 ; période d'observation prolongée jusqu'à fin octobre 2026 ; plan de redressement présenté le 24/07/2026 (84 postes supprimés sur 500), aucune décision du tribunal publiée au 22/10/2026 : procédure en cours."
  },
  {
   "id": "gie-cb",
@@ -14798,28 +14807,27 @@
    {
     "nom": "Volkswagen AG",
     "id": "volkswagen",
-    "part_pct": 66.0,
     "pays": "DE",
     "type": "groupe"
    },
    {
     "nom": "Attestor",
-    "part_pct": 27.0,
     "pays": "GB",
     "type": "fonds"
    },
    {
     "nom": "Pon Holdings",
-    "part_pct": 7.0,
     "pays": "NL",
     "type": "groupe"
    }
   ],
   "description": "Consortium mené par Volkswagen ayant racheté Europcar.",
-  "note": "Consortium Volkswagen / Attestor / Pon propriétaire d'Europcar depuis juin-juillet 2022 ; répartition 66/27/7 de l'offre de 2021, à confirmer en 2026.",
+  "note": "Holding du consortium Volkswagen / Attestor / Pon, propriétaire d'Europcar depuis juillet 2022 (93,6 % puis retrait obligatoire). Volkswagen y est majoritaire sans en avoir le contrôle ni la consolider (communiqué Volkswagen, 2021) ; répartition exacte du capital non publiée.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Europcar_Mobility_Group",
-   "https://en.wikipedia.org/wiki/Europcar"
+   "https://en.wikipedia.org/wiki/Europcar",
+   "https://www.volkswagen-group.com/en/press-releases/consortium-of-volkswagen-group-attestor-limited-and-pon-holdings-bv-to-launch-takeover-offer-for-europcar-17153",
+   "https://www.businesswire.com/news/home/20220705005407/en/Green-Mobility-Holding-to-Delist-Europcar-Mobility-Group-in-Order-to-Accelerate-Transformation"
   ],
   "verifie_le": "2026-10"
  },
@@ -15195,10 +15203,11 @@
    "https://fr.themedialeader.com/?p=218267",
    "https://fr.wikipedia.org/wiki/Groupe_Sud_Ouest",
    "https://www.cbnews.fr/medias/groupe-sud-ouest-negocie-son-rachat-groupe-rossel",
-   "https://www.lemondedudroit.fr/deals/105691-cornet-vincent-segurel-accompagne-le-groupe-rossel.html"
+   "https://www.lemondedudroit.fr/deals/105691-cornet-vincent-segurel-accompagne-le-groupe-rossel.html",
+   "https://www.boursedirect.fr/fr/actualites/categorie/economie/presse-sud-ouest-en-passe-d-etre-cede-a-rossel-proprietaire-de-la-voix-du-nord-afp-b660c1b1bd070104d2a46c5d2b3db691bc90d0ad"
   ],
   "verifie_le": "2026-10",
-  "note": "Capital détenu à 80 % par la famille Lemoîne et alliés via Socibog, 10 % par la société des journalistes et 10 % par la société des personnels (Wikipédia). Négociations exclusives pour la prise de contrôle par Rossel France annoncées le 3/09/2026 ; clôture visée fin 2026, après consultation des instances du personnel."
+  "note": "Capital détenu à 80 % par la famille Lemoîne et alliés via Socibog, 10 % par la société des journalistes et 10 % par la société des personnels (Wikipédia). Négociations exclusives pour la prise de contrôle par Rossel France annoncées le 3/09/2026 (prix évoqué d'environ 100 M€) ; pas de clôture au 22/10/2026, visée fin 2026 après consultation des instances du personnel."
  },
  {
   "id": "groupe-tranchant",
@@ -15598,7 +15607,7 @@
    "https://recherche-entreprises.api.gouv.fr/search?q=hellfest"
   ],
   "verifie_le": "2026-10",
-  "note": "Hellfest Productions est une association déclarée (SIREN 488 296 609, créée en 2006), sans capital ni actionnaires. En juin 2026, Ben Barbaud a annoncé l'abandon du statut associatif au profit d'une société commerciale ouverte à des investisseurs ; aucune société enregistrée au registre en octobre 2026 : projet en cours."
+  "note": "Hellfest Productions est une association déclarée (SIREN 488 296 609, créée en 2006), sans capital ni actionnaires. En juin 2026, Ben Barbaud a annoncé l'abandon du statut associatif au profit d'une société commerciale ouverte à des investisseurs ; projet en cours : aucune société de ce type au registre au 22/10/2026."
  },
  {
   "id": "hellowork-group",
@@ -18136,14 +18145,15 @@
    }
   ],
   "description": "Site d'annonces automobiles et cotation.",
-  "note": "Cédée à 100 % par Providence Equity à OLX (Prosus) pour 1,1 Md€ (accord du 26/09/2025) ; La Centrale figure parmi les marques d'OLX Group sur son site en 2026.",
+  "note": "Cédée à 100 % par Providence Equity à OLX (Prosus) pour 1,1 Md€ : accord du 26/09/2025, acquisition finalisée (résultats annuels Prosus, juin 2026).",
   "sources": [
    "https://www.lacentrale.fr/",
    "https://www.kirkland.com/news/press-release/2025/09/kirkland-advises-providence-equity-partners-on-exclusive-negotiations-to-sell-la-centrale",
    "https://www.businessday.co.za/bd/companies/telecoms-and-technology/2025-09-26-prosus-olx-group-acquires-la-centrale-for-11bn",
    "https://www.olxgroup.com/",
    "https://www.olxgroup.com/?p=4319",
-   "https://www.olxgroup.com/about-us/newsroom/"
+   "https://www.olxgroup.com/about-us/newsroom/",
+   "https://www.businessday.co.za/companies/earnings/2026-06-29-just-eat-takeaway-and-despegar-acquisitions-boost-prosus-profits/"
   ],
   "verifie_le": "2026-10",
   "groupe_parent": "prosus"
@@ -19099,7 +19109,7 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Descendants de Leonidas Kestekides",
+    "nom": "Famille Kestekides (descendants du fondateur, branches Kestekidou et Kestekoglou)",
     "type": "famille",
     "pays": "BE"
    }
@@ -19108,10 +19118,11 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Leonidas_(chocolate_maker)",
    "https://www.retaildetail.eu/news/food/leonidas-record-turnover-but-profits-under-pressure/",
-   "https://en.wikipedia.org/wiki/Leonidas_(chocolatier)"
+   "https://en.wikipedia.org/wiki/Leonidas_(chocolatier)",
+   "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=fr&ondernemingsnummer=0407824919"
   ],
   "verifie_le": "2026-10",
-  "note": "Confiserie Leonidas SA (Bruxelles), non cotée, réseau majoritairement franchisé, dirigée par P. de Selliers de Moranville. Contrôle par les descendants de la famille Kestekides non documenté par les sources consultées (Wikipédia, RetailDetail 10/12/2025) : à confirmer (registre belge BCE / comptes annuels)."
+  "note": "Confiserie Leonidas SA (BCE 0407.824.919), non cotée ; capital non publié. Conseil d'administration composé notamment de Maria et Vasiliki Kestekidou, Georgia et Ioannis Kestekoglou, descendants de la famille fondatrice (BCE, octobre 2026). Siège transféré à Nivelles le 1/09/2025."
  },
  {
   "id": "les-3-brasseurs",
@@ -20957,14 +20968,14 @@
     "pays": "FR"
    }
   ],
-  "description": "Mesure d'audience de référence (TV, radio, internet), détenue à 65 % par les médias et 35 % par annonceurs et agences.",
+  "description": "Mesure d'audience de référence (TV, radio, internet), détenue à 65 % par les médias et à 35 % par les marques (Union des marques) et les agences.",
   "sources": [
    "https://www.mediametrie.fr/en/mediametries-capital",
    "https://fr.wikipedia.org/wiki/M%C3%A9diam%C3%A9trie",
    "https://fr.wikipedia.org/wiki/Médiamétrie"
   ],
   "verifie_le": "2026-10",
-  "note": "Télévision 35 % (France Télévisions 22,89 %, TF1 10,8 %, Canal+ 1,4 %), radio 29 % (Radio France 13,5 %, Europe 1 et NextRadioTV 5,4 % chacun, INA 2,81 %, M6 2,7 %), marques et agences 35 % (Union des marques 9,33 %, Publicis, Dentsu, Havas 6,7 % chacun, Orange 2,44 %…)."
+  "note": "Capital de 14,88 M€ : médias 65 % (France Télévisions 22,89 %, Radio France 13,5 %, TF1 10,8 %, Europe 1 et NextRadioTV 5,4 % chacun, INA 2,81 %, M6 2,7 %, Canal+ 1,4 %), marques et agences 35 % (Union des marques 9,33 %, Publicis, Dentsu, Havas 6,7 % chacun, Orange 2,44 %, Omnicom 1,62 %, IPG 1,61 %) (site Médiamétrie, 2026)."
  },
  {
   "id": "mediapart",
@@ -24019,11 +24030,12 @@
   "statut": "prive",
   "actionnaires": [],
   "description": "Fabricant chinois (ODM) de robots aspirateurs (Shenzhen, usines en Chine et au Vietnam), propriétaire à 100 % d'iRobot depuis la sortie du Chapter 11 le 23/01/2026.",
-  "note": "Rachat d'iRobot (avec Santrum Hong Kong) finalisé le 23/01/2026 par conversion de créances en capital. Actionnaires de Picea, société chinoise non cotée, à confirmer : ni fondateurs ni investisseurs publiés dans les sources consultées.",
+  "note": "Rachat d'iRobot (avec sa filiale Santrum Hong Kong) finalisé le 23/01/2026 par conversion de créances en capital. Actionnaires de Picea, société chinoise non cotée, à confirmer : fondateurs, dirigeant et investisseurs non publiés dans les sources consultées (Wikipédia en, presse iRobot, registres chinois inaccessibles).",
   "sources": [
    "https://en.wikipedia.org/wiki/IRobot",
    "https://media.irobot.com/2026-01-23-iRobot-Completes-Court-Supervised-Transaction-with-Picea,-Enabling-the-Next-Chapter-of-Growth",
-   "https://vacuumwars.com/who-is-picea"
+   "https://vacuumwars.com/who-is-picea",
+   "https://en.wikipedia.org/wiki/Shenzhen_Picea_Robotics"
   ],
   "verifie_le": "2026-10"
  },
@@ -29517,8 +29529,9 @@
     "pays": "FR"
    },
    {
-    "nom": "Consortium Tencent",
+    "nom": "Tencent (Tencent Mobility, Tencent Music Entertainment)",
     "id": "tencent",
+    "part_pct": 11.45,
     "type": "groupe",
     "pays": "CN"
    },
@@ -29536,10 +29549,11 @@
   "description": "Première major du disque, cotée à Amsterdam ; groupe Bolloré ≈28 % (18,4 % direct, 9,9 % via Vivendi).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Vivendi",
-   "https://en.wikipedia.org/wiki/Universal_Music_Group"
+   "https://en.wikipedia.org/wiki/Universal_Music_Group",
+   "https://afm.nl/en/sector/registers/meldingenregisters/substantiele-deelnemingen/details?id=172348"
   ],
   "verifie_le": "2026-10",
-  "note": "Offre de Pershing Square (≈60 Md$, avril 2026) rejetée par le conseil d'UMG le 29/05/2026. Consortium Tencent : 20 % en 2021-2022 (Concerto et Scherzo Investment, 10 % chacun) ; l'infobox Wikipédia indique 11,4 % sans date : part actuelle à confirmer."
+  "note": "Tencent : 11,45 % du capital (déclaration AFM du 26/03/2025, via Tencent Mobility et Tencent Music Entertainment ; 40,24 % des droits de vote en comptant le pacte avec Bolloré/Vivendi). Offre de Pershing Square (≈60 Md$, avril 2026) rejetée par le conseil d'UMG le 29/05/2026."
  },
  {
   "id": "unedic",
@@ -30476,13 +30490,15 @@
    }
   ],
   "description": "Compagnie aérienne low-cost espagnole très présente en régions françaises.",
-  "note": "Recapitalisation de 71 M€ close en mars 2026 (dont 47 M€ d'Aegean) : Aegean Airlines détient plus de 20 % ; PAR Capital (US) et Alaeo Partnership (fondateurs et direction, qui gardaient le contrôle) sont les autres actionnaires principaux. Prise de contrôle par Aegean (conversion de 56 M€ de prêts et augmentation de capital de 15 M€) en discussion en septembre 2026, soumise aux banques et aux autorisations réglementaires : opération en cours.",
+  "note": "Recapitalisation de 71 M€ close en mars 2026 (dont 47 M€ d'Aegean) : Aegean Airlines détient plus de 20 % ; PAR Capital (US) et Alaeo Partnership (fondateurs et direction) sont les autres actionnaires principaux. Un projet de prise de contrôle par Aegean, rapporté par la presse espagnole en septembre 2026, a été démenti par Aegean le 5/10/2026 (« jamais proposé d'acquérir une participation majoritaire »).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Volotea",
    "https://ulysse.com/news/?p=52549",
    "https://centreforaviation.com/news/volotea-announces-board-restructuring-and-new-strategic-plan-1367528",
    "https://centreforaviation.com/news/volotea-announces-eur15m-capital-increase-raising-total-to-eur71m-1353507",
-   "https://es.wikipedia.org/wiki/Volotea"
+   "https://es.wikipedia.org/wiki/Volotea",
+   "https://greekcitytimes.com/2026/10/05/aegean-airlines-volotea-takeover/",
+   "https://www.air-journal.fr/2026-09-17-la-compagnie-grecque-aegean-airlines-prepare-sa-prise-de-controle-de-volotea-5277561.html"
   ],
   "verifie_le": "2026-10"
  },
@@ -30811,16 +30827,50 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Fondateurs (Jérémy Clédat, Bertrand Uzeel) et fonds de capital-risque",
-    "type": "autre",
+    "nom": "Fondateurs (Jérémy Clédat, Bertrand Uzeel)",
+    "type": "personne",
+    "pays": "FR"
+   },
+   {
+    "nom": "Bpifrance (Digital Venture)",
+    "id": "bpifrance",
+    "type": "public",
+    "pays": "FR"
+   },
+   {
+    "nom": "XAnge",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Revaia",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Blisce",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Cipio Partners",
+    "type": "fonds",
+    "pays": "DE"
+   },
+   {
+    "nom": "RAISE Sherpas",
+    "type": "fonds",
     "pays": "FR"
    }
   ],
   "description": "Média et site d'offres d'emploi.",
-  "note": "Fondée en 2015 ; levées de 2 M€ (2017, quatre business angels), 7 M€ (2018), 20 M€ (2019) et 50 M€ (janvier 2023). Noms et parts des investisseurs à confirmer : non trouvés dans les sources consultées.",
+  "note": "Éditée par Coruscant SAS (SIREN 802 162 628), non cotée ; capital non publié, parts des investisseurs non communiquées. Série C de 50 M€ (janvier 2023) menée par Cipio Partners et Blisce, avec ADP, Kostogri et RAISE Sherpas, aux côtés des investisseurs historiques Revaia, XAnge et Bpifrance ; 79 M€ levés au total.",
   "sources": [
    "https://www.welcometothejungle.com",
-   "https://fr.wikipedia.org/wiki/Welcome_to_the_Jungle_(entreprise)"
+   "https://fr.wikipedia.org/wiki/Welcome_to_the_Jungle_(entreprise)",
+   "https://www.maddyness.com/2023/01/26/welcome-to-the-jungle-50-millions-euros/",
+   "https://www.cipiopartners.com/news/2023-01-23-cipio-partners-invests-in-welcome-to-the-jungle",
+   "https://recherche-entreprises.api.gouv.fr/search?q=welcome%20to%20the%20jungle"
   ],
   "verifie_le": "2026-10"
  },
