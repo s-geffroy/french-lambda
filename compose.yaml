@@ -50,6 +50,7 @@ services:
       - .:/work
     secrets:
       - gh_token
+      - veille_deploy_key
     deploy:
       resources:
         limits:
@@ -67,6 +68,10 @@ networks:
 secrets:
   gh_token:
     file: /etc/app-secrets/french-lambda/gh_token
+  # Clé SSH de déploiement (ed25519, écriture) du dépôt privé de veille. Fichier
+  # root en 0444, comme le jeton.
+  veille_deploy_key:
+    file: /etc/app-secrets/french-lambda/veille_deploy_key
 
 volumes:
   state:
