@@ -39,6 +39,9 @@ services:
   # gh, 'sudo appctl run gh git <args>' pour git (push en HTTPS via gh).
   gh:
     profiles: ["cli"]
+    # appctl build/rebuild ignorent le profil cli et « run » ne construit que
+    # si l'image manque : changer d'étiquette à chaque modification de tools/gh.
+    image: french-lambda-gh:4
     build:
       context: ./tools/gh
     networks:

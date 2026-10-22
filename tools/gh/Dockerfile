@@ -2,7 +2,11 @@
 # Aucun service permanent : profil 'cli' dans compose.yaml.
 FROM alpine:3.22
 
-RUN apk add --no-cache git github-cli ca-certificates
+RUN apk add --no-cache git github-cli ca-certificates openssh-client
+
+# Clés d'hôte de GitHub figées dans l'image : SSH ne fait confiance qu'à elles.
+COPY github_known_hosts /etc/ssh/ssh_known_hosts
+RUN chmod 0644 /etc/ssh/ssh_known_hosts
 
 COPY entrypoint.sh /usr/local/bin/entrypoint.sh
 RUN chmod 0755 /usr/local/bin/entrypoint.sh

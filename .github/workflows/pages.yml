@@ -22,11 +22,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v7
         with:
           python-version: "3.13"
+      # Comparée à la version d'avant le push : un identifiant de groupe publié
+      # ne disparaît pas sans alias (docs/data/alias.json).
       - name: Valider les données
-        run: python3 scripts/validate_data.py
+        env:
+          AVANT: ${{ github.event.before }}
+        run: |
+          if [ -n "${AVANT:-}" ] && git cat-file -e "$AVANT:docs/data/groupes.json" 2>/dev/null; then
+            git show "$AVANT:docs/data/groupes.json" > "$RUNNER_TEMP/avant.json"
+            python3 scripts/validate_data.py --avant "$RUNNER_TEMP/avant.json"
+          else
+            python3 scripts/validate_data.py
+          fi
       - uses: actions/setup-node@v7
         with:
           node-version: "24"

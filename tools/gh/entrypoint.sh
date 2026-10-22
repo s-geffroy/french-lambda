@@ -10,6 +10,15 @@ fi
 GH_TOKEN=$(tr -d ' \r\n' < "$secret")
 export GH_TOKEN
 
+# Clé de déploiement SSH (facultative) pour un dépôt qui n'est pas couvert par
+# le jeton. Le fichier appartient à root en 0444 : ssh l'accepte, puisqu'il
+# n'appartient pas à l'utilisateur qui le lit.
+cle=/run/secrets/veille_deploy_key
+if [ -r "$cle" ]; then
+  GIT_SSH_COMMAND="ssh -i $cle -o IdentitiesOnly=yes -o StrictHostKeyChecking=yes"
+  export GIT_SSH_COMMAND
+fi
+
 # git passe par gh pour s'authentifier en HTTPS ; le depot monte est le notre.
 git config --global --add safe.directory /work
 git config --global credential.https://github.com.helper '!gh auth git-credential'

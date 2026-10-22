@@ -3,6 +3,11 @@
 
 Bibliothèque standard uniquement : le script tourne tel quel dans GitHub
 Actions. Code de sortie 1 au premier jeu d'erreurs, avec la liste complète.
+
+    python3 scripts/validate_data.py [--avant ANCIEN_groupes.json]
+
+--avant compare à la version précédente des groupes : un identifiant publié
+qui disparaît doit figurer dans docs/data/alias.json (ancien -> nouveau).
 """
 import json
 import re
@@ -114,6 +119,29 @@ def main():
             err(f"marque {mid} : saisons inconnues {sorted(bad)}")
         if not m.get("sources"):
             err(f"marque {mid} : aucune source")
+
+    # Contrat d'identifiants : un groupe renommé ou fusionné laisse un alias.
+    alias = load("alias").get("alias", [])
+    anciens = set()
+    for a in alias:
+        anc, nouv = a.get("ancien"), a.get("nouveau")
+        if not anc or not nouv:
+            err(f"alias {a} : ancien et nouveau sont obligatoires")
+            continue
+        if anc in anciens:
+            err(f"alias {anc} : en double")
+        anciens.add(anc)
+        if anc in gids:
+            err(f"alias {anc} : l'ancien identifiant existe encore comme groupe")
+        if nouv not in gids:
+            err(f"alias {anc} -> {nouv} : le nouvel identifiant n'existe pas (mettre l'alias à jour s'il a été renommé à son tour)")
+        if a.get("date") and not re.match(r"^\d{4}-\d{2}-\d{2}$", a["date"]):
+            err(f"alias {anc} : date {a['date']!r} n'est pas AAAA-MM-JJ")
+    if "--avant" in sys.argv:
+        with open(sys.argv[sys.argv.index("--avant") + 1], encoding="utf-8") as f:
+            avant = {g["id"] for g in json.load(f)}
+        for gid in sorted(avant - set(gids) - anciens):
+            err(f"groupe {gid} : identifiant supprimé sans alias (ajouter {{\"ancien\": \"{gid}\", \"nouveau\": …}} à alias.json)")
 
     if errors:
         print(f"{len(errors)} erreur(s) :", *errors, sep="\n  ")

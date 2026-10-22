@@ -7,3 +7,6 @@ __pycache__/
 # Marqueur local du VPS, lu par scripts/infra-reconcile.sh : il dit que cette
 # application redemarre au boot de CETTE machine. Rien a faire dans un depot.
 .autostart
+
+# Clones locaux de dépôts annexes (hors de ce dépôt).
+interne/
