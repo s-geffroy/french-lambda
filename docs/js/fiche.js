@@ -13,6 +13,15 @@ function datePart(d) {
 const part = (a) =>
   a.part_pct == null ? "" : ` ${a.part_pct.toLocaleString("fr-FR")} % <span class="date-part" title="date à laquelle cette part a été mesurée">${esc(datePart(a.part_date))}</span>`;
 
+// Identifiants officiels, chacun relié à son registre public.
+const fmtSiren = (s) => s.replace(/^(\d{3})(\d{3})(\d{3})$/, "$1 $2 $3");
+const lienSiren = (s) =>
+  `<a class="ident" href="https://annuaire-entreprises.data.gouv.fr/entreprise/${esc(s)}" target="_blank" rel="noopener" title="Fiche au répertoire Sirene">${esc(fmtSiren(s))}</a>`;
+const lienLei = (l) =>
+  `<a class="ident" href="https://search.gleif.org/#/record/${esc(l)}" target="_blank" rel="noopener" title="Fiche GLEIF">${esc(l)}</a>`;
+const identsActionnaire = (a) =>
+  [a.siren && `SIREN ${lienSiren(a.siren)}`, a.lei && `LEI ${lienLei(a.lei)}`].filter(Boolean).map((x) => ` <span class="ident-act">${x}</span>`).join("");
+
 const STATUT = (ctx, id) => ctx.model.ref.statuts.find((s) => s.id === id)?.label || id || "—";
 
 function actionnaires(ctx, g) {
@@ -26,7 +35,9 @@ function actionnaires(ctx, g) {
           : esc(a.nom);
         const pays = a.pays || ctx.model.g.get(a.id)?.pays_siege;
         return nom + part(a) +
-          (pays && pays !== "XX" ? ` <span class="tag">${esc(paysLabel(pays))}</span>` : "");
+          (pays && pays !== "XX" ? ` <span class="tag">${esc(paysLabel(pays))}</span>` : "") +
+          // Un actionnaire relié a sa propre fiche, qui porte ses identifiants.
+          (a.id && ctx.model.g.has(a.id) ? "" : identsActionnaire(a));
       })
       .join(" · ") +
     "</div>"
@@ -101,6 +112,8 @@ export function renderFiche(el, ctx) {
       <dl>
         <dt>Siège</dt><dd>${esc(paysLabel(g.pays_siege))}</dd>
         <dt>Statut</dt><dd>${esc(STATUT(ctx, g.statut))}</dd>
+        ${g.siren ? `<dt>SIREN</dt><dd>${lienSiren(g.siren)}</dd>` : ""}
+        ${g.lei ? `<dt>LEI</dt><dd>${lienLei(g.lei)}</dd>` : ""}
         <dt>Marques</dt><dd>${under.length}</dd>
       </dl>
       ${g.actionnaires?.length ? `<h4>Actionnaires</h4>${actionnaires(ctx, g)}` : ""}
