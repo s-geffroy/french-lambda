@@ -12,14 +12,7 @@ const erreurs = [];
 const err = (m) => erreurs.push(m);
 
 // Le site lit ses JSON par fetch relatif à la page : on sert docs/ depuis le disque.
-// Les correspondances de France-System-2026 sont remplacées par une donnée de
-// test : on vérifie que la fiche sait les afficher, sans dépendre du réseau.
-let CPP_TEST;
 globalThis.fetch = async (u) => {
-  if (/^https?:/.test(String(u))) {
-    if (String(u).includes("ajout_correspondances_french_lambda.json")) return { ok: true, status: 200, json: async () => CPP_TEST };
-    return { ok: false, status: 404, json: async () => ({}) };
-  }
   const chemin = DOCS + String(u).split("?")[0];
   return { ok: true, status: 200, json: async () => JSON.parse(readFileSync(chemin, "utf-8")) };
 };
@@ -76,8 +69,6 @@ for (const [k, vs] of Object.entries(valeurs))
     }
   }
 
-CPP_TEST = { correspondances: [{ actor_id: "FR-ACT-TEST", french_lambda_id: groupes[0].id, rapport: "entite_voisine", note: "note-test" }] };
-
 // Chaque fiche, marque ou groupe, se construit.
 const ctx = { model, state: { sel: "" }, color: () => "#000" };
 const fiches = [...brands.map((b) => "m:" + b.id), ...groupes.map((g) => "g:" + g.id)];
@@ -90,18 +81,6 @@ for (const sel of fiches) {
   } catch (e) {
     err(`fiche ${sel} : ${e.message}`);
   }
-}
-
-// Fiche d'un groupe relié à France-System-2026 : le lien et la note apparaissent.
-{
-  const zone = { hidden: true, innerHTML: "" };
-  const id = groupes[0].id;
-  const el = { querySelector: (s) => (s === `.cpp[data-g="${id}"]` ? zone : null) };
-  ctx.state.sel = "g:" + id;
-  renderFiche(el, ctx);
-  await new Promise((r) => setTimeout(r, 10));
-  if (zone.hidden || !zone.innerHTML.includes("acteurs/#FR-ACT-TEST") || !zone.innerHTML.includes("note-test"))
-    err(`lien France-System-2026 absent de la fiche g:${id}`);
 }
 
 if (erreurs.length) {

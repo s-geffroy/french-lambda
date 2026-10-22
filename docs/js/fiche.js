@@ -64,30 +64,6 @@ function sources(list) {
   );
 }
 
-// France-System-2026 (dépôt s-geffroy/cpp) relie certains de ses acteurs à nos
-// groupes. Son registre sert de référence : on renvoie vers lui, on ne recopie
-// rien. Chargé une fois ; s'il ne répond pas, la fiche s'affiche sans le lien.
-const CPP = "https://s-geffroy.github.io/cpp/";
-let correspondancesCpp;
-function chargerCpp() {
-  correspondancesCpp ??= fetch(`${CPP}assets/donnees/ajout_correspondances_french_lambda.json`)
-    .then((r) => (r.ok ? r.json() : { correspondances: [] }))
-    .then((d) => new Map((d.correspondances || []).map((c) => [c.french_lambda_id, c])))
-    .catch(() => new Map());
-  return correspondancesCpp;
-}
-
-function lienCpp(el, id) {
-  chargerCpp().then((m) => {
-    const c = m.get(id);
-    const zone = c && el.querySelector?.(`.cpp[data-g="${id}"]`); // id : slug vérifié par validate_data.py
-    if (!zone) return;
-    zone.innerHTML = `<a href="${CPP}acteurs/#${encodeURIComponent(c.actor_id)}" target="_blank" rel="noopener">Participations vérifiées sur France-System-2026</a>` +
-      (c.rapport === "entite_voisine" && c.note ? `<br><span class="muted">${esc(c.note)}</span>` : "");
-    zone.hidden = false;
-  });
-}
-
 export function renderFiche(el, ctx) {
   const [type, id] = ctx.state.sel.split(":");
   const { model } = ctx;
@@ -128,7 +104,6 @@ export function renderFiche(el, ctx) {
         <dt>Marques</dt><dd>${under.length}</dd>
       </dl>
       ${g.actionnaires?.length ? `<h4>Actionnaires</h4>${actionnaires(ctx, g)}` : ""}
-      <p class="cpp" data-g="${esc(id)}" hidden></p>
       ${parents.length ? `<h4>Contrôlé par</h4>${chaine(ctx, parents)}` : ""}
       ${filles.length ? `<h4>Filiales</h4><p>${filles.map((f) => `<button class="lien" data-sel="g:${esc(f.id)}">${esc(f.nom)}</button>`).join(" · ")}</p>` : ""}
       ${detient.length ? `<h4>Participations</h4><p>${detient.map((f) => `<button class="lien" data-sel="g:${esc(f.id)}">${esc(f.nom)}</button>`).join(" · ")}</p>` : ""}
@@ -141,7 +116,6 @@ export function renderFiche(el, ctx) {
       ${signaler(ctx.state.sel, g.nom)}`;
   }
   el.innerHTML = `<button class="ghost ferme" type="button" aria-label="Fermer">×</button>` + html;
-  if (type === "g") lienCpp(el, id);
   el.onclick = (e) => {
     const t = e.target.closest("button");
     if (!t) return;

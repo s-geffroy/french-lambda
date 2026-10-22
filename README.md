@@ -119,17 +119,3 @@ Tenir les données à jour :
 - une fiche porte « à confirmer » sur le site tant que sa note contient un mot
   de doute (`confirmer`, `non vérifié`, `en cours`, `annoncé`…) : on retire le
   mot quand le fait est établi, avec sa source.
-
-France-System-2026 (https://s-geffroy.github.io/cpp/, dépôt `s-geffroy/cpp`),
-registre fondé sur des sources primaires, relie certains de ses acteurs à nos
-groupes (`assets/donnees/ajout_correspondances_french_lambda.json`, chez lui) :
-
-- la fiche d'un groupe relié renvoie vers sa page d'acteur (« Participations
-  vérifiées sur France-System-2026 ») ;
-- la veille trimestrielle compare nos parts aux siennes (liens directs
-  `equity_ownership`) et liste les écarts de plus de 0,5 point. Rien n'est
-  recopié : toute correction reste manuelle, avec sa source. Nos chaînes
-  simplifiées (« État français (via TSA) ») sont signalées « non comparables » ;
-- **ne pas renommer un identifiant de groupe relié** sans prévenir : le lien
-  casserait côté France-System-2026. La veille liste les identifiants cités
-  là-bas qui n'existent plus ici.
