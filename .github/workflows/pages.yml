@@ -27,15 +27,15 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: "3.13"
-      # Comparée à la version d'avant le push : un identifiant de groupe publié
-      # ne disparaît pas sans alias (docs/data/alias.json).
+      # Comparée à la version publiée avant ce push : un identifiant de groupe
+      # ne disparaît pas sans entrée dans docs/data/alias.json, et une entrée
+      # d'alias publiée ne se retire pas.
       - name: Valider les données
         env:
           AVANT: ${{ github.event.before }}
         run: |
           if [ -n "${AVANT:-}" ] && git cat-file -e "$AVANT:docs/data/groupes.json" 2>/dev/null; then
-            git show "$AVANT:docs/data/groupes.json" > "$RUNNER_TEMP/avant.json"
-            python3 scripts/validate_data.py --avant "$RUNNER_TEMP/avant.json"
+            python3 scripts/validate_data.py --avant "$AVANT"
           else
             python3 scripts/validate_data.py
           fi

@@ -95,13 +95,13 @@ Il est indépendant du worker : rien ne tourne sur le VPS pour lui.
 | chemin | rôle |
 |---|---|
 | `docs/data/categories.json` | postes de vie, catégories, moments de la journée, listes de référence |
-| `docs/data/groupes.json` | entreprises, groupes, familles, États, fonds : siège, statut, actionnaires, parent |
+| `docs/data/groupes.json` | entreprises, groupes, familles, États, fonds : siège, statut, actionnaires, parent ; `siren` et `lei` facultatifs, posés seulement après vérification au répertoire Sirene et chez GLEIF |
 | `docs/data/marques.json` | marques et services, rattachés à leur exploitant |
 | `docs/index.html`, `docs/js/` | le site : journée type, liste, graphe, soleil, flux, carte, classement |
 | `scripts/validate_data.py` | contrôle de cohérence, exécuté par GitHub Actions avant chaque publication |
 | `scripts/check_site.mjs` | charge le code du site sur les données (vues, modèle, filtres, chaque fiche) : un plantage bloque la publication |
 | `.github/workflows/pages.yml` | validation puis déploiement sur GitHub Pages |
-| `docs/data/alias.json` | identifiants de groupes renommés ou fusionnés (ancien → nouveau) : un identifiant publié ne disparaît jamais sans alias, le workflow le vérifie à chaque push |
+| `docs/data/alias.json` | registre des identifiants de groupes retirés : `{"ancien-id": {"nouvel": "id" ou null, "date": "AAAA-MM-JJ", "motif": "renommage" \| "fusion" \| "scission" \| "suppression", "note"?}}`. Un identifiant publié ne disparaît jamais sans entrée, une entrée ne se retire jamais ; le workflow le vérifie à chaque push |
 | `scripts/veille.py`, `.github/workflows/veille.yml` | relevé trimestriel des fiches à revérifier, publié en issue « Veille » |
 | `.github/ISSUE_TEMPLATE/correction.yml` | formulaire « Signaler une erreur », ouvert depuis chaque fiche du site |
 

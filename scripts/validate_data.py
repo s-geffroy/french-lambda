@@ -4,13 +4,15 @@
 Bibliothèque standard uniquement : le script tourne tel quel dans GitHub
 Actions. Code de sortie 1 au premier jeu d'erreurs, avec la liste complète.
 
-    python3 scripts/validate_data.py [--avant ANCIEN_groupes.json]
+    python3 scripts/validate_data.py [--avant REF]
 
---avant compare à la version précédente des groupes : un identifiant publié
-qui disparaît doit figurer dans docs/data/alias.json (ancien -> nouveau).
+--avant compare à la version publiée précédente (un commit git, par exemple
+origin/main) : un identifiant de groupe publié qui disparaît doit figurer dans
+docs/data/alias.json, et une entrée d'alias publiée ne se retire jamais.
 """
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -18,12 +20,47 @@ DATA = Path(__file__).resolve().parent.parent / "docs" / "data"
 ISO2 = re.compile(r"^[A-Z]{2}$")
 DATE = re.compile(r"^\d{4}(-(0[1-9]|1[0-2])(-(0[1-9]|[12]\d|3[01]))?)?$")
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+JOUR = re.compile(r"^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])$")
+SIREN = re.compile(r"^\d{9}$")
+LEI = re.compile(r"^[A-Z0-9]{18}\d{2}$")
+MOTIFS = {"renommage", "fusion", "scission", "suppression"}
 TYPES_ACT = {"personne", "famille", "etat", "public", "fonds", "groupe", "flottant", "salaries", "societaires", "autre"}
 
 
 def load(name):
     with open(DATA / f"{name}.json", encoding="utf-8") as f:
         return json.load(f)
+
+
+def luhn(n):
+    """Clé de Luhn du SIREN (La Poste, 356000000, fait exception : somme des chiffres multiple de 5)."""
+    if n == "356000000":
+        return True
+    t = 0
+    for i, c in enumerate(reversed(n)):
+        d = int(c) * (2 if i % 2 else 1)
+        t += d - 9 if d > 9 else d
+    return t % 10 == 0
+
+
+def lei_ok(c):
+    """Clé ISO 17442 (ISO 7064 MOD 97-10), comme un IBAN."""
+    return int("".join(str(int(x, 36)) for x in c)) % 97 == 1
+
+
+def identifiants(ou, x, err):
+    """siren et lei facultatifs : format, clé de contrôle."""
+    s, l = x.get("siren"), x.get("lei")
+    if s is not None and not (isinstance(s, str) and SIREN.match(s) and luhn(s)):
+        err(f"{ou} : siren {s!r} invalide (9 chiffres, clé de Luhn)")
+    if l is not None and not (isinstance(l, str) and LEI.match(l) and lei_ok(l)):
+        err(f"{ou} : lei {l!r} invalide (20 caractères, clé ISO 17442)")
+
+
+def version_publiee(ref, nom):
+    """Contenu de docs/data/<nom>.json au commit ref ; None s'il n'y existait pas."""
+    r = subprocess.run(["git", "show", f"{ref}:docs/data/{nom}.json"], capture_output=True, text=True)
+    return json.loads(r.stdout) if r.returncode == 0 else None
 
 
 def main():
@@ -58,6 +95,7 @@ def main():
             err(f"groupe {gid} : statut inconnu {g['statut']}")
         if not g.get("sources"):
             err(f"groupe {gid} : aucune source")
+        identifiants(f"groupe {gid}", g, err)
         total = 0.0
         for a in g.get("actionnaires", []):
             if not a.get("nom"):
@@ -67,6 +105,7 @@ def main():
             p = a.get("pays")
             if not p or not (ISO2.match(p)):
                 err(f"groupe {gid} : actionnaire {a.get('nom')} sans nationalité ISO (pays={p!r})")
+            identifiants(f"groupe {gid} : actionnaire {a.get('nom')}", a, err)
             d = a.get("part_date")
             if d is not None and not (isinstance(d, str) and DATE.match(d)):
                 err(f"groupe {gid} : actionnaire {a.get('nom')} part_date {d!r} n'est pas AAAA, AAAA-MM ou AAAA-MM-JJ")
@@ -88,6 +127,11 @@ def main():
         for a in g.get("actionnaires", []):
             if a.get("id") and a["id"] not in gids:
                 err(f"groupe {gid} : actionnaire id inconnu {a['id']}")
+            elif a.get("id"):
+                # Un actionnaire relié à un groupe porte les mêmes identifiants que lui.
+                for k in ("siren", "lei"):
+                    if a.get(k) and a[k] != gids[a["id"]].get(k):
+                        err(f"groupe {gid} : actionnaire {a['id']} {k} {a[k]} différent de celui du groupe {a['id']}")
         seen, cur = set(), g
         while cur and cur.get("groupe_parent"):
             if cur["id"] in seen:
@@ -120,28 +164,65 @@ def main():
         if not m.get("sources"):
             err(f"marque {mid} : aucune source")
 
-    # Contrat d'identifiants : un groupe renommé ou fusionné laisse un alias.
-    alias = load("alias").get("alias", [])
-    anciens = set()
-    for a in alias:
-        anc, nouv = a.get("ancien"), a.get("nouveau")
-        if not anc or not nouv:
-            err(f"alias {a} : ancien et nouveau sont obligatoires")
+    # Un SIREN désigne une seule personne morale : deux groupes ne le partagent pas.
+    par_siren = {}
+    for g in groupes:
+        if g.get("siren"):
+            par_siren.setdefault(g["siren"], []).append(g["id"])
+    for s_, ids in par_siren.items():
+        if len(ids) > 1:
+            err(f"siren {s_} : porté par plusieurs groupes {ids}")
+
+    # Contrat d'identifiants : un groupe publié ne disparaît pas sans laisser d'adresse.
+    alias = load("alias")
+    if not isinstance(alias, dict):
+        err("alias.json : doit être un objet {ancien-id: {nouvel, date, motif}}")
+        alias = {}
+    for anc, a in alias.items():
+        ou = f"alias {anc}"
+        if not isinstance(a, dict):
+            err(f"{ou} : entrée qui n'est pas un objet")
             continue
-        if anc in anciens:
-            err(f"alias {anc} : en double")
-        anciens.add(anc)
+        if set(a) - {"nouvel", "date", "motif", "note"}:
+            err(f"{ou} : champs inconnus {sorted(set(a) - {'nouvel', 'date', 'motif', 'note'})}")
+        if not SLUG.match(anc):
+            err(f"{ou} : identifiant non conforme")
         if anc in gids:
-            err(f"alias {anc} : l'ancien identifiant existe encore comme groupe")
-        if nouv not in gids:
-            err(f"alias {anc} -> {nouv} : le nouvel identifiant n'existe pas (mettre l'alias à jour s'il a été renommé à son tour)")
-        if a.get("date") and not re.match(r"^\d{4}-\d{2}-\d{2}$", a["date"]):
-            err(f"alias {anc} : date {a['date']!r} n'est pas AAAA-MM-JJ")
+            err(f"{ou} : l'ancien identifiant est aussi un groupe actif")
+        nouv = a.get("nouvel", "absent")
+        if nouv == "absent":
+            err(f"{ou} : champ nouvel manquant (null si supprimé sans successeur)")
+        elif nouv is not None and nouv not in gids:
+            err(f"{ou} -> {nouv} : le nouvel identifiant n'existe pas dans groupes.json (s'il a été renommé à son tour, pointer vers l'identifiant actuel)")
+        if a.get("motif") not in MOTIFS:
+            err(f"{ou} : motif {a.get('motif')!r} hors liste {sorted(MOTIFS)}")
+        elif (a["motif"] == "suppression") != (nouv is None):
+            err(f"{ou} : nouvel est null si et seulement si le motif est suppression")
+        if a.get("motif") == "scission" and not a.get("note"):
+            err(f"{ou} : une scission indique les autres entités dans note")
+        if not (isinstance(a.get("date"), str) and JOUR.match(a["date"])):
+            err(f"{ou} : date {a.get('date')!r} n'est pas AAAA-MM-JJ")
+    for anc in alias:
+        vus, cur = [], anc
+        while cur in alias and isinstance(alias[cur], dict):
+            if cur in vus:
+                err(f"alias {anc} : cycle {' -> '.join(vus + [cur])}")
+                break
+            vus.append(cur)
+            cur = alias[cur].get("nouvel")
     if "--avant" in sys.argv:
-        with open(sys.argv[sys.argv.index("--avant") + 1], encoding="utf-8") as f:
-            avant = {g["id"] for g in json.load(f)}
-        for gid in sorted(avant - set(gids) - anciens):
-            err(f"groupe {gid} : identifiant supprimé sans alias (ajouter {{\"ancien\": \"{gid}\", \"nouveau\": …}} à alias.json)")
+        ref = sys.argv[sys.argv.index("--avant") + 1]
+        avant = version_publiee(ref, "groupes")
+        if avant is None:
+            err(f"--avant {ref} : groupes.json illisible à cette version")
+        else:
+            for gid in sorted({g["id"] for g in avant} - set(gids) - set(alias)):
+                err(f"groupe {gid} : identifiant publié supprimé sans entrée dans alias.json")
+        anc_alias = version_publiee(ref, "alias")
+        # L'ancien format ({"alias": [...]}) ne comptait aucune entrée publiée.
+        if isinstance(anc_alias, dict) and not isinstance(anc_alias.get("alias"), list):
+            for anc in sorted(set(anc_alias) - set(alias)):
+                err(f"alias {anc} : une entrée publiée ne se retire jamais")
 
     if errors:
         print(f"{len(errors)} erreur(s) :", *errors, sep="\n  ")
