@@ -8352,7 +8352,7 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Division de Sanford L.P., filiale de Newell Brands.",
+  "note": "Marque d'instruments d'écriture de Newell Brands.",
   "sources": [
    "https://www.newellbrands.com/",
    "https://en.wikipedia.org/wiki/Paper_Mate"
@@ -8543,10 +8543,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Marque allemande rachetée par le groupe BIC en 1996.",
+  "note": "Marque allemande rachetée par le groupe BIC en 1997.",
   "sources": [
    "https://www.bic.com/",
-   "https://fr.wikipedia.org/wiki/Tipp-Ex"
+   "https://fr.wikipedia.org/wiki/Tipp-Ex",
+   "https://www.bicgraphic.com/dk/our-history.html"
   ],
   "saisons": [
    "rentree"
@@ -16888,7 +16889,7 @@
  {
   "id": "fnac-spectacles",
   "marque": "Fnac Spectacles (France Billet)",
-  "groupe": "fnac-darty",
+  "groupe": "cts-eventim",
   "categorie": "loisirs-culture",
   "sous_categorie": "Billetterie",
   "nature": "direct",
@@ -16896,11 +16897,12 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "France Billet détenue à 52 % par Fnac Darty et à 48 % par CTS Eventim depuis la fusion des activités françaises de billetterie finalisée le 1/11/2019.",
+  "note": "Exploitée par France Billet, détenue depuis le 2/12/2024 à 65 % par CTS Eventim, qui la consolide, et à 35 % par Fnac Darty (contrôle conjoint) ; fusion des billetteries françaises des deux groupes fin octobre 2019.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Fnac_Darty",
    "https://fr.wikipedia.org/wiki/France_Billet",
-   "https://en.wikipedia.org/wiki/CTS_Eventim"
+   "https://en.wikipedia.org/wiki/CTS_Eventim",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/MKW/2024/12/FCMKW115947_20241202.pdf"
   ]
  },
  {
@@ -33283,7 +33285,7 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Marque sous licence Cdiscount, opérée par BTBD (ex-Euro-Information Telecom, rachetée par Bouygues Telecom fin 2020) ; toutes les offres utilisent le réseau Bouygues Telecom.",
+  "note": "Marque sous licence Cdiscount, exploitée par Bouygues Telecom (qui a absorbé BTBD, ex-Euro-Information Telecom, fermée le 1/10/2024) ; réseau Bouygues Telecom.",
   "sources": [
    "https://www.lsa-conso.fr/cdiscount-est-rachete-a-100-par-casino-et-est-ainsi-valorise-a-moins-de-30-millions-d,452746",
    "https://fr.wikipedia.org/wiki/Cdiscount",

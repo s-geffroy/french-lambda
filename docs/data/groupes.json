@@ -1894,26 +1894,27 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Anta International (holding de la famille Ding)",
-    "part_pct": 61.8,
+    "nom": "Ding Shizhong et associés (dont Anta International)",
     "type": "famille",
-    "pays": "CN"
+    "pays": "CN",
+    "part_pct": 53.35
    },
    {
     "nom": "Flottant",
-    "part_pct": 38.2,
     "type": "flottant",
-    "pays": "XX"
+    "pays": "XX",
+    "part_pct": 46.65
    }
   ],
   "description": "Groupe chinois d'articles de sport, premier actionnaire de Puma (29,06 %) depuis 2026.",
   "sources": [
    "https://www.retailtouchpoints.com/news/hong-kong-based-anta-sports-buys-29-stake-in-puma-for-1-8-billion/156633",
    "https://en.wikipedia.org/wiki/Anta_Sports",
-   "https://en.wikipedia.org/wiki/Puma_(brand)"
+   "https://en.wikipedia.org/wiki/Puma_(brand)",
+   "https://mpf.etnet.com.hk/www/eng/stocks/realtime/quote_ci_brief.php?code=2020"
   ],
   "verifie_le": "2026-10",
-  "note": "Accord du 27/01/2026 pour acquérir 29,06 % de Puma (≈ 1,5 Md€) ; Anta International (BVI) détient 61,8 % d'Anta (Wikipédia)."
+  "note": "Famille Ding ≈ 53,35 % au 31/03/2026 (déclarations HKEX). A acquis 29,06 % de Puma auprès d'Artémis (accord du 27/01/2026, finalisé le 7/10/2026)."
  },
  {
   "id": "antargaz",
@@ -2448,7 +2449,7 @@
    "https://fiscalonline.com/on-en-parle/de-pardieu-brocas-maffei-et-mayer-brown-conseils-de-l-acquisition-de-laser-par-armatis"
   ],
   "verifie_le": "2026-10",
-  "note": "Rachat en 2012 par Activa Capital (majoritaire, avec Omnes, CDC Entreprises et CM-CIC LBO Partners), fusion avec Laser Contact, puis LBO bis mené par Activa ; Armatis figure toujours au portefeuille d'Activa (site, octobre 2026). Tête de groupe : Armatis Holding (SAS), présidée par David Gillaux (registre). Répartition non publiée."
+  "note": "Rachat de Laser Contact et LBO bis mené par Activa Capital en mai 2012 (avec Omnes, CDC Entreprises, Ouest Croissance et Multicroissance ; CM-CIC LBO Partners, cédant, réinvesti en minoritaire). Armatis figure toujours au portefeuille d'Activa (site, octobre 2026). Tête de groupe : Armatis Holding (SAS), présidée par David Gillaux (registre). Répartition non publiée."
  },
  {
   "id": "armor-lux",
@@ -3814,28 +3815,23 @@
  },
  {
   "id": "beauval",
-  "nom": "ZooParc de Beauval (Beauval Nature)",
+  "nom": "ZooParc de Beauval (SAS Zoo Parc de Beauval)",
   "pays_siege": "FR",
   "statut": "familial",
   "actionnaires": [
    {
     "nom": "Famille Delord",
     "type": "famille",
-    "pays": "FR",
-    "part_pct": 88
-   },
-   {
-    "nom": "Banque (minoritaire)",
-    "type": "autre",
-    "pays": "FR",
-    "part_pct": 12
+    "pays": "FR"
    }
   ],
   "description": "Premier zoo de France (Saint-Aignan, Loir-et-Cher), fondé en 1980 par Françoise Delord et dirigé par son fils Rodolphe Delord ; capital détenu à 88 % par la famille Delord.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/ZooParc_de_Beauval"
+   "https://fr.wikipedia.org/wiki/ZooParc_de_Beauval",
+   "https://recherche-entreprises.api.gouv.fr/search?q=beauval%20saint-aignan"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Zoo le plus visité de France. Société familiale (famille Delord) ; répartition du capital non publiée. Beauval Nature est l'association de conservation du parc, distincte de la société."
  },
  {
   "id": "beiersdorf",
@@ -7454,7 +7450,7 @@
     "nom": "Famille Paquot (via Entreprises et Chemins de Fer en Chine et Fingaren)",
     "type": "famille",
     "pays": "BE",
-    "part_pct": 50.1
+    "part_pct": 52.52
    },
    {
     "nom": "Flottant",
@@ -7466,10 +7462,11 @@
   "sources": [
    "https://www.bois-sauvage.be/en/detail/?id=1402113",
    "https://www.bois-sauvage.be/wp-content/uploads/2023/03/CBS2022FR.pdf",
-   "https://www.bois-sauvage.be/en/investor-relation/"
+   "https://www.bois-sauvage.be/en/investor-relation/",
+   "https://www.bois-sauvage.be/wp-content/uploads/2026/07/25097-AKKA-Cie-Bois-Sauvage-Rapport-25-FR-260703.pdf"
   ],
   "verifie_le": "2026-10",
-  "note": "La famille Paquot contrôle Fingaren s.c.a., qui contrôle Entreprises et Chemins de Fer en Chine (44,40 %) ; avec Fingaren (5,60 %) et Mme Guy Paquot (0,10 %), 50,10 % des droits de vote au 31/12/2022 (déclaration de transparence, nouvelle notification le 1/9/2023). Jeff de Bruges détenu à 100 % depuis avril 2026."
+  "note": "La famille Paquot contrôle Fingaren SRL, qui contrôle Entreprises et Chemins de Fer en Chine (46,66 %) ; avec Fingaren (5,76 %) et Mme Guy Paquot (0,11 %), 52,52 % des droits de vote au 31/12/2025 (rapport annuel 2025). Jeff de Bruges détenu à 100 % depuis avril 2026."
  },
  {
   "id": "compagnie-loueurs-skis",
@@ -8174,7 +8171,7 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Philippe Van Der Wees (via la holding Sodival)",
+    "nom": "Philippe Van Der Wees (via la holding Phoebux, ex-Sodival)",
     "type": "personne",
     "pays": "FR"
    },
@@ -8187,10 +8184,11 @@
   "description": "Enseigne de produits culturels et de loisirs créatifs fondée en 1998 par Philippe Van Der Wees, actionnaire majoritaire via la holding Sodival (société mère de Socultur).",
   "sources": [
    "https://www.cultura.com/",
-   "https://fr.wikipedia.org/wiki/Cultura"
+   "https://fr.wikipedia.org/wiki/Cultura",
+   "https://recherche-entreprises.api.gouv.fr/search?q=socultur"
   ],
   "verifie_le": "2026-10",
-  "note": "Fondateur majoritaire via Sodival (environ 70 % en 2006 selon L'Expansion) ; minoritaires de la famille Mulliez à titre personnel ; Cultura se dit sans lien capitalistique avec Auchan (LSA, 2013)."
+  "note": "Fondateur majoritaire (environ 70 % en 2006 selon L'Expansion, cité par Wikipédia) via sa holding, aujourd'hui Phoebux SAS (Mérignac), qui préside Socultur (registre, 2026) ; minoritaires de la famille Mulliez à titre personnel ; Cultura se dit sans lien capitalistique avec Auchan (LSA, 2013)."
  },
  {
   "id": "cvc",
@@ -9612,34 +9610,29 @@
     "nom": "Salariés",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 21.4
+    "part_pct": 22.3
    },
    {
     "nom": "BlackRock",
     "type": "fonds",
     "pays": "US",
-    "part_pct": 5.5
-   },
-   {
-    "nom": "Norges Bank",
-    "type": "etat",
-    "pays": "NO",
-    "part_pct": 3.7
+    "part_pct": 6.21
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
-    "pays": "XX",
-    "part_pct": 69.4
+    "pays": "XX"
    }
   ],
   "description": "Construction et concessions.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Eiffage",
-   "https://www.eiffage.com/finance"
+   "https://www.eiffage.com/finance",
+   "https://www.eiffage.com/finance/actionnariat",
+   "https://bourse.fortuneo.fr/actualites/blackrock-depasse-les-5-des-droits-de-vote-d-eiffage-7263146"
   ],
   "verifie_le": "2026-10",
-  "note": "Salariés premiers actionnaires avec 21,4 % du capital (Wikipédia, 2026)."
+  "note": "Salariés premiers actionnaires avec 22,3 % du capital (Eiffage) ; BlackRock 6,21 % du capital au 26/08/2026 (déclaration AMF) ; environ 3 % d'autodétention."
  },
  {
   "id": "eiffage-immobilier",
@@ -10388,10 +10381,20 @@
     "nom": "Worldline",
     "type": "groupe",
     "pays": "FR"
+   },
+   {
+    "nom": "Erste Group",
+    "type": "groupe",
+    "pays": "AT"
+   },
+   {
+    "nom": "Raiffeisen",
+    "type": "groupe",
+    "pays": "AT"
    }
   ],
   "description": "Société de banques européennes opérant Wero, qui remplace Paylib en France (2024-2025).",
-  "note": "16 actionnaires (14 banques et 2 acquéreurs, Nexi et Worldline) en Belgique, France, Allemagne et Pays-Bas, d'après Wikipédia ; parts non publiées.",
+  "note": "18 actionnaires (16 banques et 2 acquéreurs, Nexi et Worldline) en Allemagne, Autriche, Belgique, France, Italie et Pays-Bas (site d'EPI, octobre 2026) ; parts non publiées.",
   "sources": [
    "https://epicompany.eu",
    "https://en.wikipedia.org/wiki/European_Payments_Initiative"
@@ -23165,7 +23168,17 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Triscla Group (gérant José Nercellas)",
+    "nom": "Thierry Marquer (fondateur)",
+    "type": "personne",
+    "pays": "FR"
+   },
+   {
+    "nom": "Axio Capital",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Managers, dont José Nercellas (PDG, via Triscla Group)",
     "type": "personne",
     "pays": "FR"
    }
@@ -23177,10 +23190,11 @@
    "https://recherche-entreprises.api.gouv.fr/search?q=ob%20reseaux%20rennes",
    "https://recherche-entreprises.api.gouv.fr/search?q=oba%20groupe",
    "https://recherche-entreprises.api.gouv.fr/search?q=899661151",
-   "https://recherche-entreprises.api.gouv.fr/search?q=949089791"
+   "https://recherche-entreprises.api.gouv.fr/search?q=949089791",
+   "https://lexpress-franchise.com/actualites/lorange-bleue-change-de-pdg-et-prepare-sa-prochaine-phase-de-croissance/"
   ],
   "verifie_le": "2026-10",
-  "note": "Société non cotée ; capital non publié. Chaîne de présidences : OB Réseaux ← O.B.A ← OBA Groupe ← Triscla ← Triscla Group (créée en février 2023, gérée par José Nercellas, PDG de l'enseigne) (registre, 2026)."
+  "note": "Société non cotée ; capital non publié. Actionnaires connus : le fondateur Thierry Marquer, le fonds Axio Capital (depuis 2020) et les managers ; le groupe est présidé par Triscla Group, géré par le PDG José Nercellas (registre, 2026). Actionnaire majoritaire à confirmer."
  },
  {
   "id": "orange-concessions",
@@ -29618,34 +29632,15 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Pascal Chevalier et Gautier Normand (fondateurs dirigeants)",
+    "nom": "Pascal Chevalier, Gautier Normand et entités liées (dirigeants)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 25.49
-   },
-   {
-    "nom": "Eurazeo",
-    "type": "fonds",
-    "pays": "FR",
-    "part_pct": 10.4
-   },
-   {
-    "nom": "Rothschild Asset Management",
-    "type": "fonds",
-    "pays": "FR",
-    "part_pct": 9.79
-   },
-   {
-    "nom": "Autocontrôle",
-    "type": "autre",
-    "pays": "FR",
-    "part_pct": 6
+    "part_pct": 34.5
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
-    "pays": "XX",
-    "part_pct": 40.27
+    "pays": "XX"
    }
   ],
   "description": "Éditeur de presse magazine et de sites (Closer, Télé Star, Grazia, Marie France, Science & Vie, Auto Plus, Marmiton, Doctissimo, aufeminin) ; Reworld Media a pris le nom d'Unify Group en juin 2026.",
@@ -29654,10 +29649,11 @@
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/07/FCACT075413_20250718.pdf",
    "https://fr.wikipedia.org/wiki/Reworld_Media",
    "https://www.ideal-investisseur.fr/actions/reworld-media-FR0010820274-societe.html",
-   "https://www.abcbourse.com/forums/msg1031374_reworld-media-son-pdg-a-vendu"
+   "https://www.abcbourse.com/forums/msg1031374_reworld-media-son-pdg-a-vendu",
+   "https://www.abcbourse.com/marches/reworld-media-devient-unify-group-et-adopte-le-code-aluni-en-bourse_698761"
   ],
   "verifie_le": "2026-10",
-  "note": "Coté sur Euronext Growth (ALREW). Répartition détaillée au 31/12/2022 (Wikipédia) ; dirigeants et entités liées ≈ 34,5 % du capital au 01/09/2026 (agrégat Idéal Investisseur, sans détail nominatif publié)."
+  "note": "Coté sur Euronext Growth Paris (mnémonique ALUNI depuis le 26/06/2026). Dirigeants et entités liées ≈ 34,5 % du capital au 01/09/2026 ; Eurazeo et Rothschild AM étaient actionnaires à 10,4 % et 9,8 % au 31/12/2022, parts actuelles non publiées."
  },
  {
   "id": "unilabs",
@@ -30490,7 +30486,7 @@
    }
   ],
   "description": "Compagnie aérienne low-cost espagnole très présente en régions françaises.",
-  "note": "Recapitalisation de 71 M€ close en mars 2026 (dont 47 M€ d'Aegean) : Aegean Airlines détient plus de 20 % ; PAR Capital (US) et Alaeo Partnership (fondateurs et direction) sont les autres actionnaires principaux. Un projet de prise de contrôle par Aegean, rapporté par la presse espagnole en septembre 2026, a été démenti par Aegean le 5/10/2026 (« jamais proposé d'acquérir une participation majoritaire »).",
+  "note": "Recapitalisation de 71 M€ close en mars 2026, à laquelle Aegean Airlines a participé ; Aegean détient plus de 20 %. Contrôle exercé par les fondateurs via Alaeo Partnership ; PAR Capital (US) est l'autre actionnaire principal. Un projet de prise de contrôle par Aegean, rapporté par la presse espagnole en septembre 2026, a été démenti par Aegean le 5/10/2026.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Volotea",
    "https://ulysse.com/news/?p=52549",
@@ -31315,14 +31311,41 @@
     "nom": "Fondateurs (Thibaut Chary, président ; Charles Pfister, directeur général)",
     "type": "personne",
     "pays": "FR"
+   },
+   {
+    "nom": "Ring Capital (chef de file de la série A)",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Sofiouest",
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "Founders Future",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Banque des Territoires",
+    "id": "caisse-des-depots",
+    "type": "public",
+    "pays": "FR"
+   },
+   {
+    "nom": "NEoT Green Mobility",
+    "type": "fonds",
+    "pays": "FR"
    }
   ],
   "description": "Opérateur français de location de places de parking, fondé en 2014 ; a racheté Zenpark en mars 2025.",
-  "note": "Société non cotée ; capital non publié. Yespark SAS (siren 801558495) présidée par le cofondateur Thibaut Chary, Charles Pfister directeur général (registre, 2026) ; levée de 28 M€ en mai 2022 (investisseurs non nommés par les sources consultées). Zenpark, rachetée en mars 2025, a été absorbée (société fermée le 31/12/2025).",
+  "note": "Société non cotée ; répartition du capital non publiée. Série A de 28 M€ le 9/05/2022 menée par Ring Capital avec Sofiouest, Founders Future, Banque des Territoires et NEoT Green Mobility. Présidée par le cofondateur Thibaut Chary (registre, 2026). Zenpark, rachetée en mars 2025, a été absorbée (société fermée le 31/12/2025).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Yespark",
    "https://recherche-entreprises.api.gouv.fr/search?q=yespark",
-   "https://www.maddyness.com/?s=yespark"
+   "https://www.maddyness.com/?s=yespark",
+   "https://www.frenchweb.fr/serie-a-yespark-realise-une-premiere-levee-de-28-millions-deuros-aupres-de-ring-capital-et-founders-future/434006"
   ],
   "verifie_le": "2026-10"
  },

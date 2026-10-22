@@ -23,6 +23,7 @@ export function render(el, brands, ctx) {
   <ul>
     <li>Chaque fiche porte un lien <b>Signaler une erreur</b>, qui ouvre un formulaire pré-rempli sur le <a href="https://github.com/s-geffroy/french-lambda/issues" target="_blank" rel="noopener">dépôt GitHub</a> (compte GitHub requis). Une marque manquante se signale de la même façon.</li>
     <li>Les fiches marquées <span class="tag doute">à confirmer</span> n'ont pas pu être établies par une source récente, ou décrivent une opération (rachat, OPA, cession) pas encore finalisée.</li>
+    <li><b>Audit du 22 octobre 2026</b> : sur 30 fiches tirées au hasard et recontrôlées une à une contre des sources ouvertes, 14 étaient exactes, 10 comportaient une imprécision mineure (date, chiffre arrondi) et 6 une erreur notable, le plus souvent une répartition du capital périmée. Ces 30 fiches ont été corrigées ; les pourcentages des autres sont à lire comme des ordres de grandeur datés.</li>
     <li>Chaque trimestre, un relevé automatique liste les opérations à surveiller et les fiches les plus anciennes, dans une <i>issue</i> « Veille » du dépôt.</li>
   </ul>
   <h3>En chiffres</h3>
