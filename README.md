@@ -99,6 +99,7 @@ Il est indépendant du worker : rien ne tourne sur le VPS pour lui.
 | `docs/data/marques.json` | marques et services, rattachés à leur exploitant |
 | `docs/index.html`, `docs/js/` | le site : journée type, liste, graphe, soleil, flux, carte, classement |
 | `scripts/validate_data.py` | contrôle de cohérence, exécuté par GitHub Actions avant chaque publication |
+| `scripts/check_site.mjs` | charge le code du site sur les données (vues, modèle, filtres, chaque fiche) : un plantage bloque la publication |
 | `.github/workflows/pages.yml` | validation puis déploiement sur GitHub Pages |
 | `scripts/veille.py`, `.github/workflows/veille.yml` | relevé trimestriel des fiches à revérifier, publié en issue « Veille » |
 | `.github/ISSUE_TEMPLATE/correction.yml` | formulaire « Signaler une erreur », ouvert depuis chaque fiche du site |

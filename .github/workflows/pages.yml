@@ -5,7 +5,7 @@ name: pages
 on:
   push:
     branches: [main]
-    paths: ["docs/**", "scripts/validate_data.py", ".github/workflows/pages.yml"]
+    paths: ["docs/**", "scripts/validate_data.py", "scripts/check_site.mjs", ".github/workflows/pages.yml"]
   workflow_dispatch:
 
 permissions:
@@ -27,6 +27,15 @@ jobs:
           python-version: "3.13"
       - name: Valider les données
         run: python3 scripts/validate_data.py
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+      # Le code doit lire ces données sans planter : une erreur ici donnerait
+      # une page blanche en ligne, que la validation des JSON ne voit pas.
+      - name: Contrôler le site
+        run: |
+          for f in docs/js/*.js docs/js/views/*.js; do node --check "$f"; done
+          node scripts/check_site.mjs
       # Pages garde chaque fichier 10 min en cache : sans version dans l'URL, un
       # navigateur peut mêler la nouvelle page et l'ancien code. Chaque
       # déploiement remplace donc le jeton '?v=dev' par l'identifiant du commit.
