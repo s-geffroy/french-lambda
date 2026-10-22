@@ -356,13 +356,23 @@
   "nom": "AD Seniors",
   "pays_siege": "FR",
   "statut": "prive",
-  "actionnaires": [],
-  "description": "Réseau d'agences d'aide à domicile pour personnes âgées.",
+  "actionnaires": [
+   {
+    "nom": "Laurent Lartaud (président d'AD Développement, tête de réseau)",
+    "type": "personne",
+    "pays": "FR"
+   }
+  ],
+  "description": "Réseau d'agences d'aide à domicile pour personnes âgées (plus de 70 agences, franchise), animé depuis 2007 par AD Développement (Paris).",
   "sources": [
-   "https://www.aladom.fr/annuaire/pro/2017885/"
+   "https://www.aladom.fr/annuaire/pro/2017885/",
+   "https://www.adseniors.com/",
+   "https://www.adseniors.com/mentions-legales/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=500108642",
+   "https://recherche-entreprises.api.gouv.fr/search?q=ad%20seniors"
   ],
   "verifie_le": "2026-10",
-  "note": "Réseau d'agences d'aide à domicile ; tête de réseau et actionnariat à confirmer."
+  "note": "Tête de réseau : AD Développement (SAS, SIREN 500 108 642, créée en 2007, éditrice d'adseniors.com), présidée par Laurent Lartaud (registre, 2026) ; agences locales en sociétés distinctes. Capital non publié."
  },
  {
   "id": "adecco",
@@ -409,18 +419,25 @@
   "statut": "fonds",
   "actionnaires": [
    {
-    "nom": "Consortium Blackstone / Permira (avec General Atlantic, TCV)",
+    "nom": "Permira (consortium avec Blackstone, General Atlantic, TCV)",
+    "id": "permira",
+    "type": "fonds",
+    "pays": "GB"
+   },
+   {
+    "nom": "Blackstone",
+    "id": "blackstone",
     "type": "fonds",
     "pays": "US"
    },
    {
-    "nom": "eBay (≈ 20 % à l'issue du rachat)",
+    "nom": "eBay (participation réinvestie lors du rachat)",
     "id": "ebay",
     "type": "groupe",
     "pays": "US"
    },
    {
-    "nom": "Schibsted (≈ 13,6 % à l'issue du rachat)",
+    "nom": "Schibsted (participation réinvestie lors du rachat)",
     "type": "groupe",
     "pays": "NO"
    }
@@ -431,11 +448,13 @@
    "https://siecledigital.fr/2023/11/22/adevinta-maison-mere-de-leboncoin-bientot-rachetee-pour-12-milliards-deuros/",
    "https://fr.wikipedia.org/wiki/Leboncoin",
    "https://fr.wikipedia.org/wiki/Adevinta",
-   "https://www.tipranks.com/news/the-fly/ebay-announces-support-for-offer-led-by-permira-blackstone-to-acquire-adevinta"
+   "https://www.tipranks.com/news/the-fly/ebay-announces-support-for-offer-led-by-permira-blackstone-to-acquire-adevinta",
+   "https://www.sec.gov/Archives/edgar/data/1065088/000106508824000094/ex9901adevinta2023annualre.htm",
+   "https://chainstoreage.com/ebay-gain-22-billion-sale-shares-adevinta"
   ],
   "verifie_le": "2026-10",
   "groupe_parent": "permira",
-  "note": "Rachat finalisé en mai 2024 par Permira et Blackstone (avec General Atlantic et TCV) ; eBay garde ≈20 % et Schibsted une part minoritaire : pourcentages post-2024 à confirmer."
+  "note": "Retirée de la cote d'Oslo en mai 2024 par Permira et Blackstone (avec General Atlantic et TCV). eBay et Schibsted ont réinvesti une partie de leurs titres (eBay : ≈ 20 % prévu à la clôture, avec option d'achat des fonds pouvant le ramener à 9,99 %) ; répartition finale non publiée."
  },
  {
   "id": "adidas",
@@ -515,13 +534,21 @@
   "nom": "Adova Group",
   "pays_siege": "FR",
   "statut": "prive",
-  "actionnaires": [],
-  "description": "Fabricant français de literie haut de gamme (Tréca, Simmons, Hotelys, Aube Sofa ; Bultex, Epeda, Merinos et Dunlopillo cités sur son site).",
-  "note": "Bultex, Epeda et Merinos sont fabriqués par Cofel, filiale à 100 % de l'espagnol Pikolin (famille Soláns) depuis 2009 ; lien capitalistique entre Adova et Pikolin/Cofel à confirmer.",
+  "actionnaires": [
+   {
+    "nom": "Fonds Perceva (majoritaire)",
+    "type": "fonds",
+    "pays": "FR"
+   }
+  ],
+  "description": "Fabricant français de literie (Tréca, Simmons, Hotelys, Aube Sofa), constitué en 2016 par le fonds Perceva pour reprendre des sites de l'ex-groupe Cauval ; société à mission depuis 2022.",
+  "note": "Fonds Perceva actionnaire majoritaire depuis la reprise de mai 2016 ; sauvegarde de juin 2020 à décembre 2021 ; présidé par Charles-Henri Déon. Bultex, Epeda et Merinos ne sont pas des marques d'Adova : elles appartiennent à Cofel Industries, filiale à 100 % de l'espagnol Pikolin depuis juillet 2009.",
   "sources": [
    "https://www.adova-group.com/",
    "https://fr.wikipedia.org/wiki/Bultex",
-   "https://es.wikipedia.org/wiki/Pikolin"
+   "https://es.wikipedia.org/wiki/Pikolin",
+   "https://fr.wikipedia.org/wiki/Tr%C3%A9ca",
+   "https://recherche-entreprises.api.gouv.fr/search?q=adova"
   ],
   "verifie_le": "2026-10"
  },
@@ -645,21 +672,37 @@
   "groupe_parent": "mundys",
   "actionnaires": [
    {
-    "nom": "Azzurra Aeroporti (Mundys majoritaire)",
+    "nom": "Azzurra Aeroporti (Mundys/Aeroporti di Roma majoritaire, EDF Invest, Principauté de Monaco)",
     "id": "mundys",
+    "type": "groupe",
     "pays": "IT",
-    "type": "groupe"
+    "part_pct": 64
    },
    {
-    "nom": "Actionnaires publics locaux (CCI, collectivités) minoritaires",
+    "nom": "CCI Nice Côte d'Azur",
+    "type": "public",
     "pays": "FR",
-    "type": "public"
+    "part_pct": 25
+   },
+   {
+    "nom": "Caisse des Dépôts",
+    "id": "caisse-des-depots",
+    "type": "public",
+    "pays": "FR",
+    "part_pct": 8
+   },
+   {
+    "nom": "Région Sud, Département des Alpes-Maritimes, Métropole Nice Côte d'Azur (1 % chacun)",
+    "type": "public",
+    "pays": "FR",
+    "part_pct": 3
    }
   ],
   "description": "Gestionnaire des aéroports de Nice, Cannes-Mandelieu et Saint-Tropez.",
-  "note": "Privatisé en 2016 : le consortium Azzurra Aeroporti (Mundys/Aeroporti di Roma, avec EDF Invest) détient la majorité ; part de 64 % et minoritaires publics à confirmer. Nice n'est pas géré par Edeis.",
+  "note": "Privatisé en 2016 : Azzurra Aeroporti 64 % (Mundys 62,51 % du consortium en direct et via Aeroporti di Roma, EDF Invest 24,99 %, Principauté de Monaco depuis 2017) ; CCI 25 %, Caisse des Dépôts 8 %, collectivités 3 % (Wikipédia). Nice n'est pas géré par Edeis.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Aéroport_de_Nice-Côte_d'Azur"
+   "https://fr.wikipedia.org/wiki/Aéroport_de_Nice-Côte_d'Azur",
+   "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Nice-C%C3%B4te_d%27Azur"
   ],
   "verifie_le": "2026-10"
  },
@@ -671,34 +714,42 @@
   "groupe_parent": "vinci-airports",
   "actionnaires": [
    {
-    "nom": "Vinci Airports (majoritaire)",
+    "nom": "Vinci Airports (chef de file du consortium détenant 60 %)",
     "id": "vinci-airports",
     "type": "groupe",
     "pays": "FR"
    },
    {
-    "nom": "Caisse des Dépôts",
+    "nom": "Caisse des Dépôts (consortium)",
     "id": "caisse-des-depots",
     "type": "public",
     "pays": "FR"
    },
    {
-    "nom": "Predica (Crédit Agricole Assurances)",
+    "nom": "Predica (Crédit Agricole Assurances, consortium)",
     "id": "credit-agricole-assurances",
     "type": "groupe",
     "pays": "FR"
    },
    {
-    "nom": "CCI de Lyon et collectivités",
+    "nom": "CCI de Lyon",
+    "part_pct": 25,
+    "type": "public",
+    "pays": "FR"
+   },
+   {
+    "nom": "Collectivités (Métropole de Lyon, Rhône, Région)",
+    "part_pct": 15,
     "type": "public",
     "pays": "FR"
    }
   ],
   "description": "Concessionnaire de Lyon-Saint Exupéry.",
-  "note": "Les 60 % de l'État ont été cédés en octobre 2016 à un consortium Vinci / Predica / Caisse des Dépôts (535 M€) ; CCI de Lyon (25 %) et collectivités (15 %) au capital avant privatisation ; répartition actuelle à confirmer.",
+  "note": "Privatisation d'octobre 2016 : les 60 % de l'État cédés au consortium Vinci Airports / Caisse des Dépôts / Predica (535 M€) ; CCI de Lyon (25 %) et collectivités (3 × 5 %) restent au capital (Wikipédia). Répartition interne au consortium non publiée.",
   "sources": [
    "https://www.vinci-airports.com/fr",
-   "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Lyon-Saint-Exup%C3%A9ry"
+   "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Lyon-Saint-Exup%C3%A9ry",
+   "https://en.wikipedia.org/wiki/Lyon%E2%80%93Saint-Exup%C3%A9ry_Airport"
   ],
   "verifie_le": "2026-10"
  },
@@ -1242,15 +1293,24 @@
   "nom": "AlloVoisins",
   "pays_siege": "FR",
   "statut": "prive",
-  "actionnaires": [],
+  "actionnaires": [
+   {
+    "nom": "2CED Développement (présidée par W3, société de Charles Cabillic)",
+    "type": "autre",
+    "pays": "FR"
+   }
+  ],
   "description": "Plateforme d'entraide et de services entre particuliers.",
   "sources": [
    "https://www.allovoisins.com",
    "https://recherche-entreprises.api.gouv.fr/search?q=allovoisins",
-   "https://recherche-entreprises.api.gouv.fr/search?q=941737322"
+   "https://recherche-entreprises.api.gouv.fr/search?q=941737322",
+   "https://recherche-entreprises.api.gouv.fr/search?q=2ced%20developpement",
+   "https://recherche-entreprises.api.gouv.fr/search?q=509686267",
+   "https://recherche-entreprises.api.gouv.fr/search?q=imavenir"
   ],
   "verifie_le": "2026-10",
-  "note": "Édité par 2CED (SIREN 792209967), présidée depuis 2025 par la holding 2CED Développement (dirigée par les sociétés W3 et Imavenir) ; actionnaires à confirmer."
+  "note": "Société non cotée ; capital non publié. Éditée par 2CED (SIREN 792 209 967, Nantes), présidée par la holding 2CED Développement, elle-même présidée par W3 (gérant Charles Cabillic) avec Imavenir pour directeur général (registre, 2026)."
  },
  {
   "id": "alma",
@@ -1264,13 +1324,13 @@
     "pays": "FR"
    },
    {
-    "nom": "Fonds (levées de 12,5 M€ en 2020, 49 M€ en 2021, 115 M€ en 2022 ; Eurazeo, Cathay Innovation…)",
+    "nom": "Fonds de capital-risque (Idinvest/Eurazeo, Isai, Cathay Innovation, Bpifrance, Picus Capital, Tencent, Seaya, Roosh Ventures, GR Capital)",
     "type": "fonds",
     "pays": "XX"
    }
   ],
   "description": "Paiement fractionné e-commerce.",
-  "note": "Fintech non cotée fondée en 2018 ; rentable depuis 2025 ; aucun rachat connu ; liste et parts des fonds à confirmer.",
+  "note": "Fintech non cotée fondée en 2018 ; levées de 12,5 M€ (2020), 49 M€ (2021) et 115 M€ (2022) ; rentable depuis 2025 ; aucune cession connue. Répartition du capital non publiée.",
   "sources": [
    "https://getalma.eu",
    "https://fr.wikipedia.org/wiki/Alma_(entreprise)"
@@ -1365,12 +1425,15 @@
     "pays": "XX"
    }
   ],
-  "description": "Opérateur mexicain de restaurants, licencié Starbucks en France, aux Pays-Bas, en Belgique et au Luxembourg depuis l'accord de 2018 ; situation 2026 à confirmer.",
+  "description": "Opérateur mexicain de restaurants (Bolsa Mexicana), licencié Starbucks en France, aux Pays-Bas, en Belgique et au Luxembourg depuis l'accord de 2018-2019 ; en France via Café Sirène France SAS, présidée par sa filiale espagnole Café Sirena.",
   "sources": [
    "https://nrn.com/operations/starbucks-cafes-europe-be-operated-alsea",
-   "https://www.verdictfoodservice.com/news/starbucks-licence-operations-alsea/"
+   "https://www.verdictfoodservice.com/news/starbucks-licence-operations-alsea/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=starbucks%20coffee%20france&per_page=5",
+   "https://es.wikipedia.org/wiki/Alsea_(empresa)"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Café Sirène France (SIREN 445330103, exploitant Starbucks) présidée par Café Sirena, filiale d'Alsea (registre, 2026) ; aucune cession des activités européennes repérée. Fondateur Alberto Torrado président exécutif."
  },
  {
   "id": "altarea",
@@ -1423,7 +1486,7 @@
     "pays": "XX"
    }
   ],
-  "description": "Maison mère de SFR, RED by SFR et de plusieurs MVNO ; restructurée en 2025 (créanciers à 45 % du capital, validation par la cour d'appel de Paris en décembre 2025) et en cours de cession à Bouygues Telecom (42 %), Free-iliad (31 %) et Orange (27 %) : protocole d'accord du 6 juin 2026 (20,35 Md€), démantèlement visé au second semestre 2027.",
+  "description": "Maison mère de SFR, RED by SFR et de plusieurs MVNO ; restructurée en 2025 (créanciers à 45 % du capital, validation par la cour d'appel de Paris en décembre 2025) et en cours de cession à Bouygues Telecom (42 %), Free-iliad (31 %) et Orange (27 %) : protocole d'accord du 6 juin 2026 (20,35 Md€), dossier renvoyé le 15/07/2026 par la Commission européenne à l'Autorité de la concurrence ; finalisation attendue au second semestre 2027.",
   "sources": [
    "https://www.tradingsat.com/actualites/marches-financiers/marche-altice-france-plan-de-restructuration-valide-le-sort-de-sfr-en-question-1143953.html",
    "https://www.ifre.com/ifr-awards/2333229/emea-restructuring-altice-frances-24bn-restructuring",
@@ -1431,7 +1494,9 @@
    "https://www.corporate.bouyguestelecom.fr/archives-communique-presse/bouygues-telecom-franchit-une-etape-structurante-pour-son-developpement-futur-en-signant-aux-cotes-de-free-groupe-iliad-et-orange-un-protocole-daccord-avec-altice-france-en-vue-de-l/",
    "https://www.journaldunet.com/business/1555753-cma-media-finalise-le-rachat-de-rmc-sport-et-lance-cma-sport/",
    "https://www.cbnews.fr/node/101413",
-   "https://fr.wikipedia.org/wiki/SFR"
+   "https://fr.wikipedia.org/wiki/SFR",
+   "https://www.autoritedelaconcurrence.fr/en/article/telecoms-sfr-autorite-de-la-concurrence-review-acquisition-sfr-altice-france",
+   "https://www.abcbourse.com/marches/la-vente-de-sfr-sera-finalement-examinee-par-l-autorite-de-la-concurrence-franca_699719"
   ],
   "verifie_le": "2026-10"
  },
@@ -1691,11 +1756,19 @@
   "nom": "Anacours",
   "pays_siege": "FR",
   "statut": "prive",
-  "actionnaires": [],
+  "actionnaires": [
+   {
+    "nom": "Stéphane Cohen (via Financière Molina)",
+    "type": "personne",
+    "pays": "FR"
+   }
+  ],
   "description": "Soutien scolaire à domicile.",
-  "note": "Actionnariat non vérifié.",
+  "note": "Société non cotée ; capital non publié. Anacours SARL est gérée par Stéphane Cohen et Anacours Groupe SAS est présidée par sa holding Financière Molina (registre, 2026).",
   "sources": [
-   "https://www.anacours.com/"
+   "https://www.anacours.com/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=anacours",
+   "https://recherche-entreprises.api.gouv.fr/search?q=880957188"
   ],
   "verifie_le": "2026-10"
  },
@@ -1767,18 +1840,27 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Fondateurs (actionnariat actuel non vérifié)",
+    "nom": "Fondateurs (François Bultel, Patricia Gaffet, Patrice Guillois)",
     "type": "personne",
+    "pays": "FR"
+   },
+   {
+    "nom": "Lov & Bread (pôle alimentaire de Financière Lov, Stéphane Courbit)",
+    "id": "financiere-lov",
+    "part_pct": 35,
+    "type": "groupe",
     "pays": "FR"
    }
   ],
-  "description": "Chaîne de boulangeries fondée en 2009 par Christophe Debrie et Bruno Gaudichau ; actionnariat actuel non vérifié.",
+  "description": "Chaîne de boulangeries en franchise fondée en 2008 par François Bultel, Patricia Gaffet et Patrice Guillois (plus de 300 boulangeries).",
   "sources": [
    "https://www.boulangeries-ange.fr/",
-   "https://fr.wikipedia.org/wiki/Ange_(boulangerie)"
+   "https://fr.wikipedia.org/wiki/Ange_(boulangerie)",
+   "https://lexpress-franchise.com/actualites/un-nouvel-actionnaire-au-capital-des-boulangeries-ange/",
+   "https://www.lsa-conso.fr/le-reseau-de-boulangeries-ange-noue-un-partenariat-avec-ffl,447781"
   ],
   "verifie_le": "2026-10",
-  "note": "Actionnariat non publié ; Wikipédia attribue la fondation (2008) à François Bultel, Patricia Gaffet et Patrice Guillois, ce qui diverge de la description : fondateurs à confirmer."
+  "note": "Lov & Bread (pôle alimentaire du groupe de Stéphane Courbit, déjà actionnaire de Ladurée) a pris 35 % du capital en octobre 2023 ; les cofondateurs restent dirigeants et associés (L'Express Franchise, LSA)."
  },
  {
   "id": "animalis",
@@ -1987,9 +2069,10 @@
   "statut": "prive",
   "actionnaires": [],
   "description": "Éditeur du logiciel scolaire École Directe.",
-  "note": "Actionnariat non vérifié.",
+  "note": "Société non cotée ; capital non publié. Aplim SAS (SIREN 403 315 815, Saint-Jeoire-Prieuré) est présidée par Reynald Marien ; elle est coassociée de SCI avec l'association APLIM l'Asso (Bruz) (registre, 2026).",
   "sources": [
-   "https://www.ecoledirecte.com/"
+   "https://www.ecoledirecte.com/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=aplim"
   ],
   "verifie_le": "2026-10"
  },
@@ -2072,7 +2155,7 @@
     "type": "groupe"
    },
    {
-    "nom": "Macquarie Asset Management (via Eiffarie)",
+    "nom": "Fonds gérés par Macquarie Asset Management (via Eiffarie)",
     "id": "macquarie",
     "part_pct": 48.0,
     "pays": "AU",
@@ -2080,11 +2163,13 @@
    }
   ],
   "description": "Deuxième concessionnaire autoroutier français (APRR, AREA).",
-  "note": "Contrôlé par Eiffarie (Eiffage / Macquarie) depuis 2006 ; répartition ≈ 52/48 d'après Eiffage, à confirmer pour 2026.",
+  "note": "Détenu par Eiffarie, coentreprise d'Eiffage (52 %, d'après les résultats annuels d'Eiffage) et de Macquarie (solde), depuis la privatisation de 2006 ; retiré de la cote après l'offre publique de retrait autorisée par l'AMF en décembre 2012.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Autoroutes_Paris-Rhin-Rhône",
    "https://www.eiffage.com/finance",
-   "https://fr.wikipedia.org/wiki/Autoroutes_Paris-Rhin-Rh%C3%B4ne"
+   "https://fr.wikipedia.org/wiki/Autoroutes_Paris-Rhin-Rh%C3%B4ne",
+   "https://www.eiffage.com/files/live/sites/eiffagev2/files/Eiffage_Résultats_annuels_2022.pdf",
+   "https://infrastructureinvestor.com/macquarie-eiffage-disagree-on-french-road"
   ],
   "verifie_le": "2026-10"
  },
@@ -2336,8 +2421,13 @@
   "statut": "fonds",
   "actionnaires": [
    {
-    "nom": "Fonds de capital-investissement (Activa Capital, chef de file depuis 2012 avec CM-CIC LBO Partners, Omnes, CDC Entreprises ; LBO bis ultérieur mené par Activa) — situation 2026 à confirmer",
+    "nom": "Activa Capital",
     "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Dirigeants",
+    "type": "personne",
     "pays": "FR"
    }
   ],
@@ -2347,10 +2437,14 @@
    "https://www.unquote.com/france/official-record/3002272/activa-backed-armatis-acquires-contact",
    "https://www.lincolninternational.com/?p=91342",
    "https://www.cfnews.net/L-actualite/Exclusif-CFNEWS/Armatis-se-rapproche-d-un-autre-centre-d-appel-et-repart-en-LBO-138782",
-   "https://www.armatis.com/decouvrez-armatis/"
+   "https://www.armatis.com/decouvrez-armatis/",
+   "https://activa.fr/investments",
+   "https://recherche-entreprises.api.gouv.fr/search?q=armatis",
+   "https://recherche-entreprises.api.gouv.fr/search?q=540030848",
+   "https://fiscalonline.com/on-en-parle/de-pardieu-brocas-maffei-et-mayer-brown-conseils-de-l-acquisition-de-laser-par-armatis"
   ],
   "verifie_le": "2026-10",
-  "note": "Rachat en 2012 par Activa Capital, Omnes et CDC, fusion avec Laser Contact ; MBO bis mené par Activa ensuite ; actionnariat 2026 non publié sur armatis.com : à confirmer."
+  "note": "Rachat en 2012 par Activa Capital (majoritaire, avec Omnes, CDC Entreprises et CM-CIC LBO Partners), fusion avec Laser Contact, puis LBO bis mené par Activa ; Armatis figure toujours au portefeuille d'Activa (site, octobre 2026). Tête de groupe : Armatis Holding (SAS), présidée par David Gillaux (registre). Répartition non publiée."
  },
  {
   "id": "armor-lux",
@@ -2556,21 +2650,30 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Lars Wingefors et anciens actionnaires d'Embracer",
+    "nom": "Lars Wingefors AB (Lars Wingefors, président)",
     "type": "personne",
-    "pays": "SE"
+    "pays": "SE",
+    "part_pct": 16.9
    },
    {
-    "nom": "Flottant",
+    "nom": "Savvy Games Group (PIF, Arabie saoudite)",
+    "type": "etat",
+    "pays": "SA",
+    "part_pct": 7.1
+   },
+   {
+    "nom": "Investisseurs institutionnels (Swedbank Robur, Alecta, DNB, Handelsbanken...) et flottant",
     "type": "flottant",
     "pays": "XX"
    }
   ],
   "description": "Éditeur et distributeur de jeux de société, coté à Stockholm depuis 2025 après sa scission d'Embracer.",
-  "note": "Scindé d'Embracer et coté à Nasdaq Stockholm (ASMDEE B) depuis février 2025 ; Lars Wingefors président ; répartition du capital à confirmer.",
+  "note": "Coté à Nasdaq Stockholm (ASMDEE B) depuis février 2025 après sa scission d'Embracer. Lars Wingefors AB 16,9 % du capital et 38,1 % des votes, Savvy Games Group 7,1 % (Placera, 28/05/2026).",
   "sources": [
    "https://corporate.asmodee.com/",
-   "https://en.wikipedia.org/wiki/Asmodee"
+   "https://en.wikipedia.org/wiki/Asmodee",
+   "https://placera.se/analys/asmodee-dags-att-kamma-hem-vinsten-2026-05-28",
+   "https://simplywall.st/stocks/se/consumer-durables/sto-asmdee-b/asmodee-group-shares/ownership"
   ],
   "verifie_le": "2026-10"
  },
@@ -2653,11 +2756,20 @@
   "nom": "Assurland",
   "pays_siege": "FR",
   "statut": "prive",
-  "actionnaires": [],
+  "actionnaires": [
+   {
+    "nom": "Covéa (MAAF Assurances, Covéa Next, Covéa Coopérations, Financière Vivienne)",
+    "id": "covea",
+    "type": "groupe",
+    "pays": "FR"
+   }
+  ],
   "description": "Comparateur d'assurances en ligne.",
-  "note": "Actionnariat non vérifié.",
+  "note": "Assurland.com SA, non cotée ; capital non publié. Quatre des administrateurs sont des entités du groupe Covéa (MAAF Assurances, Covéa Next, Covéa Coopérations, Financière Vivienne présidée par MAAF) (registre, 2026).",
   "sources": [
-   "https://www.assurland.com"
+   "https://www.assurland.com",
+   "https://recherche-entreprises.api.gouv.fr/search?q=assurland.com",
+   "https://recherche-entreprises.api.gouv.fr/search?q=340027010"
   ],
   "verifie_le": "2026-10"
  },
@@ -2832,11 +2944,13 @@
   "pays_siege": "FR",
   "statut": "prive",
   "actionnaires": [],
-  "description": "Enseigne de puériculture.",
-  "note": "Ancienne filiale d'Ampafrance ; propriétaire actuel de l'enseigne non trouvé en ligne : à confirmer.",
+  "description": "Enseigne de puériculture fondée en 1931 à Cernay (Haut-Rhin), en succursales et en franchise.",
+  "note": "Société non cotée ; capital non publié. L'enseigne est exploitée depuis 2025 par la SAS Aubert (SIREN 945 754 414, Cernay), présidée par Georges Tramier, qui présidait déjà Aubert France (radiée du RCS le 18/02/2025) (registre, 2026).",
   "sources": [
    "https://www.aubert.com/",
-   "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-aubert-3944.htm"
+   "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-aubert-3944.htm",
+   "https://recherche-entreprises.api.gouv.fr/search?q=aubert%20france",
+   "https://pappers.fr/entreprise/399226653"
   ],
   "verifie_le": "2026-10"
  },
@@ -2872,6 +2986,27 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/Auchan",
    "https://www.abcbourse.com/marches/auchan-va-disparaitre-en-france-tous-ses-supermarches-deviendront-intermarche-e_681165"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
+  "id": "audition-conseil-groupe",
+  "nom": "Audition Conseil Groupe",
+  "pays_siege": "FR",
+  "statut": "prive",
+  "actionnaires": [
+   {
+    "nom": "Holding Caladière",
+    "type": "autre",
+    "pays": "FR"
+   }
+  ],
+  "description": "Tête de réseau de l'enseigne indépendante d'audioprothésistes Audition Conseil (Aix-en-Provence), organisée en réseau d'adhérents.",
+  "note": "Société non cotée ; capital non publié. Audition Conseil France (SIREN 400 840 484), éditrice de l'enseigne, est présidée par Audition Conseil Groupe, elle-même présidée par Holding Caladière (registre, 2026).",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=audition%20conseil%20france",
+   "https://recherche-entreprises.api.gouv.fr/search?q=444211163",
+   "https://www.auditionconseil.fr/"
   ],
   "verifie_le": "2026-10"
  },
@@ -3048,7 +3183,7 @@
    "https://www.cfnews.net/L-actualite/Build-up/SeLoger-se-trouve-un-bien-dans-l-Ouest-740207"
   ],
   "verifie_le": "2026-10",
-  "note": "Détenu par KKR et CPP Investments depuis la scission d'Axel Springer (2025) ; toujours présenté ainsi par le groupe en 2026."
+  "note": "Détenu par KKR et CPP Investments depuis la séparation des activités d'Axel Springer (2025) ; ainsi présenté par le groupe dans ses offres d'emploi de juin 2026 et par CFNews (rachat d'Ouest-France Immo par SeLoger)."
  },
  {
   "id": "avolta",
@@ -3168,6 +3303,7 @@
    {
     "nom": "Société Générale",
     "id": "societe-generale",
+    "part_pct": 52.6,
     "pays": "FR",
     "type": "groupe"
    },
@@ -3178,9 +3314,12 @@
    }
   ],
   "description": "Leader européen de la location longue durée.",
-  "note": "Société Générale actionnaire majoritaire (79,8 % en 2021 avant la fusion avec LeasePlan ; ≈ 52 % depuis 2023) : part actuelle à confirmer.",
+  "note": "Société Générale actionnaire majoritaire : 52,59 % du capital et 68,93 % des droits de vote (déclaration AMF de juin 2025). Le consortium Lincoln (TDR, ATP…), ex-actionnaire de LeasePlan, est sorti le 4/11/2025 par placement accéléré (≈ 940 M€), Ayvens rachetant 275 M€ de ses propres actions.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Ayvens"
+   "https://fr.wikipedia.org/wiki/Ayvens",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307587490_20250627.pdf",
+   "https://www.tdrcapital.com/tdr-capital-fully-exits-ayvens",
+   "https://www.globenewswire.com/news-release/2025/11/04/3179987/0/en/Ayvens-repurchases-EUR-275-million-of-own-shares-in-Lincoln-Consortium-s-sell-down.html"
   ],
   "verifie_le": "2026-10"
  },
@@ -3374,16 +3513,21 @@
   "groupe_parent": "financiere-lov",
   "actionnaires": [
    {
-    "nom": "Financière Lov (Stéphane Courbit)",
+    "nom": "Financière Lov / Lov Group Invest (Stéphane Courbit)",
     "id": "financiere-lov",
     "type": "groupe",
     "pays": "FR"
    },
    {
-    "nom": "Vivendi (≈ 19-20 %)",
+    "nom": "Vivendi",
     "id": "vivendi",
     "type": "groupe",
     "pays": "FR"
+   },
+   {
+    "nom": "SBM, Fimalac, De Agostini, Financière Agache, Tikehau Capital et autres",
+    "type": "autre",
+    "pays": "XX"
    },
    {
     "nom": "Flottant / public",
@@ -3391,15 +3535,19 @@
     "pays": "XX"
    }
   ],
-  "description": "Production audiovisuelle et jeux d'argent (Betclic, Tipico) ; rachat des casinos JOA (33 casinos) signé en juillet 2026 auprès de Blackstone et Kings Park, finalisation attendue au second semestre 2026 (en cours d'autorisation).",
+  "description": "Production audiovisuelle et jeux d'argent (Betclic, Tipico depuis le 23/04/2026). Rachat des casinos JOA à Blackstone et Kings Park signé le 8/7/2026 ; finalisation attendue au second semestre 2026 (consultation des salariés et autorisations).",
   "sources": [
    "https://www.abcbourse.com/forums/msg1082350_banijay-maison-mere-de-betclic-s-empare-de-tipico-pour-4-6-milliards",
    "https://igamingbusiness.com/finance/quarterly-results/banijay-gaming-revenue-jump-q3/",
    "https://fr.wikipedia.org/wiki/Vivendi",
    "https://www.yogonet.com/international/news/2026/07/08/125264-banijay-gaming-to-take-full-control-of-france-39s-joa-casino-group",
-   "https://group.banijay.com/wp-content/uploads/2026/07/Communiquedepresse-BanijayGamingacquiertJOA.pdf"
+   "https://group.banijay.com/wp-content/uploads/2026/07/Communiquedepresse-BanijayGamingacquiertJOA.pdf",
+   "https://group.banijay.com/share-price-ownership/",
+   "https://www.afm.nl/en/sector/registers/meldingenregisters/substantiele-deelnemingen/details?id=126585",
+   "https://en.wikipedia.org/wiki/Banijay_Group"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Contrôlée par Stéphane Courbit via Lov Group Invest et Financière Lov (déclaration AFM du 1/7/2022 : 78,4 % du capital en concert avec les autres actionnaires du pacte). Actionnaires au 31/12/2025 selon le site du groupe : Financière Lov, Vivendi, SBM, Fimalac, De Agostini, Financière Agache, Tikehau et flottant."
  },
  {
   "id": "banque-de-france",
@@ -3730,17 +3878,19 @@
   "groupe_parent": "etat-qatar",
   "actionnaires": [
    {
-    "nom": "Intérêts publics qataris (structure exacte non publiée)",
+    "nom": "État du Qatar",
     "id": "etat-qatar",
     "type": "etat",
     "pays": "QA"
    }
   ],
-  "description": "Groupe de télévision sportive qatari (Doha), issu d'Al Jazeera en 2014, présidé par Nasser Al-Khelaïfi, éditeur de beIN Sports. Structure exacte de l'actionnariat public qatari non publiée : à confirmer.",
+  "description": "Groupe de télévision sportive qatari (Doha), issu d'Al Jazeera en 2014, présidé par Nasser Al-Khelaïfi, éditeur de beIN Sports ; détenu et financé par l'État du Qatar.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/BeIN_Media_Group"
+   "https://fr.wikipedia.org/wiki/BeIN_Media_Group",
+   "https://en.wikipedia.org/wiki/BeIN_Media_Group"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Propriété de l'État du Qatar (The Guardian, 11/02/2026) ; entité de détention intermédiaire non publiée."
  },
  {
   "id": "beko-europe",
@@ -3985,17 +4135,25 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Actionnaires privés britanniques (dont famille fondatrice)",
-    "pays": "GB",
-    "type": "famille"
+    "nom": "BHL (UK) Holdings Limited (majoritaire)",
+    "type": "autre",
+    "pays": "GB"
+   },
+   {
+    "nom": "CPP Investments (minoritaire)",
+    "id": "cpp-investments",
+    "type": "fonds",
+    "pays": "CA"
    }
   ],
   "description": "Groupe britannique (Compare the Market), propriétaire historique de LesFurets.",
-  "note": "Propriété non revérifiée depuis 2020.",
+  "note": "Selon la page « About us » de Compare the Market (juin 2026), BGL Group (Compare the Market, LesFurets) est détenu majoritairement par BHL (UK) Holdings Limited, avec CPP Investments en minoritaire. LesFurets (Courtanet) appartient au groupe depuis 2010 ; l'activité assurance a été cédée à Markerstudy en 2022.",
   "sources": [
    "https://www.lesfurets.com",
    "https://en.wikipedia.org/wiki/BGL_Group",
-   "https://en.wikipedia.org/wiki/Compare_the_Market"
+   "https://en.wikipedia.org/wiki/Compare_the_Market",
+   "https://www.comparethemarket.com/inside-ctm/who-we-are/about-us/",
+   "https://app.dealroom.co/companies/courtanet"
   ],
   "verifie_le": "2026-10"
  },
@@ -4032,17 +4190,18 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Réseaux et promoteurs immobiliers (dont Nexity ~6 %)",
-    "type": "groupe",
+    "nom": "Professionnels de l'immobilier (réseaux, administrateurs de biens, syndicats professionnels)",
+    "type": "autre",
     "pays": "FR"
    }
   ],
   "description": "Portail d'annonces immobilières lancé par des professionnels.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Nexity"
+   "https://fr.wikipedia.org/wiki/Nexity",
+   "https://recherche-entreprises.api.gouv.fr/search?q=bien%27ici"
   ],
   "verifie_le": "2026-10",
-  "note": "Actionnariat (réseaux et promoteurs immobiliers, dont Nexity) à confirmer : aucune source consultable trouvée."
+  "note": "Société non cotée ; capital non publié. SAS présidée par David Benbassat ; son conseil réunit des représentants de la profession immobilière, dont l'Union des syndicats de l'immobilier (UNIS) et Philippe Briand (registre, 2026)."
  },
  {
   "id": "big-fernand",
@@ -4225,9 +4384,24 @@
     "pays": "FR"
    },
    {
-    "nom": "Fonds d'investissement (Accel, Index Ventures…)",
+    "nom": "Index Ventures",
     "type": "fonds",
-    "pays": "XX"
+    "pays": "GB"
+   },
+   {
+    "nom": "Insight Venture Partners",
+    "type": "fonds",
+    "pays": "US"
+   },
+   {
+    "nom": "Accel",
+    "type": "fonds",
+    "pays": "US"
+   },
+   {
+    "nom": "ISAI",
+    "type": "fonds",
+    "pays": "FR"
    },
    {
     "nom": "SNCF (depuis la cession de Ouibus en 2018)",
@@ -4237,9 +4411,10 @@
    }
   ],
   "description": "Plateforme de covoiturage et de cars longue distance.",
-  "note": "Pourcentages non publiés (Wikipédia : SNCF entrée au capital en 2018 pour un montant non spécifié) — à confirmer.",
+  "note": "Comuto SA, non cotée ; capital non publié. Investisseurs successifs : ISAI (2010), Accel (2012), Index Ventures (2014), Insight Venture Partners (2015), SNCF (2018, lors du rachat de Ouibus) ; dernière levée en fonds propres de 115 M$ en avril 2021, puis financements bancaires (2023, 2024).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/BlaBlaCar"
+   "https://fr.wikipedia.org/wiki/BlaBlaCar",
+   "https://en.wikipedia.org/wiki/BlaBlaCar"
   ],
   "verifie_le": "2026-10"
  },
@@ -4466,10 +4641,10 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Boiron Développement (familles Boiron 70 %, EW Healthcare Partners 30 %)",
+    "nom": "Boiron Développement (Sodeva 53,5 %, SHB 16,5 %, EW Healthcare Partners 23,4 %, FCPE 5,8 %)",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 69.9
+    "part_pct": 78.98
    },
    {
     "nom": "Flottant / public",
@@ -4478,11 +4653,14 @@
    }
   ],
   "description": "Leader mondial de l'homéopathie (Lyon).",
-  "note": "Familles Boiron apportent leurs titres à Boiron Développement (20/10/2023) et OPA à 39,64 € visée en janvier 2024 ; issue (retrait de cote ou non) à confirmer en 2026.",
+  "note": "OPA simplifiée de Boiron Développement (holding des familles Boiron) à 39,64 € close le 31/01/2024 : 78,98 % du capital et 76,79 % des droits de vote à l'issue de l'offre, sous le seuil de 90 % du retrait obligatoire (avis AMF 224C0180 du 1/02/2024).",
   "sources": [
    "https://www.boiron.fr",
    "https://fr.wikipedia.org/wiki/Laboratoires_Boiron",
-   "https://www.tradingsat.com/boiron-FR0000061129/actualites/boiron-boiron-les-actionnaires-familiaux-vont-lancer-une-opa-1075675.html"
+   "https://www.tradingsat.com/boiron-FR0000061129/actualites/boiron-boiron-les-actionnaires-familiaux-vont-lancer-une-opa-1075675.html",
+   "https://bdif.amf-france.org/back/api/v1/documents/2024/224C0180/83D0CB2F05DD2A53095485D98294C81CBCF8D1F3EEDAA23DE44CA63947B8CE17.pdf",
+   "https://bdif.amf-france.org/back/api/v1/documents/2024/224C0043/3670ECC27C85B5597392B15F307A6E7DC1AC550E335088CED05B21A6596DBE8F.pdf",
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2023-12-20-boiron-perspectives-degradees-retrait-de-la-cote-confirme.html"
   ],
   "verifie_le": "2026-10"
  },
@@ -4571,7 +4749,7 @@
    }
   ],
   "description": "Plateforme estonienne de VTC et trottinettes.",
-  "note": "Investisseurs connus : Didi (2017), Daimler (2018), Sequoia et Fidelity (2021-2022, valorisation 7,4 Md€) ; parts non publiées — à confirmer.",
+  "note": "Société non cotée fondée et dirigée par Markus Villig. Tours de financement : Didi (2017), Daimler (2018), IFC (2021), Sequoia (2021), Sequoia et Fidelity (janvier 2022, valorisation 7,4 Md€) ; aucune introduction en bourse ni cession à 2026 ; parts non publiées.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Bolt_(entreprise)",
    "https://en.wikipedia.org/wiki/Bolt_(company)"
@@ -5294,22 +5472,56 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Hervé Giaoui et fondateurs",
+    "nom": "Financière HG (Hervé Giaoui)",
     "type": "personne",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 24.8
    },
    {
-    "nom": "Flottant",
+    "nom": "Pléiade Investissement",
+    "type": "fonds",
+    "pays": "FR",
+    "part_pct": 15.2
+   },
+   {
+    "nom": "Evelyne et Denis Wormser",
+    "type": "famille",
+    "pays": "FR",
+    "part_pct": 20.6
+   },
+   {
+    "nom": "Gavalak (Guy-Alain Germon)",
+    "type": "personne",
+    "pays": "FR",
+    "part_pct": 10.0
+   },
+   {
+    "nom": "Global Investissement (André Saada)",
+    "type": "personne",
+    "pays": "FR",
+    "part_pct": 7.9
+   },
+   {
+    "nom": "SPB (Manuel Baudouin)",
+    "type": "personne",
+    "pays": "FR",
+    "part_pct": 7.2
+   },
+   {
+    "nom": "Public, nominatif pur et autodétention",
     "type": "flottant",
-    "pays": "XX"
+    "pays": "FR",
+    "part_pct": 14.3
    }
   ],
   "description": "Groupe de distribution d'équipement de la maison (outre-mer, Vente-unique.com), propriétaire de la marque Habitat (transférée à sa filiale Vente-unique en 2026) et, depuis mars 2026, des actifs de Brandt (Brandt, De Dietrich, Sauter, Vedette).",
-  "note": "Groupe coté fondé par Hervé Giaoui, Luc Wormser et André Saada ; répartition du capital à confirmer.",
+  "note": "Au 30/09/2025, le concert d'actionnaires (dirigeants, famille Wormser, Pléiade Investissement) détient 85,7 % du capital et 92 % des droits de vote ; Financière HG est la holding belge d'Hervé Giaoui (99,9 %). Cotée sur Euronext Growth Paris depuis 2025 (transfert depuis Euronext Paris).",
   "sources": [
    "https://www.lsa-conso.fr/liquidation-de-brandt-france-pas-d-offre-de-reprise-industrielle-retenue-les-actifs-de-l-entreprise-sont-rachetes-par-le-distributeur-cafom,464862",
    "https://lexpress-franchise.com/actualites/lenseigne-habitat-placee-en-liquidation-judiciaire/",
-   "https://fr.wikipedia.org/wiki/Cafom"
+   "https://fr.wikipedia.org/wiki/Cafom",
+   "https://cafom.com/documents/",
+   "https://cafom.com/ashymuzu/2026/01/CAFOM-Rapport-Financier-Annuel-30-septembre-2025.pdf"
   ],
   "verifie_le": "2026-10"
  },
@@ -5328,9 +5540,10 @@
    }
   ],
   "description": "Courtier en crédit immobilier (réseau d'agences).",
-  "note": "Contrôle par BlackFin Capital Partners depuis mai 2021 (Les Échos, 30/04/2021) ; part exacte et changements ultérieurs à confirmer.",
+  "note": "Sous contrôle de BlackFin Capital Partners depuis mai 2021 ; capital non publié. Holdings Cafpi Holding et Cafpi Groupe Holding présidées par BlackFin Capital Partners, Cafpi SAS présidée par Julien Langlade (registre, 2026).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Cafpi"
+   "https://fr.wikipedia.org/wiki/Cafpi",
+   "https://recherche-entreprises.api.gouv.fr/search?q=cafpi&per_page=6"
   ],
   "verifie_le": "2026-10"
  },
@@ -5505,10 +5718,11 @@
   "description": "Campings (ex-France Loc), filiale du groupe PHA de Pierre Houé depuis 1992.",
   "sources": [
    "https://www.capfun.com/",
-   "https://fr.wikipedia.org/wiki/Capfun"
+   "https://fr.wikipedia.org/wiki/Capfun",
+   "https://recherche-entreprises.api.gouv.fr/search?q=capfun"
   ],
   "verifie_le": "2026-10",
-  "note": "Filiale du groupe PHA (Pierre Houé, fondateur et président ; ses trois enfants associés) selon Wikipédia ; présence éventuelle de fonds minoritaires à confirmer."
+  "note": "Holding Pierre Houé et Associés (siren 312382757), présidée par Pierre Houé, avec Nicolas Houé (DG), Rémy Houé (DG délégué) et Marion Houé administratrice (registre, 2026) ; capital non publié, aucun fonds au capital mentionné par Wikipédia ni par le registre."
  },
  {
   "id": "capgemini",
@@ -5824,10 +6038,11 @@
   "description": "Groupe familial de Pornic (Christian Buton), pôle chocolat-confiserie Saveurs et Délices (Réauté, Monbana, Maffren).",
   "sources": [
    "https://www.lejournaldesentreprises.com/article/la-recette-du-groupe-buton-pour-croquer-le-marche-du-chocolat-131209",
-   "https://www.lsa-conso.fr/reaute-chocolat-le-groupe-buton-nous-apporte-beaucoup-de-synergies-entre-biscuits-et-chocolats-video,234345"
+   "https://www.lsa-conso.fr/reaute-chocolat-le-groupe-buton-nous-apporte-beaucoup-de-synergies-entre-biscuits-et-chocolats-video,234345",
+   "https://recherche-entreprises.api.gouv.fr/search?q=cb%20expansion"
   ],
   "verifie_le": "2026-10",
-  "note": "Sources 2015-2018 ; actionnariat actuel à confirmer."
+  "note": "SARL non cotée de Pornic (SIREN 423 676 139, créée en 1999), gérée par Christian et Patrick Buton ; elle préside les filiales industrielles du groupe (registre, 2026). Capital non publié."
  },
  {
   "id": "ccep",
@@ -6052,12 +6267,32 @@
   "nom": "Cegos",
   "pays_siege": "FR",
   "statut": "prive",
-  "actionnaires": [],
+  "actionnaires": [
+   {
+    "nom": "Managers associés (une centaine) et salariés",
+    "type": "salaries",
+    "pays": "FR"
+   },
+   {
+    "nom": "Association Cegos",
+    "type": "autre",
+    "pays": "FR"
+   },
+   {
+    "nom": "Bridgepoint Development Capital (minoritaire)",
+    "id": "bridgepoint",
+    "type": "fonds",
+    "pays": "GB"
+   }
+  ],
   "description": "Organisme de formation professionnelle.",
-  "note": "Actionnariat à confirmer (SA depuis 1980, ex-association ; PDG Benoît Félix).",
+  "note": "LMBO de mars 2022 : Bridgepoint Development Capital minoritaire aux côtés d'une centaine de managers associés, d'une large majorité des salariés et de l'Association Cegos. SA à directoire présidé par Benoît Félix ; conseil de surveillance présidé par Jacques Coquerel (registre, 2026).",
   "sources": [
    "https://www.cegos.fr",
-   "https://fr.wikipedia.org/wiki/Cegos"
+   "https://fr.wikipedia.org/wiki/Cegos",
+   "https://www.lemondedudroit.fr/deals/80696-cms-francis-lefebvre-conseil-cegos-discussions-exclusives-entree-bridgepoint-development-capital-a-son-capital.html",
+   "https://www.cfnews.net/L-actualite/Build-up/Cegos-concretise-sa-diversification-dans-le-BtoC-398913",
+   "https://recherche-entreprises.api.gouv.fr/search?q=cegos"
   ],
   "verifie_le": "2026-10"
  },
@@ -6068,17 +6303,19 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Famille Grosman (fondateurs)",
+    "nom": "Marc et Laurent Grosman (fondateurs)",
     "type": "famille",
     "pays": "FR"
    }
   ],
   "description": "Enseigne de mode masculine ; propriétaire de la marque Camaïeu depuis 2022.",
-  "note": "Famille Grosman actionnaire (référence historique) ; répartition après la sauvegarde de 2020 à confirmer. Marque Camaïeu rachetée en décembre 2022 (1,8 M€) ; 7 magasins Jennyfer repris en juin 2025.",
+  "note": "Société non cotée ; capital non publié. Toujours détenue par ses fondateurs Marc et Laurent Grosman (Wikipédia en, 2024) ; Celio France présidée par Maudelina, SARL gérée par Sébastien Bismuth, président du directoire depuis 2020 (registre). Marque Camaïeu rachetée en décembre 2022 (1,8 M€) ; 7 magasins Jennyfer repris en juin 2025.",
   "sources": [
    "https://en.wikipedia.org/wiki/Celio_(retailer)",
    "https://www.retaildetail.eu/news/fashion/celio-buys-camaieu-brand",
-   "https://fr.wikipedia.org/wiki/Celio"
+   "https://fr.wikipedia.org/wiki/Celio",
+   "https://recherche-entreprises.api.gouv.fr/search?q=530048701",
+   "https://fr.fashionnetwork.com/news/Sebastien-bismuth-camaieu-est-une-marque-soeur-de-celio-,1466199.html"
   ],
   "verifie_le": "2026-10"
  },
@@ -6367,17 +6604,24 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Fondateurs et investisseurs (Cap Innov'Est / Alsace Capital en 2016) — répartition à confirmer",
-    "type": "autre",
+    "nom": "Yoann Nussbaumer (cofondateur, via la holding Brakson)",
+    "type": "personne",
+    "pays": "FR"
+   },
+   {
+    "nom": "Investisseurs minoritaires (Cap Innov'Est / Alsace Capital, 2016)",
+    "type": "fonds",
     "pays": "FR"
    }
   ],
   "description": "Application et badge de recharge pour véhicules électriques.",
-  "note": "Société alsacienne créée en 2015 ; levée de 2016 auprès du fonds Cap Innov'Est (Alsace Capital), avec Bpifrance et l'ADEME ; aucun rachat connu ; répartition du capital actuelle à confirmer.",
+  "note": "SAS strasbourgeoise créée en 2015 (SIREN 809 844 731), présidée par Brakson, holding de son cofondateur Yoann Nussbaumer (registre, 2026) ; levée de 2016 auprès de Cap Innov'Est (Alsace Capital) avec Bpifrance et l'ADEME ; aucun rachat connu ; capital non publié.",
   "sources": [
    "https://fr.chargemap.com/",
    "https://www.maddyness.com/?p=1323375",
-   "https://www.cfnews.net/L-actualite/Capital-innovation/Operations/Amorcage/Chargemap-se-recharge-aupres-d-un-fonds-226528"
+   "https://www.cfnews.net/L-actualite/Capital-innovation/Operations/Amorcage/Chargemap-se-recharge-aupres-d-un-fonds-226528",
+   "https://recherche-entreprises.api.gouv.fr/search?q=chargemap",
+   "https://recherche-entreprises.api.gouv.fr/search?q=843764127"
   ],
   "verifie_le": "2026-10"
  },
@@ -7199,23 +7443,25 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Famille Paquot (via holdings)",
+    "nom": "Famille Paquot (via Entreprises et Chemins de Fer en Chine et Fingaren)",
     "type": "famille",
-    "pays": "BE"
+    "pays": "BE",
+    "part_pct": 50.1
    },
    {
     "nom": "Flottant",
     "type": "flottant",
-    "pays": "XX"
+    "pays": "BE"
    }
   ],
   "description": "Holding belge cotée, propriétaire du pôle chocolatier Neuhaus, Jeff de Bruges, Corné Port-Royal.",
   "sources": [
    "https://www.bois-sauvage.be/en/detail/?id=1402113",
-   "https://www.bois-sauvage.be/wp-content/uploads/2023/03/CBS2022FR.pdf"
+   "https://www.bois-sauvage.be/wp-content/uploads/2023/03/CBS2022FR.pdf",
+   "https://www.bois-sauvage.be/en/investor-relation/"
   ],
   "verifie_le": "2026-10",
-  "note": "Contrôle familial (famille Paquot) décrit par des sources tierces — pourcentage à confirmer."
+  "note": "La famille Paquot contrôle Fingaren s.c.a., qui contrôle Entreprises et Chemins de Fer en Chine (44,40 %) ; avec Fingaren (5,60 %) et Mme Guy Paquot (0,10 %), 50,10 % des droits de vote au 31/12/2022 (déclaration de transparence, nouvelle notification le 1/9/2023). Jeff de Bruges détenu à 100 % depuis avril 2026."
  },
  {
   "id": "compagnie-loueurs-skis",
@@ -7351,7 +7597,7 @@
  {
   "id": "concordis",
   "nom": "Concordis",
-  "pays_siege": "XX",
+  "pays_siege": "BE",
   "statut": "prive",
   "actionnaires": [
    {
@@ -7367,13 +7613,13 @@
     "pays": "FR"
    },
    {
-    "nom": "RTG International",
+    "nom": "RTG International (regroupement d'enseignes allemandes)",
     "type": "autre",
-    "pays": "XX"
+    "pays": "DE"
    }
   ],
   "description": "Alliance européenne d'achats créée en juillet 2025 pour six ans entre Carrefour, Coopérative U et RTG International.",
-  "note": "Siège et répartition non vérifiés.",
+  "note": "Alliance créée le 7/07/2025 pour six ans, siège à Bruxelles ; répartition entre membres non publiée.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Centrale_d%27achat"
   ],
@@ -7428,19 +7674,23 @@
   "id": "convivio",
   "nom": "Convivio",
   "pays_siege": "FR",
-  "statut": "prive",
+  "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Dirigeants et fondateurs (non vérifié)",
-    "type": "autre",
+    "nom": "Famille Renou (holdings CJP, Luleen, Eina)",
+    "type": "famille",
     "pays": "FR"
    }
   ],
-  "description": "Restauration collective (écoles, santé) de l'Ouest de la France ; actionnariat non vérifié.",
+  "description": "Restauration collective (écoles, santé) de l'Ouest de la France.",
   "sources": [
-   "https://www.convivio.fr/"
+   "https://www.convivio.fr/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=convivio",
+   "https://recherche-entreprises.api.gouv.fr/search?q=397501917",
+   "https://recherche-entreprises.api.gouv.fr/search?q=luleen"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Société non cotée ; capital non publié. Les filiales Convivio sont présidées par la holding CJP (Bédée), elle-même présidée par Luleen, holding gérée par Grégory et Jocelyn Renou (registre, 2026)."
  },
  {
   "id": "cooperl",
@@ -7901,15 +8151,9 @@
   "nom": "Cubyn",
   "pays_siege": "FR",
   "statut": "prive",
-  "actionnaires": [
-   {
-    "nom": "Actionnaires non vérifiés",
-    "pays": "XX",
-    "type": "autre"
-   }
-  ],
-  "description": "Logisticien e-commerce (préparation de commandes).",
-  "note": "Cubyn a cessé ses activités : son site annonce que l'entreprise a « définitivement fermé ses portes » (constat octobre 2026).",
+  "actionnaires": [],
+  "description": "Logisticien e-commerce (préparation de commandes), activité arrêtée.",
+  "note": "Cubyn a cessé ses activités : son site indique que l'entreprise a « définitivement fermé ses portes » (constat octobre 2026). Aucune marque rattachée.",
   "sources": [
    "https://www.cubyn.com/"
   ],
@@ -8052,11 +8296,12 @@
    }
   ],
   "description": "Groupe de vente à distance (Damart, 3 Pagen...).",
-  "note": "Famille Despature ≈ 59 % du capital (+ Paul-Georges Despature 16,4 %) au 29/02/2020 ; Anne-Sylvie Hubert présidente du directoire depuis mai 2026 ; actionnariat et cotation 2026 à confirmer.",
+  "note": "Cotée sur Euronext Growth Paris (ALDAR). Famille Despature 59 % et Paul-Georges Despature 16,4 % du capital au 29/02/2020 ; capital porté depuis à 11 598 300 actions (30/06/2026), répartition publiée par la société sous forme graphique. Anne-Sylvie Hubert présidente du directoire depuis mai 2026 ; revue stratégique des activités lancée en juin 2026.",
   "sources": [
    "https://www.damartex.com/",
    "https://fr.wikipedia.org/wiki/Damartex",
-   "https://fr.wikipedia.org/wiki/Damart"
+   "https://fr.wikipedia.org/wiki/Damart",
+   "https://www.damartex.com/en/investors/shareholding/"
   ],
   "verifie_le": "2026-10"
  },
@@ -8190,28 +8435,29 @@
    {
     "nom": "Famille Mulliez (AFM)",
     "id": "famille-mulliez",
-    "part_pct": 51,
     "type": "famille",
     "pays": "FR"
    },
    {
     "nom": "Famille Leclercq (fondateur Michel Leclercq)",
-    "part_pct": 49,
     "type": "famille",
     "pays": "FR"
    },
    {
-    "nom": "Salariés (fonds Oxyval)",
+    "nom": "Salariés actionnaires (≈ 54 % des effectifs en 2026)",
     "type": "salaries",
     "pays": "FR"
    }
   ],
   "description": "Concepteur-distributeur d'articles de sport et de vêtements de sport.",
-  "note": "Répartition familiale 51 % Mulliez / 49 % Leclercq d'après Challenges (2013) ; salariés « plus de 10 % » via Oxyval (non sourcé) : chiffres 2026 à confirmer.",
+  "note": "Société non cotée ; capital détenu par trois collèges : famille Mulliez (AFM), famille du fondateur Michel Leclercq et salariés (actionnariat salarié ouvert en 1987 ; ≈ 54 % des salariés actionnaires, nouveau plan « The Decathlon Seed » lancé en juin 2026). Challenges (2013) donnait 51 % AFM / 49 % Leclercq entre les deux familles ; répartition actuelle non publiée. Julien Leclercq préside le conseil depuis février 2025.",
   "sources": [
    "https://www.decathlon.com/fr",
    "https://fr.wikipedia.org/wiki/Decathlon",
-   "https://fr.wikipedia.org/wiki/Decathlon_(entreprise)"
+   "https://fr.wikipedia.org/wiki/Decathlon_(entreprise)",
+   "https://www.lejournaldesentreprises.com/breve/decathlon-lance-un-dispositif-mondial-dactionnariat-salarie-2144961",
+   "https://lexpress-franchise.com/actualites/decathlon-julien-leclerq-nomme-a-la-presidence-du-conseil-dadministration",
+   "https://www.economiematin.fr/?p=224858"
   ],
   "verifie_le": "2026-10"
  },
@@ -8769,10 +9015,13 @@
    }
   ],
   "description": "Groupe canadien, propriétaire de Dorel Juvenile (Bébé Confort / Maxi-Cosi).",
-  "note": "Dorel Juvenile toujours présentée comme division de Dorel (Wikipédia) ; Dorel Sports cédée à Pon Holdings (2021-2022) ; éventuelle cession de Dorel Juvenile à confirmer.",
+  "note": "Dorel Juvenile (Maxi-Cosi, Bébé Confort) reste une division de Dorel (résultats du 2e trimestre 2026 publiés le 5/08/2026) ; Dorel Sports cédée à Pon Holdings en 2021 ; branche Dorel Home réduite depuis juin 2025.",
   "sources": [
    "https://www.dorel.com/",
-   "https://en.wikipedia.org/wiki/Dorel_Industries"
+   "https://en.wikipedia.org/wiki/Dorel_Industries",
+   "https://www.dorel.com/blogs/news/dorel-reports-second-quarter-2026-financial-results",
+   "https://www.dorel.com/blogs/news/dorel-reports-first-quarter-2026-financial-results",
+   "https://www.globenewswire.com/news-release/2025/06/30/3107481/0/en/Dorel-Provides-Business-Update.html"
   ],
   "verifie_le": "2026-10"
  },
@@ -9044,17 +9293,19 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Familles fondatrices (Fabre / Delas)",
+    "nom": "Nova Groupe SA (holding des familles fondatrices Fabre et Delas)",
     "type": "famille",
     "pays": "FR"
    }
   ],
   "description": "Éditeur jeunesse fondé en 1965 par Jean Fabre, Jean Delas et Arthur Hubschmid, dirigé par Louis Delas et Jean-Louis Fabre.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/L%27%C3%89cole_des_loisirs"
+   "https://fr.wikipedia.org/wiki/L%27%C3%89cole_des_loisirs",
+   "https://recherche-entreprises.api.gouv.fr/search?q=ecole%20des%20loisirs&per_page=6",
+   "https://recherche-entreprises.api.gouv.fr/search?q=nova%20groupe&per_page=5"
   ],
   "verifie_le": "2026-10",
-  "note": "Répartition du capital non publiée — à confirmer."
+  "note": "Société non cotée ; capital non publié. L'École des loisirs SAS est présidée par la holding Nova Groupe SA (même siège, 11 rue de Sèvres), avec Louis Delas directeur général et Guillaume Fabre directeur général délégué (registre, 2026)."
  },
  {
   "id": "ecologic",
@@ -9154,16 +9405,17 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Fondateurs (Franck Mesnel, Éric Blanc) — société Flanker",
+    "nom": "Franck Mesnel (cofondateur, président de Flanker SAS)",
     "type": "personne",
     "pays": "FR"
    }
   ],
   "description": "Marque française de prêt-à-porter inspirée du rugby.",
-  "note": "Marque créée en 1988 par Franck Mesnel et Éric Blanc, exploitée par la SAS Flanker (CA 2024 : 33 M€) ; actionnariat à confirmer.",
+  "note": "Marque créée en 1988 par Franck Mesnel et Éric Blanc, exploitée par Flanker SAS (siren 348790320), présidée par Franck Mesnel avec Thomas Pélissier comme directeur général (registre, 2026) ; capital non publié.",
   "sources": [
    "https://www.eden-park.com/",
-   "https://fr.wikipedia.org/wiki/Eden_Park_(marque)"
+   "https://fr.wikipedia.org/wiki/Eden_Park_(marque)",
+   "https://recherche-entreprises.api.gouv.fr/search?q=flanker"
   ],
   "verifie_le": "2026-10"
  },
@@ -9825,8 +10077,13 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Emova Holding",
-    "type": "groupe",
+    "nom": "Emova Holding (holding de contrôle ; Jean-Louis Grevet, fondateur de Perceva, parmi ses dirigeants)",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Perceva",
+    "type": "fonds",
     "pays": "FR"
    },
    {
@@ -9839,22 +10096,33 @@
   "sources": [
    "https://site.financialmodelingprep.com/news/ALEMV.PA",
    "https://www.observatoiredelafranchise.fr/indiscretions-actualite/MONCEAU-FLEURS-emova-group-va-racheter-au-nom-de-la-rose-61209.htm",
-   "https://fr.wikipedia.org/wiki/Emova_Group"
+   "https://fr.wikipedia.org/wiki/Emova_Group",
+   "https://www.emova-group.com/",
+   "https://www.emova-group.com/actionnaires-2025/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=emova%20holding"
   ],
   "verifie_le": "2026-10",
-  "note": "Contrôle pris en 2013 par le fonds Perceva (Wikipédia) ; part d'Emova Holding et lien avec Perceva à confirmer."
+  "note": "Coté sur Euronext Growth (ALEMV). Contrôle pris en 2013 par le fonds Perceva (80,5 % du capital). La société déclare pour actionnaires Emova Holding (présidée par Saloua Maslaga, Jean-Louis Grevet de Perceva parmi ses dirigeants), Perceva et le public ; pourcentages non publiés sur son site."
  },
  {
   "id": "empruntis",
   "nom": "Empruntis",
   "pays_siege": "FR",
   "statut": "prive",
-  "actionnaires": [],
+  "actionnaires": [
+   {
+    "nom": "Groupe Empruntis / Holding Empruntis (administrateurs : Mentor, Suka, Vigny Participation ; président Pierre de Buhren)",
+    "type": "autre",
+    "pays": "FR"
+   }
+  ],
   "description": "Courtier en crédit immobilier en ligne.",
-  "note": "Repris par le courtier d'assurances nantais CEP (marque CBP) selon CFNews ; date de l'opération et actionnariat actuel à confirmer.",
+  "note": "Société non cotée ; capital non publié. Empruntis (SIREN 429 814 395) est présidée par Groupe Empruntis, SAS présidée par Pierre de Buhren ; la Holding Empruntis compte Mentor, Suka et Vigny Participation parmi ses administrateurs (registre, 2026). Reprise par le courtier nantais CEP (CBP) en décembre 2015.",
   "sources": [
    "https://www.empruntis.com",
-   "https://www.cfnews.net/L-actualite/Build-up/Empruntis-rejoint-un-groupe-de-courtage-212359"
+   "https://www.cfnews.net/L-actualite/Build-up/Empruntis-rejoint-un-groupe-de-courtage-212359",
+   "https://recherche-entreprises.api.gouv.fr/search?q=empruntis",
+   "https://www.empruntis.com/groupe.php"
   ],
   "verifie_le": "2026-10"
  },
@@ -10263,10 +10531,11 @@
    }
   ],
   "description": "Groupe angevin de chaussure et mode (Eram, Gémo).",
-  "note": "Fondé par la famille Biotteau (dirigé par Xavier et Luc Biotteau depuis 1998) ; détention familiale actuelle et périmètre des enseignes à confirmer.",
+  "note": "Holding ERAM SA (siren 388583239) présidée par Xavier Biotteau, conseil composé de membres de la famille Biotteau ; elle préside Chaussures Eram, Vêtir (Gémo), Bocage et TBS Services (registre, 2026). Capital non publié.",
   "sources": [
    "https://www.groupe-eram.com/",
-   "https://fr.wikipedia.org/wiki/Groupe_Eram"
+   "https://fr.wikipedia.org/wiki/Groupe_Eram",
+   "https://recherche-entreprises.api.gouv.fr/search?q=eram&code_postal=49110"
   ],
   "verifie_le": "2026-10"
  },
@@ -13244,6 +13513,7 @@
    },
    {
     "nom": "Ceconomy (en cours de rachat par JD.com)",
+    "id": "ceconomy",
     "part_pct": 21.9,
     "type": "groupe",
     "pays": "DE"
@@ -13260,7 +13530,7 @@
     "pays": "XX"
    }
   ],
-  "description": "Distributeur de produits culturels et électroniques ; OPA d'EP Group (Kretinsky) à 36 €/action validée AMF (mai 2026) et Bruxelles (20/10/2026), issue non connue.",
+  "description": "Distributeur de produits culturels et électroniques ; OPA d'EP Group (Kretinsky) à 36 €/action validée par l'AMF (mai 2026) et Bruxelles (20/10/2026), clôture le 9/11/2026.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Fnac_Darty",
    "https://www.cbnews.fr/cb/opa-conforme-rachat-fnac-darty",
@@ -13270,7 +13540,7 @@
    "https://en.wikipedia.org/wiki/Ceconomy"
   ],
   "verifie_le": "2026-10",
-  "note": "OPA d'EP Group (Kretinsky) à 36 €/action (35 € après dividende) : avis favorable du conseil (10/03/2026), conformité AMF (7/05/2026), feu vert de la Commission européenne (20/10/2026) ; clôture de l'offre attendue d'ici fin 2026. Ceconomy : rachat par JD.com en cours (enquête UE sur les subventions étrangères ouverte en mai 2026)."
+  "note": "OPA d'EP Group (Kretinsky) à 36 €/action (35 € après dividende) : avis favorable du conseil (10/03/2026), conformité AMF (7/05/2026), feu vert de la Commission européenne (20/10/2026) ; clôture de l'offre fixée au 9/11/2026, en cours. Ceconomy : rachat par JD.com en cours (enquête UE sur les subventions étrangères ouverte en mai 2026)."
  },
  {
   "id": "fondation-carlsberg",
@@ -13741,18 +14011,21 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Actionnariat non vérifié",
-    "type": "autre",
+    "nom": "Groupe Nosoli (actionnaire principal : groupe Turenne, via la SAS Ouisoli)",
+    "type": "fonds",
     "pays": "FR"
    }
   ],
-  "description": "Chaîne de librairies des Hauts-de-France, intégrée au groupe Nosoli (Furet du Nord + Decitre, nom adopté en 2022), présidé par Christophe Desbonnet ; Nosoli placé en redressement judiciaire en mai 2026.",
+  "description": "Chaîne de librairies des Hauts-de-France (18 magasins), intégrée au groupe Nosoli avec Decitre et le grossiste La Générale du livre ; Nosoli en redressement judiciaire depuis le 1/6/2026.",
   "sources": [
    "https://www.furet.com/",
-   "https://fr.wikipedia.org/wiki/Furet_du_Nord"
+   "https://fr.wikipedia.org/wiki/Furet_du_Nord",
+   "https://actualitte.com/article/131392/librairie/nosoli-proprietaire-du-furet-du-nord-et-decitre-en-difficulte-financiere",
+   "https://www.livreshebdo.fr/article/le-groupe-nosoli-furet-du-nord-decitre-place-en-redressement-judiciaire",
+   "https://recherche-entreprises.api.gouv.fr/search?q=nosoli"
   ],
   "verifie_le": "2026-10",
-  "note": "Contrôlé depuis 2008 par Vauban Partenaires et Participex (Crédit Agricole Nord de France) selon Wikipédia ; actionnariat actuel de Nosoli à confirmer."
+  "note": "Exploitée via FDN Finance, présidée par Groupe Nosoli (registre) ; actionnaire principal de Nosoli : le groupe Turenne via Ouisoli (ActuaLitté, 2026). Redressement judiciaire ouvert le 1/6/2026 par le tribunal de commerce de Lille Métropole ; plan non publié à ce jour."
  },
  {
   "id": "futura-finances",
@@ -13868,11 +14141,13 @@
    }
   ],
   "description": "Groupe d'enseignement supérieur privé (Cours Florent, PSB, Penninghen, Strate...).",
-  "note": "Répartition au rachat de mars 2020 (sortie de Providence Equity) ; évolutions éventuelles depuis à confirmer.",
+  "note": "Répartition issue du rachat de mars 2020 (sortie de Providence Equity) : Téthys Invest et CPP Investments ≈ 37-40 % chacun, Montagu 17 %, Bpifrance 9 % ; aucune modification du capital publiée depuis.",
   "sources": [
    "https://www.ggeedu.com/",
    "https://www.ggeedu.com",
-   "https://fr.wikipedia.org/wiki/Galileo_Global_Education"
+   "https://fr.wikipedia.org/wiki/Galileo_Global_Education",
+   "https://www.businesswire.com/news/home/20200306005495/fr/",
+   "https://www.cfnews.net/L-actualite/LBO/Operations/LBO-bis/Galileo-se-projette-avec-des-actionnaires-de-long-terme-325148"
   ],
   "verifie_le": "2026-10"
  },
@@ -14232,12 +14507,16 @@
     "pays": "FR"
    }
   ],
-  "description": "Librairies (neuf et occasion) ; a repris Gibert Jeune en 2017 ; placée en redressement judiciaire le 28/04/2026.",
+  "description": "Librairies (neuf et occasion, 16 magasins) ; a repris Gibert Jeune en 2017 ; en redressement judiciaire depuis le 28/04/2026.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Gibert_Joseph"
+   "https://fr.wikipedia.org/wiki/Gibert_Joseph",
+   "https://recherche-entreprises.api.gouv.fr/search?q=gibert%20joseph",
+   "https://recherche-entreprises.api.gouv.fr/search?q=380816892",
+   "https://madeinmarseille.net/actualite/206847-redressement-judiciaire-marseille-gibert-poursuit-son-activite-octobre-2026/",
+   "https://www.sudradio.fr/societe/librairies-gibert-presente-un-plan-de-redressement-avec-84-postes-supprimes"
   ],
   "verifie_le": "2026-10",
-  "note": "Contrôle familial présumé (directoire présidé par Olivier Pounit Gibert) ; redressement judiciaire ouvert le 28/04/2026 pour six mois ; actionnariat exact à confirmer."
+  "note": "Groupe familial : la Financière Palidis (conseil de surveillance présidé par Philippe Rochet, avec des membres des familles Gibert, Bittore et Rochet) préside les sociétés d'exploitation ; au-dessus, la Holding Gibert Joseph (commandite, associés commandités Hervé Gibert et Sylvie Bittore-Gibert) (registre, 2026). Redressement judiciaire ouvert le 28/04/2026 ; période d'observation prolongée jusqu'à fin octobre 2026 ; plan de redressement présenté le 24/07/2026 (84 postes supprimés), décision du tribunal en cours."
  },
  {
   "id": "gie-cb",
@@ -14265,24 +14544,25 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Holding de Philippe Ginestet (GPG)",
-    "part_pct": 60.0,
+    "nom": "Philippe Ginestet (via sa holding GFG)",
     "type": "personne",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 60
    },
    {
     "nom": "Banques créancières via fiducie (BNP Paribas, Crédit Agricole)",
-    "part_pct": 40.0,
     "type": "autre",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 40
    }
   ],
   "description": "Enseigne de discount non alimentaire (≈ 500 magasins).",
-  "note": "Banques créancières (BNP Paribas, Crédit Agricole) entrées à 40 % du capital en 2025. Cessation des paiements rapportée par Sud Ouest le 18/10/2026 ; saisine du tribunal de commerce de Toulouse annoncée, aucun jugement d'ouverture publié au 21/10/2026.",
+  "note": "Accord de janvier 2025 : conversion partielle de la dette bancaire, Philippe Ginestet garde 60 % via GFG, banques ≈ 40 % via une fiducie. Cessation des paiements rapportée par Sud Ouest le 18/10/2026 ; saisine du tribunal de commerce de Toulouse annoncée, aucun jugement d'ouverture publié au 22/10/2026.",
   "sources": [
    "https://www.lagazettefrance.fr/article/gifi-arrache-un-soutien-de-ses-banques-pour-assurer-son-avenir",
    "https://lexpress-franchise.com/actualites/gifi-serait-en-cessation-de-paiements/",
-   "https://www.presse-citron.net/gifi-au-bord-du-gouffre-lenseigne-pourrait-elle-disparaitre-apres-des-annees-de-succes/"
+   "https://www.presse-citron.net/gifi-au-bord-du-gouffre-lenseigne-pourrait-elle-disparaitre-apres-des-annees-de-succes/",
+   "https://www.journaldeleconomie.fr/?p=49874"
   ],
   "verifie_le": "2026-10"
  },
@@ -14363,6 +14643,29 @@
   ],
   "verifie_le": "2026-10",
   "note": "Maison familiale indépendante (rachat d'Hugo & Cie en 2021) ; répartition du capital non publiée."
+ },
+ {
+  "id": "global-blue",
+  "nom": "Global Blue",
+  "pays_siege": "CH",
+  "statut": "prive",
+  "groupe_parent": "shift4",
+  "actionnaires": [
+   {
+    "nom": "Shift4",
+    "id": "shift4",
+    "type": "groupe",
+    "part_pct": 100,
+    "pays": "US"
+   }
+  ],
+  "description": "Spécialiste suisse de la détaxe et des services de paiement pour le commerce, propriétaire de ZigZag Global et Shipup.",
+  "note": "Rachetée par Shift4 (accord de février 2025, opération finalisée le 3/7/2025) ; retirée de la cote.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Global_Blue",
+   "https://www.zigzag.global/"
+  ],
+  "verifie_le": "2026-10"
  },
  {
   "id": "gls",
@@ -14637,6 +14940,24 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "groupe-bernard-hayot",
+  "nom": "Groupe Bernard Hayot (GBH)",
+  "pays_siege": "FR",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Hayot",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
+  "description": "Groupe familial martiniquais (5,3 Md€ de chiffre d'affaires en 2025, 19 800 salariés, 19 territoires) ; propriétaire d'ICM Wellness (Keepcool, Neoness) depuis septembre 2026.",
+  "sources": [
+   "https://www.toute-la-franchise.com/article-gbh-rachete-keepcool-neoness-fitness"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "groupe-bertrand",
   "nom": "Groupe Bertrand",
   "pays_siege": "FR",
@@ -14872,9 +15193,12 @@
   "sources": [
    "https://www.cbnews.fr/node/102866",
    "https://fr.themedialeader.com/?p=218267",
-   "https://fr.wikipedia.org/wiki/Groupe_Sud_Ouest"
+   "https://fr.wikipedia.org/wiki/Groupe_Sud_Ouest",
+   "https://www.cbnews.fr/medias/groupe-sud-ouest-negocie-son-rachat-groupe-rossel",
+   "https://www.lemondedudroit.fr/deals/105691-cornet-vincent-segurel-accompagne-le-groupe-rossel.html"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Capital détenu à 80 % par la famille Lemoîne et alliés via Socibog, 10 % par la société des journalistes et 10 % par la société des personnels (Wikipédia). Négociations exclusives pour la prise de contrôle par Rossel France annoncées le 3/09/2026 ; clôture visée fin 2026, après consultation des instances du personnel."
  },
  {
   "id": "groupe-tranchant",
@@ -14902,12 +15226,21 @@
   "nom": "Antonelle – Un Jour Ailleurs (UJA)",
   "pays_siege": "FR",
   "statut": "prive",
-  "actionnaires": [],
+  "actionnaires": [
+   {
+    "nom": "Antonelle Management Holding (gérants David Cohen, Salomon Cohen, Alain Fhima)",
+    "type": "autre",
+    "pays": "FR"
+   }
+  ],
   "description": "Groupe français de prêt-à-porter ayant repris Kookaï (16 magasins) fin 2023.",
-  "note": "Antonelle – Un Jour Ailleurs a repris Kookaï (16 magasins, 17 corners) en novembre 2023 ; actionnariat du groupe à confirmer.",
+  "note": "Société non cotée ; capital non publié. Kookaï est exploitée par New Kookaï (Pantin), présidée comme Nouvelle UJA par Antonelle Management Holding, dont les gérants sont David Cohen, Salomon Cohen et Alain Fhima (registre, 2026). Reprise de Kookaï (16 magasins, 17 corners) en novembre 2023.",
   "sources": [
    "https://www.lsa-conso.fr/kookai-repris-par-antonelle-un-jour-ailleurs,453181",
-   "https://fr.wikipedia.org/wiki/Kookaï"
+   "https://fr.wikipedia.org/wiki/Kookaï",
+   "https://recherche-entreprises.api.gouv.fr/search?q=kookai",
+   "https://recherche-entreprises.api.gouv.fr/search?q=un%20jour%20ailleurs",
+   "https://recherche-entreprises.api.gouv.fr/search?q=483162855"
   ],
   "verifie_le": "2026-10"
  },
@@ -14943,7 +15276,7 @@
    }
   ],
   "description": "Enseignes et groupements d'officines : le capital des pharmacies est réservé aux pharmaciens (loi).",
-  "note": "Fiche générique (Giphar, Lafayette, Aprium, Leadersanté, Pharmabest, Mediprix) : chaque officine appartient à ses pharmaciens titulaires (règle légale) ; capital propre à chaque groupement ou franchiseur à confirmer.",
+  "note": "Fiche générique (Giphar, Lafayette, Aprium, Leadersanté, Pharmabest, Mediprix) : chaque officine appartient à ses pharmaciens titulaires (règle légale du monopole officinal) ; les groupements et franchiseurs qui portent ces enseignes ont chacun leur propre structure, non détaillée ici.",
   "sources": [
    "https://www.ordre.pharmacien.fr"
   ],
@@ -15253,18 +15586,19 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Ben Barbaud et associés",
-    "type": "personne",
+    "nom": "Association Hellfest Productions (sans capital, dirigée par Ben Barbaud)",
+    "type": "autre",
     "pays": "FR"
    }
   ],
-  "description": "Société organisatrice du festival Hellfest (Clisson), fondée par Ben Barbaud.",
+  "description": "Association organisatrice du festival Hellfest (Clisson), fondée par Ben Barbaud.",
   "sources": [
    "https://en.wikipedia.org/wiki/Hellfest",
-   "https://fr.wikipedia.org/wiki/Hellfest"
+   "https://fr.wikipedia.org/wiki/Hellfest",
+   "https://recherche-entreprises.api.gouv.fr/search?q=hellfest"
   ],
   "verifie_le": "2026-10",
-  "note": "Festival porté par une association dirigée par Ben Barbaud (co-fondateur Yoann Le Nevé parti en septembre 2025) ; passage annoncé en société commerciale ouverte à des investisseurs — forme et capital à confirmer."
+  "note": "Hellfest Productions est une association déclarée (SIREN 488 296 609, créée en 2006), sans capital ni actionnaires. En juin 2026, Ben Barbaud a annoncé l'abandon du statut associatif au profit d'une société commerciale ouverte à des investisseurs ; aucune société enregistrée au registre en octobre 2026 : projet en cours."
  },
  {
   "id": "hellowork-group",
@@ -15293,15 +15627,23 @@
   "nom": "Helpling",
   "pays_siege": "DE",
   "statut": "prive",
-  "actionnaires": [],
+  "actionnaires": [
+   {
+    "nom": "Helpling Top-Holding S.C.Sp (Luxembourg)",
+    "type": "autre",
+    "pays": "LU"
+   }
+  ],
   "description": "Plateforme de ménage à domicile fondée en 2014 à Berlin (Helpling Group : Helpling France, Dweho France, Allemagne, Suisse, Singapour).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Helpling",
    "https://www.helpling.fr/",
-   "https://www.helpling-group.com/"
+   "https://www.helpling-group.com/",
+   "https://www.helpling.fr/mentions-legales",
+   "https://recherche-entreprises.api.gouv.fr/search?q=803290444"
   ],
   "verifie_le": "2026-10",
-  "note": "Service actif en France en 10/2026 ; actionnaires de Helpling Group à confirmer."
+  "note": "Service actif en France en 10/2026 (Helpling France SAS, SIREN 803290444). Helpling France présidée par Helpling Top-Holding S.C.Sp, société en commandite luxembourgeoise (registre, 2026) ; associés de cette holding non publiés."
  },
  {
   "id": "hema",
@@ -15423,16 +15765,37 @@
   "statut": "cote",
   "actionnaires": [
    {
+    "nom": "Knighthead Capital Management",
+    "part_pct": 57.5,
+    "type": "fonds",
+    "pays": "US"
+   },
+   {
+    "nom": "BlackRock",
+    "id": "blackrock",
+    "part_pct": 6.4,
+    "type": "fonds",
+    "pays": "US"
+   },
+   {
+    "nom": "Pershing Square (Bill Ackman)",
+    "part_pct": 4.7,
+    "type": "fonds",
+    "pays": "US"
+   },
+   {
     "nom": "Flottant / public",
-    "pays": "XX",
-    "type": "flottant"
+    "type": "flottant",
+    "pays": "US"
    }
   ],
   "description": "Loueur américain (Hertz, Dollar, Thrifty).",
-  "note": "Actionnaires de référence après la sortie de faillite de 2021 (Knighthill / CK Amarillo, Pershing Square) et leurs parts : à confirmer.",
+  "note": "D'après les déclarations 13F au 30/06/2026 (Equibles) : Knighthead ≈ 57,5 % des actions, BlackRock ≈ 6,4 %, Pershing Square ≈ 4,7 % (contre ≈ 19,8 % actions et swaps compris en avril 2025).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Hertz",
-   "https://fr.wikipedia.org/wiki/Hertz_(entreprise)"
+   "https://fr.wikipedia.org/wiki/Hertz_(entreprise)",
+   "https://equibles.com/stocks/htz/holdings",
+   "https://news.bloomberglaw.com/bankruptcy-law/pershing-squares-hertz-stake-is-about-19-8-cnbc"
   ],
   "verifie_le": "2026-10"
  },
@@ -15443,13 +15806,13 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Famille Attia (dirigeants de la holding Hexagone Santé Participations)",
+    "nom": "Hexagone Santé Participations (présidée par Alexandre Attia, DG André Attia)",
     "type": "famille",
     "pays": "FR"
    }
   ],
   "description": "Groupe de cliniques privées parisiennes (Clinique Paul Doumer, Centre médico-chirurgical Bizet), holding Hexagone Santé Participations.",
-  "note": "A cédé ses établissements des Yvelines à Vivalto (2019) et du Gard à Elsan (2020) ; la holding active est présidée par Alexandre Attia (DG André Attia) ; détention du capital à confirmer.",
+  "note": "Société non cotée ; capital non publié. Holding Hexagone Santé Participations présidée par Alexandre Attia, directeur général André Attia (registre, 2026). Établissements des Yvelines cédés à Vivalto (2019) et du Gard à Elsan (2020).",
   "sources": [
    "https://www.hexagonesante.fr",
    "https://recherche-entreprises.api.gouv.fr/search?q=hexagone%20sante",
@@ -15552,20 +15915,26 @@
   "id": "hisense",
   "nom": "Hisense",
   "pays_siege": "CN",
-  "statut": "public",
+  "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Hisense Group Holdings (historiquement contrôlé par la municipalité de Qingdao)",
+    "nom": "Actionnaires publics de Qingdao (ex-contrôle public, levé par la réforme de fin 2020)",
     "type": "public",
+    "pays": "CN"
+   },
+   {
+    "nom": "Investisseurs stratégiques entrés lors de la réforme de 2020",
+    "type": "autre",
     "pays": "CN"
    }
   ],
-  "description": "Fabricant chinois de téléviseurs (Hisense, Toshiba TV) et d'électroménager ; contrôle public (Qingdao) à confirmer.",
+  "description": "Fabricant chinois de téléviseurs (Hisense, Toshiba TV) et d'électroménager ; filiales cotées Hisense Visual Technology (Shanghai) et Hisense Home Appliances (Hong Kong, Shenzhen).",
   "sources": [
-   "https://en.wikipedia.org/wiki/Hisense"
+   "https://en.wikipedia.org/wiki/Hisense",
+   "https://zh.wikipedia.org/wiki/海信集团"
   ],
   "verifie_le": "2026-10",
-  "note": "Infobox Wikipédia : Qingdao Hisense Electric Holdings 29,9 % (non daté) ; statut de contrôle public à confirmer."
+  "note": "Longtemps contrôlé par la commission des actifs publics de Qingdao ; la réforme de l'actionnariat de fin 2020 (entrée d'investisseurs stratégiques) a fait perdre au groupe son statut de société contrôlée par l'État (Shanghai Securities News, 25/12/2020). Répartition du capital de la holding non publiée ici."
  },
  {
   "id": "hld",
@@ -15957,20 +16326,19 @@
   "nom": "IDKIDS",
   "pays_siege": "FR",
   "statut": "familial",
-  "groupe_parent": "famille-mulliez",
   "actionnaires": [
    {
-    "nom": "Famille Mulliez (AFM)",
-    "id": "famille-mulliez",
+    "nom": "Familles Duforest et Souflet (fondateurs)",
     "type": "famille",
     "pays": "FR"
    }
   ],
   "description": "Groupe de l'enfant (Okaïdi, Obaïbi, Jacadi, Oxybul).",
-  "note": "Appartenance à la mouvance Mulliez ; détail de l'actionnariat à confirmer. Okaïdi placé en redressement judiciaire le 2/02/2026 (60 magasins fermés, 290 suppressions de postes).",
+  "note": "Société non cotée ; capital non publié ; aucun lien capitalistique avec l'AFM (Mulliez) trouvé. Conseil d'administration présidé par le cofondateur Jean Duforest, vice-président Jean-Luc Souflet, administrateurs des deux familles (registre, 2026). Okaïdi placé en redressement judiciaire le 2/02/2026 (60 magasins fermés, 290 suppressions de postes).",
   "sources": [
    "https://www.idkids.com/",
-   "https://fr.wikipedia.org/wiki/Oka%C3%AFdi"
+   "https://fr.wikipedia.org/wiki/Oka%C3%AFdi",
+   "https://recherche-entreprises.api.gouv.fr/search?q=idkids&per_page=8"
   ],
   "verifie_le": "2026-10"
  },
@@ -16370,10 +16738,12 @@
   "sources": [
    "https://www.consultor.fr/articles/vente-d-interflora-indefi-cote-acheteur-roland-berger-cote-vendeur",
    "https://autoritedelaconcurrence.fr/fr/entityprint/pdf/node/7635",
-   "https://www.interflora.fr/qui-sommes-nous"
+   "https://www.interflora.fr/qui-sommes-nous",
+   "https://recherche-entreprises.api.gouv.fr/search?q=financiere%20lys&code_postal=69003",
+   "https://recherche-entreprises.api.gouv.fr/search?q=myflower&per_page=6"
   ],
   "verifie_le": "2026-10",
-  "note": "Interflora France fait partie du groupe MyFlower (site officiel) ; rachat par PAI autorisé par l'AdlC en février 2021, actionnariat actuel à confirmer."
+  "note": "Rachat de MyFlower (Interflora France) par PAI Partners (PAI Mid-Market Fund) à LFPI/Montefiore en 2021, autorisé par l'AdlC en février 2021. Holding Financière Lys (créée en 2020, conseil de surveillance présidé par Stefano Drago) préside MyFlower et siège au conseil d'Interflora France (registre, 2026)."
  },
  {
   "id": "international-distribution-services",
@@ -16496,16 +16866,17 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Marc Sellam (fondateur)",
+    "nom": "Marc (Mardochée) Sellam (fondateur)",
     "type": "personne",
     "pays": "FR"
    }
   ],
   "description": "Groupe d'enseignement supérieur privé (Epitech, EPITA, ISG, ESME).",
-  "note": "SAS fondée et présidée par Marc Sellam ; répartition du capital non publiée, à confirmer.",
+  "note": "Société non cotée ; capital non publié. IONIS Group (Fineduc SAS, siren 391820826, CA 2024 : 304,8 M€), Ionis Corporate et Ionis X sont présidés par leur fondateur Marc (Mardochée) Sellam (registre, 2026).",
   "sources": [
    "https://www.ionis-group.com/",
-   "https://fr.wikipedia.org/wiki/IONIS_Education_Group"
+   "https://fr.wikipedia.org/wiki/IONIS_Education_Group",
+   "https://recherche-entreprises.api.gouv.fr/search?q=ionis"
   ],
   "verifie_le": "2026-10"
  },
@@ -16711,18 +17082,21 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Juratoys (fonds Argos Wityu)",
-    "type": "fonds",
+    "nom": "Maped (via Maped Juratoys)",
+    "id": "maped",
+    "type": "groupe",
     "pays": "FR"
    }
   ],
   "description": "Fabricant jurassien de jouets en bois.",
-  "note": "Janod (fondée en 1970 dans le Jura) appartient à Juratoys (Janod, Kaloo, Lilliputiens), rachetée par Propel Equity Partners en 2015 puis cédée par Alex Brands à Argos Wityu ; date et situation 2026 à confirmer.",
+  "note": "Juratoys (Janod, Kaloo ; Orgelet, Jura) est présidée par Maped Juratoys, elle-même présidée par Maped (Argonay), qui en assure aussi la direction générale via Maped Services (registre, 2026). Précédemment détenue par Propel Equity Partners (2015) puis Alex Brands.",
   "sources": [
    "https://www.janod.com/",
-   "https://www.lsa-conso.fr/juratoys-rachete-par-le-fonds-d-investissement-americain-propel-equity-partners,211354"
+   "https://www.lsa-conso.fr/juratoys-rachete-par-le-fonds-d-investissement-americain-propel-equity-partners,211354",
+   "https://recherche-entreprises.api.gouv.fr/search?q=juratoys"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "groupe_parent": "maped"
  },
  {
   "id": "japan-tobacco",
@@ -16758,8 +17132,15 @@
    {
     "nom": "JCDecaux Holding (famille Decaux)",
     "id": "famille-decaux",
+    "part_pct": 65.4,
     "type": "famille",
     "pays": "FR"
+   },
+   {
+    "nom": "Goldman Sachs Asset Management",
+    "part_pct": 5.1,
+    "type": "fonds",
+    "pays": "US"
    },
    {
     "nom": "Flottant / public",
@@ -16770,10 +17151,13 @@
   "description": "Numéro un mondial du mobilier urbain publicitaire.",
   "sources": [
    "https://fr.wikipedia.org/wiki/JCDecaux",
-   "https://www.jcdecaux.com/news-media/press-releases/publication-2025-universal-registration-document"
+   "https://www.jcdecaux.com/news-media/press-releases/publication-2025-universal-registration-document",
+   "https://www.abcbourse.com/analyses/chiffres/DECp",
+   "https://www.jcdecaux.com/investors/stock-information",
+   "https://www.tradingsat.com/jc-decaux-sa-FR0000077919/actualites/jc-decaux-sa-l-actionnaire-majoritaire-s-allege-au-capital-585603.html"
   ],
   "verifie_le": "2026-10",
-  "note": "JCDecaux Holding (100 % famille Decaux) majoritaire : ≈ 64,3 % en 2015, part 2025-2026 à confirmer (document d'enregistrement 2025 déposé le 9/04/2026)."
+  "note": "JCDecaux Holding (100 % famille Decaux) détient 65,4 % du capital (répartition publiée par ABC Bourse, consultée en octobre 2026 ; 64,5 % après la cession de 2015). Capital au 31/12/2025 : 214 128 663 actions."
  },
  {
   "id": "jd-sports",
@@ -16797,10 +17181,13 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/JD_Sports",
    "https://www.jdplc.com/",
-   "https://en.wikipedia.org/wiki/JD_Sports"
+   "https://en.wikipedia.org/wiki/JD_Sports",
+   "https://www.theindustry.fashion/jd-sports-shares-dive-after-majority-owner-pentland-sells-177m-holding/",
+   "https://sharecast.com/amp/news/news-and-announcements/jd-sports-slumps-after-pentland-stake-sale--7161232.html",
+   "https://www.retailgazette.co.uk/?p=203399"
   ],
   "verifie_le": "2026-10",
-  "note": "Pentland Group ≈ 55 % selon l'infobox Wikipédia (non datée) — à confirmer sur le registre récent."
+  "note": "Pentland Group (famille Rubin) ≈ 55 % depuis la cession d'un bloc de ≈ 24 millions d'actions en décembre 2019 ; chiffre repris par la presse britannique (Retail Gazette) en 2026."
  },
  {
   "id": "jde-peets",
@@ -16835,7 +17222,7 @@
   "statut": "prive",
   "actionnaires": [],
   "description": "Enseigne de mode adolescente placée en liquidation judiciaire le 30 avril 2025.",
-  "note": "Liquidation judiciaire le 30/04/2025 ; le 12/06/2025 le tribunal de Bobigny a retenu Beaumanoir et Celio pour 33 magasins ; titulaire actuel de la marque à confirmer.",
+  "note": "Liquidation judiciaire le 30/04/2025, boutiques fermées le 28/05/2025 ; le 12/06/2025 le tribunal de Bobigny a retenu Beaumanoir et Celio pour 33 magasins. Le nom d'enseigne Jennyfer disparaît avec la liquidation (Wikipédia).",
   "sources": [
    "https://www.lsa-conso.fr/en-cessation-de-paiement-jennyfer-demande-sa-mise-en-liquidation-judiciaire,460515",
    "https://www.lejournaldesentreprises.com/breve/beaumanoir-reprend-26-magasins-de-la-marque-jennyfer-2121529",
@@ -16884,10 +17271,12 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/Groupe_Joa",
    "https://www.yogonet.com/international/news/2026/07/08/125264-banijay-gaming-to-take-full-control-of-france-39s-joa-casino-group",
-   "https://www.gambling.com/news/betclic-owner-banijay-gaming-acquires-joa-s-33-casinos-in-france"
+   "https://www.gambling.com/news/betclic-owner-banijay-gaming-acquires-joa-s-33-casinos-in-france",
+   "https://group.banijay.com/press-releases/",
+   "https://group.banijay.com/wp-content/uploads/2026/07/Communiquedepresse-BanijayGamingacquiertJOA.pdf"
   ],
   "verifie_le": "2026-10",
-  "note": "Vendeurs : fonds gérés par Blackstone et Kings Park Capital (annonce du 6-8/07/2026). Opération en cours."
+  "note": "Vendeurs : fonds gérés par Blackstone et Kings Park Capital. Rachat à 100 % par Banijay Gaming signé le 6/07/2026 ; finalisation attendue au second semestre 2026, aucune clôture annoncée par Banijay au 22/10/2026 (opération en cours)."
  },
  {
   "id": "joueclub",
@@ -16967,11 +17356,12 @@
    }
   ],
   "description": "Plateforme de soutien scolaire en ligne.",
-  "note": "Éditée par L'École sur Internet SAS, fondée en 2013 et dirigée par ses fondateurs ; répartition du capital à confirmer.",
+  "note": "Éditée par L'École sur Internet SAS (siren 788935211), présidée par Julien Cohen-Solal, Sarah Besnaïnou directrice générale (registre, 2026) ; capital non publié.",
   "sources": [
    "https://www.kartable.fr/",
    "https://fr.wikipedia.org/wiki/Kartable",
-   "https://www.kartable.fr/mentions-legales"
+   "https://www.kartable.fr/mentions-legales",
+   "https://recherche-entreprises.api.gouv.fr/search?q=l%27ecole%20sur%20internet"
   ],
   "verifie_le": "2026-10"
  },
@@ -17018,21 +17408,27 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Groupe DG (holding DG Finance, associé unique de l'exploitant DG Développement) ; détenteurs finaux non publiés",
-    "type": "autre",
+    "nom": "GBH (Groupe Bernard Hayot)",
+    "id": "groupe-bernard-hayot",
+    "type": "groupe",
     "pays": "FR"
    }
   ],
-  "description": "Réseau de salles de sport en franchise (plus de 300 clubs en France et en Belgique), fondé à Avignon par Guy Deville, exploité par DG Développement (Ventabren).",
+  "description": "Réseau de salles de sport en franchise (plus de 260 clubs en France et en Belgique), fondé à Avignon, exploité par DG Développement (Ventabren) ; propriété de GBH depuis septembre 2026 avec Neoness.",
   "sources": [
    "https://www.keepcool.fr/",
    "https://www.keepcool.fr/mentions-legales",
    "https://www.societe.com/societe/dg-developpement-533988580.html",
    "https://www.societe.com/societe/dg-finance-830911608.html",
-   "https://www.observatoiredelafranchise.fr/indiscretions-actualite/KEEP-COOL-ouverture-du-capital-de-la-franchise-keep-cool-63278.htm"
+   "https://www.observatoiredelafranchise.fr/indiscretions-actualite/KEEP-COOL-ouverture-du-capital-de-la-franchise-keep-cool-63278.htm",
+   "https://www.toute-la-franchise.com/article-gbh-rachete-keepcool-neoness-fitness",
+   "https://lexpress-franchise.com/actualites/gbh-rachete-keepcool-neoness-et-metabolik/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=830911608",
+   "https://recherche-entreprises.api.gouv.fr/search?q=352821664"
   ],
   "verifie_le": "2026-10",
-  "note": "Capital ouvert en 2017 à Bpifrance et au Crédit Agricole (IDIA, Sofipaca) ; présidence de DG Finance passée de C.-E. Marquet à la SAS GBH en septembre 2026 ; actionnaires actuels à confirmer."
+  "note": "GBH a racheté à ICM son pôle ICM Wellness (Keepcool et Neoness, 277 salles) : feu vert de l'Autorité de la concurrence le 15/09/2026, communiqué du 21/09/2026 ; GBH préside depuis DG Finance, holding de DG Développement (registre, 2026).",
+  "groupe_parent": "groupe-bernard-hayot"
  },
  {
   "id": "kellanova",
@@ -17073,10 +17469,11 @@
    "https://www.sec.gov/Archives/edgar/data/0000055785/000162828026052348/kmb-20260630.htm",
    "https://fr.wikipedia.org/wiki/Kenvue",
    "https://en.wikipedia.org/wiki/Kenvue",
-   "https://dallasinnovates.com/shareholders-approve-kimberly-clarks-40b-acquisition-of-tylenol-maker-kenvue/"
+   "https://dallasinnovates.com/shareholders-approve-kimberly-clarks-40b-acquisition-of-tylenol-maker-kenvue/",
+   "https://www.kenvue.com/media"
   ],
   "verifie_le": "2026-10",
-  "note": "Rachat par Kimberly-Clark annoncé le 3/11/2025, approuvé par les actionnaires des deux groupes le 29/01/2026 ; clôture attendue au S2 2026, non annoncée à mi-octobre 2026."
+  "note": "Rachat par Kimberly-Clark annoncé le 3/11/2025, approuvé par les actionnaires des deux groupes le 29/01/2026 ; clôture attendue au S2 2026, non intervenue au 21/10/2026 (Kenvue annonce ses résultats du T3 2026 pour le 30/10/2026)."
  },
  {
   "id": "keolis",
@@ -17266,7 +17663,8 @@
   "sources": [
    "https://www.investor.kimberly-clark.com/",
    "https://en.wikipedia.org/wiki/Kenvue",
-   "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000141/q226earningspressrelease.htm"
+   "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000141/q226earningspressrelease.htm",
+   "https://www.kenvue.com/media"
   ],
   "verifie_le": "2026-10",
   "note": "Rachat de Kenvue annoncé le 3/11/2025 (48,7 Md$ de valeur d'entreprise), approuvé par les actionnaires le 29/01/2026 ; clôture attendue au 4e trimestre 2026 sous réserve d'autorisations étrangères. Après clôture : ≈ 54 % anciens actionnaires K-C, ≈ 46 % ex-Kenvue."
@@ -17572,7 +17970,7 @@
    }
   ],
   "description": "Télémédecine (marque Livi en France).",
-  "note": "Société suédoise non cotée financée par des fonds de capital-risque ; détail des actionnaires à confirmer. En France, Livi est rebaptisé Kry (septembre 2026).",
+  "note": "Kry International AB (Stockholm), société non cotée financée par des fonds de capital-risque (valorisation de 2 Md$ après la levée d'avril 2021) ; aucune cession connue ; capital non publié. En France, Livi est rebaptisé Kry en 2026.",
   "sources": [
    "https://www.livi.fr",
    "https://en.wikipedia.org/wiki/Livi_(company)"
@@ -17727,24 +18125,28 @@
   "id": "la-centrale",
   "nom": "La Centrale (groupe)",
   "pays_siege": "FR",
-  "statut": "fonds",
+  "statut": "prive",
   "actionnaires": [
    {
     "nom": "OLX Group (Prosus)",
     "id": "prosus",
     "type": "groupe",
     "pays": "NL",
-    "part_pct": 100.0
+    "part_pct": 100
    }
   ],
   "description": "Site d'annonces automobiles et cotation.",
-  "note": "Providence Equity (majoritaire depuis 2020-2021, ex-Axel Springer) a signé le 26/09/2025 la cession de 100 % à OLX (Prosus) pour 1,1 Md€, clôture visée fin 2025 : finalisation à confirmer.",
+  "note": "Cédée à 100 % par Providence Equity à OLX (Prosus) pour 1,1 Md€ (accord du 26/09/2025) ; La Centrale figure parmi les marques d'OLX Group sur son site en 2026.",
   "sources": [
    "https://www.lacentrale.fr/",
    "https://www.kirkland.com/news/press-release/2025/09/kirkland-advises-providence-equity-partners-on-exclusive-negotiations-to-sell-la-centrale",
-   "https://www.businessday.co.za/bd/companies/telecoms-and-technology/2025-09-26-prosus-olx-group-acquires-la-centrale-for-11bn"
+   "https://www.businessday.co.za/bd/companies/telecoms-and-technology/2025-09-26-prosus-olx-group-acquires-la-centrale-for-11bn",
+   "https://www.olxgroup.com/",
+   "https://www.olxgroup.com/?p=4319",
+   "https://www.olxgroup.com/about-us/newsroom/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "groupe_parent": "prosus"
  },
  {
   "id": "la-depeche",
@@ -17936,13 +18338,13 @@
   "statut": "fonds",
   "actionnaires": [
    {
-    "nom": "LB PAI Holdco — Lur Berri (≈50 % de la holding)",
+    "nom": "Lur Berri (co-actionnaire de contrôle, parité avec PAI)",
     "id": "lur-berri",
     "type": "groupe",
     "pays": "FR"
    },
    {
-    "nom": "LB PAI Holdco — PAI Partners (≈50 % de la holding)",
+    "nom": "PAI Partners (co-actionnaire de contrôle, parité avec Lur Berri)",
     "id": "pai-partners",
     "type": "fonds",
     "pays": "FR"
@@ -17956,10 +18358,14 @@
   "description": "Groupe de produits festifs : foie gras, saumon fumé, blinis (Labeyrie, Blini, Delpierre).",
   "sources": [
    "https://www.paipartners.com/mediaitem/lur-berri-and-pai-partners-to-become-joint-venture-partners-in-labeyrie-fine-foods/",
-   "https://www.agra.fr/agra-innovation/pai-partners-souhaiterait-ceder-sa-participation-dans-labeyrie"
+   "https://www.agra.fr/agra-innovation/pai-partners-souhaiterait-ceder-sa-participation-dans-labeyrie",
+   "https://fr.wikipedia.org/wiki/Labeyrie_Fine_Foods",
+   "https://fr.wikipedia.org/wiki/Lur_Berri",
+   "https://www.cfnews.net/L-actualite/International/Operations/M-A/Labeyrie-cede-ses-surgeles-252025",
+   "https://www.salmonbusiness.com/private-equity-firm-considers-selling-stake-in-labeyrie-fine-foods/?amp=1"
   ],
   "verifie_le": "2026-10",
-  "note": "LB PAI Holdco (50 % PAI Partners, 50 % Lur Berri) détient ≈86 % ; PAI cherchait à céder sa part en 2019 (AGRA), sans cession connue depuis. Situation 2026 à confirmer."
+  "note": "Co-détenu par Lur Berri et PAI Partners (accord de parité de 2014) aux côtés du management (≈ 91 % / ≈ 9 % selon Wikipédia). PAI a cherché à vendre sa part en 2019 ; aucune cession réalisée depuis n'a été trouvée."
  },
  {
   "id": "lactalis",
@@ -18125,23 +18531,39 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Fabio Cannavale (fondateur, non vérifié)",
+    "nom": "Freesailors Coöperatief (contrôlée à ≈ 72 % par le fondateur Fabio Cannavale)",
+    "part_pct": 39,
     "type": "personne",
     "pays": "IT"
    },
    {
+    "nom": "Sterling Active Fund",
+    "part_pct": 7,
+    "type": "fonds",
+    "pays": "CH"
+   },
+   {
     "nom": "Flottant / public",
+    "part_pct": 48,
     "type": "flottant",
     "pays": "XX"
+   },
+   {
+    "nom": "Actions autodétenues",
+    "part_pct": 6,
+    "type": "autre",
+    "pays": "NL"
    }
   ],
   "description": "Agence de voyage en ligne (ex-Bravofly Rumbo Group), cotée à la SIX.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Lastminute.com",
-   "https://en.wikipedia.org/wiki/Lastminute.com"
+   "https://en.wikipedia.org/wiki/Lastminute.com",
+   "https://www.moneycab.com/?p=1948065",
+   "https://www.walderwyss.com/en/news/2021-04-22_erwerb-der-beteiligung-von-fedro-s-a-an-freesailors-cooeperatief-u-a-dem-mehrheitsaktionaer-von-lastminute-com-n-v-six-lmn"
   ],
   "verifie_le": "2026-10",
-  "note": "Fabio Cannavale (fondateur) présenté comme principal actionnaire : part à confirmer."
+  "note": "Réorganisation de juin 2024 : Freesailors (dont Fabio Cannavale, fondateur et ancien PDG, détient un peu plus de 72 %) passe de ≈ 53 % à ≈ 39 % ; Sterling ≈ 7 % en direct ; flottant ≈ 55 % (Sterling compris) ; ≈ 6 % autodétenus (Moneycab, 7/06/2024)."
  },
  {
   "id": "lastpass",
@@ -18201,10 +18623,11 @@
   "sources": [
    "https://www.shankennewsdaily.com/?p=17130",
    "https://placera.se/analys/rean-pa-champagneaktien-racker-inte-2023-07-10",
-   "https://fr.wikipedia.org/wiki/Laurent-Perrier"
+   "https://fr.wikipedia.org/wiki/Laurent-Perrier",
+   "https://www.shankennewsdaily.com/2016/10/31/17130/laurent-perriers-owners-said-exploring-stake-sale/"
   ],
   "verifie_le": "2026-10",
-  "note": "Famille de Nonancourt 61 % du capital et des votes (chiffre de janvier 2019, à confirmer pour 2026)."
+  "note": "Contrôlé par la famille de Nonancourt : 61,0 % du capital au 28/01/2019 (≈ 75 % des droits de vote selon la presse en 2016), First Eagle 9,78 %, Fidelity 3,15 %, Mousse Partners 2,50 % ; coté à Paris depuis 1999."
  },
  {
   "id": "lavazza",
@@ -18688,7 +19111,7 @@
    "https://en.wikipedia.org/wiki/Leonidas_(chocolatier)"
   ],
   "verifie_le": "2026-10",
-  "note": "Confiserie Leonidas SA (Bruxelles), réseau majoritairement franchisé ; répartition du capital entre descendants de la famille Kestekides non publiée — à confirmer."
+  "note": "Confiserie Leonidas SA (Bruxelles), non cotée, réseau majoritairement franchisé, dirigée par P. de Selliers de Moranville. Contrôle par les descendants de la famille Kestekides non documenté par les sources consultées (Wikipédia, RetailDetail 10/12/2025) : à confirmer (registre belge BCE / comptes annuels)."
  },
  {
   "id": "les-3-brasseurs",
@@ -18950,30 +19373,33 @@
   "id": "lime",
   "nom": "Lime (Neutron Holdings)",
   "pays_siege": "US",
-  "statut": "prive",
+  "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Uber (investisseur principal du tour de 2020)",
+    "nom": "Uber",
     "id": "uber",
+    "type": "groupe",
     "pays": "US",
-    "type": "groupe"
+    "part_pct": 20
    },
    {
-    "nom": "Fonds de capital-risque (Andreessen Horowitz, GV, Bain Capital Ventures...)",
-    "pays": "US",
-    "type": "fonds"
+    "nom": "Fonds de capital-risque (Bain Capital Ventures, GV...)",
+    "type": "fonds",
+    "pays": "US"
    },
    {
-    "nom": "Fondateurs (Brad Bao, Toby Sun)",
-    "pays": "US",
-    "type": "personne"
+    "nom": "Flottant / public",
+    "type": "flottant",
+    "pays": "XX"
    }
   ],
   "description": "Opérateur de trottinettes et vélos électriques en libre-service.",
-  "note": "Demande d'introduction au Nasdaq (S-1, symbole LIME) déposée en mai 2026 ; pourcentages et réalisation de l'IPO à confirmer.",
+  "note": "Introduit au Nasdaq (LIME) le 1/07/2026 à 25 $ par action (valorisation ≈ 1,7 Md$) ; Uber premier actionnaire avec un peu plus de 20 % (Reuters, 07/2026).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Lime_(entreprise)",
-   "https://en.wikipedia.org/wiki/Lime_(transportation_company)"
+   "https://en.wikipedia.org/wiki/Lime_(transportation_company)",
+   "https://www.businesswire.com/news/home/20260630995454/en/Lime-Announces-Pricing-of-Initial-Public-Offering",
+   "https://www.thestar.com.my/business/business-news/2026/07/03/lime-rides-ipo-wave-to-us17bil-valuation"
   ],
   "verifie_le": "2026-10"
  },
@@ -19020,7 +19446,7 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "IK Partners",
+    "nom": "IK Partners (fonds IK SC III, chef de file depuis juillet 2023)",
     "type": "fonds",
     "pays": "GB"
    },
@@ -19035,17 +19461,18 @@
     "pays": "FR"
    },
    {
-    "nom": "Management (équipe d'Antoine Delon, groupe Irbis Finance)",
-    "type": "personne",
+    "nom": "Management",
+    "type": "salaries",
     "pays": "FR"
    }
   ],
   "description": "Courtier en assurance-vie en ligne.",
-  "note": "Repris en 2015 par NextStage AM et une équipe menée par Antoine Delon ; IK Partners entré au capital en juillet 2023 aux côtés de NextStage, Matignon Investissement et du management ; caractère majoritaire ou minoritaire de la part d'IK à confirmer (sources divergentes).",
+  "note": "IK Partners (fonds IK SC III) a acquis Linxea en juillet 2023, NextStage AM, Matignon Investissement et le management réinvestissant à ses côtés ; participation toujours active chez IK en 2026. Répartition du capital non publiée.",
   "sources": [
    "https://www.linxea.com",
    "https://en.wikipedia.org/wiki/Linxea",
-   "https://epargnoo.com/epargnews/articles/avis-linxea"
+   "https://epargnoo.com/epargnews/articles/avis-linxea",
+   "https://www.ikpartners.com/investments/linxea/"
   ],
   "verifie_le": "2026-10"
  },
@@ -19120,9 +19547,10 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Liberty Media / Liberty Live",
+    "nom": "Liberty Live Holdings",
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_pct": 30
    },
    {
     "nom": "Flottant / public",
@@ -19133,10 +19561,12 @@
   "description": "Organisateur de concerts, propriétaire de Ticketmaster.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Live_Nation_Entertainment",
-   "https://en.wikipedia.org/wiki/Live_Nation_Entertainment"
+   "https://en.wikipedia.org/wiki/Live_Nation_Entertainment",
+   "https://en.wikipedia.org/wiki/Liberty_Media",
+   "https://www.sec.gov/Archives/edgar/data/0002078416/000110465926092020/tmb-20260630x10q.htm"
   ],
   "verifie_le": "2026-10",
-  "note": "Liberty Media (Liberty Live) premier actionnaire (≈ 30 %), PIF saoudien ≈ 5,7 % en 2020 : parts actuelles à confirmer."
+  "note": "Liberty Live Holdings, issue de la scission de Liberty Media finalisée le 15/12/2025, détient environ 30 % de Live Nation (10-Q au 30/6/2026)."
  },
  {
   "id": "lna-sante",
@@ -19206,26 +19636,26 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Viajes El Corte Inglés",
+    "nom": "El Corte Inglés (via Grupo Viajes El Corte Inglés)",
     "type": "groupe",
     "pays": "ES",
     "part_pct": 75
    },
    {
-    "nom": "Tool Factory (fondateurs de Logitravel)",
+    "nom": "Tool Factory (ex-propriétaire de Logitravel)",
     "type": "personne",
     "pays": "ES",
     "part_pct": 25
    }
   ],
-  "description": "Agence de voyage en ligne espagnole, fusionnée en 2021 avec Viajes El Corte Inglés.",
+  "description": "Agence de voyage en ligne espagnole, intégrée depuis 2022 au Grupo Viajes El Corte Inglés.",
   "sources": [
    "https://www.logitravel.fr/",
    "https://www.hosteltur.com/145195_viajes-el-corte-ingles-y-logitravel-sellan-su-fusion.html",
    "https://dealroom.co/news/158223-el-corte-ingl-s-to-buy-back-25-of-travel-arm-taking-full-control/"
   ],
   "verifie_le": "2026-10",
-  "note": "Fusion avec Viajes El Corte Inglés (2021) ; rachat par VECI des 25 % restants de Tool Factory soumis à l'accord des autorités de concurrence espagnole et portugaise : répartition et date à confirmer."
+  "note": "Logitravel intégré en février 2022 au Grupo Viajes El Corte Inglés, détenu à 75 % par El Corte Inglés et à 25 % par Tool Factory. Rachat de ces 25 % par El Corte Inglés annoncé le 1/10/2026 (pacte de 2022), en attente du feu vert des autorités de concurrence espagnole et portugaise."
  },
  {
   "id": "longchamp",
@@ -19396,8 +19826,9 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Philippe Enguix et Jocelyn Olive (gérants des sociétés d'exploitation)",
-    "type": "personne",
+    "nom": "InVivo (via Teract)",
+    "id": "invivo",
+    "type": "groupe",
     "pays": "FR"
    }
   ],
@@ -19405,10 +19836,15 @@
   "sources": [
    "https://www.boulangerie-louise.fr/",
    "https://recherche-entreprises.api.gouv.fr/search?q=enguix%20olive",
-   "https://recherche-entreprises.api.gouv.fr/search?q=boulangerie%20louise"
+   "https://recherche-entreprises.api.gouv.fr/search?q=boulangerie%20louise",
+   "https://recherche-entreprises.api.gouv.fr/search?q=louise&code_postal=59750&per_page=10",
+   "https://recherche-entreprises.api.gouv.fr/search?q=801076076",
+   "https://recherche-entreprises.api.gouv.fr/search?q=889017018",
+   "https://fr.wikipedia.org/wiki/InVivo"
   ],
   "verifie_le": "2026-10",
-  "note": "Sociétés d'exploitation gérées par Philippe Enguix et Jocelyn Olive (siège Feignies) ; holding et répartition du capital à confirmer."
+  "note": "Rachetée par Teract (groupe InVivo) en septembre 2022 (Les Échos, 6/09/2022). Holding Louise (Feignies) présidée par Teract Retail, elle-même présidée par Teract SA, dont Thierry Blandinières est directeur général (registre, 2026) ; sociétés d'exploitation gérées par Philippe Enguix et Jocelyn Olive.",
+  "groupe_parent": "invivo"
  },
  {
   "id": "louvre-hotels",
@@ -19680,11 +20116,12 @@
     "type": "autre"
    }
   ],
-  "description": "Application de paiement mobile Lyf Pay.",
-  "note": "Le site de Lyf ne nomme pas ses actionnaires ; présence de Crédit Mutuel Alliance Fédérale et des autres partenaires à confirmer.",
+  "description": "Ancienne application de paiement mobile Lyf Pay, dont l'activité a cessé.",
+  "note": "Lyf a cessé ses activités après plus de huit ans dans le paiement mobile ; fermeture progressive des services Lyf Pay (site lyf.eu, 2026). Les actionnaires ne sont pas nommés par la société.",
   "sources": [
    "https://www.lyf.eu",
-   "https://www.lyf.eu/fr/qui-sommes-nous"
+   "https://www.lyf.eu/fr/qui-sommes-nous",
+   "https://lyfpay.helpdocs.io"
   ],
   "verifie_le": "2026-10"
  },
@@ -20170,20 +20607,35 @@
   "actionnaires": [
    {
     "nom": "Mastercard Foundation",
-    "pays": "CA",
-    "type": "autre"
+    "part_pct": 6.9,
+    "type": "autre",
+    "pays": "CA"
+   },
+   {
+    "nom": "Vanguard",
+    "part_pct": 6.0,
+    "type": "fonds",
+    "pays": "US"
+   },
+   {
+    "nom": "BlackRock",
+    "id": "blackrock",
+    "part_pct": 5.7,
+    "type": "fonds",
+    "pays": "US"
    },
    {
     "nom": "Flottant / public",
-    "pays": "XX",
-    "type": "flottant"
+    "type": "flottant",
+    "pays": "US"
    }
   ],
   "description": "Réseau de paiement par carte.",
-  "note": "Mastercard Foundation dotée de 13,5 millions d'actions à l'introduction en Bourse de 2006 ; part actuelle (≈10 %) à confirmer.",
+  "note": "Mastercard Foundation premier actionnaire avec ≈ 6,9 % des actions (dotée de 13,5 millions d'actions à l'introduction en Bourse de 2006), devant Vanguard (≈ 6 %) et BlackRock (≈ 5,7 %) selon MarketScreener (octobre 2026).",
   "sources": [
    "https://investor.mastercard.com",
-   "https://en.wikipedia.org/wiki/Mastercard_Foundation"
+   "https://en.wikipedia.org/wiki/Mastercard_Foundation",
+   "https://www.marketscreener.com/quote/stock/MASTERCARD-INCORPORATED-17163/company/"
   ],
   "verifie_le": "2026-10"
  },
@@ -20422,6 +20874,7 @@
    },
    {
     "nom": "TF1",
+    "id": "tf1",
     "part_pct": 10.8,
     "type": "groupe",
     "pays": "FR"
@@ -20433,14 +20886,73 @@
     "pays": "FR"
    },
    {
-    "nom": "Publicis, Dentsu, Havas",
+    "nom": "Publicis Conseil",
+    "id": "publicis",
+    "part_pct": 6.7,
     "type": "groupe",
-    "pays": "XX"
+    "pays": "FR"
    },
    {
-    "nom": "Orange",
+    "nom": "Dentsu France",
+    "part_pct": 6.7,
+    "type": "groupe",
+    "pays": "JP"
+   },
+   {
+    "nom": "Havas",
+    "id": "havas",
+    "part_pct": 6.7,
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "Europe 1",
+    "part_pct": 5.4,
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "NextRadioTV",
+    "part_pct": 5.4,
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "INA",
+    "part_pct": 2.81,
+    "type": "public",
+    "pays": "FR"
+   },
+   {
+    "nom": "Groupe M6",
+    "id": "m6",
+    "part_pct": 2.7,
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "Orange Participations",
     "id": "orange",
     "part_pct": 2.44,
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "Omnicom Media Group",
+    "part_pct": 1.62,
+    "type": "groupe",
+    "pays": "US"
+   },
+   {
+    "nom": "IPG France Holding",
+    "part_pct": 1.61,
+    "type": "groupe",
+    "pays": "US"
+   },
+   {
+    "nom": "Canal+",
+    "id": "canal-plus",
+    "part_pct": 1.4,
     "type": "groupe",
     "pays": "FR"
    }
@@ -20478,13 +20990,25 @@
   "nom": "Médor et Compagnie",
   "pays_siege": "FR",
   "statut": "prive",
-  "actionnaires": [],
-  "description": "Réseau d'animaleries.",
-  "note": "Actionnariat non vérifié.",
-  "sources": [
-   "https://www.medoretcie.fr/"
+  "actionnaires": [
+   {
+    "nom": "Botanic",
+    "id": "botanic",
+    "type": "groupe",
+    "pays": "FR"
+   }
   ],
-  "verifie_le": "2026-10"
+  "description": "Réseau d'animaleries (chiens et chats) fondé en 2003 près de Lyon, 59 magasins en propre et en franchise, filiale du groupe Botanic.",
+  "note": "Filiale du groupe Botanic (presse franchise) ; la société M & C a son siège à l'adresse de Botanic à Archamps et plusieurs magasins sont présidés par Éric Bouchet, directeur général de Botanic (registre, 2026). Reprise de RapidCroq en 2017.",
+  "sources": [
+   "https://www.medoretcie.fr/",
+   "https://medoretcie.com/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=medor%20et%20compagnie",
+   "https://recherche-entreprises.api.gouv.fr/search?q=botanic%20archamps",
+   "https://ac-franchise.com/article/la-franchise-medor-et-compagnie-senrichit-de-4-nouveaux-magasins"
+  ],
+  "verifie_le": "2026-10",
+  "groupe_parent": "botanic"
  },
  {
   "id": "megarama",
@@ -20556,7 +21080,7 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Rodolphe Wallgren (fondateur et dirigeant ; part détenue à confirmer)",
+    "nom": "Rodolphe Wallgren (fondateur, gérant de King Memphis)",
     "type": "personne",
     "pays": "FR"
    }
@@ -20565,10 +21089,11 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/Memphis_Coffee",
    "https://www.memphis-restaurant.com/mentions-legales/",
-   "https://www.observatoiredelafranchise.fr/indiscretions-actualite/MEMPHIS-rodolphe-wallgren-revient-sur-l-histoire-de-sa-marque-memphis-81151.htm"
+   "https://www.observatoiredelafranchise.fr/indiscretions-actualite/MEMPHIS-rodolphe-wallgren-revient-sur-l-histoire-de-sa-marque-memphis-81151.htm",
+   "https://recherche-entreprises.api.gouv.fr/search?q=523520161"
   ],
   "verifie_le": "2026-10",
-  "note": "Société King Memphis (RCS 523 520 161, capital 104 500 €) ; aucun fonds ni groupe actionnaire mentionné ; détention du capital à confirmer."
+  "note": "King Memphis (SARL, SIREN 523 520 161, Saint-Aunès), gérée par son fondateur Rodolphe Wallgren (registre, 2026) ; aucun fonds ni groupe actionnaire mentionné ; capital non publié."
  },
  {
   "id": "mercedes-benz-group",
@@ -20967,16 +21492,19 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Famille Karmitz",
+    "nom": "Famille Karmitz (via M.C.N.E. – Groupe MK2)",
     "type": "famille",
     "pays": "FR"
    }
   ],
-  "description": "Exploitant de cinémas et distributeur fondé en 1974 par Marin Karmitz, codirigé par ses fils Nathanaël et Elisha Karmitz. Répartition du capital non publiée : à confirmer.",
+  "description": "Exploitant de cinémas et distributeur fondé en 1974 par Marin Karmitz, codirigé par ses fils Nathanaël et Elisha Karmitz.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/MK2"
+   "https://fr.wikipedia.org/wiki/MK2",
+   "https://recherche-entreprises.api.gouv.fr/search?q=405335076",
+   "https://recherche-entreprises.api.gouv.fr/search?q=mk2%20cinemas&per_page=6"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Société non cotée ; capital non publié. Holding M.C.N.E. (Groupe MK2) : Marin Karmitz président du conseil de surveillance, Nathanaël Karmitz président du directoire, Elisha Karmitz directeur général ; elle préside MK2 Cinémas (registre, 2026)."
  },
  {
   "id": "mobilitas",
@@ -21323,7 +21851,8 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Robin Laik (fondateur)",
+    "nom": "Robin Laik (fondateur et PDG, en direct et via Elber GmbH)",
+    "part_pct": 24.0,
     "type": "personne",
     "pays": "DE"
    },
@@ -21334,12 +21863,14 @@
    }
   ],
   "description": "Holding allemande de retournement, propriétaire de Lapeyre depuis juin 2021 (rachat à Saint-Gobain).",
-  "note": "Fondée en 2008 par Robin Laik et Axel Geuer ; part du fondateur à confirmer. Lapeyre toujours détenu par Mutares en février 2026 (audition à l'Assemblée nationale), avec cessions de magasins.",
+  "note": "Fondée en 2008 par Robin Laik et Axel Geuer. Robin Laik détient 23,99 % des droits de vote au 7/04/2026 (15,02 % en direct, 8,97 % indirectement), après dilution par augmentation de capital (déclaration WpHG du 22/04/2026). Lapeyre toujours détenu par Mutares en février 2026 (audition à l'Assemblée nationale), avec cessions de magasins.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Lapeyre",
    "https://en.wikipedia.org/wiki/Mutares",
    "https://www.assemblee-nationale.fr/dyn/opendata/CRCANR5L17S2026PO877017N012.html",
-   "https://www.batiweb.com/actualites/distribution/saint-gobain-finalise-la-cession-de-lapeyre-a-mutares-38181"
+   "https://www.batiweb.com/actualites/distribution/saint-gobain-finalise-la-cession-de-lapeyre-a-mutares-38181",
+   "https://ir.mutares.com/en/corporate-governance/voting-rights-notifications/",
+   "https://ir.mutares.com/wp-content/uploads/2026/04/Robin-Laik-Stimmrechtsmitteilung-2026.pdf"
   ],
   "verifie_le": "2026-10"
  },
@@ -21520,19 +22051,22 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Groupe ICM (pôle ICM Wellness, avec Keepcool)",
+    "nom": "Groupe Bernard Hayot (GBH), via ICM Wellness",
+    "id": "groupe-bernard-hayot",
     "type": "groupe",
     "pays": "FR"
    }
   ],
-  "description": "Salles de sport low cost en Île-de-France, rattachées à Keepcool au sein d'ICM Wellness.",
+  "description": "Salles de sport low cost en Île-de-France, rattachées à Keepcool au sein d'ICM Wellness (groupe GBH).",
   "sources": [
    "https://www.neoness.fr/",
    "https://fr.wikipedia.org/wiki/Neoness",
-   "https://www.toute-la-franchise.com/article-gbh-rachete-keepcool-neoness-fitness"
+   "https://www.toute-la-franchise.com/article-gbh-rachete-keepcool-neoness-fitness",
+   "https://lexpress-franchise.com/actualites/gbh-rachete-keepcool-neoness-et-metabolik/"
   ],
   "verifie_le": "2026-10",
-  "note": "Rachetée par Keepcool (groupe familial ICM) en juillet 2022 ; cession d'ICM Wellness (Keepcool, Neoness) au Groupe Bernard Hayot annoncée le 21/09/2026, finalisation en cours."
+  "note": "Rachetée par Keepcool (groupe ICM) en juillet 2022 ; ICM Wellness (Keepcool, Neoness) acquis par le Groupe Bernard Hayot : opération autorisée par l'Autorité de la concurrence le 15/09/2026 et rendue publique le 21/09/2026 (montant non communiqué).",
+  "groupe_parent": "groupe-bernard-hayot"
  },
  {
   "id": "nestle",
@@ -21862,7 +22396,7 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Groupe Renault (direct + fiducie française)",
+    "nom": "Groupe Renault (15 % des droits de vote, plus des actions en fiducie française)",
     "id": "renault",
     "pays": "FR",
     "type": "groupe"
@@ -21874,12 +22408,14 @@
    }
   ],
   "description": "Constructeur automobile japonais, partenaire de Renault.",
-  "note": "Depuis novembre 2023, Renault détient 15 % en direct et a placé ≈ 28,4 % dans une fiducie française (vente d'une première tranche de 5 % en décembre 2023) ; participation 2026 exacte à confirmer.",
+  "note": "Depuis novembre 2023, Renault détient 15 % de Nissan en direct ; 28,4 % ont été placés dans une fiducie française à droits de vote neutralisés, cédés progressivement (24,63 % encore en fiducie en mars 2024). Nissan détient 15 % de Renault.",
   "sources": [
    "https://www.boursorama.com/bourse/actualites/chronologie-de-la-lune-de-miel-au-grand-chambardement-renault-et-nissan-refondent-leur-alliance-eeeac32aceb037785f6038e3fe106553",
    "https://lematin.ma/automobile/renault-et-nissan-redefinissent-leur-partenariat/270768/amp",
    "https://en.wikipedia.org/wiki/Nissan",
-   "https://www.boursorama.com/bourse/actualites/renault-va-ceder-5-de-nissan-e55c1c6bd3845b25e771e4c6a7bfeb6f"
+   "https://www.boursorama.com/bourse/actualites/renault-va-ceder-5-de-nissan-e55c1c6bd3845b25e771e4c6a7bfeb6f",
+   "https://www.enca.com/business/renault-reduce-stake-nissan-rebalancing-alliance",
+   "https://gulfnews.com/amp/story/business%2Fretail%2Frenault-to-sell-nissan-stake-of-about-25-per-cent-1.1711536554146"
   ],
   "verifie_le": "2026-10"
  },
@@ -21908,8 +22444,18 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Famille fondatrice (Bruno Caron)",
+    "nom": "Famille Caron (fondateur Bruno Caron ; présidence Julien Caron)",
     "type": "famille",
+    "pays": "FR"
+   },
+   {
+    "nom": "CM-CIC Investissement (Crédit Mutuel)",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "IDIA Participations (Crédit Agricole)",
+    "type": "fonds",
     "pays": "FR"
    }
   ],
@@ -21917,10 +22463,11 @@
   "sources": [
    "https://dubocalalassiette.fr/blog/crepes-whaou-groupe/",
    "https://www.lejournaldesentreprises.com/article/christian-faure-quitte-crepes-whaou-277172",
-   "https://www.noracfoods.com/"
+   "https://www.noracfoods.com/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=norac"
   ],
   "verifie_le": "2026-10",
-  "note": "Actionnariat : rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer"
+  "note": "Holding Norac SAS (Rennes, SIREN 479 042 285) présidée par Julien Caron ; CM-CIC Investissement et IDIA Participations (Crédit Agricole) siègent à son conseil d'administration (registre, 2026). Capital non publié."
  },
  {
   "id": "north-atlantic",
@@ -22238,18 +22785,20 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Associé unique (SASU fondée par François Joubert)",
-    "type": "autre",
+    "nom": "NextEarth Ltd (holding britannique contrôlée par François-Emmanuel Joubert)",
+    "type": "personne",
     "pays": "FR"
    }
   ],
   "description": "Fournisseur alternatif d'électricité et de gaz créé en 2018.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Ohm_Énergie",
-   "https://cre.fr/fileadmin/Documents/Communiques_de_presse/2024/240715_Communique_CP_Sanction_CoRDiS_OHM_Energie.pdf"
+   "https://cre.fr/fileadmin/Documents/Communiques_de_presse/2024/240715_Communique_CP_Sanction_CoRDiS_OHM_Energie.pdf",
+   "https://recherche-entreprises.api.gouv.fr/search?q=834673808",
+   "https://find-and-update.company-information.service.gov.uk/company/09649407/persons-with-significant-control"
   ],
   "verifie_le": "2026-10",
-  "note": "SAS à associé unique fondée par François Joubert (SIREN 834 673 808) ; un annuaire cite une société mère NEXTEARTH LTD, non recoupée ; amende CRE de 6 M€ en juillet 2024 ; identité de l'associé unique à confirmer."
+  "note": "SAS à associé unique (SIREN 834 673 808) présidée par NextEarth Ltd (Londres, n° 09649407), dont le fondateur François-Emmanuel Joubert détient 50 à 75 % (registre britannique, PSC) ; Joubert directeur général d'Ohm Énergie (registre, 2026). Amende CRE de 6 M€ en juillet 2024."
  },
  {
   "id": "omnes",
@@ -22276,19 +22825,22 @@
   "id": "on-air",
   "nom": "On Air Fitness",
   "pays_siege": "FR",
-  "statut": "prive",
+  "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Actionnariat non vérifié",
-    "type": "autre",
+    "nom": "Famille Bolle (Jacques et Alexis Bolle, dirigeants d'On Air Développement)",
+    "type": "famille",
     "pays": "FR"
    }
   ],
-  "description": "Salles de sport ; actionnariat non vérifié en ligne.",
+  "description": "Réseau de salles de sport en franchise (≈ 130 clubs en France et à l'international).",
   "sources": [
-   "https://www.onair-fitness.fr/"
+   "https://www.onair-fitness.fr/",
+   "https://onair-fitness.fr/onairfitness-mentions-legales/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=838645141"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Franchiseur : On Air Développement SAS (siren 838645141, Corbeil-Essonnes, capital 55 000 €), présidée par Jacques Bolle, Alexis Bolle directeur général (registre et mentions légales, 2026) ; capital non publié. Les clubs franchisés sont des sociétés indépendantes."
  },
  {
   "id": "onepark",
@@ -22602,18 +23154,22 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Fondateur (Thierry Marquer) - non vérifié",
+    "nom": "Triscla Group (gérant José Nercellas)",
     "type": "personne",
     "pays": "FR"
    }
   ],
-  "description": "Réseau de salles en franchise ; actionnariat non vérifié en ligne.",
+  "description": "Réseau de salles de sport en franchise fondé en 1996 par Thierry Marquer, exploité par OB Réseaux (Rennes).",
   "sources": [
    "https://www.lorangebleue.fr/",
-   "https://fr.wikipedia.org/wiki/L%27Orange_bleue"
+   "https://fr.wikipedia.org/wiki/L%27Orange_bleue",
+   "https://recherche-entreprises.api.gouv.fr/search?q=ob%20reseaux%20rennes",
+   "https://recherche-entreprises.api.gouv.fr/search?q=oba%20groupe",
+   "https://recherche-entreprises.api.gouv.fr/search?q=899661151",
+   "https://recherche-entreprises.api.gouv.fr/search?q=949089791"
   ],
   "verifie_le": "2026-10",
-  "note": "Fondée en 1996 par Thierry Marquer ; exploitée par OB Réseaux (Rennes), filiale d'une chaîne de holdings (OBA Groupe, Triscla Groupe) ; José Nercellas PDG début 2026 ; détenteurs du capital à confirmer."
+  "note": "Société non cotée ; capital non publié. Chaîne de présidences : OB Réseaux ← O.B.A ← OBA Groupe ← Triscla ← Triscla Group (créée en février 2023, gérée par José Nercellas, PDG de l'enseigne) (registre, 2026)."
  },
  {
   "id": "orange-concessions",
@@ -22880,14 +23436,21 @@
   "id": "pap",
   "nom": "PAP (De Particulier à Particulier)",
   "pays_siege": "FR",
-  "statut": "prive",
-  "actionnaires": [],
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Jolly",
+    "type": "famille",
+    "pays": "FR"
+   }
+  ],
   "description": "Journal et site d'annonces immobilières entre particuliers.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/De_particulier_à_particulier"
+   "https://fr.wikipedia.org/wiki/De_particulier_à_particulier",
+   "https://recherche-entreprises.api.gouv.fr/search?q=de%20particulier%20a%20particulier"
   ],
   "verifie_le": "2026-10",
-  "note": "Actionnariat de l'éditeur de PAP non trouvé en ligne (sites pap.fr et registres inaccessibles) : à confirmer."
+  "note": "Éditeur : De Particulier à Particulier – Éditions Neressis (SAS, SIREN 304 555 154), dirigée par la famille Jolly (présidente Corinne Jolly ; directeurs généraux Patrick et Catherine Jolly) (registre, 2026). Capital non publié."
  },
  {
   "id": "paprec",
@@ -22980,21 +23543,37 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Financière Partouche (famille Partouche)",
+    "nom": "Financière Partouche SA (holding familiale)",
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 66.83
+   },
+   {
+    "nom": "Butler Capital Partners",
+    "type": "fonds",
+    "pays": "FR",
+    "part_pct": 13.26
+   },
+   {
+    "nom": "Membres du conseil de surveillance et du directoire",
+    "type": "personne",
+    "pays": "FR",
+    "part_pct": 5.92
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
-    "pays": "XX"
+    "pays": "XX",
+    "part_pct": 13.84
    }
   ],
-  "description": "Exploitant de casinos. Actionnariat non revérifié en ligne en 2026-10 (budget de recherche épuisé) : à confirmer.",
+  "description": "Exploitant de casinos, coté sur Euronext Paris depuis 1995.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Groupe_Partouche"
+   "https://fr.wikipedia.org/wiki/Groupe_Partouche",
+   "https://groupe.partouche.com/finances"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Répartition du capital au 31/10/2023 publiée par le groupe (page Finances) ; autodétention 0,15 %."
  },
  {
   "id": "pasquier",
@@ -23027,20 +23606,25 @@
     "nom": "État français",
     "id": "etat-francais",
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 70
    },
    {
-    "nom": "Banque des Territoires (Caisse des Dépôts)",
+    "nom": "Caisse des Dépôts",
     "id": "caisse-des-depots",
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 30
    }
   ],
   "description": "Société par actions simplifiée à capitaux publics opérant le pass Culture pour les 15-18 ans.",
   "sources": [
-   "https://pass.culture.fr"
+   "https://pass.culture.fr",
+   "https://pass.culture.fr/notre-gouvernance",
+   "https://recherche-entreprises.api.gouv.fr/search?q=pass%20culture"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "SAS créée en 2019, capital de 1 M€ détenu à 70 % par l'État et 30 % par la Caisse des dépôts (site pass Culture, 2026) ; présidée par Laurence Tison-Vuillaume."
  },
  {
   "id": "pathe",
@@ -23391,23 +23975,21 @@
   "statut": "fonds",
   "actionnaires": [
    {
-    "nom": "Exponent Private Equity",
-    "type": "fonds",
-    "pays": "GB"
-   },
-   {
-    "nom": "Gilde Buy Out Partners (fusion avec Albelli)",
+    "nom": "Rivean Capital (ex-Gilde Buy Out Partners), via le groupe Storio",
     "type": "fonds",
     "pays": "NL"
    }
   ],
-  "description": "Tirage et livres photo en ligne ; racheté en 2015 par Exponent et Electra, puis fusionné avec Albelli (Gilde). Actionnariat 2026 à confirmer.",
+  "description": "Tirage et livres photo en ligne ; racheté en 2015 par Exponent et Electra, puis fusionné avec albelli (janvier 2022) au sein du groupe Storio.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Photobox",
    "https://www.exponentpe.com/news/photobox-group-announces-completed-acquisition-exponent-private-equity-electra-partners",
-   "https://thedeadpixelssociety.com/sky-news-photobox-group-in-talks-to-combine-with-albelli/"
+   "https://thedeadpixelssociety.com/sky-news-photobox-group-in-talks-to-combine-with-albelli/",
+   "https://riveancapital.com/investments/",
+   "https://www.exponentpe.com/our-portfolio"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Fusion albelli–Photobox finalisée en janvier 2022, donnant le groupe Storio, présenté dans le portefeuille de Rivean Capital (ex-Gilde) ; Exponent ne mentionne plus Photobox dans son portefeuille (2026)."
  },
  {
   "id": "picard",
@@ -23436,10 +24018,12 @@
   "pays_siege": "CN",
   "statut": "prive",
   "actionnaires": [],
-  "description": "Fabricant chinois de robots aspirateurs (Shenzhen), repreneur d'iRobot avec Santrum Hong Kong après le Chapter 11 de décembre 2025.",
-  "note": "Actionnariat de Picea à confirmer.",
+  "description": "Fabricant chinois (ODM) de robots aspirateurs (Shenzhen, usines en Chine et au Vietnam), propriétaire à 100 % d'iRobot depuis la sortie du Chapter 11 le 23/01/2026.",
+  "note": "Rachat d'iRobot (avec Santrum Hong Kong) finalisé le 23/01/2026 par conversion de créances en capital. Actionnaires de Picea, société chinoise non cotée, à confirmer : ni fondateurs ni investisseurs publiés dans les sources consultées.",
   "sources": [
-   "https://en.wikipedia.org/wiki/IRobot"
+   "https://en.wikipedia.org/wiki/IRobot",
+   "https://media.irobot.com/2026-01-23-iRobot-Completes-Court-Supervised-Transaction-with-Picea,-Enabling-the-Next-Chapter-of-Growth",
+   "https://vacuumwars.com/who-is-picea"
   ],
   "verifie_le": "2026-10"
  },
@@ -23558,6 +24142,28 @@
   ],
   "verifie_le": "2026-10",
   "note": "Offre de Mubadala Capital à 1,90 € (2,00 € si 90 % atteints) annoncée le 22/06/2026 ; engagements d'apport de 80,13 % du capital et accord de rapprochement signé le 20/07/2026 ; dépôt de l'offre publique attendu au plus tard au 1er trimestre 2027."
+ },
+ {
+  "id": "pikolin",
+  "nom": "Grupo Pikolin",
+  "pays_siege": "ES",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille Soláns",
+    "type": "famille",
+    "pays": "ES"
+   }
+  ],
+  "description": "Groupe espagnol de literie (Saragosse) : Pikolin, Pardo, Dunlopillo ; en France via Cofel Industries (Bultex, Epeda, Merinos, Lattoflex, Swissflex), détenue à 100 % depuis le rachat des 50 % de Recticel en juillet 2009.",
+  "note": "Groupe familial fondé par Alfonso Soláns Serrano et présidé par Alfonso Soláns Soláns ; Cofel Industries présidée par Álvaro Soláns García (registre, 2026).",
+  "sources": [
+   "https://es.wikipedia.org/wiki/Pikolin",
+   "https://fr.wikipedia.org/wiki/Bultex",
+   "https://recherche-entreprises.api.gouv.fr/search?q=cofel%20industries",
+   "https://www.bultex.fr/"
+  ],
+  "verifie_le": "2026-10"
  },
  {
   "id": "pilot-corporation",
@@ -24043,10 +24649,11 @@
    }
   ],
   "description": "Groupe d'intérim français indépendant fondé en 1990 à Manosque par Évelyne et Roland Gomez (19 pays, ≈ 4,6 Md€ de chiffre d'affaires en 2025).",
-  "note": "Groupe familial non coté ; répartition précise du capital non publiée, à confirmer.",
+  "note": "Groupe familial non coté : ses sociétés sont présidées par Roland Gomez (né en 1972), avec Roland, Évelyne et Romain Gomez à la direction générale (registre, 2026). Capital non publié.",
   "sources": [
    "https://www.proman-emploi.fr",
-   "https://fr.wikipedia.org/wiki/Proman"
+   "https://fr.wikipedia.org/wiki/Proman",
+   "https://recherche-entreprises.api.gouv.fr/search?q=proman%20manosque"
   ],
   "verifie_le": "2026-10"
  },
@@ -24591,21 +25198,28 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Fondateur Fritz Goldschmeding (via holding)",
+    "nom": "Stichting Stad en Lant (famille Goldschmeding)",
+    "type": "famille",
     "pays": "NL",
-    "type": "famille"
+    "part_pct": 33
+   },
+   {
+    "nom": "Porteurs d'actions préférentielles via Stichting Administratiekantoor (NN Group, ASR...)",
+    "type": "fonds",
+    "pays": "NL"
    },
    {
     "nom": "Flottant / public",
-    "pays": "XX",
-    "type": "flottant"
+    "type": "flottant",
+    "pays": "XX"
    }
   ],
   "description": "Groupe d'intérim néerlandais.",
-  "note": "Fondateur Frits Goldschmeding décédé en 2024 ; part de sa famille / holding à confirmer.",
+  "note": "Au 31/12/2025 : Stichting Stad en Lant (liée au fondateur Frits Goldschmeding, décédé le 26/07/2024) 33 % des actions et des votes ; Stichting Administratiekantoor Preferente Aandelen 29 % des actions / 10 % des votes ; NN Group 12 % / 3 % ; ASR 5 % / 1 % (Wikipédia nl).",
   "sources": [
    "https://www.randstad.com/investors/",
-   "https://en.wikipedia.org/wiki/Randstad_NV"
+   "https://en.wikipedia.org/wiki/Randstad_NV",
+   "https://nl.wikipedia.org/wiki/Randstad_Holding"
   ],
   "verifie_le": "2026-10"
  },
@@ -24888,23 +25502,25 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Groupama",
-    "id": "groupama",
-    "type": "groupe",
-    "pays": "FR",
-    "part_pct": 20.0
+    "nom": "Famille Boré (holding MBC ; Marc-Olivier Boré, président)",
+    "type": "famille",
+    "pays": "FR"
    },
    {
-    "nom": "Autres actionnaires (direction, Marc Boré)",
-    "type": "autre",
+    "nom": "Groupama (Groupama Holding Filiales et Participations)",
+    "id": "groupama",
+    "part_pct": 20.0,
+    "type": "groupe",
     "pays": "FR"
    }
   ],
   "description": "Réseau français de location de voitures et utilitaires.",
-  "note": "Groupama détient 20 % depuis 2003 ; Marc Boré, repreneur en 1996 et directeur général, principal actionnaire présumé : à confirmer.",
+  "note": "Rent A Car SAS (siren 310591649, CA 2024 : 177,5 M€) présidée par Marc-Olivier Boré ; administrateurs dont MBC, holding de la famille Boré, et Groupama Holding Filiales et Participations (registre, 2026). Groupama détient 20 % depuis 2003 (Wikipédia).",
   "sources": [
    "https://www.rentacar.fr/",
-   "https://fr.wikipedia.org/wiki/Rent_A_Car"
+   "https://fr.wikipedia.org/wiki/Rent_A_Car",
+   "https://recherche-entreprises.api.gouv.fr/search?q=rent%20a%20car",
+   "https://recherche-entreprises.api.gouv.fr/search?q=422721860"
   ],
   "verifie_le": "2026-10"
  },
@@ -25014,7 +25630,7 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "David Baszucki (contrôle des votes)",
+    "nom": "David Baszucki (100 % des actions B, 58,8 % des droits de vote)",
     "type": "personne",
     "pays": "US"
    },
@@ -25024,12 +25640,14 @@
     "pays": "XX"
    }
   ],
-  "description": "Plateforme de jeux en ligne. Actionnariat non revérifié en ligne en 2026-10 (budget de recherche épuisé) : à confirmer.",
+  "description": "Plateforme de jeux en ligne, cotée au NYSE depuis 2021.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Roblox",
-   "https://en.wikipedia.org/wiki/Roblox_Corporation"
+   "https://en.wikipedia.org/wiki/Roblox_Corporation",
+   "https://www.sec.gov/Archives/edgar/data/1315098/000110465926044362/rblx-20260528xdef14a.htm"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Le cofondateur et PDG David Baszucki détient toutes les actions de classe B (20 voix chacune), soit 58,8 % des droits de vote (DEF 14A du 16/4/2026)."
  },
  {
   "id": "roche-bobois",
@@ -25082,24 +25700,26 @@
   "statut": "fonds",
   "actionnaires": [
    {
-    "nom": "Altor",
-    "part_pct": 80.0,
+    "nom": "Altor (Fund III)",
     "type": "fonds",
     "pays": "SE"
    },
    {
-    "nom": "Management et minoritaires",
+    "nom": "Minoritaires (famille Boix-Vives à l'origine, management)",
     "type": "autre",
-    "pays": "XX"
+    "pays": "FR"
    }
   ],
   "description": "Fabricant d'équipements de ski (Rossignol, Dynastar, Look, Lange).",
   "sources": [
    "https://altor.com/altor-to-acquire-rossignol-group/",
-   "https://www.snowindustrynews.com/articles/rossignol-to-close-historic-dynastar-factory-in-sallanches"
+   "https://www.snowindustrynews.com/articles/rossignol-to-close-historic-dynastar-factory-in-sallanches",
+   "https://altor.com/",
+   "https://fr.wikipedia.org/wiki/Skis_Rossignol",
+   "https://recherche-entreprises.api.gouv.fr/search?q=chartreuse%20et%20mont%20blanc&per_page=5"
   ],
   "verifie_le": "2026-10",
-  "note": "Altor actionnaire majoritaire depuis 2013 (≈80 %, minoritaires ≈20 % à l'origine), toujours décrit ainsi en 2022 ; aucune cession repérée depuis, mais répartition 2026 à confirmer."
+  "note": "Altor majoritaire depuis octobre 2013 (80 % à l'origine, 20 % famille Boix-Vives) et toujours présenté comme participation sur le site d'Altor en 2026 ; capital actuel non publié. Société mère : Chartreuse et Mont Blanc SAS (SIREN 508758745), présidée par Vincent Wauters (registre)."
  },
  {
   "id": "rte",
@@ -26037,6 +26657,25 @@
   "verifie_le": "2026-10"
  },
  {
+  "id": "shift4",
+  "nom": "Shift4",
+  "pays_siege": "US",
+  "statut": "cote",
+  "actionnaires": [
+   {
+    "nom": "Flottant / public",
+    "type": "flottant",
+    "pays": "US"
+   }
+  ],
+  "description": "Groupe américain de traitement des paiements (Center Valley, Pennsylvanie), coté au NYSE depuis 2020 ; propriétaire de Global Blue depuis 2025.",
+  "note": "Coté au NYSE (FOUR), composante du S&P 400.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shift4"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
   "id": "shine-group",
   "nom": "Shine (ex-Ageras)",
   "pays_siege": "DK",
@@ -26068,13 +26707,33 @@
   "actionnaires": [
    {
     "nom": "Ancelle (David Dayan, cofondateur)",
-    "part_pct": 37.17,
+    "part_pct": 37.1,
     "type": "personne",
     "pays": "FR"
    },
    {
     "nom": "Eric Sitruk",
+    "part_pct": 12.2,
     "type": "personne",
+    "pays": "FR"
+   },
+   {
+    "nom": "CRFP 20 (Carrefour)",
+    "id": "carrefour",
+    "part_pct": 8.7,
+    "type": "groupe",
+    "pays": "FR"
+   },
+   {
+    "nom": "Géraldine Leven",
+    "part_pct": 5.0,
+    "type": "personne",
+    "pays": "FR"
+   },
+   {
+    "nom": "Salariés",
+    "part_pct": 2.3,
+    "type": "salaries",
     "pays": "FR"
    },
    {
@@ -26087,10 +26746,11 @@
   "sources": [
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2022/09/FCACT061289_20220901.pdf",
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2022-09-02-showroomprive-renforcement-de-david-dayan-au-capital.html",
-   "https://www.boursedirect.fr/fr/actualites/valeur/srp-groupe-FR0013006558-SRP-EUR-XPAR"
+   "https://www.boursedirect.fr/fr/actualites/valeur/srp-groupe-FR0013006558-SRP-EUR-XPAR",
+   "https://www.abcbourse.com/analyses/chiffres/SRPp"
   ],
   "verifie_le": "2026-10",
-  "note": "Ancelle : ≈37,2 % du capital et 47,8 % des droits de vote après le 31/08/2022 ; David Dayan s'est renforcé depuis (787 143 actions supplémentaires). Répartition 2026 exacte à confirmer."
+  "note": "Répartition publiée par ABC Bourse (consultée en octobre 2026) : Ancelle (David Dayan) 37,1 %, Eric Sitruk 12,2 %, CRFP 20 8,7 %, Géraldine Leven 5 %, salariés 2,3 %, autodétention 2,9 %. Ancelle détenait 47,8 % des droits de vote après le 31/08/2022 (sortie de Thierry Petit)."
  },
  {
   "id": "shv",
@@ -26867,21 +27527,23 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Fondateurs (Boris Saragaglia et associés)",
+    "nom": "Dirigeants et entités liées (Boris Saragaglia et cofondateurs)",
     "type": "personne",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 33.5
    },
    {
-    "nom": "Flottant",
+    "nom": "Investisseurs institutionnels et flottant",
     "type": "flottant",
     "pays": "XX"
    }
   ],
   "description": "Site de vente de chaussures en ligne, propriétaire d'André depuis 2018.",
-  "note": "Répartition du capital non publiée sur Wikipédia (levées de 2006 à 2012 auprès d'investisseurs européens et américains) — à confirmer.",
+  "note": "Coté sur Euronext Growth Paris. Dirigeants et entités liées ≈ 33,5 % du capital au 01/10/2026 (agrégat Idéal Investisseur, sans détail nominatif publié) ; Boris Saragaglia directeur général.",
   "sources": [
    "https://www.spartoo.com/",
-   "https://fr.wikipedia.org/wiki/Spartoo"
+   "https://fr.wikipedia.org/wiki/Spartoo",
+   "https://www.ideal-investisseur.fr/actions/spartoo-FR00140043Y1-societe.html"
   ],
   "verifie_le": "2026-10"
  },
@@ -26966,10 +27628,12 @@
   ],
   "description": "Groupement de commerçants indépendants (Sport 2000, S2, Mondovélo, Espace Montagne), devenu Céraclès Coopérative en 2025.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Sport_2000"
+   "https://fr.wikipedia.org/wiki/Sport_2000",
+   "https://www.toute-la-franchise.com/news-rachat-sport-2000-strategie-franchise-decathlon",
+   "https://www.lagazettefrance.fr/article/decathlon-lorgne-sport-2000-france-dans-un-marche-toujours-plus-concentre"
   ],
   "verifie_le": "2026-10",
-  "note": "Prise de participation de 50 % de Decathlon dans Céraclès (activités logistiques) annoncée en août 2026, sous réserve de l'Autorité de la concurrence."
+  "note": "Lettre d'intention signée le 31/08/2026 : Decathlon prendrait 50 % du capital de Céraclès Coopérative (centrale d'achats, offre, marketing et logistique du réseau ; les magasins restent aux commerçants indépendants) ; finalisation attendue en 2027 sous réserve de l'Autorité de la concurrence, en cours."
  },
  {
   "id": "spotify",
@@ -26981,26 +27645,26 @@
     "nom": "Martin Lorentzon",
     "type": "personne",
     "pays": "SE",
-    "part_pct": 10.9
-   },
-   {
-    "nom": "Daniel Ek",
-    "type": "personne",
-    "pays": "SE",
-    "part_pct": 7.33
+    "part_pct": 9.72
    },
    {
     "nom": "Tencent / Tencent Music",
     "id": "tencent",
     "type": "groupe",
     "pays": "CN",
-    "part_pct": 8.66
+    "part_pct": 8.08
    },
    {
     "nom": "Baillie Gifford",
     "type": "fonds",
     "pays": "GB",
-    "part_pct": 11.5
+    "part_pct": 6.43
+   },
+   {
+    "nom": "Daniel Ek",
+    "type": "personne",
+    "pays": "SE",
+    "part_pct": 6.06
    },
    {
     "nom": "Flottant / public",
@@ -27010,10 +27674,14 @@
   ],
   "description": "Premier service de streaming audio (siège juridique au Luxembourg, opérationnel à Stockholm).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Spotify"
+   "https://fr.wikipedia.org/wiki/Spotify",
+   "https://simplywall.st/stocks/us/media/nyse-spot/spotify-technology/ownership",
+   "https://simplywall.st/stocks/ch/media/vtx-spot/spotify-technology-shares/ownership",
+   "https://www.revenuememo.com/p/who-owns-spotify",
+   "https://en.wikipedia.org/wiki/Spotify"
   ],
   "verifie_le": "2026-10",
-  "note": "Parts au 20/03/2022 (Wikipédia) ; fondateurs majoritaires en droits de vote via actions bénéficiaires ; chiffres 2026 à confirmer."
+  "note": "Parts du capital en 2026 selon Simply Wall St (20-F du 10/02/2026 : 205,8 millions d'actions au 31/12/2025) ; via les actions bénéficiaires, Lorentzon ≈ 42 % et Ek ≈ 29 % des droits de vote. Daniel Ek président exécutif, Alex Norström et Gustav Söderström codirecteurs généraux."
  },
  {
   "id": "spsti",
@@ -27444,12 +28112,12 @@
     "part_pct": 22
    },
    {
-    "nom": "Fonds (SoftBank, Index Ventures, Hedosophia, Eurazeo, Bpifrance...)",
+    "nom": "Fonds de capital-risque (Index Ventures, Eurazeo ex-Idinvest, Daphni, Kima Ventures…)",
     "type": "fonds",
     "pays": "XX"
    },
    {
-    "nom": "Fondateurs et salariés",
+    "nom": "Loïc Soubeyrand (fondateur) et salariés",
     "type": "personne",
     "pays": "FR"
    }
@@ -27461,7 +28129,7 @@
    "https://newsroom.groupebpce.fr/assets/20230105-cp-swile-groupe-bpce-pdf-0cb4-7b707.html?dl=1"
   ],
   "verifie_le": "2026-10",
-  "note": "BPCE premier actionnaire avec 22 % depuis le rachat de Bimpli par Swile (janvier 2023) ; répartition 2026 non publiée, à confirmer."
+  "note": "BPCE premier actionnaire avec 22 % (base pleinement diluée) depuis la finalisation du rachat de Bimpli par Swile le 5/1/2023, plus 150 M€ d'obligations convertibles ; répartition du reste du capital non publiée."
  },
  {
   "id": "swiss-life",
@@ -27506,10 +28174,16 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Synergie Investment (holding familiale Vaney-Barande)",
+    "nom": "Concert familial Barande-Vaney (HB Collector d'Henri Barande, Victorien, Julien, Manuela et Anna-Lena Vaney)",
+    "part_pct": 69.2,
     "type": "famille",
-    "pays": "FR",
-    "part_pct": 69.1
+    "pays": "FR"
+   },
+   {
+    "nom": "Actions autodétenues",
+    "part_pct": 6.25,
+    "type": "autre",
+    "pays": "FR"
    },
    {
     "nom": "Flottant / public",
@@ -27518,10 +28192,11 @@
    }
   ],
   "description": "Groupe d'intérim français.",
-  "note": "Contrôlé à ≈ 69 % par la holding familiale Synergie Investment (Wikipédia) ; date du chiffre à confirmer.",
+  "note": "Au 31/12/2025, HB Collector (Henri Barande) détient 69,16 % du capital et 81,50 % des droits de vote ; après donation-partage du 8/12/2025, le concert familial avec ses enfants Vaney détient 69,20 % du capital et 81,54 % des droits de vote (avis AMF 225C2144). Autocontrôle 6,25 %. Rapport annuel 2025.",
   "sources": [
    "https://www.synergie.com",
-   "https://fr.wikipedia.org/wiki/Synergie_(entreprise)"
+   "https://fr.wikipedia.org/wiki/Synergie_(entreprise)",
+   "https://www.synergie.com/system/files/Synergie_Rapport_Annuel_2025_FR.pdf"
   ],
   "verifie_le": "2026-10"
  },
@@ -27857,32 +28532,40 @@
   "actionnaires": [
    {
     "nom": "Snam",
+    "part_pct": 40.5,
     "type": "groupe",
     "pays": "IT"
    },
    {
-    "nom": "GIC",
-    "type": "fonds",
-    "pays": "SG"
+    "nom": "Enagás",
+    "part_pct": 31.5,
+    "type": "groupe",
+    "pays": "ES"
    },
    {
-    "nom": "EDF Invest",
+    "nom": "EDF (via Ouestgaz)",
     "id": "edf",
+    "part_pct": 18,
     "type": "groupe",
     "pays": "FR"
    },
    {
     "nom": "Predica (Crédit Agricole Assurances)",
-    "id": "credit-agricole",
+    "id": "credit-agricole-assurances",
+    "part_pct": 10,
     "type": "groupe",
     "pays": "FR"
    }
   ],
   "description": "Transport et stockage de gaz dans le Sud-Ouest.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Teréga"
+   "https://fr.wikipedia.org/wiki/Teréga",
+   "https://www.enagas.es/en/press-room/news-room/press-releases/results-3t-2026/",
+   "https://www.enagas.es/en/press-room/news-room/press-releases/t1-2026-results/",
+   "https://fr.wikipedia.org/wiki/Ter%C3%A9ga"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Enagás a racheté les 31,5 % de GIC pour 573 M€ (accord du 21/04/2026, finalisé le 30/07/2026)."
  },
  {
   "id": "tereos",
@@ -28136,13 +28819,13 @@
   "statut": "fonds",
   "actionnaires": [
    {
-    "nom": "Altamir",
+    "nom": "Altamir (géré par Amboise Partners, aux côtés de fonds Seven2)",
     "type": "fonds",
     "pays": "FR"
    },
    {
-    "nom": "Fonds gérés par Amboise Partners",
-    "type": "fonds",
+    "nom": "Dirigeants et co-investisseurs",
+    "type": "autre",
     "pays": "FR"
    }
   ],
@@ -28150,10 +28833,13 @@
   "sources": [
    "https://bridgepointgroup.com/private-equity/portfolio/middle-market/consumer/groupe-thom",
    "https://thomgroup.com/wp-content/uploads/2026/01/THOM-Group-RA2025-260120-MD.pdf",
-   "https://live.euronext.com/sites/default/files/cpr05_actus_70938_FR0000053837.pdf"
+   "https://live.euronext.com/sites/default/files/cpr05_actus_70938_FR0000053837.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2024/09/FCACT070952_20240912.pdf",
+   "https://www.lw.com/fr/news/2021/02/latham-advises-banks-acquisition-financing-thom-group-goldstory",
+   "https://www.cfnews.net/L-actualite/LBO/Operations/LBO-Quinte/Thom-Europe-se-pare-d-un-LBO-quinte-353688"
   ],
   "verifie_le": "2026-10",
-  "note": "Rachat en 2021 à Bridgepoint : Altamir (fonds gérés par Amboise / Seven2) actionnaire de référence de la holding de contrôle ; répartition 2026 à confirmer."
+  "note": "Holding de contrôle rachetée en 2021 à Bridgepoint par Altamir, aux côtés des dirigeants et de nouveaux co-investisseurs ; THOM est la première participation d'Altamir au 30/06/2024 (13,8 % de son portefeuille, refinancement en 2024). Répartition du capital non publiée."
  },
  {
   "id": "tolomei",
@@ -28162,10 +28848,11 @@
   "statut": "prive",
   "actionnaires": [],
   "description": "Holding propriétaire du maroquinier Le Tanneur depuis 2017.",
-  "note": "Tolomei Participations (présidée par Eric Dailey) détient 50,22 % du Tanneur, Qatar Luxury Group 42,6 % ; actionnaires de Tolomei à confirmer.",
+  "note": "Société non cotée ; capital non publié. Tolomei Participations (Paris) est présidée par Eric Dailey (registre, 2026) ; elle détient 50,22 % du Tanneur, Qatar Luxury Group 42,6 %, depuis la recapitalisation de 2017.",
   "sources": [
    "https://www.letanneur.com/",
-   "https://fr.wikipedia.org/wiki/Le_Tanneur"
+   "https://fr.wikipedia.org/wiki/Le_Tanneur",
+   "https://recherche-entreprises.api.gouv.fr/search?q=tolomei%20participations"
   ],
   "verifie_le": "2026-10"
  },
@@ -28176,22 +28863,25 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "PetSerCo (Lionel Desclée)",
+    "nom": "Verlinvest",
     "type": "fonds",
     "pays": "BE"
    },
    {
-    "nom": "Verlinvest",
-    "type": "fonds",
+    "nom": "PetSerCo (Lionel Desclée, Thierry Le Grelle, Philippe Deschamps)",
+    "type": "personne",
     "pays": "BE"
    }
   ],
   "description": "Enseigne belge d'animaleries.",
-  "note": "Racheté en 2016 par PetSerCo (Lionel Desclée) ; entrée de la holding belge Verlinvest vers 2021-2022 ; répartition actuelle à confirmer.",
+  "note": "Racheté à Delhaize en 2016 par PetSerCo, véhicule de Lionel Desclée ; Verlinvest est entré au capital en juin 2022 pour environ la moitié des actions (De Tijd, via RetailDetail), le solde restant à Lionel Desclée, Thierry Le Grelle et Philippe Deschamps.",
   "sources": [
    "https://www.tomandco.fr/",
    "https://www.petworldwide.net/content-1/pet-worldwide/2016/09/5-2016/uncertain-future-for-tom-co.html",
-   "https://www.franchise-magazine.com/?p=286575"
+   "https://www.franchise-magazine.com/?p=286575",
+   "https://www.retaildetail.eu/news/leisure/tom-co-gets-growth-capital-from-verlinvest/",
+   "https://petworldwide.net/content-1/news/2022/06/21/investor-gets-involved-at-tom-co.html",
+   "https://chronicle.lu/category/shopping-1/17730-delhaize-announces-sale-of-pet-shop-chain-tom-co-to-petserco"
   ],
   "verifie_le": "2026-10"
  },
@@ -28253,34 +28943,19 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Toyota Industries",
-    "part_pct": 8.3,
-    "type": "groupe",
-    "pays": "JP"
-   },
-   {
-    "nom": "Subaru",
-    "part_pct": 3.2,
-    "type": "groupe",
-    "pays": "JP"
-   },
-   {
-    "nom": "Denso",
-    "part_pct": 3.1,
-    "type": "groupe",
-    "pays": "JP"
-   },
-   {
-    "nom": "Flottant / public",
+    "nom": "Flottant / public (dont banques fiduciaires japonaises)",
     "type": "flottant",
-    "pays": "XX"
+    "pays": "JP"
    }
   ],
   "description": "Premier constructeur mondial (Toyota, Lexus).",
-  "note": "Participations croisées du groupe Toyota (Toyota Industries ≈ 8,3 %, Subaru ≈ 3,2 %, Denso ≈ 3,1 %, Wikipédia) ; effet du retrait de cote de Toyota Industries (2025-2026) à confirmer.",
+  "note": "Retrait de cote de Toyota Industries par Toyota Fudosan (OPA réussie le 24/03/2026, radiation en juin 2026) ; Toyota Motor a mené en parallèle une offre de rachat de ses propres actions et cédé ses titres Toyota Industries : opérations closes le 15/06/2026. Les participations croisées antérieures (Toyota Industries ≈ 9 %) ne sont plus d'actualité.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Toyota",
-   "https://en.wikipedia.org/wiki/Toyota"
+   "https://en.wikipedia.org/wiki/Toyota",
+   "https://global.toyota/pages/global_toyota/ir/stock/share/info_20260615_en.pdf",
+   "https://english.adnkronos.com/2026/03/24/toyotas-tender-offer-for-toyota-industries-ends-in-success/",
+   "https://en.wikipedia.org/wiki/Toyota_Industries"
   ],
   "verifie_le": "2026-10"
  },
@@ -28291,10 +28966,12 @@
   "statut": "prive",
   "actionnaires": [],
   "description": "Exploitant français des magasins Toys \"R\" Us.",
-  "note": "Filiale française reprise en octobre 2018 par Jellej Jouets (Tony Lesaffre, avec Cyrus Capital et Picwic), magasins renommés PicWicToys en 2019 ; exploitant actuel de la marque Toys \"R\" Us en France à confirmer.",
+  "note": "Filiale française reprise en octobre 2018 par Jellej Jouets (avec Picwic) ; magasins renommés PicWicToys le 19/07/2019, la marque Toys \"R\" Us disparaissant alors de la distribution française ; PicWicToys repris par Smyths Toys en juillet 2022 et remplacé par Smyths en 2023. La société Toys R Us (SIREN 345404156) reste immatriculée ; toysrus.fr affiche « site en construction » en 10/2026.",
   "sources": [
    "https://www.toysrus.fr/",
-   "https://fr.wikipedia.org/wiki/Toys_%22R%22_Us"
+   "https://fr.wikipedia.org/wiki/Toys_%22R%22_Us",
+   "https://fr.wikipedia.org/wiki/PicWicToys",
+   "https://recherche-entreprises.api.gouv.fr/search?q=toys%20r%20us&per_page=6"
   ],
   "verifie_le": "2026-10"
  },
@@ -28564,9 +29241,28 @@
    }
   ],
   "description": "Fabricant de boîtes de conservation, repris par ses créanciers après sa faillite de 2024.",
-  "note": "Chapter 11 le 18/09/2024 ; accord du 22/10/2024 de reprise par une partie des créanciers ; usine belge d'Alost fermée en janvier 2025, retour en Belgique annoncé en septembre 2025 ; présence en France à confirmer.",
+  "note": "Chapter 11 le 18/09/2024 ; reprise par une partie des créanciers (accord du 22/10/2024, ≈ 23,5 M$). En France, la filiale Tupperware France, placée en sauvegarde en octobre 2024, a été reprise en avril 2025 par Cédric Meston et ses associés, qui exploitent la marque en France, Allemagne, Italie, Belgique et Pologne avec des produits fournis par la tête de réseau américaine.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Tupperware"
+   "https://fr.wikipedia.org/wiki/Tupperware",
+   "https://www.maddyness.com/2025/03/25/le-fondateur-dhappyvore-cedric-meston-reprend-la-marque-iconique-tupperware-en-france/"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
+  "id": "tupperware-france",
+  "nom": "Tupperware France",
+  "pays_siege": "FR",
+  "statut": "prive",
+  "actionnaires": [
+   {
+    "nom": "Cédric Meston (cofondateur d'HappyVore) et ses associés Augustin Rudigoz et Aymeric Porte, avec le management",
+    "type": "personne",
+    "pays": "FR"
+   }
+  ],
+  "description": "Ex-filiale française de Tupperware, reprise en avril 2025 par Cédric Meston et ses associés ; exploite la marque Tupperware (vente en réunions) en France, Allemagne, Italie, Belgique et Pologne.",
+  "sources": [
+   "https://www.maddyness.com/2025/03/25/le-fondateur-dhappyvore-cedric-meston-reprend-la-marque-iconique-tupperware-en-france/"
   ],
   "verifie_le": "2026-10"
  },
@@ -28757,13 +29453,13 @@
   "id": "ugc",
   "nom": "UGC",
   "pays_siege": "FR",
-  "statut": "familial",
+  "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Famille Verrecchia / Maccioni et associés",
-    "part_pct": 66,
-    "type": "famille",
-    "pays": "FR"
+    "nom": "Actionnaires historiques d'UGC",
+    "type": "autre",
+    "pays": "FR",
+    "part_pct": 66
    },
    {
     "nom": "Canal+",
@@ -28775,10 +29471,12 @@
   ],
   "description": "Exploitant de cinémas (UGC Illimité) et producteur.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/UGC_(entreprise)"
+   "https://fr.wikipedia.org/wiki/UGC_(entreprise)",
+   "https://www.boxofficepro.fr/canal-acte-son-entree-au-capital-dugc/",
+   "https://www.lemondedudroit.fr/deals/101637-bredin-prat-conseille-la-societe-ugc-et-certains-de-ses-actionnaires-historiques-dans-le-cadre-de-la-prise-de-participation-minoritaire-de-groupe-canal-au-capital-dugc.html"
   ],
   "verifie_le": "2026-10",
-  "note": "Canal+ entre au capital à 34 % (annonce du 16/10/2025), avec un rachat complet visé pour 2028 ; part des familles déduite (≈66 %)."
+  "note": "Canal+ détient 34 % depuis le 16/10/2025, avec une option de prise de contrôle totale à partir de 2028 auprès des actionnaires historiques ; présidée par Brigitte Maccioni."
  },
  {
   "id": "ugi",
@@ -28841,7 +29539,7 @@
    "https://en.wikipedia.org/wiki/Universal_Music_Group"
   ],
   "verifie_le": "2026-10",
-  "note": "Offre de Pershing Square (≈60 Md$, avril 2026) rejetée par le conseil d'UMG le 29/05/2026. Part actuelle de Tencent (20 % en 2022) à confirmer."
+  "note": "Offre de Pershing Square (≈60 Md$, avril 2026) rejetée par le conseil d'UMG le 29/05/2026. Consortium Tencent : 20 % en 2021-2022 (Concerto et Scherzo Investment, 10 % chacun) ; l'infobox Wikipédia indique 11,4 % sans date : part actuelle à confirmer."
  },
  {
   "id": "unedic",
@@ -28906,33 +29604,34 @@
   "statut": "cote",
   "actionnaires": [
    {
-    "nom": "Pascal Chevalier (fondateur, PDG)",
+    "nom": "Pascal Chevalier et Gautier Normand (fondateurs dirigeants)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 19.03
-   },
-   {
-    "nom": "Gautier Normand (cofondateur)",
-    "type": "personne",
-    "pays": "FR",
-    "part_pct": 4.9
-   },
-   {
-    "nom": "DLB Investissement (Jean-Daniel Camus)",
-    "type": "personne",
-    "pays": "FR",
-    "part_pct": 9.54
+    "part_pct": 25.49
    },
    {
     "nom": "Eurazeo",
     "type": "fonds",
     "pays": "FR",
-    "part_pct": 7.72
+    "part_pct": 10.4
+   },
+   {
+    "nom": "Rothschild Asset Management",
+    "type": "fonds",
+    "pays": "FR",
+    "part_pct": 9.79
+   },
+   {
+    "nom": "Autocontrôle",
+    "type": "autre",
+    "pays": "FR",
+    "part_pct": 6
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
-    "pays": "XX"
+    "pays": "XX",
+    "part_pct": 40.27
    }
   ],
   "description": "Éditeur de presse magazine et de sites (Closer, Télé Star, Grazia, Marie France, Science & Vie, Auto Plus, Marmiton, Doctissimo, aufeminin) ; Reworld Media a pris le nom d'Unify Group en juin 2026.",
@@ -28944,7 +29643,7 @@
    "https://www.abcbourse.com/forums/msg1031374_reworld-media-son-pdg-a-vendu"
   ],
   "verifie_le": "2026-10",
-  "note": "Parts fin 2023 (Chevalier 19 % du capital / 27 % des votes, Normand 4,9 %) ; dirigeants et proches ≈ 34,5 % en juin 2026 selon Idéal Investisseur, chiffres individuels 2026 à confirmer."
+  "note": "Coté sur Euronext Growth (ALREW). Répartition détaillée au 31/12/2022 (Wikipédia) ; dirigeants et entités liées ≈ 34,5 % du capital au 01/09/2026 (agrégat Idéal Investisseur, sans détail nominatif publié)."
  },
  {
   "id": "unilabs",
@@ -29537,18 +30236,46 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Fondateurs et fonds (EQT, Accel, Insight Partners, Lightspeed, TPG...)",
+    "nom": "EQT",
+    "id": "eqt",
     "type": "fonds",
-    "pays": "XX"
+    "pays": "SE"
+   },
+   {
+    "nom": "Lightspeed Venture Partners",
+    "type": "fonds",
+    "pays": "US"
+   },
+   {
+    "nom": "Baillie Gifford",
+    "type": "fonds",
+    "pays": "GB"
+   },
+   {
+    "nom": "Schroders Capital",
+    "type": "fonds",
+    "pays": "GB"
+   },
+   {
+    "nom": "Teachers' Venture Growth (Ontario Teachers' Pension Plan)",
+    "type": "fonds",
+    "pays": "CA"
+   },
+   {
+    "nom": "Fondateurs et salariés",
+    "type": "personne",
+    "pays": "LT"
    }
   ],
   "description": "Place de marché lituanienne de seconde main (vêtements, objets).",
   "sources": [
    "https://en.wikipedia.org/wiki/Vinted",
-   "https://fr.wikipedia.org/wiki/Vinted"
+   "https://fr.wikipedia.org/wiki/Vinted",
+   "https://tech.eu/2026/04/27/vinted-hits-eur8b-valuation-as-eqt-leads-eur880m-secondary-share-sale/",
+   "https://otpp.com/en-ca/about-us/news-and-insights/2026/vinted-completes-secondary-share-transaction-reflecting-consistent-profitable-growth/"
   ],
   "verifie_le": "2026-10",
-  "note": "Cession secondaire de 880 M€ en avril 2026 (valorisation 8 Md€) ; répartition entre fondateurs et fonds non publiée : à confirmer."
+  "note": "Société non cotée ; capital non publié. Cession secondaire de 880 M€ finalisée le 27/04/2026 (valorisation 8 Md€), menée par EQT, Schroders Capital et Teachers' Venture Growth, avec BlackRock, Lombard Odier IM et Baillie Gifford ; Lightspeed chef de file du tour de 2019."
  },
  {
   "id": "virbac",
@@ -29598,20 +30325,27 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Daniel Caille (fondateur) et praticiens",
+    "nom": "Daniel Caillé (fondateur), managers et praticiens",
     "pays": "FR",
     "type": "personne"
    },
    {
-    "nom": "Investisseurs financiers",
-    "pays": "XX",
+    "nom": "Bpifrance (membre du conseil de surveillance)",
+    "id": "bpifrance",
+    "pays": "FR",
+    "type": "public"
+   },
+   {
+    "nom": "Investisseurs financiers (dont, dès 2009, BNP Paribas Développement et Crédit Mutuel Arkéa)",
+    "pays": "FR",
     "type": "fonds"
    }
   ],
   "description": "Troisième groupe de cliniques privées.",
-  "note": "Fondateur Daniel Caille, modèle de co-gouvernance managers/praticiens ; augmentation de capital de 65 M€ en mars 2024 ; investisseurs et parts à confirmer.",
+  "note": "Société non cotée ; capital non publié. Holding de tête Vivalto Santé 3, gérée par Vivalto Santé Direction (présidée par Emmanuel de Geuser) ; conseil de surveillance présidé par Daniel Caillé, avec Bpifrance Investissement (registre, 2026). Augmentation de capital de 65 M€ en 2024 ; co-gouvernance managers/praticiens.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Vivalto_Sant%C3%A9"
+   "https://fr.wikipedia.org/wiki/Vivalto_Sant%C3%A9",
+   "https://recherche-entreprises.api.gouv.fr/search?q=vivalto%20sante"
   ],
   "verifie_le": "2026-10"
  },
@@ -29726,15 +30460,29 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Fondateurs et fonds (non vérifié)",
-    "pays": "XX",
-    "type": "autre"
+    "nom": "Aegean Airlines",
+    "type": "groupe",
+    "pays": "GR"
+   },
+   {
+    "nom": "Alaeo Partnership (fondateurs Carlos Muñoz et Lázaro Ros, direction)",
+    "type": "personne",
+    "pays": "ES"
+   },
+   {
+    "nom": "PAR Capital Management",
+    "type": "fonds",
+    "pays": "US"
    }
   ],
   "description": "Compagnie aérienne low-cost espagnole très présente en régions françaises.",
-  "note": "Fondée en 2012 par Carlos Muñoz (PDG) et Lázaro Ros ; actionnariat actuel à confirmer.",
+  "note": "Recapitalisation de 71 M€ close en mars 2026 (dont 47 M€ d'Aegean) : Aegean Airlines détient plus de 20 % ; PAR Capital (US) et Alaeo Partnership (fondateurs et direction, qui gardaient le contrôle) sont les autres actionnaires principaux. Prise de contrôle par Aegean (conversion de 56 M€ de prêts et augmentation de capital de 15 M€) en discussion en septembre 2026, soumise aux banques et aux autorisations réglementaires : opération en cours.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Volotea"
+   "https://fr.wikipedia.org/wiki/Volotea",
+   "https://ulysse.com/news/?p=52549",
+   "https://centreforaviation.com/news/volotea-announces-board-restructuring-and-new-strategic-plan-1367528",
+   "https://centreforaviation.com/news/volotea-announces-eur15m-capital-increase-raising-total-to-eur71m-1353507",
+   "https://es.wikipedia.org/wiki/Volotea"
   ],
   "verifie_le": "2026-10"
  },
@@ -29813,16 +30561,18 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Groupe Vilavi",
+    "nom": "Assu 2000 Participations (groupe Vilavi, présidée par Claude Zaouati)",
     "type": "groupe",
     "pays": "FR"
    }
   ],
   "description": "Réseau de courtage en crédit immobilier (franchise).",
-  "note": "Marque exploitée par Réponse Financement SAS, « une marque du groupe VILAVI » (mentions légales, octobre 2026) ; actionnaires du groupe Vilavi à confirmer.",
+  "note": "Marque exploitée par Réponse Financement SAS (SIREN 480188176), « une marque du groupe VILAVI » (mentions légales, 10/2026). Société non cotée ; capital non publié ; présidée par Assu 2000 Participations (Montreuil), elle-même présidée par Claude Zaouati, David Guyonnet directeur général (registre, 2026).",
   "sources": [
    "https://www.vousfinancer.com",
-   "https://www.vousfinancer.com/mentions-legales"
+   "https://www.vousfinancer.com/mentions-legales",
+   "https://recherche-entreprises.api.gouv.fr/search?q=reponse%20financement&per_page=5",
+   "https://recherche-entreprises.api.gouv.fr/search?q=509600193"
   ],
   "verifie_le": "2026-10"
  },
@@ -29840,9 +30590,15 @@
    },
    {
     "nom": "Flottant",
-    "part_pct": 28.48,
+    "part_pct": 28.51,
     "type": "flottant",
     "pays": "XX"
+   },
+   {
+    "nom": "Actions autodétenues",
+    "part_pct": 0.56,
+    "type": "autre",
+    "pays": "FR"
    }
   ],
   "description": "Groupe champenois coté (Pommery, Vranken, Charles Lafitte).",
@@ -29852,7 +30608,7 @@
    "https://fr.wikipedia.org/wiki/Vranken-Pommery_Monopole"
   ],
   "verifie_le": "2026-10",
-  "note": "Groupe renommé Maison Pommery & Associés ; Heidsieck & Co Monopole cédé à Lanson-BCC en octobre 2025. Répartition du capital (Compagnie Vranken ≈71 %, boerse.de non daté) à confirmer."
+  "note": "Groupe renommé Maison Pommery & Associés ; Heidsieck & Co Monopole cédé à Lanson-BCC en octobre 2025. Capital : Compagnie Vranken 70,93 %, flottant 28,51 %, autodétention 0,56 % (boerse.de, consulté le 22/10/2026)."
  },
  {
   "id": "vtech",
@@ -30061,7 +30817,7 @@
    }
   ],
   "description": "Média et site d'offres d'emploi.",
-  "note": "Fondée en 2015 ; levées de 2 M€ (2017), 7 M€ (2018), 20 M€ (2019) et 50 M€ (2023) ; noms et parts des investisseurs à confirmer.",
+  "note": "Fondée en 2015 ; levées de 2 M€ (2017, quatre business angels), 7 M€ (2018), 20 M€ (2019) et 50 M€ (janvier 2023). Noms et parts des investisseurs à confirmer : non trouvés dans les sources consultées.",
   "sources": [
    "https://www.welcometothejungle.com",
    "https://fr.wikipedia.org/wiki/Welcome_to_the_Jungle_(entreprise)"
@@ -30081,9 +30837,10 @@
    }
   ],
   "description": "Coopérative de pharmaciens (groupement Pharmavie).",
-  "note": "Coopérative de pharmaciens ; détail du sociétariat à confirmer (aucune source consultable trouvée).",
+  "note": "Tête de groupe : La Coopérative Welcoop (Villers-lès-Nancy, SIREN 754 801 348, directoire et conseil de surveillance), coopérative de pharmaciens sociétaires ; administratrice d'Equasens et présidente de ses filiales (registre, 2026).",
   "sources": [
-   "https://www.welcoop.com"
+   "https://www.welcoop.com",
+   "https://recherche-entreprises.api.gouv.fr/search?q=welcoop"
   ],
   "verifie_le": "2026-10"
  },
@@ -30152,11 +30909,13 @@
     "pays": "FR"
    }
   ],
-  "description": "Opérateur de poker et paris sportifs en ligne, dirigé par ses actionnaires historiques Alexandre Roos et Christophe Schaming (repreneurs en 2004 ; Patrick Bruel et Marc Simoncini associés en 2009, Idinvest en 2010). Répartition actuelle à confirmer.",
+  "description": "Opérateur de poker et paris sportifs en ligne, dirigé par ses actionnaires historiques Alexandre Roos et Christophe Schaming (repreneurs en 2004 ; Patrick Bruel et Marc Simoncini associés en 2009, Idinvest en 2010).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Winamax"
+   "https://fr.wikipedia.org/wiki/Winamax",
+   "https://recherche-entreprises.api.gouv.fr/search?q=winamax&per_page=5"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Société non cotée ; capital non publié. Winamax SA (SIREN 492155932) administrée notamment par Alexandre Roos, Christophe Schaming et Oxley Properties SA ; Winamax France SAS présidée par Alexandre Roos, Christophe Schaming directeur général (registre, 2026)."
  },
  {
   "id": "withings",
@@ -30503,15 +31262,17 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Fondateurs (Thibaut Chary, Charles Pfister) et investisseurs",
-    "type": "autre",
+    "nom": "Fondateurs (Thibaut Chary, président ; Charles Pfister, directeur général)",
+    "type": "personne",
     "pays": "FR"
    }
   ],
   "description": "Opérateur français de location de places de parking, fondé en 2014 ; a racheté Zenpark en mars 2025.",
-  "note": "Détail des actionnaires (levée de 28 M€ en 2022) à confirmer.",
+  "note": "Société non cotée ; capital non publié. Yespark SAS (siren 801558495) présidée par le cofondateur Thibaut Chary, Charles Pfister directeur général (registre, 2026) ; levée de 28 M€ en mai 2022 (investisseurs non nommés par les sources consultées). Zenpark, rachetée en mars 2025, a été absorbée (société fermée le 31/12/2025).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Yespark"
+   "https://fr.wikipedia.org/wiki/Yespark",
+   "https://recherche-entreprises.api.gouv.fr/search?q=yespark",
+   "https://www.maddyness.com/?s=yespark"
   ],
   "verifie_le": "2026-10"
  },
@@ -30691,17 +31452,22 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Fondateurs et investisseurs (non publiés)",
-    "type": "autre",
-    "pays": "XX"
+    "nom": "Global Blue",
+    "id": "global-blue",
+    "type": "groupe",
+    "part_pct": 100,
+    "pays": "CH"
    }
   ],
-  "description": "Plateforme britannique de gestion des retours e-commerce, propriétaire de Shipup.",
-  "note": "Actionnariat à confirmer.",
+  "description": "Plateforme britannique de gestion des retours e-commerce fondée en 2015 par Al Gerrie, propriétaire de Shipup (« Shipup by ZigZag ») ; filiale de Global Blue, elle-même détenue par Shift4.",
+  "note": "Détenue par Global Blue (site ZigZag, 2026) ; Global Blue rachetée par l'américain Shift4 (opération finalisée le 3/7/2025).",
   "sources": [
-   "https://www.shipup.co/"
+   "https://www.shipup.co/",
+   "https://www.zigzag.global/",
+   "https://en.wikipedia.org/wiki/Global_Blue"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "groupe_parent": "global-blue"
  },
  {
   "id": "zoom",

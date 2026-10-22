@@ -840,10 +840,12 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Propriété BGL Group (maison mère de Compare the Market) à confirmer en 2026.",
+  "note": "Éditée par Courtanet, filiale de BGL Group (Compare the Market) depuis 2010 ; BGL est détenu majoritairement par BHL (UK) Holdings, CPP Investments minoritaire (juin 2026).",
   "sources": [
    "https://www.lesfurets.com",
-   "https://en.wikipedia.org/wiki/BGL_Group"
+   "https://en.wikipedia.org/wiki/BGL_Group",
+   "https://app.dealroom.co/companies/courtanet",
+   "https://www.comparethemarket.com/inside-ctm/who-we-are/about-us/"
   ]
  },
  {
@@ -1337,8 +1339,7 @@
   "moments": [
    "mensuel"
   ],
-  "part_marche": "≈ 1er réseau bancaire (≈ 25 % des dépôts des ménages)",
-  "note": "Part de marché indicative (Wikipédia cite 28 % du marché français, chiffre ancien) : à confirmer.",
+  "part_marche": "1er réseau bancaire : 25,5 millions de clients et 5 300 agences des caisses régionales (fin 2025)",
   "sources": [
    "https://www.credit-agricole.com",
    "https://fr.wikipedia.org/wiki/Cr%C3%A9dit_agricole"
@@ -1590,20 +1591,6 @@
   ],
   "sources": [
    "https://www.lydia-app.com"
-  ]
- },
- {
-  "id": "lyf-pay",
-  "marque": "Lyf Pay",
-  "groupe": "lyf",
-  "categorie": "banque-paiement",
-  "sous_categorie": "Paiement mobile",
-  "nature": "direct",
-  "moments": [
-   "midi"
-  ],
-  "sources": [
-   "https://www.lyf.eu"
   ]
  },
  {
@@ -4675,12 +4662,16 @@
   "moments": [
    "courses"
   ],
-  "note": "Rachat du réseau (≈ 7 000 points relais) par GLS France annoncé le 22/05/2026, clôture prévue à l'été 2026 sous réserve du contrôle des concentrations ; finalisation à confirmer. Auparavant détenu par Walden Group (famille Baudry).",
+  "note": "Relais Colis, en redressement judiciaire depuis le 12/03/2026 : le tribunal de commerce de Bobigny a arrêté le 22/05/2026 un plan de cession attribuant la marque et le réseau (≈ 7 000 points relais) à GLS France, les colis encombrants allant à JP Home (groupe Jacky Perrenot). Auparavant détenu par Walden Group (famille Baudry).",
   "sources": [
    "https://www.ecommerce-nation.fr/gls-france-rachete-relais-colis/",
    "https://gls-group.com/EU/en/newsroom/gls-group-acquisition-relais-colis-france-parcel-shops/",
    "https://gls-group.com/FR/en/relais-colis-gls/",
-   "https://gls-group.com/FR/downloads/CP-FR-22-05-26-GLS-FRANCE-Acquisition-Relais-Colis.pdf"
+   "https://gls-group.com/FR/downloads/CP-FR-22-05-26-GLS-FRANCE-Acquisition-Relais-Colis.pdf",
+   "https://www.lemondedudroit.fr/deals/104579-veil-jourde-conseil-de-relais-colis-dans-le-cadre-de-la-reprise-de-son-activite-historique-de-distribution-par-gls-jp-home-et-mondial-relay.html",
+   "https://www.lemondedudroit.fr/deals/104617-bg2v-accompagne-gls-france-dans-la-reprise-de-la-marque-et-du-reseau-relais-colis.html",
+   "https://www.sudradio.fr/sud-radio/gls-rachete-relais-colis-une-affaire-de-souverainete-pour-sauver-la-livraison-hors-domicile",
+   "https://gls-group.com/FR/fr/relais-colis-gls/"
   ]
  },
  {
@@ -5385,10 +5376,12 @@
   "moments": [
    "courses"
   ],
-  "note": "567 magasins cédés à Aldi en 2020 ; Casino a gardé la marque et des franchisés, activité classée « abandonnée » au 1er semestre 2024 et absente des enseignes recentrées : présence résiduelle en 2026 à confirmer.",
+  "note": "567 magasins de métropole cédés à Aldi en 2020 ; franchise métropolitaine classée « abandonnée » par Casino au 1er semestre 2024. L'enseigne subsiste à La Réunion (plus de 18 supermarchés exploités par Caillé Grande Distribution) et à Madagascar ; Casino reste propriétaire de la marque.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Aldi",
-   "https://fr.wikipedia.org/wiki/Groupe_Casino"
+   "https://fr.wikipedia.org/wiki/Groupe_Casino",
+   "https://fr.wikipedia.org/wiki/Leader_Price",
+   "https://www.leaderprice.re/mentions-legales/"
   ]
  },
  {
@@ -5657,10 +5650,11 @@
    "courses",
    "occasionnel"
   ],
-  "note": "Enseigne de la coopérative Sherpa (filiale Coréma), sans lien capitalistique avec Casino ; Casino en est le fournisseur depuis fin 2009 (contrat d'approvisionnement). Contrat d'approvisionnement actuel à confirmer.",
+  "note": "Enseigne de la coopérative Sherpa (via sa filiale Coréma), sans lien capitalistique avec Casino (« Rien ne nous lie à Casino », L'Express, janvier 2024) ; Casino fournisseur de la coopérative depuis fin 2009 (contrat d'approvisionnement), après Promodès (1992-1999) et Carrefour (1999-2009).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Groupe_Casino",
-   "https://fr.wikipedia.org/wiki/Sherpa_(enseigne)"
+   "https://fr.wikipedia.org/wiki/Sherpa_(enseigne)",
+   "https://www.sherpa.net/"
   ],
   "saisons": [
    "hiver"
@@ -5946,11 +5940,12 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Nouveau Suez (2022) : Meridiam ≈ 40 %, GIP ≈ 40 %, Caisse des Dépôts et CNP Assurances ≈ 20 % ; répartition 2026 à confirmer.",
+  "note": "Nouveau Suez (depuis 2022) : Meridiam 38,3 %, Global Infrastructure Partners 38,3 %, Caisse des Dépôts et CNP Assurances 18,8 %, salariés 4,4 % (Wikipédia, 2026).",
   "sources": [
    "https://www.economiematin.fr/?p=50143",
    "https://www.lemondedudroit.fr/deals/79910-clifford-chance-acquisition-nouveau-suez.html",
-   "https://allnews.ch/node/132395"
+   "https://allnews.ch/node/132395",
+   "https://fr.wikipedia.org/wiki/Suez_(entreprise,_2015)"
   ]
  },
  {
@@ -7432,9 +7427,10 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Amende CRE de 6 M€ en 2024 ; identité de l'associé unique non vérifiée.",
+  "note": "Ohm Énergie SAS (SIREN 834 673 808) est présidée par la société NextEarth Ltd, directeur général François-Emmanuel Joubert (registre, 2026). Amende CRE de 6 M€ en 2024.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Ohm_Énergie"
+   "https://fr.wikipedia.org/wiki/Ohm_Énergie",
+   "https://recherche-entreprises.api.gouv.fr/search?q=834673808"
   ]
  },
  {
@@ -7583,9 +7579,10 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Snam 40,5 %, GIC 31,5 %, EDF (via Ouestgaz) 18 %, Predica 10 % ; rachat de la part de GIC par Enagás annoncé (avril 2026), finalisation à confirmer.",
+  "note": "Snam 40,5 %, Enagás 31,5 % (participation rachetée à GIC, finalisée le 30/07/2026 pour 573 M€), EDF (via Ouestgaz) 18 %, Predica 10 %.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Teréga"
+   "https://fr.wikipedia.org/wiki/Teréga",
+   "https://www.enagas.es/en/press-room/news-room/press-releases/results-3t-2026/"
   ]
  },
  {
@@ -8550,24 +8547,6 @@
   ],
   "saisons": [
    "rentree"
-  ]
- },
- {
-  "id": "toys-r-us",
-  "marque": "Toys \"R\" Us",
-  "groupe": "toys-r-us-france",
-  "categorie": "enfance-education",
-  "sous_categorie": "Magasin de jouets",
-  "nature": "direct",
-  "moments": [
-   "occasionnel",
-   "week-end"
-  ],
-  "sources": [
-   "https://www.toysrus.fr/"
-  ],
-  "saisons": [
-   "noel"
   ]
  },
  {
@@ -9676,7 +9655,7 @@
  {
   "id": "bultex",
   "marque": "Bultex",
-  "groupe": "adova",
+  "groupe": "pikolin",
   "categorie": "equipement-maison",
   "sous_categorie": "Literie",
   "nature": "direct",
@@ -9685,8 +9664,11 @@
    "week-end"
   ],
   "sources": [
-   "https://www.adova-group.com/"
-  ]
+   "https://www.adova-group.com/",
+   "https://fr.wikipedia.org/wiki/Bultex",
+   "https://www.bultex.fr/"
+  ],
+  "note": "Marque de Cofel Industries (Boulogne-Billancourt), filiale à 100 % de l'espagnol Pikolin depuis juillet 2009."
  },
  {
   "id": "but",
@@ -9950,7 +9932,7 @@
  {
   "id": "epeda",
   "marque": "Epeda",
-  "groupe": "adova",
+  "groupe": "pikolin",
   "categorie": "equipement-maison",
   "sous_categorie": "Literie",
   "nature": "direct",
@@ -9959,8 +9941,11 @@
    "week-end"
   ],
   "sources": [
-   "https://www.adova-group.com/"
-  ]
+   "https://www.adova-group.com/",
+   "https://fr.wikipedia.org/wiki/Bultex",
+   "https://es.wikipedia.org/wiki/Pikolin"
+  ],
+  "note": "Marque de Cofel Industries, filiale à 100 % de l'espagnol Pikolin depuis juillet 2009."
  },
  {
   "id": "gamm-vert",
@@ -10009,10 +9994,11 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "Cessation des paiements révélée le 18/10/2026 ; demande de redressement judiciaire au tribunal de commerce de Toulouse annoncée aux salariés le 20/10/2026 (513 magasins restés ouverts).",
+  "note": "Cessation des paiements révélée le 18/10/2026 ; demande de redressement judiciaire au tribunal de commerce de Toulouse annoncée aux salariés lors du CSE des 20-21/10/2026, aucun jugement d'ouverture publié au 22/10/2026 (513 magasins restés ouverts).",
   "sources": [
    "https://www.lagazettefrance.fr/article/gifi-arrache-un-soutien-de-ses-banques-pour-assurer-son-avenir",
-   "https://lexpress-franchise.com/actualites/gifi-serait-en-cessation-de-paiements/"
+   "https://lexpress-franchise.com/actualites/gifi-serait-en-cessation-de-paiements/",
+   "https://www.journaldeleconomie.fr/?p=49874"
   ],
   "saisons": [
    "halloween"
@@ -10332,7 +10318,7 @@
  {
   "id": "merinos",
   "marque": "Merinos",
-  "groupe": "adova",
+  "groupe": "pikolin",
   "categorie": "equipement-maison",
   "sous_categorie": "Literie",
   "nature": "direct",
@@ -10341,8 +10327,11 @@
    "week-end"
   ],
   "sources": [
-   "https://www.adova-group.com/"
-  ]
+   "https://www.adova-group.com/",
+   "https://fr.wikipedia.org/wiki/Bultex",
+   "https://es.wikipedia.org/wiki/Pikolin"
+  ],
+  "note": "Marque de Cofel Industries, filiale à 100 % de l'espagnol Pikolin depuis juillet 2009."
  },
  {
   "id": "miele",
@@ -10731,7 +10720,7 @@
  {
   "id": "tupperware",
   "marque": "Tupperware",
-  "groupe": "tupperware",
+  "groupe": "tupperware-france",
   "categorie": "equipement-maison",
   "sous_categorie": "Boîtes alimentaires",
   "nature": "direct",
@@ -10741,8 +10730,10 @@
    "occasionnel"
   ],
   "sources": [
-   "https://fr.wikipedia.org/wiki/Tupperware"
-  ]
+   "https://fr.wikipedia.org/wiki/Tupperware",
+   "https://www.maddyness.com/2025/03/25/le-fondateur-dhappyvore-cedric-meston-reprend-la-marque-iconique-tupperware-en-france/"
+  ],
+  "note": "Exploitée en France depuis avril 2025 par Tupperware France, reprise par Cédric Meston et ses associés après la faillite du groupe américain ; produits fournis par la tête de réseau américaine."
  },
  {
   "id": "vedette",
@@ -10901,11 +10892,12 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "OGF détenu en 2017 par Ontario Teachers' (74 %), Pamplona (20 %) et le management (6 %) ; aucune cession ultérieure trouvée, répartition 2026 à confirmer.",
+  "note": "OGF détenu depuis 2017 par Ontario Teachers' (74 %), Pamplona (20 %) et le management (6 %) ; aucune cession ultérieure relevée par Wikipédia ni par la presse consultée.",
   "sources": [
    "https://www.paulhastings.com/news/news-ogf-group-in-majority-takeover-by-ontario-teachers-pension-plan",
    "https://www.privateequitywire.co.uk/ontario-teachers-acquires-additional-ogf-stake-pamplona/",
-   "https://www.benefitscanada.com/?p=23590"
+   "https://www.benefitscanada.com/?p=23590",
+   "https://fr.wikipedia.org/wiki/Pompes_fun%C3%A8bres_g%C3%A9n%C3%A9rales"
   ]
  },
  {
@@ -13136,7 +13128,8 @@
   "sources": [
    "https://www.kenvue.com/our-brands",
    "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais",
-   "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000141/q226earningspressrelease.htm"
+   "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000141/q226earningspressrelease.htm",
+   "https://www.kenvue.com/media"
   ]
  },
  {
@@ -13328,7 +13321,8 @@
   "sources": [
    "https://www.kenvue.com/our-brands",
    "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais",
-   "https://en.wikipedia.org/wiki/Kenvue"
+   "https://en.wikipedia.org/wiki/Kenvue",
+   "https://www.kenvue.com/media"
   ]
  },
  {
@@ -13346,7 +13340,8 @@
    "https://www.kenvue.com/our-brands",
    "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais",
    "https://en.wikipedia.org/wiki/Kenvue",
-   "https://www.sec.gov/Archives/edgar/data/0000055785/000162828026027800/kmb-20260331.htm"
+   "https://www.sec.gov/Archives/edgar/data/0000055785/000162828026027800/kmb-20260331.htm",
+   "https://www.kenvue.com/media"
   ]
  },
  {
@@ -13512,7 +13507,8 @@
   "sources": [
    "https://www.kenvue.com/our-brands",
    "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais",
-   "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000141/q226earningspressrelease.htm"
+   "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000141/q226earningspressrelease.htm",
+   "https://www.kenvue.com/media"
   ]
  },
  {
@@ -13610,7 +13606,8 @@
   "sources": [
    "https://www.kenvue.com/our-brands",
    "https://fr.wikipedia.org/wiki/Le_Petit_Marseillais",
-   "https://en.wikipedia.org/wiki/Kenvue"
+   "https://en.wikipedia.org/wiki/Kenvue",
+   "https://www.kenvue.com/media"
   ]
  },
  {
@@ -14133,9 +14130,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Actionnariat actuel non vérifié (Activa Capital en 2012-2016).",
+  "note": "Groupe non coté ; capital non publié. Tête de groupe : Armatis Holding, présidée par David Gillaux (registre, 2026). Activa Capital actionnaire de 2012 à 2016.",
   "sources": [
-   "https://www.armatis-lc.com"
+   "https://www.armatis-lc.com",
+   "https://recherche-entreprises.api.gouv.fr/search?q=armatis",
+   "https://recherche-entreprises.api.gouv.fr/search?q=540030848"
   ]
  },
  {
@@ -14148,11 +14147,12 @@
   "moments": [
    "travail"
   ],
-  "note": "Accord de recapitalisation du 1/06/2026 : les porteurs d'obligations (918 M€, échéance 2028) deviennent les premiers actionnaires ; 98,25 % des porteurs ont adhéré au 15/06/2026. Passage sous contrôle des créanciers en cours en octobre 2026.",
+  "note": "Accord de recapitalisation du 1/06/2026 : les porteurs d'obligations (918 M€, échéance 2028) deviennent les premiers actionnaires ; 98,25 % des porteurs ont adhéré au 15/06/2026. Aucune annonce publique de finalisation au 21/10/2026 : passage sous contrôle des créanciers en cours.",
   "sources": [
    "https://atalian.com",
    "https://atalian.com/wp-content/uploads/2026/06/20260601-market-update-CP-re-Agreement-vFR.pdf",
-   "https://www.cfnews.net/L-actualite/Retournement/Operations/Creanciers/L-actionnariat-d-Atalian-rince-par-un-lender-led-710031"
+   "https://www.cfnews.net/L-actualite/Retournement/Operations/Creanciers/L-actionnariat-d-Atalian-rince-par-un-lender-led-710031",
+   "https://recherche-entreprises.api.gouv.fr/search?q=financiere%20atalian"
   ]
  },
  {
@@ -14329,7 +14329,7 @@
   "moments": [
    "courses"
   ],
-  "note": "Détenue depuis 2022 par Hellman & Friedman, Vestar, New Mountain Capital et le management (fusion IRI-NPD) ; part majoritaire de H&F à confirmer.",
+  "note": "Détenue depuis la fusion IRI-NPD (2022) par Hellman & Friedman (premier actionnaire), Vestar, New Mountain Capital et le management ; Stuart Aitken PDG depuis le 1/01/2025.",
   "sources": [
    "https://www.circana.com",
    "https://en.wikipedia.org/wiki/Circana"
@@ -15071,11 +15071,12 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Rachetée par Teleperformance (offre close début novembre 2023, ≈ 3 Md€) ; sort de la marque Majorel en 2026 à confirmer.",
+  "note": "Rachetée par Teleperformance (résultats de l'offre publiés le 3/11/2023, plus de 99,9 % des titres apportés, ≈ 3 Md€) ; intégration sous la marque TP, date d'abandon du nom Majorel à confirmer.",
   "sources": [
    "https://www.tp.com",
    "https://en.wikipedia.org/wiki/Majorel",
-   "https://fr.wikipedia.org/wiki/Teleperformance"
+   "https://fr.wikipedia.org/wiki/Teleperformance",
+   "https://www.teleperformance.com/en-us/investors/shareholders-newsletter-december-2023/acquisition-of-majorel-the-new-teleperformance/"
   ]
  },
  {
@@ -15831,9 +15832,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Actionnariat détaillé non vérifié (Nexity 6 %).",
+  "note": "Éditée par Bien'ici SAS (siren 488073412), présidée par David Benbassat ; conseil d'administration composé de professionnels de l'immobilier, dont l'Union des Syndicats de l'Immobilier (registre, 2026). Capital non publié.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Nexity"
+   "https://fr.wikipedia.org/wiki/Nexity",
+   "https://recherche-entreprises.api.gouv.fr/search?q=bien%27ici"
   ]
  },
  {
@@ -15993,7 +15995,7 @@
    "mensuel"
   ],
   "part_marche": "1er administrateur de biens en France",
-  "note": "Emeria (Foncia) détenue par Partners Group depuis 2016 ; cession de 25 % du capital en octobre 2021 (BFM Business), acquéreur TA Associates et répartition 2026 à confirmer.",
+  "note": "Emeria (Foncia) détenue majoritairement par Partners Group depuis juillet 2016, avec la Caisse de dépôt et placement du Québec et China Investment Corporation en minoritaires ; 25 % du capital revendus par l'actionnaire de référence en octobre 2021 (BFM Business).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Foncia"
   ]
@@ -16036,11 +16038,12 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Réseau iad (CA 613 M€ à fin juin 2026) ; Insight Partners entré comme partenaire financier en 2021 ; répartition actuelle du capital à confirmer.",
+  "note": "Réseau iad (CA 613 M€ à fin juin 2026, présidé par Clément Delpirou). Actionnaires : fondateurs (Malik Benrejdal, Jérôme Chabin, Sébastien Caille) et management, fonds entrés en 2012 (Naxicap), 2016 (IK Investment Partners, Rothschild Five Arrows) et 2021 (Insight Partners, 300 M€, valorisation 1,2 Md€) ; répartition du capital non publiée.",
   "sources": [
    "https://www.observatoiredelafranchise.fr/dossier-thematique/agent-mandataire-immobilier.htm",
    "https://www.mysweetimmo.com/2026/07/10/reseau-immobilier-iad-franchit-le-cap-des-600-millions-deuros-de-chiffre-daffaires/",
-   "https://www.mysweetimmo.com/2021/07/07/iad-le-leader-de-limmobilier-digital-en-europe-affiche-une-croissance-insolente-de-plus-de-40/"
+   "https://www.mysweetimmo.com/2021/07/07/iad-le-leader-de-limmobilier-digital-en-europe-affiche-une-croissance-insolente-de-plus-de-40/",
+   "https://fr.wikipedia.org/wiki/IAD_(entreprise)"
   ]
  },
  {
@@ -16254,9 +16257,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Rattachement à Digit RE non revérifié en 2026.",
+  "note": "SAS Optimhome (SIREN 491698643, Castelnau-le-Lez) présidée par Digit RE Group, qui préside aussi Capi (Capifrance) (registre, 2026).",
   "sources": [
-   "https://www.observatoiredelafranchise.fr/dossier-thematique/agent-mandataire-immobilier.htm"
+   "https://www.observatoiredelafranchise.fr/dossier-thematique/agent-mandataire-immobilier.htm",
+   "https://recherche-entreprises.api.gouv.fr/search?q=digit%20re%20group&per_page=5"
   ]
  },
  {
@@ -16284,9 +16288,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Société indépendante ; actionnaires non vérifiés.",
+  "note": "Éditée par De Particulier à Particulier – Éditions Neressis SAS (siren 304555154), présidée par Corinne Jolly, Patrick et Catherine Jolly directeurs généraux (registre, 2026) ; société familiale indépendante, capital non publié.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/De_particulier_à_particulier"
+   "https://fr.wikipedia.org/wiki/De_particulier_à_particulier",
+   "https://recherche-entreprises.api.gouv.fr/search?q=de%20particulier%20a%20particulier"
   ]
  },
  {
@@ -16864,9 +16869,10 @@
    "week-end",
    "occasionnel"
   ],
-  "note": "OPA d'EP Group (Kretinsky) en cours : conforme AMF (7/05/2026), autorisée par Bruxelles (20/10/2026), clôture attendue d'ici fin 2026.",
+  "note": "OPA d'EP Group (Kretinsky, 36 €/action) : conforme AMF (7/05/2026), autorisée par Bruxelles (20/10/2026) ; clôture de l'offre le 9/11/2026, en cours.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Fnac_Darty"
+   "https://fr.wikipedia.org/wiki/Fnac_Darty",
+   "https://www.globenewswire.com/news-release/2026/10/20/3384786/0/fr/fnac-darty-offre-publique-d-achat-initi%C3%A9e-par-ep-group-cl%C3%B4ture-de-l-offre-publique-le-9-novembre-2026.html"
   ],
   "saisons": [
    "black-friday",
@@ -16884,10 +16890,11 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "France Billet détenue à 100 % par la Fnac depuis 2009 ; partenariat avec CTS Eventim depuis 2019 (Fnac Darty a pris le contrôle de la filiale française d'Eventim) : participation éventuelle d'Eventim dans France Billet à confirmer.",
+  "note": "France Billet détenue à 52 % par Fnac Darty et à 48 % par CTS Eventim depuis la fusion des activités françaises de billetterie finalisée le 1/11/2019.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Fnac_Darty",
-   "https://fr.wikipedia.org/wiki/France_Billet"
+   "https://fr.wikipedia.org/wiki/France_Billet",
+   "https://en.wikipedia.org/wiki/CTS_Eventim"
   ]
  },
  {
@@ -17436,11 +17443,13 @@
    "occasionnel",
    "week-end"
   ],
-  "note": "Fnac Darty a annoncé le 26/01/2026 chercher un repreneur ou partenaire pour Nature & Découvertes (91 magasins) ; aucun acquéreur connu en octobre 2026, cession en cours.",
+  "note": "Fnac Darty a annoncé le 26/01/2026 envisager la cession de Nature & Découvertes (91 magasins, pertes répétées) ; aucun repreneur annoncé au 21/10/2026 : cession en cours.",
   "sources": [
    "https://www.globenewswire.com/fr/news-release/2019/07/31/1894919/0/en/Fnac-Darty-completes-the-acquisition-of-Nature-D%C3%A9couvertes.html",
    "https://www.retaildetail.eu/news/leisure/fnac-darty-wants-to-get-rid-of-nature-decouvertes/",
-   "https://www.boursorama.com/bourse/actualites/fnac-darty-cherche-a-vendre-nature-decouvertes-7956df309bac35ca9d3d78f44e4d47f4"
+   "https://www.boursorama.com/bourse/actualites/fnac-darty-cherche-a-vendre-nature-decouvertes-7956df309bac35ca9d3d78f44e4d47f4",
+   "https://fr.wikipedia.org/wiki/Nature_%26_D%C3%A9couvertes",
+   "https://www.fnacdarty.com/fnac-darty-presente-ses-resultats-semestriels-2026/"
   ],
   "saisons": [
    "noel",
@@ -17905,7 +17914,8 @@
    "https://www.force-ouvriere.fr/unilever-vend-sa-branche-alimentaire-incertitudes-sur-l-emploi",
    "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars",
    "https://mynews13.com/fl/orlando/ap-top-news/2026/03/31/spice-maker-mccormick-is-combining-with-unilevers-food-division",
-   "https://www.euronews.com/2026/03/31/unilever-and-mccormick-are-closing-in-on-a-mega-deal-to-create-a-food-giant"
+   "https://www.euronews.com/2026/03/31/unilever-and-mccormick-are-closing-in-on-a-mega-deal-to-create-a-food-giant",
+   "https://www.fooddive.com/news/mccormick-unilever-food-business-45B-acquisition/816202/"
   ]
  },
  {
@@ -18540,7 +18550,7 @@
   "moments": [
    "courses"
   ],
-  "note": "MDD Intermarché (biscuits, petit-déjeuner) ; fabricant à confirmer (sources inaccessibles en 10/2026).",
+  "note": "Marque de distributeur d'Intermarché (biscuits, petit-déjeuner) ; fabricants non publiés.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Les_Mousquetaires"
   ]
@@ -19076,7 +19086,7 @@
    "week-end",
    "courses"
   ],
-  "note": "Marque associée au pôle meunerie (Nutrixo, Grands Moulins de Paris) de Vivescia Industries selon Wikipédia (données de 2012) ; rattachement 2026 à confirmer.",
+  "note": "Marque de Grands Moulins de Paris depuis 2012 (ex-France-Farine) ; 34,3 % du marché de la farine en grandes surfaces en 2025 (Wikipédia).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Francine_(marque)",
    "https://fr.wikipedia.org/wiki/Vivescia"
@@ -19359,7 +19369,8 @@
   "sources": [
    "https://www.force-ouvriere.fr/unilever-vend-sa-branche-alimentaire-incertitudes-sur-l-emploi",
    "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars",
-   "https://abc17news.com/money/cnn-business-consumer/2026/03/31/mccormick-is-merging-with-unilevers-food-business/"
+   "https://abc17news.com/money/cnn-business-consumer/2026/03/31/mccormick-is-merging-with-unilevers-food-business/",
+   "https://www.fooddive.com/news/mccormick-unilever-food-business-45B-acquisition/816202/"
   ]
  },
  {
@@ -20154,7 +20165,8 @@
    "https://www.force-ouvriere.fr/unilever-vend-sa-branche-alimentaire-incertitudes-sur-l-emploi",
    "https://www.letemps.ch/economie/unilever-vend-sa-division-alimentaire-a-mccormick-contre-plus-de-15-milliards-de-dollars",
    "https://abc17news.com/money/cnn-business-consumer/2026/03/31/mccormick-is-merging-with-unilevers-food-business/",
-   "https://www.foodanddrinkbusiness.com.au/news/mccormick-acquires-unilever-food-in-65bn-deal"
+   "https://www.foodanddrinkbusiness.com.au/news/mccormick-acquires-unilever-food-in-65bn-deal",
+   "https://www.fooddive.com/news/mccormick-unilever-food-business-45B-acquisition/816202/"
   ]
  },
  {
@@ -21073,7 +21085,7 @@
    "courses",
    "midi"
   ],
-  "note": "Carambar & Co (dont la marque Poulain) racheté par Ferrero à Eurazeo (annonce juillet 2025) ; l'usine de Villebarou/Blois qui fabriquait le chocolat Poulain a été reprise par Andros (accord de septembre 2024).",
+  "note": "Carambar & Co (dont la marque Poulain) racheté par Ferrero à Eurazeo pour 240 M€, opération finalisée le 31/10/2025 ; l'usine de Villebarou/Blois qui fabriquait le chocolat Poulain a été reprise par Andros (accord de septembre 2024).",
   "sources": [
    "https://en.wikipedia.org/wiki/Carambar_%26_Co",
    "https://www.cfnews.net/Acces-libre/Carambar-et-Lutti-bientot-avales-par-un-industriel-536478",
@@ -24988,11 +25000,13 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Exploité depuis 2011 par Aéroports du Grand Ouest (Vinci, CCI 10 %, ETPO 5 %) ; appel d'offres de 2023 annulé, nouvel appel lancé (candidatures jusqu'au 29/03/2024) : attributaire de la nouvelle concession à confirmer.",
+  "note": "Exploité depuis 2011 par Aéroports du Grand Ouest (Vinci Airports, CCI Nantes Saint-Nazaire 10 %, ETPO 5 %), concession prolongée ; appel d'offres de 2023 annulé, nouvel appel lancé en décembre 2023 (candidatures jusqu'au 29/03/2024, signature visée fin 2025-début 2026) : attributaire de la nouvelle concession à confirmer.",
   "sources": [
    "https://www.vinci-airports.com/fr",
    "https://fr.wikipedia.org/wiki/Aéroport_de_Nantes-Atlantique",
-   "https://www.banquedesterritoires.fr/aeroport-de-nantes-clement-beaune-promet-un-nouvel-appel-doffres-dici-la-fin-de-lannee"
+   "https://www.banquedesterritoires.fr/aeroport-de-nantes-clement-beaune-promet-un-nouvel-appel-doffres-dici-la-fin-de-lannee",
+   "https://www.banquedesterritoires.fr/aeroport-de-nantes-letat-lance-un-nouvel-appel-doffres",
+   "https://www.lejournaldesentreprises.com/article/un-programme-de-26-millions-deuros-de-travaux-est-lance-pour-laeroport-nantes-atlantique-2094873"
   ]
  },
  {
@@ -26704,7 +26718,7 @@
   "moments": [
    "trajet"
   ],
-  "note": "Réseau Shell réduit à ≈ 90 stations à la fin des années 2000 (autoroutes, voies rapides) ; exploitant(s) actuel(s) des stations sous marque Shell en France à confirmer.",
+  "note": "Réseau Shell réduit à ≈ 90 stations à la fin des années 2000 (autoroutes, voies rapides) ; exploitant(s) actuel(s) des stations sous marque Shell en France (licencié ou distributeur) à confirmer : ni Wikipédia ni shell.fr ne le nomment.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Shell_(entreprise)"
   ]
@@ -26961,9 +26975,10 @@
    "travail",
    "week-end"
   ],
-  "note": "Service organisé et largement financé par les Régions ; ouverture à la concurrence en cours (Transdev, Arriva, RATP Dev sur certains lots).",
+  "note": "Service organisé et largement financé par les Régions ; depuis le 25/12/2023 les conventions TER sont attribuées par appel d'offres. Transdev exploite Marseille–Toulon–Nice depuis le 29/06/2025 ; la plupart des conventions signées avec SNCF Voyageurs courent jusque vers 2033.",
   "sources": [
-   "https://www.sncf.com/fr/groupe/profil-et-chiffres-cles"
+   "https://www.sncf.com/fr/groupe/profil-et-chiffres-cles",
+   "https://fr.wikipedia.org/wiki/Transport_express_r%C3%A9gional"
   ]
  },
  {
@@ -27313,7 +27328,7 @@
   "moments": [
    "trajet"
   ],
-  "note": "Réseau TBM exploité par Keolis Bordeaux Métropole Mobilités depuis le 1/5/2009 (vélos « Le Vélo », ex-VCub) ; contrat en vigueur après 2022 à confirmer.",
+  "note": "Réseau TBM, dont les vélos en libre-service Le Vélo (ex-VCub), exploité par Keolis Bordeaux Métropole Mobilités ; Keolis exploite le réseau depuis le 1/5/2009 et la délégation de service public a été reconduite en 2023 (Wikipédia).",
   "sources": [
    "https://www.autoritedelaconcurrence.fr/en/communiques-de-presse/3-august-2012-public-transport",
    "https://fr.wikipedia.org/wiki/Transports_Bordeaux_M%C3%A9tropole"
@@ -28803,9 +28818,10 @@
    "midi",
    "mensuel"
   ],
-  "note": "Rapprochement de Bimpli (filiale BPCE) avec Swile annoncé en juillet 2022 ; état de la marque en 2026 à confirmer.",
+  "note": "Bimpli (filiale de BPCE) rapprochée de Swile (annonce de juillet 2022) ; la société Bimpli SAS, présidée par Swile, est radiée (registre, 2026), activité reprise par Swile ; maintien commercial de la marque Bimpli en 2026 à confirmer.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Swile"
+   "https://fr.wikipedia.org/wiki/Swile",
+   "https://recherche-entreprises.api.gouv.fr/search?q=bimpli"
   ]
  },
  {
@@ -29038,9 +29054,10 @@
    "midi",
    "week-end"
   ],
-  "note": "Implantée en France depuis 2016 (Bercy Village), CA France 103 M€ en 2024 ; exploitant France et son actionnariat à confirmer.",
+  "note": "Implantée en France depuis 2016 (Bercy Village) ; exploitée par Five Guys France SAS (SIREN 817518244), présidée par John Eckbert (registre, 2026) ; CA France 103 M€ et résultat net -9,4 M€ en 2024.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Five_Guys"
+   "https://fr.wikipedia.org/wiki/Five_Guys",
+   "https://recherche-entreprises.api.gouv.fr/search?q=five%20guys&per_page=6"
   ]
  },
  {
@@ -29536,9 +29553,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "rattachement au groupe de connaissance générale, non revérifié en ligne pour cette fiche — à confirmer",
+  "note": "Rattachement à Kenvue (ex-Johnson & Johnson Santé Grand Public) à confirmer : titulaire de la marque en France non retrouvé en ligne (site actifed.fr inaccessible, absent de la liste des marques phares de Kenvue).",
   "sources": [
-   "https://www.kenvue.com/"
+   "https://www.kenvue.com/",
+   "https://www.kenvue.com/our-brands"
   ],
   "saisons": [
    "hiver"
@@ -29704,17 +29722,20 @@
  {
   "id": "audition-conseil",
   "marque": "Audition Conseil",
-  "groupe": "krys-group",
+  "groupe": "audition-conseil-groupe",
   "categorie": "sante",
   "sous_categorie": "Audioprothésiste",
   "nature": "direct",
   "moments": [
    "occasionnel"
   ],
-  "note": "Krys Group exploite l'enseigne Krys Audition (depuis 2014) ; rattachement d'Audition Conseil à Krys Group à confirmer.",
+  "note": "Enseigne indépendante d'audioprothésistes, sans lien avec Krys Group : éditée par Audition Conseil France (Aix-en-Provence), présidée par Audition Conseil Groupe, elle-même présidée par Holding Caladière (registre, 2026).",
   "sources": [
    "https://www.krys-group.com",
-   "https://fr.wikipedia.org/wiki/Krys_Group"
+   "https://fr.wikipedia.org/wiki/Krys_Group",
+   "https://www.auditionconseil.fr/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=audition%20conseil%20france",
+   "https://recherche-entreprises.api.gouv.fr/search?q=444211163"
   ]
  },
  {
@@ -29930,7 +29951,7 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Vaccin grippe haute dose (65 ans et plus) listé pour la campagne 2026-2027 ; fabricant Sanofi de connaissance générale, titulaire de l'AMM à confirmer.",
+  "note": "Vaccin grippe haute dose (65 ans et plus) listé pour la campagne 2026-2027 (Ordre des pharmaciens, 27/02/2026) ; rattachement à Sanofi (titulaire de l'AMM) à confirmer : base publique des médicaments indisponible lors de la vérification.",
   "sources": [
    "https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/vaccination-contre-la-grippe-fin-de-campagne-2025-2026-et-ouverture-des-precommandes-pour-2026-2027"
   ],
@@ -30745,9 +30766,10 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Actionnariat non vérifié.",
+  "note": "Réseau d'agences ; tête de réseau AD Seniors Centrale (SIREN 813918604, Paris), gérée par Laurent Lartaud, également gérant de plusieurs agences (registre, 2026) ; capital non publié.",
   "sources": [
-   "https://www.aladom.fr/annuaire/pro/2017885/"
+   "https://www.aladom.fr/annuaire/pro/2017885/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=ad%20seniors&per_page=8"
   ]
  },
  {
@@ -30774,9 +30796,12 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Actionnaires non vérifiés.",
+  "note": "Éditée par 2CED SAS (siren 792209967, Nantes), présidée par la holding 2CED Développement, elle-même présidée par W3, société de Charles Cabillic (registre, 2026) ; capital non publié.",
   "sources": [
-   "https://www.allovoisins.com"
+   "https://www.allovoisins.com",
+   "https://recherche-entreprises.api.gouv.fr/search?q=allovoisins",
+   "https://recherche-entreprises.api.gouv.fr/search?q=941737322",
+   "https://recherche-entreprises.api.gouv.fr/search?q=509686267"
   ]
  },
  {
@@ -30862,10 +30887,11 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Éditée par Domidom Services (Paris, RCS 442 396 032) ; actionnaire Orpea attesté en 2020-2021, rattachement actuel à Emeis à confirmer.",
+  "note": "Éditée par Domidom Services (Paris, RCS 442 396 032), dont le gérant est Laurent Guillot, directeur général d'Emeis (registre, 2026) ; Orpea actionnaire attesté en 2020-2021.",
   "sources": [
    "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-domidom-1719.htm",
-   "https://www.domidom.fr/mentions-legales"
+   "https://www.domidom.fr/mentions-legales",
+   "https://recherche-entreprises.api.gouv.fr/search?q=domidom%20services"
   ]
  },
  {
@@ -30898,9 +30924,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Actionnaires non vérifiés.",
+  "note": "Plateforme active en France en 2026 (helpling.fr), exploitée par le groupe berlinois Helpling (Helpling GmbH, fondé en 2014 par Benedikt Franke et Philip Huffmann, rachat de GetYourHero en France en 2015).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Helpling"
+   "https://fr.wikipedia.org/wiki/Helpling",
+   "https://www.helpling.fr/",
+   "https://en.wikipedia.org/wiki/Helpling"
   ]
  },
  {
@@ -30969,10 +30997,12 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Oui Care présidé par son fondateur Guillaume Richard (2024) ; répartition du capital à confirmer.",
+  "note": "Groupe Oui Care : Oui Care Holding (SIREN 991242520), présidée par le fondateur Guillaume Richard, préside Financière Oui Care, tête des filiales (registre, 2026) ; capital non publié.",
   "sources": [
    "https://fr.wikipedia.org/wiki/O2_(entreprise)",
-   "https://fr.wikipedia.org/wiki/Oui_Care"
+   "https://fr.wikipedia.org/wiki/Oui_Care",
+   "https://recherche-entreprises.api.gouv.fr/search?q=oui%20care%20holding&per_page=4",
+   "https://recherche-entreprises.api.gouv.fr/search?q=financiere%20oui%20care&per_page=4"
   ]
  },
  {
@@ -31018,9 +31048,10 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Actionnaires (fondateurs, fonds de capital-risque) non vérifiés.",
+  "note": "Wecasa SAS (siren 822686788) présidée par le cofondateur Antoine Chatelain ; Serena Capital et ISAI siègent dans ses organes (registre, 2026) ; capital non publié.",
   "sources": [
-   "https://www.wecasa.fr"
+   "https://www.wecasa.fr",
+   "https://recherche-entreprises.api.gouv.fr/search?q=wecasa"
   ]
  },
  {
@@ -31836,10 +31867,11 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "SAS pass Culture financée quasi intégralement par l'État ; répartition du capital à confirmer.",
+  "note": "SAS pass Culture détenue à 70 % par l'État et 30 % par la Caisse des dépôts (capital de 1 M€), dispositif financé quasi intégralement par l'État.",
   "sources": [
    "https://pass.culture.fr",
-   "https://fr.wikipedia.org/wiki/Pass_Culture"
+   "https://fr.wikipedia.org/wiki/Pass_Culture",
+   "https://pass.culture.fr/notre-gouvernance"
   ]
  },
  {
@@ -33260,7 +33292,7 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Exploitant technique et réseau hôte non revérifiés (historiquement réseau Bouygues Telecom).",
+  "note": "Offre mobile lancée par Cdiscount en 2016 ; réseau hôte et opérateur technique actuels à confirmer (historiquement réseau Bouygues Telecom ; site cdiscount-mobile.com inaccessible lors de la vérification).",
   "sources": [
    "https://www.lsa-conso.fr/cdiscount-est-rachete-a-100-par-casino-et-est-ainsi-valorise-a-moins-de-30-millions-d,452746",
    "https://fr.wikipedia.org/wiki/Cdiscount"
@@ -33394,7 +33426,7 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Groupe Lebara racheté par Waterland Private Equity en août 2024 ; réseau hôte en France (SFR ou Orange depuis 2024) à confirmer.",
+  "note": "Groupe Lebara racheté par Waterland Private Equity en août 2024. En France, réseau hôte SFR depuis juin 2024 (Orange de 2022 à 2024, Bouygues Telecom auparavant) ; offres toujours sur SFR en septembre 2026.",
   "sources": [
    "https://www.resilier.com/guides/telecommunications/actu-lebara-orange",
    "https://bonforfait.fr/lebara",
@@ -33487,9 +33519,10 @@
   "moments": [
    "mensuel"
   ],
-  "note": "Répartition 50/50 entre Orange et le consortium Banque des Territoires / CNP Assurances / EDF Invest (cession de 2021) à confirmer en 2026.",
+  "note": "Orange Concessions SAS (siren 827475864) : conseil comprenant Orange Participations, la Caisse des Dépôts, Infra-Invest France et C71 (registre, 2026), cohérent avec la détention 50 % Orange / 50 % consortium Banque des Territoires, CNP Assurances et EDF Invest issue de la cession de 2021.",
   "sources": [
-   "https://www.orange.com/fr"
+   "https://www.orange.com/fr",
+   "https://recherche-entreprises.api.gouv.fr/search?q=orange%20concessions"
   ]
  },
  {
@@ -35208,9 +35241,10 @@
   "moments": [
    "soir"
   ],
-  "note": "Ancienne marque d'Edrington ; date de reprise non vérifiée.",
+  "note": "Marque reprise à Edrington par La Martiniquaise fin 2018 (acquisition rendue publique en novembre 2018).",
   "sources": [
-   "https://en.wikipedia.org/wiki/Cutty_Sark_(whisky)"
+   "https://en.wikipedia.org/wiki/Cutty_Sark_(whisky)",
+   "https://fr.wikipedia.org/wiki/La_Martiniquaise"
   ],
   "saisons": [
    "fete-des-peres"
@@ -35377,9 +35411,10 @@
    "courses",
    "week-end"
   ],
-  "note": "Marque propre Lidl vendue en arrivages ; rattachement non revérifié sur une source dédiée.",
+  "note": "Marque propre d'outillage de Lidl, vendue en arrivages.",
   "sources": [
-   "https://www.lidl.fr"
+   "https://www.lidl.fr",
+   "https://en.wikipedia.org/wiki/Parkside_(brand)"
   ],
   "saisons": [
    "fete-des-peres"
@@ -35573,7 +35608,7 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "≈ 154-158 agences ouvertes ou en cours (2025) ; OGF est entré en négociations exclusives pour l'acquérir (avril 2026), finalisation non vérifiée.",
+  "note": "≈ 154-158 agences ouvertes ou en préparation (2025) ; OGF est entré en négociations exclusives pour l'acquérir (communiqué du 8/04/2026) ; aucune finalisation trouvée à octobre 2026, à confirmer.",
   "sources": [
    "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-pompes-funebres-de-france-5489.htm",
    "https://www.businesswire.com/news/home/20260408712270/fr"
