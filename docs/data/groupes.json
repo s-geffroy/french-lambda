@@ -389,6 +389,7 @@
   "nom": "AD Seniors",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "500108642",
   "actionnaires": [
    {
     "nom": "Laurent Lartaud (président d'AD Développement, tête de réseau)",
@@ -561,6 +562,7 @@
   "nom": "ADMR",
   "pays_siege": "FR",
   "statut": "associatif",
+  "siren": "775666571",
   "actionnaires": [
    {
     "nom": "Associations locales (fédération)",
@@ -861,6 +863,8 @@
   "nom": "Groupe Alain Afflelou",
   "pays_siege": "FR",
   "statut": "fonds",
+  "siren": "751095712",
+  "lei": "969500I7CS80FNB7CZ43",
   "groupe_parent": "lion-capital",
   "actionnaires": [
    {
@@ -1041,7 +1045,8 @@
     "nom": "Groupement Les Mousquetaires",
     "id": "les-mousquetaires",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "344092093"
    }
   ],
   "description": "Pôle industriel agroalimentaire des Mousquetaires (dizaines d'usines, pêche Scapêche) fabriquant une partie des MDD d'Intermarché.",
@@ -1337,7 +1342,9 @@
     "nom": "H2O (holding financière, également majoritaire d'Oberthur)",
     "id": "h2o-holding",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "789624525",
+    "lei": "969500XIHGBRCAX5RT17"
    }
   ],
   "description": "Société propriétaire de la marque de cartables Tann's.",
@@ -1472,6 +1479,8 @@
   "nom": "Almaviva Santé",
   "pays_siege": "FR",
   "statut": "fonds",
+  "siren": "798067872",
+  "lei": "969500FZ90GO3VQI9485",
   "actionnaires": [
    {
     "nom": "Wren House Infrastructure (fonds souverain koweïtien)",
@@ -2140,6 +2149,7 @@
   "nom": "Groupe Aoste",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "420001257",
   "groupe_parent": "campofrio",
   "actionnaires": [
    {
@@ -2681,6 +2691,7 @@
   "nom": "Armor Lux",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "397534033",
   "actionnaires": [
    {
     "nom": "Jean-Guy Le Floch et Michel Gueguen (repreneurs en 1993)",
@@ -3016,6 +3027,7 @@
   "nom": "Assurland",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "430137828",
   "actionnaires": [
    {
     "nom": "Covéa (MAAF Assurances, Covéa Next, Covéa Coopérations, Financière Vivienne)",
@@ -3158,6 +3170,7 @@
   "nom": "Atol Les Opticiens",
   "pays_siege": "FR",
   "statut": "cooperatif",
+  "siren": "305219859",
   "actionnaires": [
    {
     "nom": "Opticiens adhérents",
@@ -3316,7 +3329,8 @@
     "nom": "Les Mousquetaires / Intermarché",
     "id": "les-mousquetaires",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "344092093"
    },
    {
     "nom": "Auchan Retail",
@@ -3408,7 +3422,9 @@
     "nom": "Picoty SAS (La Souterraine, famille fondatrice)",
     "id": "famille-picoty",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "777347386",
+    "lei": "9695002ZT9SZWJI33K50"
    }
   ],
   "description": "Marque commune de distributeurs pétroliers indépendants (AVIA International).",
@@ -3677,6 +3693,7 @@
   "nom": "Babilou Family",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "889271615",
   "actionnaires": [
    {
     "nom": "Antin Infrastructure Partners",
@@ -4082,6 +4099,8 @@
   "nom": "Bayard",
   "pays_siege": "FR",
   "statut": "associatif",
+  "siren": "542042486",
+  "lei": "9695009RO1TBYQDF0S61",
   "actionnaires": [
    {
     "nom": "Congrégation des Augustins de l'Assomption",
@@ -4173,6 +4192,8 @@
   "nom": "ZooParc de Beauval (SAS Zoo Parc de Beauval)",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "383578432",
+  "lei": "969500BJNGOGKQ43HO66",
   "actionnaires": [
    {
     "nom": "Famille Delord",
@@ -4297,6 +4318,7 @@
   "nom": "Belambra",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "508269651",
   "groupe_parent": "groupe-caravelle",
   "actionnaires": [
    {
@@ -4710,6 +4732,7 @@
   "nom": "Bistro Régent",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "481085488",
   "actionnaires": [
    {
     "nom": "Marc Vanhove (fondateur ; détention actuelle non vérifiée)",
@@ -6241,6 +6264,7 @@
   "nom": "Capfun",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "388269078",
   "actionnaires": [
    {
     "nom": "Groupe PHA (Pierre Houé et ses enfants)",
@@ -6540,6 +6564,8 @@
   "nom": "Groupe Castel (Castel Frères)",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "482283694",
+  "lei": "9695004E833OWFEYKQ86",
   "groupe_parent": "famille-castel",
   "actionnaires": [
    {
@@ -6637,6 +6663,8 @@
   "nom": "CCF (ex-My Money Group)",
   "pays_siege": "FR",
   "statut": "fonds",
+  "siren": "820982619",
+  "lei": "969500ULNMJWJWCKM704",
   "groupe_parent": "cerberus",
   "actionnaires": [
    {
@@ -6950,6 +6978,8 @@
   "nom": "Centrakor",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "380794511",
+  "lei": "969500PN8ZPHIPSJRR14",
   "actionnaires": [
    {
     "nom": "Cargo (holding toulousaine, associé unique)",
@@ -6973,6 +7003,8 @@
   "nom": "Groupe Centre France",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "856200159",
+  "lei": "969500LT1FQ2GR4AJ402",
   "actionnaires": [
    {
     "nom": "Fondation Alexandre et Marguerite Varenne",
@@ -7247,6 +7279,8 @@
   "nom": "Chaussea",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "330267691",
+  "lei": "969500L6PRNM2QJPO804",
   "actionnaires": [
    {
     "nom": "VGM Holding (famille Grieco)",
@@ -7974,6 +8008,7 @@
   "nom": "Columbus Café & Co",
   "pays_siege": "FR",
   "statut": "fonds",
+  "siren": "339592685",
   "actionnaires": [
    {
     "nom": "Mokaline (fonds, ≈2/3, donnée 2019)",
@@ -7992,6 +8027,8 @@
   "nom": "Combat (ex-Les Nouvelles Éditions Indépendantes)",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "514035187",
+  "lei": "969500YCJH1OZPHG6D63",
   "actionnaires": [
    {
     "nom": "Matthieu Pigasse",
@@ -8219,6 +8256,7 @@
   "nom": "Comtesse du Barry",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "396720310",
   "actionnaires": [
    {
     "nom": "Consortium de quatre entrepreneurs du Sud-Ouest (Ariane Daguin, Jérôme Lassus, Pascal Lannebère, Jérôme Sarciat)",
@@ -8367,6 +8405,8 @@
   "nom": "Convivio",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "397501917",
+  "lei": "969500EIUTEVTKG92B08",
   "actionnaires": [
    {
     "nom": "Famille Renou (holdings CJP, Luleen, Eina)",
@@ -10206,6 +10246,8 @@
   "nom": "ecosystem",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "830339362",
+  "lei": "984500BGO937640DRA04",
   "actionnaires": [
    {
     "nom": "Producteurs et distributeurs d'équipements électriques",
@@ -10243,6 +10285,7 @@
   "nom": "Eden Park",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "348790320",
   "actionnaires": [
    {
     "nom": "Franck Mesnel (cofondateur, président de Flanker SAS)",
@@ -10744,6 +10787,7 @@
   "nom": "ELIF (tête de réseau Les Déménageurs Bretons)",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "325131126",
   "actionnaires": [],
   "description": "Société qui a racheté en 1982 et développe en franchise le réseau Les Déménageurs Bretons ; actionnariat non publié.",
   "sources": [
@@ -11024,6 +11068,7 @@
   "nom": "Empruntis",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "429814395",
   "actionnaires": [
    {
     "nom": "Groupe Empruntis / Holding Empruntis (administrateurs : Mentor, Suka, Vigny Participation ; président Pierre de Buhren)",
@@ -11753,7 +11798,8 @@
     "nom": "Mouvement E.Leclerc",
     "id": "leclerc",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "784413486"
    },
    {
     "nom": "Rewe Group",
@@ -12002,6 +12048,7 @@
   "nom": "Evoriel (ex-Nexity administration de biens)",
   "pays_siege": "FR",
   "statut": "fonds",
+  "siren": "982446098",
   "groupe_parent": "bridgepoint",
   "actionnaires": [
    {
@@ -12944,8 +12991,6 @@
   "nom": "Groupe Holder (famille Holder)",
   "pays_siege": "FR",
   "statut": "familial",
-  "siren": "349557934",
-  "lei": "969500OS20X8NDXIP198",
   "actionnaires": [
    {
     "nom": "Famille Holder",
@@ -13432,6 +13477,8 @@
   "nom": "Groupe Picoty",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "777347386",
+  "lei": "9695002ZT9SZWJI33K50",
   "actionnaires": [
    {
     "nom": "Famille Picoty",
@@ -14358,6 +14405,8 @@
   "nom": "Fitness Park (Groupe Moving)",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "379818032",
+  "lei": "969500GN6TISV9WYRX22",
   "actionnaires": [
    {
     "nom": "Philippe Herbette (via Phgc et Gymspa)",
@@ -14515,6 +14564,8 @@
   "nom": "Florajet",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "388006603",
+  "lei": "894500AS00VWWPIUT371",
   "actionnaires": [
    {
     "nom": "Holding JIN (Philippe Lefrancq, Virginie Rolly)",
@@ -15207,7 +15258,8 @@
     "nom": "Mouvement E.Leclerc",
     "id": "leclerc",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "784413486"
    }
   ],
   "description": "Centrale d'achats nationale des centres E.Leclerc (créée en 1962).",
@@ -15221,6 +15273,8 @@
   "nom": "Groupe Galeries Lafayette",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "542094065",
+  "lei": "969500CLDCSLNS07CW91",
   "groupe_parent": "famille-moulin",
   "actionnaires": [
    {
@@ -15416,6 +15470,8 @@
   "nom": "Gedimat",
   "pays_siege": "FR",
   "statut": "cooperatif",
+  "siren": "301894630",
+  "lei": "969500X5KFX47UTJT971",
   "actionnaires": [
    {
     "nom": "Négociants indépendants associés",
@@ -15673,6 +15729,8 @@
   "nom": "Gibert Joseph",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "380816892",
+  "lei": "969500KFMF39RU1OJE29",
   "actionnaires": [
    {
     "nom": "Famille Gibert",
@@ -16076,6 +16134,8 @@
   "nom": "Groupe Amaury",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "552102121",
+  "lei": "969500UGFO0NOQ5VAQ28",
   "groupe_parent": "famille-amaury",
   "actionnaires": [
    {
@@ -16291,6 +16351,7 @@
   "nom": "Groupe Le Monde",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "433891850",
   "groupe_parent": "famille-niel",
   "actionnaires": [
    {
@@ -16341,6 +16402,8 @@
   "nom": "Groupe Rocher",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "349032946",
+  "lei": "549300G13KGT41PSDJ22",
   "groupe_parent": "famille-rocher",
   "actionnaires": [
    {
@@ -16574,6 +16637,8 @@
   "nom": "H2O (holding)",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "789624525",
+  "lei": "969500XIHGBRCAX5RT17",
   "actionnaires": [],
   "description": "Holding financière contrôlant Aliseo (Tann's) depuis 2014 et Oberthur ; actionnariat non publié.",
   "sources": [
@@ -16877,7 +16942,8 @@
     "nom": "Groupe Le Télégramme",
     "id": "le-telegramme",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "487661654"
    }
   ],
   "description": "Site d'emploi français (ex-RegionsJob, Rennes).",
@@ -17271,15 +17337,15 @@
   "nom": "Groupe Holder",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "349557934",
+  "lei": "969500OS20X8NDXIP198",
   "groupe_parent": "famille-holder",
   "actionnaires": [
    {
     "nom": "Famille Holder",
     "id": "famille-holder",
     "type": "famille",
-    "pays": "FR",
-    "siren": "349557934",
-    "lei": "969500OS20X8NDXIP198"
+    "pays": "FR"
    }
   ],
   "description": "Groupe de boulangerie-pâtisserie (Paul, Ladurée).",
@@ -17834,6 +17900,7 @@
   "nom": "Index Éducation",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "384351599",
   "groupe_parent": "docaposte",
   "actionnaires": [
    {
@@ -18227,6 +18294,7 @@
   "nom": "IONIS Education Group",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "391820826",
   "actionnaires": [
    {
     "nom": "Marc (Mardochée) Sellam (fondateur)",
@@ -18357,7 +18425,8 @@
     "nom": "Société Les Mousquetaires",
     "id": "les-mousquetaires",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "344092093"
    }
   ],
   "description": "Holding opérationnelle des Mousquetaires (enseignes, achats, logistique).",
@@ -18678,6 +18747,7 @@
   "nom": "JouéClub",
   "pays_siege": "FR",
   "statut": "cooperatif",
+  "siren": "457207249",
   "actionnaires": [
    {
     "nom": "Commerçants indépendants associés",
@@ -19434,6 +19504,8 @@
   "nom": "Krys Group",
   "pays_siege": "FR",
   "statut": "cooperatif",
+  "siren": "699804308",
+  "lei": "969500ZVSNPR1P2ENL12",
   "actionnaires": [
    {
     "nom": "Opticiens associés",
@@ -19592,6 +19664,7 @@
   "nom": "La Centrale (groupe)",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "318771623",
   "actionnaires": [
    {
     "nom": "OLX Group (Prosus)",
@@ -19643,6 +19716,8 @@
   "nom": "La Foir'Fouille",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "309966166",
+  "lei": "969500FFLBUZKAHLZ481",
   "actionnaires": [
    {
     "nom": "Ivan Rapoport (dirigeant) et management",
@@ -19673,7 +19748,8 @@
     "nom": "JouéClub",
     "id": "joueclub",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "457207249"
    }
   ],
   "description": "Enseigne de magasins de jouets.",
@@ -19783,7 +19859,9 @@
     "nom": "Groupe Galeries Lafayette",
     "id": "galeries-lafayette",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "542094065",
+    "lei": "969500CLDCSLNS07CW91"
    }
   ],
   "description": "Site de vente à distance de mode et maison (La Redoute Intérieurs, AM.PM).",
@@ -20274,6 +20352,7 @@
   "nom": "Le Choix Funéraire",
   "pays_siege": "FR",
   "statut": "cooperatif",
+  "siren": "384721619",
   "actionnaires": [
    {
     "nom": "Entreprises funéraires indépendantes adhérentes",
@@ -20339,6 +20418,8 @@
   "nom": "Groupe Le Duff",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "348939513",
+  "lei": "969500FHHVTOUVFFQS81",
   "groupe_parent": "famille-le-duff",
   "actionnaires": [
    {
@@ -20393,6 +20474,7 @@
   "nom": "Groupe Le Télégramme",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "487661654",
   "actionnaires": [
    {
     "nom": "Famille Coudurier",
@@ -20533,6 +20615,7 @@
   "nom": "Mouvement E.Leclerc (ACDLec)",
   "pays_siege": "FR",
   "statut": "cooperatif",
+  "siren": "784413486",
   "actionnaires": [
    {
     "nom": "Adhérents indépendants (propriétaires des centres E.Leclerc)",
@@ -20701,6 +20784,7 @@
   "nom": "Groupe Les Échos-Le Parisien",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "349037366",
   "groupe_parent": "lvmh",
   "actionnaires": [
    {
@@ -20725,6 +20809,7 @@
   "nom": "Groupement Les Mousquetaires",
   "pays_siege": "FR",
   "statut": "cooperatif",
+  "siren": "344092093",
   "actionnaires": [
    {
     "nom": "≈ 1 200 adhérents indépendants (Société civile des Mousquetaires)",
@@ -20817,6 +20902,8 @@
   "nom": "LFP Media",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "911615300",
+  "lei": "969500LWRVZJJ8UVJ685",
   "groupe_parent": "lfp",
   "actionnaires": [
    {
@@ -21122,6 +21209,8 @@
     "part_pct": 100,
     "type": "groupe",
     "pays": "FR",
+    "siren": "482283694",
+    "lei": "9695004E833OWFEYKQ86",
     "part_date": "2017-07-19"
    }
   ],
@@ -21446,6 +21535,7 @@
   "nom": "Boulangeries Louise",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "524324829",
   "actionnaires": [
    {
     "nom": "InVivo (via Teract)",
@@ -21996,6 +22086,8 @@
   "nom": "Maison Georges Dubœuf",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "686450248",
+  "lei": "969500MGVTJBQRQ57Y59",
   "actionnaires": [
    {
     "nom": "Famille Dubœuf",
@@ -22502,6 +22594,8 @@
   "nom": "Medadom",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "821788809",
+  "lei": "969500BA5XXAVCV23D41",
   "actionnaires": [
    {
     "nom": "Elie-Dan Mimouni et Nathaniel Bern (fondateurs, majoritaires)",
@@ -22608,7 +22702,9 @@
     "id": "publicis",
     "part_pct": 6.7,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "542080601",
+    "lei": "2138004KW8BV57III342"
    },
    {
     "nom": "Dentsu France",
@@ -22721,6 +22817,7 @@
   "nom": "Médor et Compagnie",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "449468693",
   "actionnaires": [
    {
     "nom": "Botanic",
@@ -23260,6 +23357,8 @@
   "nom": "MK2",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "405335076",
+  "lei": "969500A1MIHJIJM42J31",
   "actionnaires": [
    {
     "nom": "Famille Karmitz (via M.C.N.E. – Groupe MK2)",
@@ -23877,6 +23976,8 @@
   "nom": "Neoness",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "500731898",
+  "lei": "969500AIWRJ11RAF7P05",
   "actionnaires": [
    {
     "nom": "Groupe Bernard Hayot (GBH), via ICM Wellness",
@@ -24305,6 +24406,8 @@
   "nom": "Groupe Norac",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "479042285",
+  "lei": "969500S0SU0AQYPCKF15",
   "actionnaires": [
    {
     "nom": "Famille Caron (fondateur Bruno Caron ; présidence Julien Caron)",
@@ -24693,6 +24796,7 @@
   "nom": "Omnes Education",
   "pays_siege": "FR",
   "statut": "fonds",
+  "siren": "838719730",
   "actionnaires": [
    {
     "nom": "Cinven",
@@ -24714,6 +24818,7 @@
   "nom": "On Air Fitness",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "838645141",
   "actionnaires": [
    {
     "nom": "Famille Bolle (Jacques et Alexis Bolle, dirigeants d'On Air Développement)",
@@ -24788,6 +24893,8 @@
   "nom": "Groupe Onet",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "489504332",
+  "lei": "969500BYLS72MDYD1O34",
   "actionnaires": [
    {
     "nom": "Famille Reinaud",
@@ -24986,6 +25093,8 @@
   "nom": "Groupe Optic 2000 (Audioptic)",
   "pays_siege": "FR",
   "statut": "cooperatif",
+  "siren": "326980018",
+  "lei": "969500TBOAIM2M8YMQ45",
   "actionnaires": [
    {
     "nom": "Opticiens adhérents",
@@ -25563,6 +25672,8 @@
   "nom": "Brioche Pasquier",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "329263933",
+  "lei": "9695005W53YEH3IM4X54",
   "groupe_parent": "famille-pasquier",
   "actionnaires": [
    {
@@ -26732,6 +26843,8 @@
   "nom": "Promod",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "685420606",
+  "lei": "969500C7QC6Z1EIRQQ02",
   "actionnaires": [
    {
     "nom": "Famille Pollet (holding Promos Invest)",
@@ -26847,6 +26960,8 @@
   "nom": "Paris Saint-Germain",
   "pays_siege": "FR",
   "statut": "public",
+  "siren": "382357721",
+  "lei": "96950021OGUOTYRUC719",
   "groupe_parent": "qsi",
   "actionnaires": [
    {
@@ -26881,6 +26996,7 @@
   "nom": "Public Sénat",
   "pays_siege": "FR",
   "statut": "public",
+  "siren": "429528904",
   "actionnaires": [
    {
     "nom": "Sénat",
@@ -26899,6 +27015,8 @@
   "nom": "Publicis Groupe",
   "pays_siege": "FR",
   "statut": "cote",
+  "siren": "542080601",
+  "lei": "2138004KW8BV57III342",
   "actionnaires": [
    {
     "nom": "Holdings de la famille Élisabeth Badinter",
@@ -27837,6 +27955,7 @@
   "nom": "Groupe Rossignol",
   "pays_siege": "FR",
   "statut": "fonds",
+  "siren": "508758745",
   "actionnaires": [
    {
     "nom": "Altor (Fund III)",
@@ -28122,6 +28241,8 @@
   "nom": "Groupe Salins",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "412431744",
+  "lei": "9695005VQZW34CV0MJ55",
   "groupe_parent": "finachef",
   "actionnaires": [
    {
@@ -28144,6 +28265,8 @@
   "nom": "Samsic",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "403227796",
+  "lei": "969500PCD8FJLTSANH35",
   "actionnaires": [
    {
     "nom": "Christian Roulleau et famille",
@@ -28345,6 +28468,8 @@
   "nom": "Saur",
   "pays_siege": "FR",
   "statut": "fonds",
+  "siren": "495137077",
+  "lei": "969500I3QVK40XEORU25",
   "groupe_parent": "eqt",
   "actionnaires": [
    {
@@ -28438,7 +28563,8 @@
     "nom": "Mouvement E.Leclerc",
     "id": "leclerc",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "784413486"
    }
   ],
   "description": "Filiale du mouvement E.Leclerc qui conçoit et achète les marques de distributeur (Marque Repère, Eco+, Bio Village...).",
@@ -29497,6 +29623,8 @@
   "nom": "Sodebo",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "547350249",
+  "lei": "969500FPS98HMOOEIP45",
   "groupe_parent": "famille-bougro",
   "actionnaires": [
    {
@@ -29659,6 +29787,7 @@
   "nom": "Solidarité Sida",
   "pays_siege": "FR",
   "statut": "associatif",
+  "siren": "398613083",
   "actionnaires": [],
   "description": "Association organisatrice du festival Solidays.",
   "sources": [
@@ -29906,6 +30035,7 @@
   "nom": "Sport 2000 France",
   "pays_siege": "FR",
   "statut": "cooperatif",
+  "siren": "672018793",
   "actionnaires": [
    {
     "nom": "Commerçants associés",
@@ -30783,6 +30913,8 @@
   "nom": "Tediber",
   "pays_siege": "FR",
   "statut": "fonds",
+  "siren": "901680058",
+  "lei": "969500SH3GBPVFPLFG09",
   "actionnaires": [
    {
     "nom": "Parquest",
@@ -31192,6 +31324,8 @@
   "nom": "Thiriet",
   "pays_siege": "FR",
   "statut": "familial",
+  "siren": "301850731",
+  "lei": "969500KWSXWI0TTA4Q47",
   "actionnaires": [
    {
     "nom": "Famille Thiriet (Claude Thiriet)",
@@ -31714,6 +31848,8 @@
   "nom": "TV5Monde",
   "pays_siege": "FR",
   "statut": "public",
+  "siren": "381962612",
+  "lei": "969500VK882CR8AXCT18",
   "actionnaires": [
    {
     "nom": "France Télévisions",
@@ -31903,6 +32039,8 @@
   "nom": "UGC",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "562038182",
+  "lei": "969500K4VGQ8QOLVUI18",
   "actionnaires": [
    {
     "nom": "Actionnaires historiques d'UGC",
@@ -33094,6 +33232,7 @@
   "nom": "Vousfinancer",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "480188176",
   "actionnaires": [
    {
     "nom": "Assu 2000 Participations (groupe Vilavi, présidée par Claude Zaouati)",
@@ -33231,6 +33370,8 @@
   "nom": "W Group",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "803290782",
+  "lei": "969500MH25KCI9U22048",
   "actionnaires": [],
   "description": "Holding qui contrôle Wonderbox ; actionnariat non publié.",
   "sources": [
@@ -33570,7 +33711,9 @@
     "nom": "W Group (contrôle exclusif)",
     "id": "w-group",
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "803290782",
+    "lei": "969500MH25KCI9U22048"
    }
   ],
   "description": "Émetteur français de coffrets cadeaux ; son projet de rachat de Smartbox (2023) n'a pas abouti.",
@@ -33852,6 +33995,7 @@
   "nom": "Yelloh! Village",
   "pays_siege": "FR",
   "statut": "prive",
+  "siren": "432366839",
   "actionnaires": [
    {
     "nom": "Propriétaires de campings fondateurs (Bernard Sauvaire, Robert Giner, Roger Pla, Hugues Mirabel)",
