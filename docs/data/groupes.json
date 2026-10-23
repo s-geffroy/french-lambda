@@ -11193,43 +11193,61 @@
   "lei": "LAXUQCHT4FH58LRZDY46",
   "actionnaires": [
    {
-    "nom": "État français",
+    "nom": "État français (APE)",
     "id": "etat-francais",
+    "part_pct": 22.64,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-04-21"
+   },
+   {
+    "nom": "The Capital Group",
+    "part_pct": 6.25,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "BlackRock",
+    "id": "blackrock",
+    "part_pct": 6.79,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2026-02-27",
+    "lei": "529900VBK42Y5HHRMD23"
    },
    {
     "nom": "Salariés",
-    "part_pct": 3.86,
+    "part_pct": 4.03,
     "type": "salaries",
     "pays": "FR",
-    "part_date": "2025"
+    "part_date": "2025-12-31"
    },
    {
-    "nom": "CDC et CNP Assurances",
+    "nom": "Caisse des dépôts",
     "id": "caisse-des-depots",
-    "part_pct": 3.2,
+    "part_pct": 3.36,
     "type": "public",
     "pays": "FR",
+    "part_date": "2025-12-31",
     "siren": "180020026",
-    "lei": "969500Q2PFTTP0Y5QL44",
-    "part_date": "2025"
+    "lei": "969500Q2PFTTP0Y5QL44"
    },
    {
-    "nom": "Flottant (dont BlackRock)",
-    "part_pct": 61.9,
+    "nom": "Flottant / public",
     "type": "flottant",
-    "pays": "XX",
-    "part_date": "2025"
+    "pays": "XX"
    }
   ],
   "description": "Énergéticien (gaz, électricité, réseaux, services).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Engie",
-   "https://www.engie.com/actionnaires",
-   "https://www.economie.gouv.fr/agence-participations-etat"
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307627875_20260507.pdf",
+   "https://www.engie.com/app/uploads/2026/04/Document-denregistrement-universel-2025.pdf",
+   "https://www.engie.com/app/uploads/2026/07/CP-resultat-ABB.pdf",
+   "https://www.engie.com/actionnaires"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Parts en capital. L'État détient 575 693 307 actions, soit 22,64 % du capital et 33,76 % des droits de vote (droits de vote doubles) selon la déclaration AMF du 21/04/2026 ; il avait 23,64 % avant l'augmentation de capital du 27/02/2026, à laquelle il n'a pas participé. Les autres parts datent du 31/12/2025 (document d'enregistrement universel), sauf BlackRock (27/02/2026)."
  },
  {
   "id": "eni",
@@ -25251,43 +25269,43 @@
    {
     "nom": "État français (APE)",
     "id": "etat-francais",
-    "part_pct": 13.3,
+    "part_pct": 13.39,
     "type": "etat",
     "pays": "FR",
-    "part_date": "2026-08-04"
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Bpifrance Participations",
     "id": "bpifrance",
-    "part_pct": 7.1,
+    "part_pct": 7.06,
     "type": "public",
     "pays": "FR",
+    "part_date": "2026-07-31",
     "siren": "320252489",
-    "lei": "969500STN7T9MRUMJ267",
-    "part_date": "2026-08-04"
+    "lei": "969500STN7T9MRUMJ267"
    },
    {
     "nom": "Salariés",
+    "part_pct": 8.15,
     "type": "salaries",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
    },
    {
-    "nom": "Flottant / public",
+    "nom": "Flottant / public (dont BlackRock ≈ 5,7 %)",
     "type": "flottant",
     "pays": "XX"
    }
   ],
   "description": "Opérateur télécom historique (Orange, Sosh), premier opérateur fixe et mobile en France.",
   "sources": [
-   "https://bourse.fortuneo.fr/actualites/bpifrance-s-allege-au-capital-d-orange-via-un-placement-accelere-8712421",
-   "https://www.universfreebox.com/article/596375/letat-annonce-la-cession-de-25-dorange-pour-11-milliard-deuros/amp",
-   "https://fr.wikipedia.org/wiki/Orange_(entreprise)",
-   "https://www.orange.com/fr/actionnaires",
-   "https://www.orange.com/fr/finance/actionnaires/structure-du-capital",
-   "https://www.economie.gouv.fr/agence-participations-etat"
+   "https://presse.bpifrance.fr/bpifrance-cede-avec-succes-environ-25-du-capital-dorange-via-un-placement-accelere/?lang=fra",
+   "https://bdif.amf-france.org/back/api/v1/documents/2026/226C1231/87F0AA931925DEE168C827BE5BF9D18E8C38C20E6B647E92C8E8B93A377D631D.pdf",
+   "https://assets.orange.com/medias/domain12751/media101746/523986-yvts1td99t-75.pdf",
+   "https://www.orange.com/fr/finance/actionnaires/structure-du-capital"
   ],
   "verifie_le": "2026-10",
-  "note": "Après la cession par Bpifrance de 2,5 % du capital (placement du 31/07/2026, règlement le 4/08/2026), l'État et Bpifrance détiennent de concert ≈ 20,4 % du capital et ≈ 27 % des droits de vote, dont Bpifrance ≈ 7,1 %."
+  "note": "Parts en capital. Bpifrance a cédé environ 2,5 % du capital par placement accéléré le 31/07/2026 (règlement le 4/08/2026) : elle détient 7,06 % du capital et 5,91 % des droits de vote (déclaration AMF du 6/08/2026), contre 9,56 % au 31/12/2025. L'État détient 13,39 % du capital (21,04 % des droits de vote au 31/12/2025) ; de concert avec Bpifrance, environ 20,4 % du capital et 27 % des droits de vote."
  },
  {
   "id": "orange-bleue",
@@ -34000,22 +34018,25 @@
     "pays": "FR",
     "siren": "794661470",
     "lei": "5493001ZMCICV4N02J21",
-    "part_date": "2026-04"
+    "part_date": "2019"
    },
    {
-    "nom": "OMERS, Allianz, AXA IM (ensemble)",
+    "nom": "Consortium OMERS Infrastructure, Allianz Capital Partners, AXA IM Real Assets",
     "part_pct": 49.99,
     "type": "fonds",
     "pays": "XX",
-    "part_date": "2026-04"
+    "part_date": "2019"
    }
   ],
-  "description": "Opérateur d'infrastructure fibre (ex-SFR FTTH), exclu du périmètre de la vente de SFR ; la part d'Altice est en vente (finalistes cités : KKR, Vauban, Brookfield, DigitalBridge).",
+  "description": "Opérateur d'infrastructure fibre (ex-SFR FTTH), exclu du périmètre de la vente de SFR ; la part d'Altice est en vente.",
   "sources": [
-   "https://www.universfreebox.com/article/593189/sfr-la-vente-de-son-reseau-fibre-saccelere-quatre-finalistes-en-competition/amp",
+   "https://www.omers.com/news/omers-allianz-and-axa-im-real-assets-announce-investment-in-altice-france-s-fibre-to-the-home-business",
+   "https://ionanalytics.com/insights/infralogic/vauban-brookfield-ready-binding-offers-for-xpfibre/",
+   "https://www.datacenterdynamics.com/en/news/bidders-line-up-to-snap-up-majority-stake-in-french-fiber-company-xpfibre-report/",
    "https://www.orange.com/fr/communiques/signature-dun-protocole-daccord-en-vue-de-lacquisition-de-sfr-476229"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Répartition fixée lors de l'entrée du consortium en 2019. Vente de la part d'Altice : en juin 2026, Vauban (avec GIC) et Brookfield préparaient des offres fermes ; aucun acquéreur annoncé à ce jour."
  },
  {
   "id": "xpo",
