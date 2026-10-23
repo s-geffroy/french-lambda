@@ -1,1 +1,14 @@
-{}
+{
+ "marcel": {
+  "nouvel": "snapcar",
+  "date": "2026-10-23",
+  "motif": "fusion",
+  "note": "Marcel absorbée par SnapCar (LeCab), radiée en janvier 2025."
+ },
+ "zenpark": {
+  "nouvel": "yespark",
+  "date": "2026-10-23",
+  "motif": "fusion",
+  "note": "Zenpark absorbée par Yespark (fusion simplifiée, société fermée le 31/12/2025)."
+ }
+}

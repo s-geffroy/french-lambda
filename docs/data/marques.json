@@ -654,7 +654,7 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "Souvent incluse via la carte bancaire ou le contrat auto.",
+  "note": "Souvent incluse via la carte bancaire ou le contrat auto. Devient Redion (annonce Generali du 26/05/2026) ; site édité par Redion France.",
   "sources": [
    "https://www.europ-assistance.fr"
   ]
@@ -10896,7 +10896,7 @@
   "moments": [
    "occasionnel"
   ],
-  "note": "OGF détenu depuis 2017 par Ontario Teachers' (74 %), Pamplona (20 %) et le management (6 %) ; aucune cession ultérieure relevée par Wikipédia ni par la presse consultée.",
+  "note": "OGF détenu depuis 2017 par Ontario Teachers' (74 %), Pamplona (20 %) et le management (6 %) ; une cession est à l'étude selon la presse (sept. 2026), sans acquéreur annoncé.",
   "sources": [
    "https://www.paulhastings.com/news/news-ogf-group-in-majority-takeover-by-ontario-teachers-pension-plan",
    "https://www.privateequitywire.co.uk/ontario-teachers-acquires-additional-ogf-stake-pamplona/",
@@ -17332,7 +17332,7 @@
    "soir",
    "week-end"
   ],
-  "note": "Cédé par GameStop en 2026.",
+  "note": "Cédé par GameStop à un consortium mené par Stephan Tétrault (annonce du 16/07/2026).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Micromania-Zing"
   ]
@@ -26208,7 +26208,7 @@
  {
   "id": "marcel-marque",
   "marque": "Marcel",
-  "groupe": "marcel",
+  "groupe": "snapcar",
   "categorie": "mobilite",
   "sous_categorie": "VTC",
   "nature": "direct",
@@ -26217,8 +26217,10 @@
    "occasionnel"
   ],
   "sources": [
-   "https://www.marcel.cab/"
-  ]
+   "https://www.marcel.cab/",
+   "https://www.ashurst.com/en/who-we-are/our-news-work-market-recognition/ashurst-advises-lecab-on-the-acquisition-of-marcel"
+  ],
+  "note": "Rachetée à 100 % par LeCab en 2024 ; la société Marcel a été absorbée par SnapCar (radiée en janvier 2025)."
  },
  {
   "id": "mercedes-benz",
@@ -27439,7 +27441,7 @@
  {
   "id": "zenpark-marque",
   "marque": "Zenpark",
-  "groupe": "zenpark",
+  "groupe": "yespark",
   "categorie": "mobilite",
   "sous_categorie": "Parking partagé",
   "nature": "direct",
@@ -27448,7 +27450,8 @@
   ],
   "sources": [
    "https://zenpark.com/"
-  ]
+  ],
+  "note": "Une marque du groupe Yespark depuis le rachat de mars 2025 ; la société Zenpark a été absorbée (fermée le 31/12/2025)."
  },
  {
   "id": "skoda",

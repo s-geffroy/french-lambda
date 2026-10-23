@@ -1400,7 +1400,7 @@
  },
  {
   "id": "allianz-partners",
-  "nom": "Allianz Partners",
+  "nom": "AWP France (Mondial Assistance)",
   "pays_siege": "FR",
   "statut": "prive",
   "groupe_parent": "allianz",
@@ -1408,17 +1408,20 @@
    {
     "nom": "Allianz SE",
     "id": "allianz",
-    "part_pct": 100.0,
+    "type": "groupe",
     "pays": "DE",
-    "lei": "529900K9B0N5BT694847",
-    "type": "groupe"
+    "lei": "529900K9B0N5BT694847"
    }
   ],
-  "description": "Assistance et assurance voyage (Mondial Assistance, Allyz), siège à Saint-Denis.",
+  "description": "Assistance et assurance voyage du groupe Allianz en France (Mondial Assistance, Allianz Travel), siège à Saint-Ouen-sur-Seine.",
   "sources": [
-   "https://www.allianz-partners.com"
+   "https://www.allianz-partners.com",
+   "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202600764672",
+   "https://recherche-entreprises.api.gouv.fr/search?q=490381753"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "siren": "490381753",
+  "note": "Allianz Partners SAS a été absorbée par Allianz Partners GmbH (Munich) par fusion transfrontalière (fermée au registre le 28/05/2026) ; Mondial Assistance est portée en France par AWP France SAS, détenue indirectement par Allianz SE."
  },
  {
   "id": "allovoisins",
@@ -4713,19 +4716,44 @@
   "actionnaires": [
    {
     "nom": "Famille Eimer",
-    "pays": "FR",
-    "type": "famille"
+    "type": "famille",
+    "pays": "FR"
    },
    {
     "nom": "Famille De Raedt-Verheyden",
-    "pays": "BE",
-    "type": "famille"
+    "type": "famille",
+    "pays": "BE"
+   },
+   {
+    "nom": "La Caisse (CDPQ)",
+    "id": "cdpq",
+    "type": "fonds",
+    "pays": "CA",
+    "lei": "HWR6ATEU4L0XN8IT6Y39"
+   },
+   {
+    "nom": "ICG",
+    "type": "fonds",
+    "pays": "GB"
+   },
+   {
+    "nom": "EMZ Partners",
+    "type": "fonds",
+    "pays": "FR"
+   },
+   {
+    "nom": "Dirigeants et biologistes associés",
+    "type": "salaries",
+    "pays": "FR"
    }
   ],
   "description": "Premier réseau de laboratoires de biologie médicale en France.",
-  "note": "Groupe familial ; répartition actuelle non publiée.",
+  "note": "Groupe familial (présidé par Isabelle Eimer depuis juin 2022, après le décès de Stéphane Eimer) ; minoritaires financiers La Caisse (CDPQ, entrée en 2018), ICG et EMZ, encore cités lors du refinancement de mai 2026. Répartition non publiée.",
   "sources": [
-   "https://invest.biogroup.fr"
+   "https://invest.biogroup.fr",
+   "https://invest.biogroup.fr/?p=189",
+   "https://finance.yahoo.com/news/laboratoire-eimer-moodys-assigns-b2-200229457.html",
+   "https://www.cfnews.net/L-actualite/Dette/Operations/Biogroup-reussit-l-examen-du-refinancement-698268"
   ],
   "verifie_le": "2026-10"
  },
@@ -7541,18 +7569,20 @@
   "groupe_parent": "fosun",
   "actionnaires": [
    {
-    "nom": "Fosun (Fosun Tourism Group)",
+    "nom": "Fosun International (via ClubMed Lifestyle Group)",
     "id": "fosun",
     "type": "groupe",
     "pays": "CN",
     "lei": "213800Z99WQEXDF82F09"
    }
   ],
-  "description": "Villages de vacances haut de gamme ; directeur général remplacé en juillet 2025 après un désaccord sur une IPO.",
+  "description": "Villages de vacances haut de gamme, contrôlés par Fosun International.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Club_Med"
+   "https://fr.wikipedia.org/wiki/Club_Med",
+   "https://www.boursorama.com/actualite-economique/actualites/club-med-sera-cote-a-la-bourse-de-hong-kong-au-sein-d-une-nouvelle-entite-annonce-son-proprietaire-7f4d4691e6a57ac45674722e89cc0f4d"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Fosun Tourism Group a été retiré de la cote de Hong Kong le 19/03/2025. ClubMed Lifestyle Group a déposé le 28/08/2026 une demande d'introduction en bourse à Hong Kong et doit rester une filiale de Fosun International."
  },
  {
   "id": "cma-cgm",
@@ -7874,16 +7904,32 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Mathieu Thomazeau et équipe dirigeante",
+    "nom": "Mathieu Thomazeau et équipe dirigeante (bloc majoritaire)",
     "type": "personne",
+    "pays": "FR"
+   },
+   {
+    "nom": "Société Générale Capital Partenaires",
+    "id": "societe-generale",
+    "type": "groupe",
+    "pays": "FR",
+    "siren": "552120222",
+    "lei": "O2RNE8IBXP4R0TD8PU41"
+   },
+   {
+    "nom": "Crédit Agricole (Grand Sud Ouest Capital, IDIA, NMP Développement)",
+    "id": "credit-agricole",
+    "type": "groupe",
     "pays": "FR"
    }
   ],
   "description": "Groupe de plats cuisinés appertisés (William Saurin, Garbit, Zapetti).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Cofigeo"
+   "https://fr.wikipedia.org/wiki/Cofigeo",
+   "https://www.ca-idia.com/actualite/cofigeo-reorganise-son-capital-pour-entamer-une-phase-de-croissance/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Capital réorganisé en juillet 2020 : Mathieu Thomazeau contrôle le bloc majoritaire, Société Générale Capital Partenaires et le Crédit Agricole restent investisseurs. Répartition non publiée."
  },
  {
   "id": "cofra",
@@ -7963,9 +8009,11 @@
    }
   ],
   "description": "Groupe d'Ehpad et services à domicile.",
-  "note": "EQT Infrastructure sort au profit des prêteurs (accord de lock-up déc. 2025).",
+  "note": "Plan de sauvegarde accélérée arrêté par le tribunal des activités économiques de Paris le 20/04/2026 (environ 680 M€ de dette convertis en capital) ; restructuration finalisée en mai 2026, les prêteurs devenant actionnaires et EQT Infrastructure sortant. Les nouveaux actionnaires ne sont pas nommés officiellement.",
   "sources": [
-   "https://eqtgroup.com/news/eqt-portfolio-company-colisee-to-change-ownership-2025-12-08"
+   "https://eqtgroup.com/news/eqt-portfolio-company-colisee-to-change-ownership-2025-12-08",
+   "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202600861676",
+   "https://www.lw.com/fr/news/2026/05/latham-advises-colisee-group-on-the-completion-of-its-financial-restructuring"
   ],
   "verifie_le": "2026-10"
  },
@@ -11844,7 +11892,7 @@
  },
  {
   "id": "europ-assistance",
-  "nom": "Europ Assistance",
+  "nom": "Redion (ex-Europ Assistance)",
   "pays_siege": "FR",
   "statut": "prive",
   "siren": "632016382",
@@ -11860,11 +11908,14 @@
     "type": "groupe"
    }
   ],
-  "description": "Assistance (auto, voyage, domicile) du groupe Generali.",
+  "description": "Assistance (auto, voyage, domicile) du groupe Generali ; Europ Assistance devient Redion, marque mondiale des activités « Care » de Generali.",
   "sources": [
-   "https://www.europ-assistance.fr"
+   "https://www.europ-assistance.fr",
+   "https://presse.generali.fr/actualites/le-groupe-generali-revele-redion-la-nouvelle-marque-mondiale-des-activites-care-du-groupe-qui-reunit-europ-assistance-et-generali-employee-benefits-c362e-a5035.html",
+   "https://www.europ-assistance.fr/mentions-legales"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Redion annoncée le 26/05/2026 (réunit Europ Assistance et Generali Employee Benefits). Les sociétés françaises portent désormais le nom Redion (Redion Holding, Redion France…) ; la marque Europ Assistance reste affichée pendant la transition. Taux de détention par Generali non republié en 2026."
  },
  {
   "id": "europacorp",
@@ -16724,11 +16775,13 @@
     "pays": "FR"
    }
   ],
-  "description": "Fabricant de cahiers et classeurs (Oxford, Elba).",
+  "description": "Fabricant de cahiers et fournitures scolaires (Oxford, Elba, Herlitz, Pelikan).",
   "sources": [
-   "https://www.hamelin.com/"
+   "https://www.hamelin.com/",
+   "https://thepelikansperch.com/2023/07/01/pelikan-sold-to-the-hamelin-group/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Holdham, holding de Hamelin, a racheté en 2023 Pelikan Group (Pelikan, Herlitz) à Pelikan International."
  },
  {
   "id": "haribo",
@@ -18037,12 +18090,16 @@
     "type": "fonds"
    }
   ],
-  "description": "Fabricant de terminaux de paiement (TPE), cédé par Worldline à Apollo en 2022.",
+  "description": "Fabricant de terminaux de paiement (TPE), cédé par Worldline à Apollo en 2022 ; holding Poseidon Holdco.",
   "sources": [
    "https://www.ingenico.com",
-   "https://ingenico.com/en/newsroom/press-releases/ingenico-launches-independent-company-following-acquisition-apollo-private"
+   "https://ingenico.com/en/newsroom/press-releases/ingenico-launches-independent-company-following-acquisition-apollo-private",
+   "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32026M12601",
+   "https://www.boursorama.com/bourse/actualites/bruxelles-autorise-le-rachat-d-ingenico-par-allianz-ce4076e8af4483bcf913f9f4c2639eff"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "siren": "909465700",
+  "note": "Accord annoncé le 17/08/2026 : réorganisation du capital avec 150 M€ apportés par des investisseurs menés par PIMCO (groupe Allianz), Apollo sortant. La Commission européenne a autorisé le 11/09/2026 la prise de contrôle exclusif de Poseidon Holdco par Allianz via PIMCO (affaire M.12601) ; réalisation non annoncée à ce jour."
  },
  {
   "id": "ingka",
@@ -18479,7 +18536,7 @@
  },
  {
   "id": "izivia",
-  "nom": "Izivia",
+  "nom": "EDF business services (ex-Izivia)",
   "pays_siege": "FR",
   "statut": "public",
   "siren": "419070180",
@@ -18495,11 +18552,14 @@
     "type": "groupe"
    }
   ],
-  "description": "Filiale d'EDF de recharge de véhicules électriques.",
+  "description": "Filiale d'EDF : recharge de véhicules électriques (marque Izivia), pilotage de la recharge et génie électrique.",
   "sources": [
-   "https://www.izivia.com/"
+   "https://www.izivia.com/",
+   "https://www.izivia.com/mentions-legales",
+   "https://edf-business-services.com/qui-sommes-nous/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "La société Izivia a pris le nom EDF business services (assemblée du 28/01/2026) et regroupe depuis le 1/02/2026 Izivia, Dreev et Dalkia Electrotechnics ; la marque Izivia continue (site, application)."
  },
  {
   "id": "jab",
@@ -22318,28 +22378,6 @@
   "verifie_le": "2026-10"
  },
  {
-  "id": "marcel",
-  "nom": "Marcel",
-  "pays_siege": "FR",
-  "statut": "prive",
-  "actionnaires": [
-   {
-    "nom": "LeCab",
-    "type": "groupe",
-    "pays": "FR",
-    "part_pct": 100.0
-   }
-  ],
-  "description": "Société de VTC premium parisienne.",
-  "note": "Cédée par Renault (RCI) à Ascom Invest (J.-L. Mosca) le 14/10/2020, puis rachetée à 100 % par la plateforme VTC LeCab.",
-  "sources": [
-   "https://www.marcel.cab/",
-   "https://journalauto.com/services/ascom-invest-bymycar-reprend-les-vtc-marcel",
-   "https://www.voyages-d-affaires.com/?p=175257"
-  ],
-  "verifie_le": "2026-10"
- },
- {
   "id": "marie-blachere",
   "nom": "Marie Blachère",
   "pays_siege": "FR",
@@ -23254,16 +23292,20 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Consortium franco-canadien mené par Stéphane Tétrault",
+    "nom": "Consortium franco-québécois mené par Stephan Tétrault (Holding Micromania Europe)",
     "type": "personne",
     "pays": "CA"
    }
   ],
-  "description": "Premier distributeur spécialisé de jeux vidéo, cédé par GameStop en 2026.",
+  "description": "Premier distributeur spécialisé de jeux vidéo, cédé par GameStop en 2026 (Micromania Group).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Micromania-Zing"
+   "https://fr.wikipedia.org/wiki/Micromania-Zing",
+   "https://next.ink/247712/un-consortium-franco-canadien-reprend-micromania/",
+   "https://recherche-entreprises.api.gouv.fr/search?q=508887502"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "siren": "508887502",
+  "note": "Reprise annoncée le 16/07/2026 par un consortium mené par Stephan Tétrault (EB Games Canada), via Holding Micromania Europe (SIREN 103561858). Prix et répartition non publiés."
  },
  {
   "id": "microsoft",
@@ -24549,21 +24591,27 @@
  },
  {
   "id": "novamex",
-  "nom": "Novamex",
+  "nom": "Sodalis France (ex-Novamex)",
   "pays_siege": "FR",
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Famille fondatrice (actionnariat non publié)",
-    "type": "famille",
-    "pays": "FR"
+    "nom": "Sodalis",
+    "id": "sodalis",
+    "type": "groupe",
+    "pays": "IT"
    }
   ],
-  "description": "PME familiale de produits d'entretien et d'hygiène écologiques (L'Arbre Vert).",
+  "description": "Fabricant de produits d'entretien et d'hygiène écologiques (L'Arbre Vert), aux Taillades (Vaucluse).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/L'Arbre_vert"
+   "https://fr.wikipedia.org/wiki/L'Arbre_vert",
+   "https://recherche-entreprises.api.gouv.fr/search?q=337796064",
+   "https://www.lemondedudroit.fr/deals/12480-dla-piper-conseille-les-actionnaires-dinventia.html"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "siren": "337796064",
+  "groupe_parent": "sodalis",
+  "note": "Novamex, rachetée par le groupe italien Sodalis en 2015 (via Inventia), a pris le nom Sodalis France en 2025."
  },
  {
   "id": "novo-holdings",
@@ -24722,7 +24770,7 @@
  },
  {
   "id": "ocp-repartition",
-  "nom": "OCP Répartition",
+  "nom": "Phoenix OCP (ex-OCP Répartition)",
   "pays_siege": "FR",
   "statut": "prive",
   "groupe_parent": "phoenix-group",
@@ -24739,9 +24787,13 @@
   ],
   "description": "Grossiste-répartiteur pharmaceutique (≈ 39 dépôts).",
   "sources": [
-   "https://www.autoritedelaconcurrence.fr/en/press-release/pharmaceutical-distribution-sector-autorite-clears-acquisition-ocp-repartition"
+   "https://www.autoritedelaconcurrence.fr/en/press-release/pharmaceutical-distribution-sector-autorite-clears-acquisition-ocp-repartition",
+   "https://www.ocp.fr/mentions-legales",
+   "https://recherche-entreprises.api.gouv.fr/search?q=582137436"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "siren": "582137436",
+  "note": "OCP Répartition a été absorbée par Phoenix Pharma (effet au 31/01/2024), renommée Phoenix OCP le 1/02/2024 ; les marques OCP et Phoenix Pharma coexistent."
  },
  {
   "id": "octopus-energy",
@@ -24816,9 +24868,13 @@
   "description": "Premier groupe funéraire français (~1 100 agences, 72 crématoriums).",
   "sources": [
    "https://otpp.com/fr-ca/a-propos-de-nous/reflexions-et-nouvelles/2017/ontario-teachers-buys-additional-stake-in-frances-leading-funer/",
-   "https://www.paulhastings.com/news/news-ogf-group-in-majority-takeover-by-ontario-teachers-pension-plan"
+   "https://www.paulhastings.com/news/news-ogf-group-in-majority-takeover-by-ontario-teachers-pension-plan",
+   "https://recherche-entreprises.api.gouv.fr/search?q=828160069",
+   "https://lessentieldeleco.fr/9050-pfg-roc-eclerc-qui-controle-le-funeraire-francais"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "siren": "828160069",
+  "note": "OGF SA (SIREN 542076799) a été absorbée le 1/11/2025 par sa société mère Obol France 3, devenue OGF Services Funéraires ; holdings françaises Obol France 1, 2 et 2.5 au-dessus. Ontario Teachers' reste majoritaire ; selon la presse (L'Agefi, sept. 2026), il a mandaté une banque pour étudier une cession, sans acquéreur annoncé."
  },
  {
   "id": "ohm-energie",
@@ -25507,7 +25563,7 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Famille Kobayashi (fondateurs de Paloma)",
+    "nom": "Famille Kobayashi (contrôle présumé, actionnariat non publié)",
     "type": "famille",
     "pays": "JP"
    }
@@ -25516,9 +25572,11 @@
   "sources": [
    "https://www.palomaglobal.com/company/outline.html",
    "https://en.wikipedia.org/wiki/Rheem_Manufacturing_Company",
-   "https://www.coolingpost.com/world-news/paloma-rheem-completes-groupe-atlantic-purchase"
+   "https://www.coolingpost.com/world-news/paloma-rheem-completes-groupe-atlantic-purchase",
+   "https://www.paloma.co.jp/vc-files/news/2024/2403-004_kigyo.pdf"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Holding créée en octobre 2023, détenant Paloma et Rheem à 100 % ; dirigée par Hiroaki Kobayashi. Ses actionnaires ne sont pas publiés."
  },
  {
   "id": "pandora",
@@ -28579,11 +28637,12 @@
   "groupe_parent": "soparind",
   "actionnaires": [
    {
-    "nom": "Soparind SCA",
+    "nom": "Savencia Holding SCA",
     "type": "groupe",
     "id": "soparind",
     "part_pct": 66.64,
-    "pays": "FR"
+    "pays": "FR",
+    "siren": "679808147"
    },
    {
     "nom": "Northern Trust",
@@ -28977,7 +29036,7 @@
  },
  {
   "id": "sgm",
-  "nom": "Société des Grands Magasins (SGM)",
+  "nom": "Groupe SGM (Société des Grands Magasins)",
   "pays_siege": "FR",
   "statut": "familial",
   "actionnaires": [
@@ -28990,10 +29049,12 @@
   "description": "Société de Frédéric Merlin exploitant des grands magasins en région (Angers, Le Mans, Limoges, Dijon, Grenoble…) ; propriétaire du BHV Marais de 2023 à 2026.",
   "sources": [
    "https://fr.fashionnetwork.com/news/Le-bhv-marais-cede-par-la-sgm-a-la-direction-du-grand-magasin,1840356.html",
-   "https://fr.wikipedia.org/wiki/BHV_Marais"
+   "https://fr.wikipedia.org/wiki/BHV_Marais",
+   "https://recherche-entreprises.api.gouv.fr/search?q=815078779"
   ],
   "verifie_le": "2026-10",
-  "note": "A cédé le fonds de commerce du BHV Marais à son équipe dirigeante (accord signé, annoncé le 16/06/2026) ; les murs appartiennent à Brookfield depuis janvier 2026."
+  "note": "A cédé le fonds de commerce du BHV Marais à son équipe dirigeante (accord signé, annoncé le 16/06/2026) ; les murs appartiennent à Brookfield depuis janvier 2026. Chaîne au registre : Frédéric Merlin Participations → Groupe SGM → SGM Family → SGM Commerce ; les grands magasins de région sont exploités par la Société d'exploitation des grands magasins (SEGM, SIREN 907824817).",
+  "siren": "815078779"
  },
  {
   "id": "sgs",
@@ -29216,10 +29277,11 @@
   "description": "Villages de mobil-homes (France, Pays-Bas).",
   "sources": [
    "https://www.siblu.fr/",
-   "https://fr.wikipedia.org/wiki/Siblu"
+   "https://fr.wikipedia.org/wiki/Siblu",
+   "https://www.cfnews.net/L-actualite/Exclusif-CFNEWS/Siblu-en-exclusivite-chez-un-fonds-de-real-estate-748108"
   ],
   "verifie_le": "2026-10",
-  "note": "Naxicap Partners actionnaire majoritaire depuis fin 2019."
+  "note": "Naxicap Partners actionnaire majoritaire depuis fin 2019 ; en négociations exclusives depuis octobre 2026 pour céder Siblu à un fonds immobilier américain (non nommé)."
  },
  {
   "id": "sigma-alimentos",
@@ -29911,7 +29973,7 @@
  },
  {
   "id": "soparind",
-  "nom": "Soparind SCA",
+  "nom": "Savencia Holding SCA",
   "pays_siege": "FR",
   "statut": "familial",
   "groupe_parent": "famille-bongrain",
@@ -29923,11 +29985,13 @@
     "pays": "FR"
    }
   ],
-  "description": "Holding de contrôle de Savencia, détenue par la famille Bongrain.",
+  "description": "Holding de contrôle de Savencia (ex-Soparind, renommée en 2017), détenue par la famille Bongrain.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Savencia_Fromage_%26_Dairy"
+   "https://fr.wikipedia.org/wiki/Savencia_Fromage_%26_Dairy",
+   "https://recherche-entreprises.api.gouv.fr/search?q=679808147"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "siren": "679808147"
  },
  {
   "id": "sopra-steria",
@@ -31794,18 +31858,21 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Famille Bouriez (FJCB Nature)",
+    "nom": "Branche familiale de Louis Bouriez (FJCBNature)",
     "type": "famille",
     "pays": "FR"
    }
   ],
   "description": "Enseigne de jardineries et animaleries.",
-  "note": "Société mère FJCB Nature, contrôlée par la famille Bouriez (Wikipédia, octobre 2026) ; ex-groupe Louis Delhaize.",
+  "note": "En octobre 2025, LDz (ex-Louis Delhaize) a cédé Truffaut à Louis Bouriez et ses frères et sœurs, qui rachètent les parts de trois autres branches de la famille Bouriez ; société mère FJCBNature (SIREN 993806298). Répartition non publiée.",
   "sources": [
    "https://www.truffaut.com/",
-   "https://fr.wikipedia.org/wiki/Truffaut_(jardinerie)"
+   "https://fr.wikipedia.org/wiki/Truffaut_(jardinerie)",
+   "https://www.cfnews.net/Acces-libre/Une-branche-familiale-s-offre-Truffaut-546532",
+   "https://recherche-entreprises.api.gouv.fr/search?q=739806230"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "siren": "739806230"
  },
  {
   "id": "tsmc",
@@ -34304,29 +34371,6 @@
   "note": "Rachat du groupe ZEturf (ZEturf, ZEbet) par la FDJ pour 175 M€, finalisé fin septembre 2023 après feu vert de l'Autorité de la concurrence du 15/09/2023."
  },
  {
-  "id": "zenpark",
-  "nom": "Zenpark",
-  "pays_siege": "FR",
-  "statut": "prive",
-  "actionnaires": [
-   {
-    "nom": "Yespark",
-    "id": "yespark",
-    "type": "groupe",
-    "pays": "FR",
-    "siren": "801558495"
-   }
-  ],
-  "description": "Opérateur de parkings partagés connectés.",
-  "note": "Racheté par son concurrent Yespark en mars 2025 ; Zenpark est désormais « une marque du Groupe Yespark ».",
-  "sources": [
-   "https://zenpark.com/",
-   "https://fr.wikipedia.org/wiki/Yespark"
-  ],
-  "verifie_le": "2026-10",
-  "groupe_parent": "yespark"
- },
- {
   "id": "zentiva-group",
   "nom": "Zentiva",
   "pays_siege": "CZ",
@@ -34432,6 +34476,45 @@
   "description": "Groupe allemand de coutellerie et cuisine (Zwilling, Staub).",
   "sources": [
    "https://www.zwilling.com/"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
+  "id": "snapcar",
+  "nom": "SnapCar (LeCab)",
+  "pays_siege": "FR",
+  "statut": "prive",
+  "siren": "749816328",
+  "actionnaires": [
+   {
+    "nom": "Yves Weisselberger (fondateur, président)",
+    "type": "personne",
+    "pays": "FR"
+   }
+  ],
+  "description": "Société de VTC (LeCab, SnapCar), siège à Puteaux ; a racheté et absorbé Marcel en 2024.",
+  "note": "Répartition du capital non publiée.",
+  "sources": [
+   "https://recherche-entreprises.api.gouv.fr/search?q=749816328",
+   "https://journalauto.com/services/cosmobilis-reajuste-sa-strategie-de-diversification-et-cede-marcel-a-lecab"
+  ],
+  "verifie_le": "2026-10"
+ },
+ {
+  "id": "sodalis",
+  "nom": "Sodalis",
+  "pays_siege": "IT",
+  "statut": "familial",
+  "actionnaires": [
+   {
+    "nom": "Famille fondatrice (actionnariat non publié)",
+    "type": "famille",
+    "pays": "IT"
+   }
+  ],
+  "description": "Groupe familial italien (Milan) de produits d'hygiène et d'entretien, propriétaire de L'Arbre Vert.",
+  "sources": [
+   "https://www.imap.com/rs-sr/transactions/advised-sodalis-group-in-the-acquisition-of-a-100-stake-in-inventia-sas~t"
   ],
   "verifie_le": "2026-10"
  }
