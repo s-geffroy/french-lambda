@@ -103,7 +103,7 @@
     "pays": "IT",
     "lei": "8156008DEC771409C487",
     "type": "groupe",
-    "part_date": "2018"
+    "part_date": "2018-10-29"
    },
    {
     "nom": "ACS (avec Hochtief)",
@@ -112,12 +112,14 @@
     "pays": "ES",
     "lei": "95980020140005558665",
     "type": "groupe",
-    "part_date": "2018"
+    "part_date": "2018-10-29"
    }
   ],
   "description": "Concessionnaire autoroutier espagnol, propriétaire de Sanef.",
   "note": "Mundys 50 % + 1 action, ACS/Hochtief 50 % − 1 action.",
   "sources": [
+   "https://mundys.com/sites/default/files/documents/Press%20Release-2018-10-28-1008.pdf",
+   "https://abertis.com/media/web_abertis/NP_Resultados%20Abertis%202025_vf_20260224095248.pdf",
    "https://fr.wikipedia.org/wiki/Abertis",
    "https://fr.wikipedia.org/wiki/Sanef"
   ],
@@ -227,35 +229,42 @@
   "actionnaires": [
    {
     "nom": "Parvus Asset Management",
-    "part_pct": 11.12,
+    "part_pct": 14.9,
     "type": "fonds",
     "pays": "GB",
-    "part_date": "2025-10"
+    "part_date": "2026-06-30"
    },
    {
     "nom": "Kingdom Holding",
-    "part_pct": 6.77,
+    "part_pct": 7.0,
     "type": "groupe",
     "pays": "SA",
     "lei": "549300ZFG0YO58NZON90",
-    "part_date": "2025-10"
+    "part_date": "2026-06-30"
    },
    {
     "nom": "Qatar Investment Authority",
     "id": "qia",
-    "part_pct": 5.61,
+    "part_pct": 6.6,
     "type": "etat",
     "pays": "QA",
     "lei": "5493008JZL5CRK3VS565",
-    "part_date": "2025-10"
+    "part_date": "2026-06-30"
    },
    {
     "nom": "BlackRock",
-    "part_pct": 5.61,
+    "part_pct": 5.2,
     "type": "fonds",
     "pays": "US",
     "lei": "529900VBK42Y5HHRMD23",
-    "part_date": "2025-10"
+    "part_date": "2026-06-30"
+   },
+   {
+    "nom": "Wellington Management Group",
+    "part_pct": 5.7,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2026-06-30"
    },
    {
     "nom": "Flottant / public",
@@ -265,6 +274,8 @@
   ],
   "description": "Premier groupe hôtelier européen (Ibis, Novotel, Mercure, hotelF1).",
   "sources": [
+   "https://group.accor.com/en/finance/accor-share/shareholding-structure",
+   "https://bdif.amf-france.org/back/api/v1/documents/2026/226C0834/960F78E7E9486EB53705D05D552D042DC91AC0A5A5194E617298671341A8CDA6.pdf",
    "https://fr.wikipedia.org/wiki/Accor"
   ],
   "verifie_le": "2026-10"
@@ -739,7 +750,7 @@
     "pays": "IT",
     "lei": "8156008DEC771409C487",
     "part_pct": 64,
-    "part_date": "2016"
+    "part_date": "2024-12-31"
    },
    {
     "nom": "CCI Nice Côte d'Azur",
@@ -748,7 +759,7 @@
     "siren": "180600017",
     "lei": "96950015CEZ2Q75K7B63",
     "part_pct": 25,
-    "part_date": "2016"
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Caisse des Dépôts",
@@ -758,19 +769,22 @@
     "siren": "180020026",
     "lei": "969500Q2PFTTP0Y5QL44",
     "part_pct": 8,
-    "part_date": "2016"
+    "part_date": "2024-12-31"
    },
    {
     "nom": "Région Sud, Département des Alpes-Maritimes, Métropole Nice Côte d'Azur (1 % chacun)",
     "type": "public",
     "pays": "FR",
     "part_pct": 3,
-    "part_date": "2016"
+    "part_date": "2024-12-31"
    }
   ],
   "description": "Gestionnaire des aéroports de Nice, Cannes-Mandelieu et Saint-Tropez.",
-  "note": "Privatisé en 2016 : Azzurra Aeroporti 64 % (Mundys 62,51 % du consortium en direct et via Aeroporti di Roma, EDF Invest 24,99 %, Principauté de Monaco depuis 2017) ; CCI 25 %, Caisse des Dépôts 8 %, collectivités 3 % (Wikipédia). Nice n'est pas géré par Edeis.",
+  "note": "Privatisé en 2016 : Azzurra Aeroporti 64 % (Mundys 62,51 % du consortium en direct et via Aeroporti di Roma, EDF Invest 24,99 %, Principauté de Monaco depuis 2017) ; CCI 25 %, Caisse des Dépôts 8 %, collectivités 3 % (31/12/2024). Nice n'est pas géré par Edeis.",
   "sources": [
+   "https://www.azzurra-aeroporti.com/sites/default/files/2025-04/Statutory%20financial%20statement%202024%20%28English%29.pdf",
+   "https://www.mundys.com/en/mobility/airports/aeroports-de-la-cote-d-azur-aca-",
+   "https://www.caissedesdepots.fr/sites/default/files/2020-03/cp_bdt_aeroports_cote_azur.pdf",
    "https://fr.wikipedia.org/wiki/Aéroport_de_Nice-Côte_d'Azur",
    "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Nice-C%C3%B4te_d%27Azur"
   ],
@@ -1716,30 +1730,34 @@
    {
     "nom": "Anta Sports",
     "id": "anta",
-    "part_pct": 44.5,
+    "part_pct": 41.7,
     "type": "groupe",
     "pays": "CN",
-    "lei": "529900291XG0CTK4LF95"
+    "lei": "529900291XG0CTK4LF95",
+    "part_date": "2026-02-20"
    },
    {
     "nom": "Chip Wilson (Anamered Investments)",
-    "part_pct": 16.3,
+    "part_pct": 17.9,
     "type": "personne",
-    "pays": "CA"
+    "pays": "CA",
+    "part_date": "2026-02-20"
    },
    {
     "nom": "FountainVest Partners",
-    "part_pct": 12.7,
+    "part_pct": 6.1,
     "type": "fonds",
-    "pays": "CN"
+    "pays": "CN",
+    "part_date": "2026-02-20"
    },
    {
     "nom": "Tencent",
     "id": "tencent",
-    "part_pct": 4.5,
+    "part_pct": 5.7,
     "type": "groupe",
     "pays": "CN",
-    "lei": "254900N4SLUMW4XUYY11"
+    "lei": "254900N4SLUMW4XUYY11",
+    "part_date": "2026-02-20"
    },
    {
     "nom": "Flottant / public",
@@ -1749,11 +1767,12 @@
   ],
   "description": "Salomon, Wilson, Arc'teryx, Atomic. Siège à Helsinki, cotée au NYSE (AS) depuis 2024.",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1988894/000198889426000004/as-20251231.htm",
    "https://fr.wikipedia.org/wiki/Amer_Sports",
    "https://en.wikipedia.org/wiki/Amer_Sports"
   ],
   "verifie_le": "2026-10",
-  "note": "Parts d'après l'infobox Wikipédia (non datées), consultée en 10/2026."
+  "note": "Parts au 20/02/2026 (rapport annuel 20-F), une seule classe d'actions."
  },
  {
   "id": "american-express",
@@ -2107,7 +2126,7 @@
   "id": "antargaz",
   "nom": "Antargaz",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "572126043",
   "lei": "969500UQAVXVOESJVV93",
   "groupe_parent": "ugi",
@@ -2119,11 +2138,12 @@
     "type": "groupe",
     "pays": "US",
     "lei": "DX6GCWD4Q1JO9CRE5I40",
-    "part_date": "2004"
+    "part_date": "2025-09-30"
    }
   ],
   "description": "Distributeur de GPL, fusionné avec Finagaz (ex-Totalgaz).",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/884614/000088461425000053/a2025ugicorp10kex21.htm",
    "https://fr.wikipedia.org/wiki/Antargaz"
   ],
   "verifie_le": "2026-10"
@@ -2425,22 +2445,25 @@
    {
     "nom": "Stellantis (via Peugeot)",
     "id": "stellantis",
-    "part_pct": 60.5,
+    "part_pct": 60.54,
     "pays": "NL",
     "lei": "549300LKT9PW7ZIBDF31",
-    "type": "groupe"
+    "type": "groupe",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Nicolas Chartier (Sensei Investment)",
-    "part_pct": 8.9,
+    "part_pct": 8.92,
     "pays": "FR",
-    "type": "personne"
+    "type": "personne",
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Guillaume Paoli (Laurelin)",
-    "part_pct": 8.9,
+    "part_pct": 8.92,
     "pays": "FR",
-    "type": "personne"
+    "type": "personne",
+    "part_date": "2025-09-30"
    },
    {
     "nom": "Flottant / public",
@@ -2449,8 +2472,9 @@
    }
   ],
   "description": "Distributeur de véhicules d'occasion en ligne (Aramisauto).",
-  "note": "Stellantis 60,5 %, cofondateurs 8,9 % chacun (Wikipédia, source Zonebourse consultée en août 2026).",
+  "note": "Au 31/12/2025, Stellantis détient 60,54 % du capital et 67,40 % des droits de vote ; les cofondateurs Nicolas Chartier et Guillaume Paoli, 8,92 % du capital chacun (document d'enregistrement universel).",
   "sources": [
+   "https://aramis.group/wp-content/uploads/2026/01/aramis-ag-2025-brochure-de-convocation-au-17-01-2026.pdf",
    "https://fr.wikipedia.org/wiki/Aramis_Group"
   ],
   "verifie_le": "2026-10"
@@ -2796,11 +2820,12 @@
   "groupe_parent": "famille-pinault",
   "actionnaires": [
    {
-    "nom": "Famille Pinault",
+    "nom": "Financière Pinault (famille Pinault)",
     "id": "famille-pinault",
     "part_pct": 100.0,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024-12-31"
    }
   ],
   "description": "Holding familiale (Kering, Le Point, Ponant, Christie's, Stade Rennais).",
@@ -2851,22 +2876,24 @@
    {
     "nom": "CK Hutchison",
     "id": "ck-hutchison",
-    "part_pct": 75.0,
+    "part_pct": 75,
     "type": "groupe",
     "pays": "HK",
     "lei": "254900Z8HM1VEPOQ2G79",
-    "part_date": "2014-03"
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Temasek",
-    "part_pct": 25.0,
+    "part_pct": 24.95,
     "type": "fonds",
     "pays": "SG",
-    "part_date": "2014-03"
+    "part_date": "2014-04"
    }
   ],
   "description": "Premier distributeur santé-beauté mondial (Marionnaud, Superdrug).",
   "sources": [
+   "https://doc.irasia.com/listco/hk/ckh/annual/2025/ar2025.pdf",
+   "https://www.ckh.com.hk/en/media/press_each.php?id=2674",
    "https://fr.wikipedia.org/wiki/A.S._Watson_Group"
   ],
   "verifie_le": "2026-10"
@@ -3953,6 +3980,7 @@
   ],
   "description": "Casinos, hôtels et restaurants (Fimalac sorti du capital).",
   "sources": [
+   "https://www.journaldespalaces.com/communique-67575-nominations-barriere-fait-evoluer-sa-gouvernance-et-son-actionnariat-avec-l-arrivee-aux-commandes-de-la-quatrieme-generation-qui-procede-au-rachat-de-la-participation-de-fimalac.html",
    "https://fr.wikipedia.org/wiki/Groupe_Barri%C3%A8re"
   ],
   "verifie_le": "2026-10"
@@ -3966,18 +3994,18 @@
   "actionnaires": [
    {
     "nom": "René Moos",
-    "part_pct": 11.74,
+    "part_pct": 11.7,
     "type": "personne",
     "pays": "NL",
-    "part_date": "2025-09-14"
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Impactive Capital",
-    "part_pct": 10.1,
+    "part_pct": 2.63,
     "type": "fonds",
     "pays": "US",
     "lei": "549300BOS3Y5GIIM7Q03",
-    "part_date": "2025-09-14"
+    "part_date": "2026-07-28"
    },
    {
     "nom": "3i",
@@ -3985,7 +4013,28 @@
     "type": "fonds",
     "pays": "GB",
     "lei": "35GDVHRBMFE7NWATNM84",
-    "part_date": "2025-09-14"
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "North Peak Capital Management",
+    "part_pct": 5.0,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "Abrams Bison Investments",
+    "part_pct": 3.4,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "CAS Investment Partners",
+    "part_pct": 3.0,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -3995,6 +4044,8 @@
   ],
   "description": "Premier réseau européen de salles de sport low cost.",
   "sources": [
+   "https://annualreport.basic-fit.com/2025/shareholder-information",
+   "https://www.afm.nl/en/sector/registers/meldingenregisters/substantiele-deelnemingen/details?id=197790",
    "https://fr.wikipedia.org/wiki/Basic-Fit"
   ],
   "verifie_le": "2026-10"
@@ -4114,6 +4165,7 @@
   ],
   "description": "Groupe de presse catholique et jeunesse (La Croix, Pomme d'Api, J'aime lire, Okapi, Notre Temps, Milan).",
   "sources": [
+   "https://www.assomption.org/wp-content/uploads/2026/06/20260529_CP_Nomination-Conseil-de-Surveillance.pdf",
    "https://fr.wikipedia.org/wiki/Bayard_(groupe)"
   ],
   "verifie_le": "2026-10"
@@ -4354,12 +4406,13 @@
     "type": "etat",
     "pays": "BE",
     "part_pct": 100,
-    "part_date": "2011-10"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Bancassureur belge (Belfius Banque, Belfius Insurance), siège à Bruxelles (Saint-Josse-ten-Noode).",
   "note": "Détenu par l'État belge ; le gouvernement a approuvé la cession de 20 % du capital, prévue à l'automne 2026.",
   "sources": [
+   "https://www.belfius.be/about-us/dam/corporate/investors/results/en/Belfius-Capital-Market-Days-April-and-May2026.pdf",
    "https://en.wikipedia.org/wiki/Belfius"
   ],
   "verifie_le": "2026-10"
@@ -4472,17 +4525,20 @@
     "nom": "Fondations (Bertelsmann Stiftung, Reinhard Mohn Stiftung, BVG-Stiftung)",
     "type": "autre",
     "pays": "DE",
-    "part_pct": 80.9
+    "part_pct": 80.9,
+    "part_date": "2026"
    },
    {
     "nom": "Famille Mohn",
     "type": "famille",
     "pays": "DE",
-    "part_pct": 19.1
+    "part_pct": 19.1,
+    "part_date": "2026"
    }
   ],
   "description": "Groupe de médias allemand non coté (KGaA), maison mère de RTL Group et Penguin Random House. Capital : trois fondations 80,9 % (surtout la Bertelsmann Stiftung), famille Mohn 19,1 % ; les droits de vote sont regroupés dans la Bertelsmann Verwaltungsgesellschaft (BVG).",
   "sources": [
+   "https://www.bertelsmann.com/en/company/aktionaere/",
    "https://fr.wikipedia.org/wiki/Bertelsmann",
    "https://en.wikipedia.org/wiki/Bertelsmann",
    "https://de.wikipedia.org/wiki/Bertelsmann"
@@ -4618,19 +4674,19 @@
   "groupe_parent": "blue-gem-capital",
   "actionnaires": [
    {
-    "nom": "Blue Gem Capital Partners (80 % en 2017)",
+    "nom": "Bluegem Capital Partners",
     "id": "blue-gem-capital",
-    "part_pct": 80.0,
     "type": "fonds",
-    "pays": "GB",
-    "part_date": "2017"
+    "pays": "GB"
    }
   ],
   "description": "Chaîne de burgers à la française.",
   "sources": [
+   "https://www.bluegemcp.com/big-fernand",
    "https://fr.wikipedia.org/wiki/Big_Fernand"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Plan de sauvegarde de Big Groupe validé le 22/09/2026 : selon la presse, les actions existantes sont annulées au profit de Bluegem, de fait seul actionnaire. Répartition à confirmer au BODACC."
  },
  {
   "id": "bigard",
@@ -5453,7 +5509,7 @@
   "id": "bouygues-immobilier",
   "nom": "Bouygues Immobilier",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "562091546",
   "lei": "969500OGZDTIIRLRQU17",
   "groupe_parent": "bouygues",
@@ -5465,11 +5521,13 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "572015246",
-    "lei": "969500MOCLNQFNZN0D63"
+    "lei": "969500MOCLNQFNZN0D63",
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Promoteur immobilier, filiale de Bouygues.",
   "sources": [
+   "https://www.bouygues.com/app/uploads/2026/03/bouygues_deu_2025_fr_web.pdf",
    "https://fr.wikipedia.org/wiki/Bouygues_Immobilier"
   ],
   "verifie_le": "2026-10"
@@ -5890,6 +5948,7 @@
   ],
   "description": "Master-franchisé Burger King pour la France (et la Belgique).",
   "sources": [
+   "https://www.groupe-bertrand.com/wp-content/uploads/2026/07/BK_RA_RSE_2025_FINALE.pdf",
    "https://fr.wikipedia.org/wiki/Groupe_Bertrand"
   ],
   "verifie_le": "2026-10"
@@ -5921,7 +5980,7 @@
   "id": "butagaz",
   "nom": "Butagaz",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "811072453",
   "groupe_parent": "dcc",
   "actionnaires": [
@@ -5931,14 +5990,16 @@
     "part_pct": 100,
     "type": "groupe",
     "pays": "IE",
-    "part_date": "2015"
+    "part_date": "2026-03-31"
    }
   ],
   "description": "Distributeur de GPL (bouteilles, citernes), gaz et électricité ; groupe DCC depuis 2015.",
   "sources": [
+   "https://www.dccenergy.com/~/media/Files/D/Dcc-Corp-v3/documents/investors/annual-and-sustainability-reports/2026/annual-report-2026.pdf",
    "https://fr.wikipedia.org/wiki/Butagaz"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Sa maison mère DCC (désormais DCC Energy) est en cours de rachat par des fonds d'ECP et de KKR (scheme approuvé le 18/09/2026, réalisation attendue au 1er trimestre 2027)."
  },
  {
   "id": "byd",
@@ -6372,6 +6433,7 @@
   ],
   "description": "Confiseur et chocolatier français (Carambar, Poulain, Lutti), racheté par Ferrero à Eurazeo (oct. 2025).",
   "sources": [
+   "https://fr.newsroom.eurazeo.com/actualites/eurazeo-finalise-la-cession-du-groupe-cpk-a-la-holding-europeenne-de-ferrara-candy-company-41a2e-7ed35.html",
    "https://en.wikipedia.org/wiki/Carambar_%26_Co"
   ],
   "verifie_le": "2026-10"
@@ -6662,19 +6724,19 @@
   "actionnaires": [
    {
     "nom": "Grupo Cobega (Olive Partners)",
-    "part_pct": 36.1,
+    "part_pct": 37.2,
     "type": "famille",
     "pays": "ES",
-    "part_date": "2024"
+    "part_date": "2026-05-18"
    },
    {
     "nom": "The Coca-Cola Company",
     "id": "coca-cola-company",
-    "part_pct": 19.01,
+    "part_pct": 17.15,
     "type": "groupe",
     "pays": "US",
     "lei": "UWJKFUJFZ02DKWI3RY53",
-    "part_date": "2024"
+    "part_date": "2026-05-18"
    },
    {
     "nom": "Flottant / public",
@@ -6684,6 +6746,8 @@
   ],
   "description": "Embouteilleur Coca-Cola pour l'Europe de l'Ouest, dont la France (usines de Dunkerque, Grigny, Les Pennes-Mirabeau...).",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000065/a20260518ccepform6-kletter.htm",
+   "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0000950170-25-070143/primary_doc.html",
    "https://fr.wikipedia.org/wiki/Coca-Cola_Europacific_Partners"
   ],
   "verifie_le": "2026-10"
@@ -7116,7 +7180,8 @@
     "id": "nestle",
     "part_pct": 50.0,
     "pays": "CH",
-    "lei": "KY37LUS27QQX7BB93L28"
+    "lei": "KY37LUS27QQX7BB93L28",
+    "part_date": "2026-05-31"
    },
    {
     "nom": "General Mills",
@@ -7124,11 +7189,13 @@
     "id": "general-mills",
     "part_pct": 50.0,
     "pays": "US",
-    "lei": "2TGYMUGI08PO8X8L6150"
+    "lei": "2TGYMUGI08PO8X8L6150",
+    "part_date": "2026-05-31"
    }
   ],
   "description": "Coentreprise céréales petit-déjeuner (marque Nestlé Céréales).",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/gis-20260531.htm",
    "https://fr.wikipedia.org/wiki/Cereal_Partners_Worldwide"
   ],
   "verifie_le": "2026-10"
@@ -7169,37 +7236,43 @@
     "type": "famille",
     "pays": "DE",
     "part_pct": 27.1,
-    "part_date": "2025"
+    "part_date": "2026-10-22"
    },
    {
     "nom": "Autodétention (CEWE Stiftung & Co. KGaA)",
     "type": "autre",
     "pays": "DE",
-    "part_pct": 6.3,
-    "part_date": "2025"
+    "part_pct": 7.9,
+    "part_date": "2026-05"
    },
    {
     "nom": "Lazard Frères Gestion / Lazard Small Caps Euro",
     "type": "fonds",
     "pays": "FR",
     "part_pct": 6.2,
-    "part_date": "2025"
+    "part_date": "2026-10-22"
+   },
+   {
+    "nom": "Salt Capital AS",
+    "part_pct": 3.0,
+    "type": "fonds",
+    "pays": "NO",
+    "part_date": "2026-10-22"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
-    "pays": "XX",
-    "part_pct": 60.4,
-    "part_date": "2025"
+    "pays": "XX"
    }
   ],
   "description": "Leader européen du livre photo (CEWE, Cheerz, Pixum, Saxoprint), coté à Francfort (SDAX) ; la Neumüller CEWE COLOR Stiftung est associée commanditée.",
   "sources": [
+   "https://irpages2.eqs.com/download/companies/cewe/factsheet_518_german.pdf",
    "https://fr.wikipedia.org/wiki/CEWE",
    "https://en.wikipedia.org/wiki/Cewe"
   ],
   "verifie_le": "2026-10",
-  "note": "Répartition 2025 : famille Neumüller 27,1 %, flottant 60,4 %."
+  "note": "Famille Neumüller 27,1 % du capital ; autodétention 7,9 % (mai 2026) ; le flottant restant est d'environ 56 %."
  },
  {
   "id": "cgr",
@@ -7813,7 +7886,7 @@
   "id": "cnr",
   "nom": "Compagnie nationale du Rhône (CNR)",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "public",
   "siren": "957520901",
   "lei": "549300Z3FGLXMWMOXN32",
   "groupe_parent": "engie",
@@ -7825,7 +7898,8 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "542107651",
-    "lei": "LAXUQCHT4FH58LRZDY46"
+    "lei": "LAXUQCHT4FH58LRZDY46",
+    "part_date": "2026-10"
    },
    {
     "nom": "Caisse des Dépôts",
@@ -7834,17 +7908,20 @@
     "type": "public",
     "pays": "FR",
     "siren": "180020026",
-    "lei": "969500Q2PFTTP0Y5QL44"
+    "lei": "969500Q2PFTTP0Y5QL44",
+    "part_date": "2026-10"
    },
    {
     "nom": "Collectivités locales",
-    "part_pct": 16.8,
+    "part_pct": 16.83,
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-10"
    }
   ],
   "description": "Deuxième producteur d'électricité français (hydraulique du Rhône).",
   "sources": [
+   "https://www.cnr.tm.fr/a-propos/gouvernance/",
    "https://fr.wikipedia.org/wiki/Compagnie_nationale_du_Rhône"
   ],
   "verifie_le": "2026-10"
@@ -8152,39 +8229,44 @@
    {
     "nom": "Caisse des Dépôts",
     "id": "caisse-des-depots",
-    "part_pct": 42.57,
+    "part_pct": 42.75,
     "type": "public",
     "pays": "FR",
     "siren": "180020026",
     "lei": "969500Q2PFTTP0Y5QL44",
-    "part_date": "2024"
+    "part_date": "2024-09-30"
    },
    {
     "nom": "Crédit Agricole des Savoie",
-    "part_pct": 6.66,
+    "part_pct": 6.65,
     "type": "groupe",
     "pays": "FR",
     "siren": "302958491",
     "lei": "969500ORP9FTJYI28L37",
-    "part_date": "2024"
-   },
-   {
-    "nom": "Sofival",
-    "part_pct": 5.58,
-    "type": "groupe",
-    "pays": "FR",
-    "siren": "562041707",
-    "lei": "969500M3ZDT66I888278",
-    "part_date": "2024"
+    "part_date": "2024-09-30"
    },
    {
     "nom": "Banque Populaire Auvergne Rhône Alpes",
-    "part_pct": 4.77,
+    "part_pct": 4.76,
     "type": "groupe",
     "pays": "FR",
     "siren": "605520071",
     "lei": "969500JM7VIGQIPZOL49",
-    "part_date": "2024"
+    "part_date": "2024-09-30"
+   },
+   {
+    "nom": "A.N.A.T. (Société Alpes du Nord Aménagement Touristique)",
+    "part_pct": 5.57,
+    "type": "groupe",
+    "pays": "FR",
+    "part_date": "2024-09-30"
+   },
+   {
+    "nom": "Caisse d'Épargne Rhône-Alpes",
+    "part_pct": 2.86,
+    "type": "groupe",
+    "pays": "FR",
+    "part_date": "2024-09-30"
    },
    {
     "nom": "Flottant / public",
@@ -8194,6 +8276,7 @@
   ],
   "description": "Parcs de loisirs (Parc Astérix, Futuroscope, Walibi, Grévin) et domaines skiables.",
   "sources": [
+   "https://compagniedesalpes.com/sites/default/files/documents/2025-02/COMPAGNIE_DES_ALPES_DEU_2024_FR_MEL%20%281%29%20%281%29.pdf",
    "https://fr.wikipedia.org/wiki/Compagnie_des_Alpes"
   ],
   "verifie_le": "2026-10"
@@ -8432,9 +8515,10 @@
   "actionnaires": [
    {
     "nom": "IHO Holding (famille Schaeffler)",
-    "part_pct": 46,
+    "part_pct": 46.0,
     "type": "famille",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -8445,6 +8529,7 @@
   "description": "Équipementier et fabricant de pneumatiques allemand.",
   "note": "IHO (famille Schaeffler) ≈46 %. Branche automobile scindée en septembre 2025 (Aumovio) ; cession de ContiTech à Lone Star signée en juillet 2026, sous réserve des autorisations.",
   "sources": [
+   "https://continental.com/en/investors/shares/shareholder-structure",
    "https://fr.wikipedia.org/wiki/Continental_AG",
    "https://en.wikipedia.org/wiki/Continental_AG"
   ],
@@ -8563,20 +8648,20 @@
   "actionnaires": [
    {
     "nom": "The Vanguard Group",
-    "part_pct": 9.4,
+    "part_pct": 9.79,
     "type": "fonds",
     "pays": "US",
     "lei": "5493002789CX3L0CJP65",
-    "part_date": "2024"
+    "part_date": "2025-11-07"
    },
    {
     "nom": "BlackRock",
     "id": "blackrock",
-    "part_pct": 7.56,
+    "part_pct": 7.83,
     "type": "fonds",
     "pays": "US",
     "lei": "529900VBK42Y5HHRMD23",
-    "part_date": "2024"
+    "part_date": "2025-11-07"
    },
    {
     "nom": "Flottant / public",
@@ -8586,6 +8671,7 @@
   ],
   "description": "Club-entrepôt américain coté au Nasdaq, quelques entrepôts en France (Villebon, Pontault-Combault, Mulhouse).",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/909832/000090983225000159/cost-20251204.htm",
    "https://fr.wikipedia.org/wiki/Costco"
   ],
   "verifie_le": "2026-10"
@@ -9116,16 +9202,17 @@
    {
     "nom": "EDF",
     "id": "edf",
-    "part_pct": 100,
+    "part_pct": 99.94,
     "type": "groupe",
     "pays": "FR",
     "siren": "552081317",
     "lei": "549300X3UK4GG3FNMO06",
-    "part_date": "2014-07-25"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Services énergétiques et réseaux de chaleur, filiale d'EDF.",
   "sources": [
+   "https://www.edf.fr/sites/groupe/files/2026-04/2026-04-02-edf-urd-2025.pdf",
    "https://fr.wikipedia.org/wiki/Dalkia"
   ],
   "verifie_le": "2026-10"
@@ -9256,6 +9343,7 @@
   ],
   "description": "Plateforme de sport, distributeur de Ligue 1+, contrôlée par Access Industries (Len Blavatnik).",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1564708/000156470825000419/nws-20250630.htm",
    "https://fr.wikipedia.org/wiki/DAZN",
    "https://en.wikipedia.org/wiki/DAZN"
   ],
@@ -9433,7 +9521,7 @@
   "id": "deliveroo",
   "nom": "Deliveroo",
   "pays_siege": "GB",
-  "statut": "cote",
+  "statut": "prive",
   "lei": "984500F6537F74DDEE77",
   "groupe_parent": "doordash",
   "actionnaires": [
@@ -9449,9 +9537,11 @@
   ],
   "description": "Plateforme de livraison de repas et de courses, rachetée par DoorDash (clôture 2 octobre 2025).",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1792789/000114036125037039/ef20056500_ex99-1.htm",
    "https://en.wikipedia.org/wiki/Deliveroo"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Retirée de la cote le 2/10/2025 après son rachat par DoorDash."
  },
  {
   "id": "dell",
@@ -9638,6 +9728,7 @@
   "description": "Groupe postal et logistique allemand (ex-Deutsche Post).",
   "note": "KfW ≈ 21 % (Wikipédia).",
   "sources": [
+   "https://group.dhl.com/de/investoren/aktie/aktionaersstruktur.html",
    "https://fr.wikipedia.org/wiki/DHL_Group",
    "https://en.wikipedia.org/wiki/DHL_Group"
   ],
@@ -10086,18 +10177,17 @@
   "groupe_parent": "ville-de-paris",
   "actionnaires": [
    {
-    "nom": "Ville de Paris (régie)",
+    "nom": "Ville de Paris (régie, établissement public sans capital)",
     "id": "ville-de-paris",
-    "part_pct": 100,
     "type": "public",
     "pays": "FR",
     "siren": "217500016",
-    "lei": "969500Y6KLTVY0FYAX02",
-    "part_date": "2009-05-01"
+    "lei": "969500Y6KLTVY0FYAX02"
    }
   ],
   "description": "Régie publique de l'eau de Paris.",
   "sources": [
+   "https://www.eaudeparis.fr/mentions-legales",
    "https://fr.wikipedia.org/wiki/Eau_de_Paris"
   ],
   "verifie_le": "2026-10"
@@ -11155,11 +11245,12 @@
     "pays": "FR",
     "siren": "552081317",
     "lei": "549300X3UK4GG3FNMO06",
-    "part_date": "2008-01-01"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Gestionnaire du réseau de distribution d'électricité (~95 % du territoire).",
   "sources": [
+   "https://www.edf.fr/sites/groupe/files/2026-04/2026-04-02-edf-urd-2025.pdf",
    "https://fr.wikipedia.org/wiki/Enedis"
   ],
   "verifie_le": "2026-10"
@@ -11512,11 +11603,11 @@
    {
     "nom": "The Walt Disney Company",
     "id": "disney",
-    "part_pct": 9,
+    "part_pct": 8.0,
     "type": "groupe",
     "pays": "US",
     "lei": "549300GZKULIZ0WOW665",
-    "part_date": "2024-02-07"
+    "part_date": "2025-09-27"
    },
    {
     "nom": "Sony Group",
@@ -11534,11 +11625,12 @@
   ],
   "description": "Fortnite, Epic Games Store, Unreal Engine. Contrôlé par son fondateur Tim Sweeney.",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm",
    "https://fr.wikipedia.org/wiki/Epic_Games",
    "https://en.wikipedia.org/wiki/Epic_Games"
   ],
   "verifie_le": "2026-10",
-  "note": "Parts d'après l'infobox Wikipédia (consultée en 10/2026) ; Disney a investi 1,5 Md$ en février 2024."
+  "note": "Disney a investi 1,5 Md$ en février 2024 et détient 8 % (10-K 2025) ; les autres parts viennent de Wikipédia et n'ont pas pu être confirmées."
  },
  {
   "id": "eqt",
@@ -11945,27 +12037,31 @@
   "actionnaires": [
    {
     "nom": "Vine Alternative Investments",
-    "part_pct": 60.2,
+    "part_pct": 58.43,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Luc Besson",
-    "part_pct": 10.6,
+    "part_pct": 12.44,
     "type": "personne",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Fundamental Films",
-    "part_pct": 9.36,
+    "part_pct": 9.11,
     "type": "groupe",
-    "pays": "CN"
+    "pays": "CN",
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Falcon Investment",
-    "part_pct": 6.29,
+    "part_pct": 6.12,
     "type": "fonds",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Flottant / public",
@@ -11975,6 +12071,7 @@
   ],
   "description": "Producteur fondé par Luc Besson, coté sur Euronext Paris, contrôlé par Vine depuis février 2020.",
   "sources": [
+   "https://europacorp.com/storage/764/01KYQETYDBQNAM4R8941XVE8GT.pdf",
    "https://fr.wikipedia.org/wiki/EuropaCorp"
   ],
   "verifie_le": "2026-10"
@@ -11991,15 +12088,16 @@
    {
     "nom": "Green Mobility Holding (consortium Volkswagen)",
     "id": "green-mobility-holding",
-    "part_pct": 100.0,
+    "part_pct": 99.83,
     "pays": "LU",
     "lei": "5299008LB0K0KBSAYR10",
     "type": "groupe",
-    "part_date": "2022-07-13"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Loueur de véhicules (Europcar, Goldcar, InterRent).",
   "sources": [
+   "https://www.europcar-mobility-group.com/wp-content/uploads/2026-04-30_fy-2025-consolidated-accounts.pdf",
    "https://fr.wikipedia.org/wiki/Europcar_Mobility_Group"
   ],
   "verifie_le": "2026-10"
@@ -14294,14 +14392,15 @@
   "actionnaires": [
    {
     "nom": "État italien (ministère de l'Économie)",
-    "part_pct": 100.0,
+    "part_pct": 100,
     "pays": "IT",
     "type": "etat",
-    "part_date": "1992"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Groupe ferroviaire public italien.",
   "sources": [
+   "https://www.fsitaliane.it/content/dam/fsitaliane/Documents/investor-relations/relazioni-finanziarie/2026/22.05.2026_REPORT_INTEGRATO_FS2025.pdf",
    "https://fr.wikipedia.org/wiki/Ferrovie_dello_Stato_Italiane"
   ],
   "verifie_le": "2026-10"
@@ -14590,7 +14689,7 @@
     "pays": "DE"
    },
    {
-    "nom": "EQT et Kuehne+Nagel (35 % ensemble depuis juillet 2024)",
+    "nom": "EQT et Kühne Holding (35 % ensemble depuis juillet 2024)",
     "type": "fonds",
     "pays": "SE",
     "part_pct": 35,
@@ -14603,8 +14702,9 @@
    }
   ],
   "description": "Opérateur de cars et trains longue distance (FlixBus, FlixTrain).",
-  "note": "EQT et Kuehne+Nagel ont acquis 35 % du capital pour 1 Md€ en juillet 2024 ; répartition entre les autres actionnaires non publiée.",
+  "note": "EQT et Kühne Holding ont acquis 35 % du capital pour 1 Md€ en juillet 2024 ; répartition entre les autres actionnaires non publiée.",
   "sources": [
+   "https://eqtgroup.com/en/news/eqt-and-kuhne-holding-invest-in-flix-the-global-travel-company-2024-07-04",
    "https://fr.wikipedia.org/wiki/Flix_(entreprise)",
    "https://en.wikipedia.org/wiki/Flix_SE"
   ],
@@ -15164,30 +15264,31 @@
   "statut": "fonds",
   "actionnaires": [
    {
-    "nom": "Nestlé",
+    "nom": "Nestlé (50 % des droits de vote)",
     "type": "groupe",
     "id": "nestle",
-    "part_pct": 50.0,
+    "part_pct": 48.2,
     "pays": "CH",
     "lei": "KY37LUS27QQX7BB93L28",
-    "part_date": "2016"
+    "part_date": "2025-12-31"
    },
    {
-    "nom": "PAI Partners",
+    "nom": "PAI Partners (avec un véhicule de continuation mené par Goldman Sachs et ADIA)",
     "type": "fonds",
     "id": "pai-partners",
-    "part_pct": 50.0,
     "pays": "FR",
     "siren": "443837331",
-    "lei": "969500XOAAVI9Y0USC54",
-    "part_date": "2016"
+    "lei": "969500XOAAVI9Y0USC54"
    }
   ],
   "description": "Coentreprise glaces (activités glaces Nestlé en Europe, R&R).",
   "sources": [
+   "https://www.nestle.com/sites/default/files/2026-02/financial-statements-2025-en.pdf",
+   "https://www.paipartners.com/mediaitem/pai-partners-completes-a-e3-6-billion-equity-transaction-to-reinvest-into-froneri-including-significant-co-investment-from-adia-and-new-single-asset-continuation-vehicle-led-by-goldman-sachs-alternat",
    "https://en.wikipedia.org/wiki/Froneri"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Nestlé détient 48,2 % du capital et 50 % des droits de vote (comptes 2025) ; la part de PAI est partagée depuis octobre 2025 avec un véhicule de continuation."
  },
  {
   "id": "fubo",
@@ -15438,11 +15539,12 @@
     "pays": "FR",
     "siren": "343134763",
     "lei": "969500FU4DRAEVJW7U54",
-    "part_date": "2016-07-26"
+    "part_date": "2026-10"
    }
   ],
   "description": "Éditeur de jeux mobiles.",
   "sources": [
+   "https://www.vivendi.com/en/",
    "https://fr.wikipedia.org/wiki/Vivendi"
   ],
   "verifie_le": "2026-10"
@@ -15481,7 +15583,7 @@
     "type": "famille",
     "pays": "FR",
     "part_pct": 89.7,
-    "part_date": "2025"
+    "part_date": "2026-07-17"
    },
    {
     "nom": "Flottant / public",
@@ -15493,10 +15595,13 @@
   ],
   "description": "Producteur et distributeur de films et séries, coté à Euronext Paris ; Ciné Par (famille Seydoux) détient 89,7 % du capital (2025).",
   "sources": [
+   "https://www.gaumont.com/sites/com/files/2026-07/Gaumont%20-%20Projet%20de%20note%20en%20r%C3%A9ponse.pdf",
+   "https://bdif.amf-france.org/back/api/v1/documents/2026/226C1085/171D8D4250AF05C83D6390364FE167B61B4D9DB096F3CF12DDDA7678BA65617C.pdf",
    "https://fr.wikipedia.org/wiki/Gaumont_(entreprise)",
    "https://fr.wikipedia.org/wiki/Gaumont"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Offre publique de retrait de Ciné Par (100 € par action) ouverte du 25/09 au 8/10/2026 ; résultat non encore relevé."
  },
  {
   "id": "gbfoods",
@@ -16106,7 +16211,7 @@
   "id": "grdf",
   "nom": "GRDF",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "444786511",
   "groupe_parent": "engie",
   "actionnaires": [
@@ -16118,11 +16223,12 @@
     "pays": "FR",
     "siren": "542107651",
     "lei": "LAXUQCHT4FH58LRZDY46",
-    "part_date": "2008-01-01"
+    "part_date": "2025"
    }
   ],
   "description": "Gestionnaire du réseau de distribution de gaz (~200 000 km).",
   "sources": [
+   "https://www.cre.fr/fileadmin/Documents/Rapports_et_etudes/2026/Rapport_RCBCI_2023-2025.pdf",
    "https://fr.wikipedia.org/wiki/GRDF"
   ],
   "verifie_le": "2026-10"
@@ -17183,11 +17289,12 @@
     "id": "casa-tarradellas",
     "part_pct": 100.0,
     "pays": "ES",
-    "part_date": "2025-12"
+    "part_date": "2025-12-23"
    }
   ],
   "description": "Charcuterie libre-service (jambon, knacki), 100 % Casa Tarradellas depuis déc. 2025.",
   "sources": [
+   "https://www.nestle.com/media/news/nestle-sells-herta-foods-stake-casa-tarradellas",
    "https://fr.wikipedia.org/wiki/Herta"
   ],
   "verifie_le": "2026-10"
@@ -17454,7 +17561,7 @@
   "groupe_parent": "brookfield",
   "actionnaires": [
    {
-    "nom": "Brookfield Infrastructure",
+    "nom": "Fonds gérés par Brookfield (via Hestia Bidco)",
     "id": "brookfield",
     "part_pct": 100,
     "type": "fonds",
@@ -17464,9 +17571,11 @@
   ],
   "description": "Assistance dépannage habitat (plomberie, électricité), rachetée par Brookfield en 2023.",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1406234/000140623426000002/bip-20251231.htm",
    "https://fr.wikipedia.org/wiki/HomeServe"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Brookfield Infrastructure Partners n'en détient qu'environ 25 % en intérêt économique ; le reste appartient à d'autres fonds du consortium géré par Brookfield (20-F 2025)."
  },
  {
   "id": "honda",
@@ -17686,8 +17795,15 @@
     "nom": "Qatar Airways",
     "type": "etat",
     "pays": "QA",
-    "part_pct": 26.5,
-    "part_date": "2025-09"
+    "part_pct": 24.995,
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "Capital Research and Management Company",
+    "part_pct": 5.04,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2026-02-11"
    },
    {
     "nom": "Flottant / public",
@@ -17696,8 +17812,9 @@
    }
   ],
   "description": "Groupe aérien (British Airways, Iberia, Vueling, Aer Lingus).",
-  "note": "Qatar Airways, premier actionnaire avec 26,5 % (septembre 2025).",
+  "note": "Qatar Airways, premier actionnaire avec 24,995 % du capital au 31/12/2025.",
   "sources": [
+   "https://www.iairgroup.com/media/ktnlp1jx/iag-annual-report-and-accounts-2025.pdf",
    "https://fr.wikipedia.org/wiki/International_Airlines_Group",
    "https://en.wikipedia.org/wiki/International_Airlines_Group"
   ],
@@ -17715,12 +17832,22 @@
    {
     "nom": "Caisse des Dépôts",
     "id": "caisse-des-depots",
-    "part_pct": 39,
+    "part_pct": 39.2,
     "type": "public",
     "pays": "FR",
     "siren": "180020026",
     "lei": "969500Q2PFTTP0Y5QL44",
-    "part_date": "2025-03-31"
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "Crédit Agricole Assurances (groupe)",
+    "id": "credit-agricole-assurances",
+    "part_pct": 18.85,
+    "type": "groupe",
+    "pays": "FR",
+    "part_date": "2025-12-31",
+    "siren": "451746077",
+    "lei": "969500K2MUPSI57XK083"
    },
    {
     "nom": "Flottant",
@@ -17730,6 +17857,7 @@
   ],
   "description": "Foncière et promoteur, contrôlé par la CDC.",
   "sources": [
+   "https://www.icade.fr/finance/publications/document-d-enregistrement-universel-2025.pdf",
    "https://fr.wikipedia.org/wiki/Icade"
   ],
   "verifie_le": "2026-10"
@@ -19320,11 +19448,11 @@
   "lei": "5493002BJQRO0S06F161",
   "actionnaires": [
    {
-    "nom": "Kinohold Bis (famille Bert)",
+    "nom": "Kinohold Bis (famille Bert) (droits de vote)",
     "type": "famille",
     "pays": "BE",
-    "part_pct": 46.4,
-    "part_date": "2019-04-24"
+    "part_pct": 46.04,
+    "part_date": "2023-08-11"
    },
    {
     "nom": "Flottant / public",
@@ -19334,11 +19462,12 @@
   ],
   "description": "Exploitant belge de multiplexes, contrôlé par Kinohold Bis (famille Bert, ≈ 46,4 % ; la famille Claeys a vendu l'essentiel de ses 25 % en 2006).",
   "sources": [
+   "https://celluloidjunkie.com/wire/kinohold-bis-sa-announces-private-sale-of-180001-shares-to-eddy-duquenne-ceo-of-kinepolis-and-members-of-the-bert-family/",
    "https://fr.wikipedia.org/wiki/Kinepolis",
    "https://en.wikipedia.org/wiki/Kinepolis"
   ],
   "verifie_le": "2026-10",
-  "note": "Part de Kinohold Bis au 24/04/2019 (Wikipédia)."
+  "note": "Part de Kinohold Bis en droits de vote ; avec le concert familial Bert, elle dépasse 50 % des droits de vote depuis le 11/08/2023 (effet des rachats d'actions)."
  },
  {
   "id": "king-jouet",
@@ -19595,11 +19724,12 @@
     "type": "groupe",
     "pays": "DK",
     "lei": "5299001O0WJQYB5GYZ19",
-    "part_date": "2008-04-29"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Filiale française de Carlsberg (brasserie d'Obernai).",
   "sources": [
+   "https://filings.xbrl.org/5299001O0WJQYB5GYZ19/2025-12-31/ESEF/DK/0/Carlsberg-2025-12-31-en/reports/Carlsberg-2025-12-31-en.xhtml",
    "https://fr.wikipedia.org/wiki/Brasseries_Kronenbourg"
   ],
   "verifie_le": "2026-10"
@@ -20105,14 +20235,15 @@
     "nom": "Nestlé",
     "type": "groupe",
     "id": "nestle",
-    "part_pct": 40.0,
+    "part_pct": 40,
     "pays": "CH",
     "lei": "KY37LUS27QQX7BB93L28",
-    "part_date": "2006"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Coentreprise d'ultra-frais (La Laitière, Nestlé yaourts) dominée par Lactalis.",
   "sources": [
+   "https://www.nestle.com/sites/default/files/2026-02/financial-statements-2025-en.pdf",
    "https://fr.wikipedia.org/wiki/La_Laiti%C3%A8re"
   ],
   "verifie_le": "2026-10"
@@ -20923,11 +21054,12 @@
     "pays": "FR",
     "siren": "775670417",
     "lei": "IOG4E947OATN0KJYSD45",
-    "part_date": "2015-12"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Pôle médias de LVMH (Les Échos, Le Parisien, Radio Classique, Investir, Connaissance des Arts).",
   "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/MKW/8888/01/FCMKW134471_20260212.pdf",
    "https://fr.wikipedia.org/wiki/Groupe_Les_%C3%89chos-Le_Parisien"
   ],
   "verifie_le": "2026-10"
@@ -22620,12 +22752,19 @@
    {
     "nom": "COFEPP (La Martiniquaise-Bardinet)",
     "id": "la-martiniquaise",
-    "part_pct": 70.0,
+    "part_pct": 79.3,
     "type": "groupe",
     "pays": "FR",
     "siren": "572056331",
     "lei": "969500Z6VMNEEYTDTS57",
-    "part_date": "2021-02"
+    "part_date": "2025-02-17"
+   },
+   {
+    "nom": "Diana Holding (famille Zniber)",
+    "part_pct": 3.52,
+    "type": "famille",
+    "pays": "MA",
+    "part_date": "2025-02-17"
    },
    {
     "nom": "Flottant (Euronext Paris)",
@@ -22635,6 +22774,7 @@
   ],
   "description": "Groupe de vins et spiritueux (William Peel, Sobieski, Marie Brizard, Fruits & Wine).",
   "sources": [
+   "https://mbws.com/wp-content/uploads/2025/04/MBWS_Document_de_reference_2024_FR__vf.pdf",
    "https://fr.wikipedia.org/wiki/Marie_Brizard_Wine_%26_Spirits"
   ],
   "verifie_le": "2026-10"
@@ -22757,6 +22897,7 @@
   ],
   "description": "Groupe d'édition (Dargaud, Dupuis, Kana, Seuil, La Martinière, Fleurus) et d'anime (ADN), contrôlé par la famille Montagne.",
   "sources": [
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/commitments//17DCC208versionpublication.pdf",
    "https://fr.wikipedia.org/wiki/M%C3%A9dia-Participations",
    "https://fr.wikipedia.org/wiki/Média-Participations"
   ],
@@ -22907,15 +23048,16 @@
   "actionnaires": [
    {
     "nom": "Fonds pour une presse libre (via la SPIM)",
-    "part_pct": 100.0,
+    "part_pct": 100,
     "type": "autre",
     "pays": "FR",
     "siren": "881302749",
-    "part_date": "2019-10-15"
+    "part_date": "2024"
    }
   ],
   "description": "Journal en ligne indépendant sur abonnement.",
   "sources": [
+   "https://fondspresselibre.org/wp/assets/uploads/2025/09/rapport-dimpact-2024-EN.pdf",
    "https://fr.wikipedia.org/wiki/Mediapart"
   ],
   "verifie_le": "2026-10"
@@ -23064,13 +23206,13 @@
     "part_date": "2025"
    },
    {
-    "nom": "BlackRock",
+    "nom": "BlackRock (droits de vote)",
     "id": "blackrock",
-    "part_pct": 5.35,
+    "part_pct": 5.87,
     "pays": "US",
     "lei": "529900VBK42Y5HHRMD23",
     "type": "fonds",
-    "part_date": "2025"
+    "part_date": "2026-09-22"
    },
    {
     "nom": "Flottant / public",
@@ -23079,8 +23221,10 @@
    }
   ],
   "description": "Constructeur allemand (Mercedes-Benz, smart en JV avec Geely).",
-  "note": "Structure 2025 (déclarations BaFin, Wikipédia).",
+  "note": "Structure 2025 (déclarations BaFin) ; BlackRock mis à jour au 22/09/2026 ; les parts de BAIC et de Li Shufu n'ont pas pu être revérifiées.",
   "sources": [
+   "https://www.eqs-news.com/media/document/3f8ee8ed-7b5b-441c-bf32-c9e9b94a004a/assets/DE0007100000-JA-2025-EQ-E-00.pdf",
+   "https://www.eqs-news.com/news/voting-rights/blackrock-inc-wilmington-delaware-united-states-of-america-usa/f7e74e5b-4643-4f92-b042-7db5b276435a_en",
    "https://fr.wikipedia.org/wiki/Mercedes-Benz_Group",
    "https://en.wikipedia.org/wiki/Mercedes-Benz_Group"
   ],
@@ -23581,7 +23725,8 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "775670417",
-    "lei": "IOG4E947OATN0KJYSD45"
+    "lei": "IOG4E947OATN0KJYSD45",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Diageo",
@@ -23589,11 +23734,14 @@
     "part_pct": 34.0,
     "type": "groupe",
     "pays": "GB",
-    "lei": "213800ZVIELEA55JMJ32"
+    "lei": "213800ZVIELEA55JMJ32",
+    "part_date": "2026-06-30"
    }
   ],
   "description": "Branche vins et spiritueux de LVMH.",
   "sources": [
+   "https://urd.lvmh.com/en/2025",
+   "https://www.sec.gov/Archives/edgar/data/835403/000162828026057529/deo-20260630.htm",
    "https://fr.wikipedia.org/wiki/Moët_Hennessy"
   ],
   "verifie_le": "2026-10"
@@ -23756,23 +23904,24 @@
   "lei": "969500EM4CTEVZNVMG10",
   "actionnaires": [
    {
-    "nom": "SIMB (contrôlée par l'ANPF, association des magasins franchisés)",
-    "part_pct": 54.13,
+    "nom": "ANPF (Association nationale des franchises Mr.Bricolage)",
+    "part_pct": 61.27,
     "type": "societaires",
     "pays": "FR",
-    "part_date": "2021-12-31"
+    "part_date": "2025-12-31"
    },
    {
-    "nom": "Public",
-    "part_pct": 36.36,
+    "nom": "Public (dont FMR/Fidelity 10,38 % et Amiral Gestion 9,26 %)",
+    "part_pct": 35.43,
     "type": "flottant",
     "pays": "XX",
-    "part_date": "2021-12-31"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Groupement de bricolage (Mr.Bricolage, Les Briconautes).",
-  "note": "Répartition au 31/12/2021 (dernière disponible).",
+  "note": "Répartition au 31/12/2025 : l'ANPF détient 61,27 % du capital et 73,01 % des droits de vote bruts, en direct depuis l'absorption de la SIMB en décembre 2025.",
   "sources": [
+   "https://mr-bricolage.com/wp-content/uploads/2026/04/Rapport-annuel-2025.pdf",
    "https://fr.wikipedia.org/wiki/Mr.Bricolage"
   ],
   "verifie_le": "2026-10"
@@ -23817,6 +23966,7 @@
   ],
   "description": "Armateur et croisiériste (MSC Croisières).",
   "sources": [
+   "https://www.msc.com/en/newsroom/press-releases/2026/april/msc-mediterranean-shipping-company-announces-ownership-transfer",
    "https://fr.wikipedia.org/wiki/Mediterranean_Shipping_Company"
   ],
   "verifie_le": "2026-10"
@@ -23832,10 +23982,10 @@
    {
     "nom": "Edizione (famille Benetton, via Sintonia)",
     "id": "famille-benetton",
-    "part_pct": 57,
+    "part_pct": 57.0,
     "type": "famille",
     "pays": "IT",
-    "part_date": "2022-12"
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Blackstone Infrastructure",
@@ -23844,7 +23994,7 @@
     "type": "fonds",
     "pays": "US",
     "lei": "5299004LW4QWGZUB8Y96",
-    "part_date": "2022-12"
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Fondazione CRT",
@@ -23852,12 +24002,13 @@
     "type": "autre",
     "pays": "IT",
     "lei": "213800ZPSLRJV6XOKA24",
-    "part_date": "2022-12"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Holding italienne d'infrastructures (Abertis, Aeroporti di Roma, aéroports de Nice).",
-  "note": "Retirée de la cote le 9/12/2022 après l'OPA de Schema Alfa ; Edizione 57 %, Blackstone 37,8 %, Fondazione CRT 5,2 % (Wikipédia).",
+  "note": "Retirée de la cote le 9/12/2022 après l'OPA de Schema Alfa ; Edizione 57 %, Blackstone 37,8 %, Fondazione CRT 5,2 % (31/12/2025).",
   "sources": [
+   "https://www.mundys.com/sites/default/files/documents/2025%20RAI%20MUNDYS_ENG_20260330.pdf",
    "https://fr.wikipedia.org/wiki/Mundys",
    "https://en.wikipedia.org/wiki/Mundys"
   ],
@@ -24256,18 +24407,20 @@
   "actionnaires": [
    {
     "nom": "Crédit Mutuel Arkéa",
-    "part_pct": 6.6,
+    "part_pct": 6.69,
     "type": "groupe",
     "pays": "FR",
     "siren": "775577018",
-    "lei": "96950041VJ1QP0B69503"
+    "lei": "96950041VJ1QP0B69503",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Crédit Agricole Assurances",
     "id": "credit-agricole",
-    "part_pct": 6.4,
+    "part_pct": 6.42,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "La Mondiale",
@@ -24275,25 +24428,36 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "775625635",
-    "lei": "969500L0T16HX3R78P61"
+    "lei": "969500L0T16HX3R78P61",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Assurances du Crédit Mutuel Vie",
-    "part_pct": 5.0,
+    "part_pct": 5.05,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Managers et salariés",
-    "part_pct": 4,
+    "part_pct": 4.13,
     "type": "salaries",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "T. Rowe Price Associates",
+    "part_pct": 5.29,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant",
-    "part_pct": 72,
+    "part_pct": 66.65,
     "type": "flottant",
-    "pays": "XX"
+    "pays": "XX",
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Premier promoteur immobilier français.",
@@ -24382,7 +24546,8 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/Groupe_Nicollin"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Le 10/07/2026, le groupe a annoncé une négociation exclusive avec Morgan Stanley Infrastructure Partners, qui deviendrait actionnaire majoritaire de Nicollin Environnement, la famille restant minoritaire ; réalisation non annoncée."
  },
  {
   "id": "nike",
@@ -26037,18 +26202,21 @@
     "part_pct": 50.0,
     "type": "groupe",
     "pays": "US",
-    "lei": "FJSUNZKFNQ5YPJ5OT455"
+    "lei": "FJSUNZKFNQ5YPJ5OT455",
+    "part_date": "2025-12-31"
    },
    {
-    "nom": "LIPTON Teas and Infusions",
-    "id": "lipton-teas-infusions",
+    "nom": "Unilever",
     "part_pct": 50.0,
     "type": "groupe",
-    "pays": "NL"
+    "pays": "GB",
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Coentreprise 50/50 qui commercialise Lipton Ice Tea.",
   "sources": [
+   "https://www.unilever.com/files/unilever-annual-report-and-accounts-2025.pdf",
+   "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm",
    "https://fr.wikipedia.org/wiki/Lipton"
   ],
   "verifie_le": "2026-10"
@@ -26164,20 +26332,21 @@
     "id": "famille-peugeot",
     "type": "famille",
     "pays": "FR",
-    "part_pct": 80,
-    "part_date": "2021-12-31"
+    "part_pct": 79.98,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 20,
-    "part_date": "2021-12-31"
+    "part_pct": 19.59,
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Société d'investissement de la famille Peugeot, actionnaire de Stellantis.",
-  "note": "Établissements Peugeot Frères ≈ 80 % du capital (31/12/2021).",
+  "note": "Établissements Peugeot Frères ≈ 80 % du capital ; flottant 19,59 % et autodétention 0,43 % (31/12/2025).",
   "sources": [
+   "https://peugeot-invest.com/en/media/publications/1288",
    "https://fr.wikipedia.org/wiki/Peugeot_Invest"
   ],
   "verifie_le": "2026-10"
@@ -26283,6 +26452,7 @@
   ],
   "description": "Chaîne de magasins de surgelés (≈1 000+ magasins), contrôlée à 100 % par le family office Zouari depuis septembre 2024.",
   "sources": [
+   "https://www.goodwinlaw.com/en/news-and-events/news/2024/10/announcements-privateequity-lion-capital-signs-agreement-of-picard",
    "https://fr.wikipedia.org/wiki/Picard_Surgel%C3%A9s"
   ],
   "verifie_le": "2026-10"
@@ -27431,7 +27601,7 @@
     "part_pct": 75,
     "type": "famille",
     "pays": "FR",
-    "part_date": "2023-07"
+    "part_date": "2023-06-27"
    },
    {
     "nom": "Synfonium — Caisse des Dépôts",
@@ -27441,11 +27611,12 @@
     "pays": "FR",
     "siren": "180020026",
     "lei": "969500Q2PFTTP0Y5QL44",
-    "part_date": "2023-07"
+    "part_date": "2023-06-27"
    }
   ],
   "description": "Moteur de recherche français, repris en juillet 2023 par Synfonium (Klaba 75 %, Caisse des Dépôts 25 %).",
   "sources": [
+   "https://www.banquedesterritoires.fr/sites/default/files/2023-06/CP%20BDT%20SYNFONIUM%20QWANT%20SIGNATURE%20ACCORD%2027062023.pdf",
    "https://fr.wikipedia.org/wiki/Qwant"
   ],
   "verifie_le": "2026-10"
@@ -27714,22 +27885,31 @@
    {
     "nom": "Famille Yoovidhya",
     "id": "famille-yoovidhya",
-    "part_pct": 51.0,
+    "part_pct": 49.0,
     "type": "famille",
-    "pays": "TH"
+    "pays": "TH",
+    "part_date": "2025-05-20"
    },
    {
     "nom": "Mark Mateschitz",
     "part_pct": 49.0,
     "type": "personne",
     "pays": "AT"
+   },
+   {
+    "nom": "Fides Trustees SA (trust, bénéficiaire non publié)",
+    "part_pct": 2.0,
+    "type": "autre",
+    "pays": "CH",
+    "part_date": "2025-05-20"
    }
   ],
   "description": "Fabricant autrichien de boissons énergisantes.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Red_Bull_GmbH"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "Selon la presse (mai 2025), Chalerm Yoovidhya a transféré ses 2 % à un trust genevois dont le bénéficiaire n'est pas publié : la majorité de la famille Yoovidhya n'est plus établie. Aucune source de premier rang accessible (registre autrichien payant)."
  },
  {
   "id": "reddit",
@@ -27880,11 +28060,12 @@
     "part_pct": 100.0,
     "pays": "ES",
     "type": "etat",
-    "part_date": "1941"
+    "part_date": "2005-01-01"
    }
   ],
   "description": "Compagnie ferroviaire publique espagnole.",
   "sources": [
+   "https://www.boe.es/boe/dias/2004/12/31/pdfs/A42797-42804.pdf",
    "https://fr.wikipedia.org/wiki/Renfe"
   ],
   "verifie_le": "2026-10"
@@ -28138,38 +28319,44 @@
   "groupe_parent": "edf",
   "actionnaires": [
    {
-    "nom": "EDF",
+    "nom": "EDF (via la Coentreprise de Transport d'Électricité)",
     "id": "edf",
     "part_pct": 50.1,
     "type": "groupe",
     "pays": "FR",
     "siren": "552081317",
-    "lei": "549300X3UK4GG3FNMO06"
+    "lei": "549300X3UK4GG3FNMO06",
+    "part_date": "2025-12-31"
    },
    {
-    "nom": "Caisse des Dépôts",
+    "nom": "Caisse des Dépôts (via la Coentreprise de Transport d'Électricité)",
     "id": "caisse-des-depots",
     "part_pct": 29.9,
     "type": "public",
     "pays": "FR",
     "siren": "180020026",
-    "lei": "969500Q2PFTTP0Y5QL44"
+    "lei": "969500Q2PFTTP0Y5QL44",
+    "part_date": "2025-12-31"
    },
    {
-    "nom": "CNP Assurances",
+    "nom": "CNP Assurances (via la Coentreprise de Transport d'Électricité)",
     "id": "cnp-assurances",
     "part_pct": 20,
     "type": "groupe",
     "pays": "FR",
     "siren": "341737062",
-    "lei": "969500QKVPV2H8UXM738"
+    "lei": "969500QKVPV2H8UXM738",
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Gestionnaire du réseau de transport d'électricité.",
   "sources": [
+   "https://www.edf.fr/sites/groupe/files/2026-04/2026-04-02-edf-urd-2025.pdf",
+   "https://edf.fr/en/the-edf-group/dedicated-sections/journalists/all-press-releases/edf-finalised-the-indirect-sale-of-49-9-of-rte-assets-to-caisse-des-depots-and-cnp-assurances",
    "https://fr.wikipedia.org/wiki/Réseau_de_transport_d'électricité"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-10",
+  "note": "RTE est détenue à 100 % par la Coentreprise de Transport d'Électricité (CTE), elle-même détenue par EDF, la Caisse des dépôts et CNP Assurances depuis le 31/03/2017."
  },
  {
   "id": "rtl-group",
@@ -28258,7 +28445,8 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "341827566",
-    "part_pct": 33.27
+    "part_pct": 33.3,
+    "part_date": "2022"
    },
    {
     "nom": "Sogaris",
@@ -28274,19 +28462,22 @@
     "pays": "FR",
     "siren": "552032708",
     "lei": "969500SXOHCA2IOKGD85",
-    "part_pct": 4.19
+    "part_pct": 4.2,
+    "part_date": "2022"
    },
    {
     "nom": "Paris Habitat-OPH",
     "type": "public",
     "pays": "FR",
     "siren": "344810825",
-    "part_pct": 2.1
+    "part_pct": 2.1,
+    "part_date": "2022"
    }
   ],
   "description": "Société d'économie mixte de stationnement parisienne.",
-  "note": "Répartition selon Wikipédia (consulté 10/2026) ; le partenaire privé est Effia, qui a deux sièges au conseil.",
+  "note": "Répartition de 2022 ; la présence de Sogaris n'est pas confirmée. Le partenaire privé est Effia, qui a deux sièges au conseil.",
   "sources": [
+   "https://cdn.paris.fr/paris/2024/03/22/paris-bilansem-2022-rapport2023-29012024-Ow7F.pdf",
    "https://fr.wikipedia.org/wiki/Saemes",
    "https://fr.wikipedia.org/wiki/SAEMES"
   ],
@@ -28528,11 +28719,12 @@
     "pays": "ES",
     "lei": "549300GKFVWI02JQ5332",
     "type": "groupe",
-    "part_date": "2017-04"
+    "part_date": "2020-09-09"
    }
   ],
   "description": "Troisième concessionnaire autoroutier français (Nord, Est, Normandie via SAPN).",
   "sources": [
+   "https://abertis.com/noticias/abertis-coloca-con-exito-una-emision-de-600-millo/?lang=en",
    "https://fr.wikipedia.org/wiki/Sanef"
   ],
   "verifie_le": "2026-10"
@@ -28886,11 +29078,12 @@
     "type": "groupe",
     "pays": "GB",
     "lei": "549300DFVPOB67JL3A42",
-    "part_date": "2008"
+    "part_date": "2025-09-30"
    }
   ],
   "description": "Ex-monopole public français du tabac, filiale d'Imperial Brands.",
   "sources": [
+   "https://reports.ticker.app/549300DFVPOB67JL3A42/2026-01-30/549300DFVPOB67JL3A42-2025-09-30-T01.xhtml",
    "https://fr.wikipedia.org/wiki/Seita"
   ],
   "verifie_le": "2026-10"
@@ -29543,6 +29736,7 @@
   "description": "Opérateur du service Vélib' Métropole.",
   "note": "Créée en 2017 par Indigo, Mobivia (Smoove) et Moventia (≈ 1/3 chacun) ; Indigo actionnaire unique depuis le 31/12/2024.",
   "sources": [
+   "https://group-indigo.com/wp-content/uploads/2025/02/20241231-Communique-de-Presse.pdf",
    "https://fr.wikipedia.org/wiki/Vélib'_Métropole",
    "https://fr.wikipedia.org/wiki/Smovengo"
   ],
@@ -30462,7 +30656,7 @@
   "id": "storengy",
   "nom": "Storengy",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "833718653",
   "lei": "5493000YVP3KMMC22O57",
   "groupe_parent": "engie",
@@ -30470,15 +30664,17 @@
    {
     "nom": "Engie",
     "id": "engie",
-    "part_pct": 100,
+    "part_pct": 100.0,
     "type": "groupe",
     "pays": "FR",
     "siren": "542107651",
-    "lei": "LAXUQCHT4FH58LRZDY46"
+    "lei": "LAXUQCHT4FH58LRZDY46",
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Stockage souterrain de gaz.",
   "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2026/02/FCECO081063_20260226.pdf",
    "https://fr.wikipedia.org/wiki/Engie"
   ],
   "verifie_le": "2026-10"
@@ -31923,14 +32119,14 @@
     "part_pct": 10.9,
     "type": "personne",
     "pays": "RU",
-    "part_date": "2023-07"
+    "part_date": "2026-09"
    },
    {
     "nom": "RIU (famille Riu)",
     "part_pct": 1.1,
     "type": "famille",
     "pays": "ES",
-    "part_date": "2023-07"
+    "part_date": "2026-09"
    },
    {
     "nom": "Flottant / public",
@@ -31940,11 +32136,12 @@
   ],
   "description": "Premier voyagiste européen (TUI France, Club Marmara), coté à Francfort.",
   "sources": [
+   "https://www.tuigroup.com/en/investors/share/shareholder-structure",
    "https://fr.wikipedia.org/wiki/TUI_Group",
    "https://en.wikipedia.org/wiki/TUI_Group"
   ],
   "verifie_le": "2026-10",
-  "note": "Structure à juillet 2023 (Wikipédia) : Mordachov ≈ 10,9 %, RIU ≈ 1,1 %, institutionnels 57,8 %, particuliers 30,2 %."
+  "note": "Fin septembre 2026 (page actionnariat de TUI) : investisseurs institutionnels 52,3 %, particuliers 35,7 %."
  },
  {
   "id": "tupperware",
@@ -32126,23 +32323,19 @@
    {
     "nom": "Famille Guillemot",
     "id": "famille-guillemot",
-    "part_pct": 13.91,
+    "part_pct": 15.06,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026-07-06"
    },
    {
     "nom": "Tencent",
     "id": "tencent",
-    "part_pct": 9.74,
+    "part_pct": 9.36,
     "type": "groupe",
     "pays": "CN",
-    "lei": "254900N4SLUMW4XUYY11"
-   },
-   {
-    "nom": "Capital Research",
-    "part_pct": 5.3,
-    "type": "fonds",
-    "pays": "US"
+    "lei": "254900N4SLUMW4XUYY11",
+    "part_date": "2026-07-06"
    },
    {
     "nom": "Flottant / public",
@@ -32152,6 +32345,9 @@
   ],
   "description": "Éditeur de jeux vidéo (Assassin's Creed, Far Cry) ; filiale Vantage Studios créée en 2025 avec Tencent (1,16 Md€ investis).",
   "sources": [
+   "https://bdif.amf-france.org/back/api/v1/documents/2026/226C1063/76DEB3F398141F9527C60F65391B7F5AF5C7DCBA92DAD0A2C40A2D6364CDF585.pdf",
+   "https://bdif.amf-france.org/back/api/v1/documents/2026/226C1098/73DD470FDE51CD590CABAF42B07BC759225FDCE44B09F2054745653C722707EE.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307552301_20240828.pdf",
    "https://fr.wikipedia.org/wiki/Ubisoft"
   ],
   "verifie_le": "2026-10"
@@ -32613,11 +32809,13 @@
     "nom": "État suédois",
     "part_pct": 100,
     "type": "etat",
-    "pays": "SE"
+    "pays": "SE",
+    "part_date": "2026"
    }
   ],
   "description": "Énergéticien public suédois, fournisseur en France.",
   "sources": [
+   "https://group.vattenfall.com/who-we-are",
    "https://fr.wikipedia.org/wiki/Vattenfall"
   ],
   "verifie_le": "2026-10"
@@ -32687,6 +32885,23 @@
   "lei": "969500LENY69X51OOT31",
   "actionnaires": [
    {
+    "nom": "Caisse des dépôts (groupe, dont CNP Assurances et LBP Prévoyance)",
+    "id": "caisse-des-depots",
+    "part_pct": 5.11,
+    "type": "public",
+    "pays": "FR",
+    "part_date": "2025-12-31",
+    "siren": "180020026",
+    "lei": "969500Q2PFTTP0Y5QL44"
+   },
+   {
+    "nom": "CriteriaCaixa",
+    "part_pct": 5.1,
+    "type": "fonds",
+    "pays": "ES",
+    "part_date": "2025-12-31"
+   },
+   {
     "nom": "Actionnaires individuels",
     "part_pct": 10.4,
     "type": "flottant",
@@ -32695,28 +32910,19 @@
    },
    {
     "nom": "Salariés",
-    "part_pct": 8.9,
+    "part_pct": 9.35,
     "type": "salaries",
     "pays": "FR",
-    "part_date": "2024-12-31"
+    "part_date": "2025-12-31"
    },
    {
     "nom": "BlackRock",
     "id": "blackrock",
-    "part_pct": 5.9,
+    "part_pct": 5.48,
     "type": "fonds",
     "pays": "US",
     "lei": "529900VBK42Y5HHRMD23",
-    "part_date": "2024-12-31"
-   },
-   {
-    "nom": "Amundi",
-    "part_pct": 5.8,
-    "type": "fonds",
-    "pays": "FR",
-    "siren": "314222902",
-    "lei": "96950010FL2T1TJKR531",
-    "part_date": "2024-12-31"
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant",
@@ -32726,6 +32932,7 @@
   ],
   "description": "Leader mondial de l'eau, des déchets et de l'énergie.",
   "sources": [
+   "https://www.veolia.com/sites/g/files/dvc4206/files/document/2026/03/Veolia_Finance_DEU_2025_fr.pdf",
    "https://fr.wikipedia.org/wiki/Veolia"
   ],
   "verifie_le": "2026-10"
@@ -33017,22 +33224,24 @@
   "id": "vinci-immobilier",
   "nom": "Vinci Immobilier",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "722026226",
   "groupe_parent": "vinci",
   "actionnaires": [
    {
     "nom": "Vinci",
     "id": "vinci",
-    "part_pct": 100,
+    "part_pct": 100.0,
     "type": "groupe",
     "pays": "FR",
     "siren": "552037806",
-    "lei": "213800WFQ334R8UXUG83"
+    "lei": "213800WFQ334R8UXUG83",
+    "part_date": "2026-06"
    }
   ],
   "description": "Promoteur immobilier, filiale de Vinci.",
   "sources": [
+   "https://www.vinci.com/sites/default/files/medias/file/2026/06/vinci-full-list-controlled-companies-2026-en.pdf",
    "https://fr.wikipedia.org/wiki/Vinci_Immobilier"
   ],
   "verifie_le": "2026-10"
@@ -33250,19 +33459,22 @@
     "part_pct": 31.9,
     "type": "groupe",
     "pays": "DE",
-    "lei": "52990053Z17ZYM1KFV27"
+    "lei": "52990053Z17ZYM1KFV27",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Land de Basse-Saxe",
     "part_pct": 11.8,
     "type": "etat",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Qatar Holding",
     "part_pct": 10.4,
     "type": "etat",
-    "pays": "QA"
+    "pays": "QA",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -33271,8 +33483,10 @@
    }
   ],
   "description": "Premier constructeur européen (VW, Audi, Skoda, Seat, Cupra, Porsche).",
-  "note": "Parts du capital (Wikipédia) ; en droits de vote : Porsche SE 53,3 %, Basse-Saxe 20 %, Qatar 17 %.",
+  "note": "Parts du capital au 31/12/2025 ; en droits de vote : Porsche SE 53,3 %, Basse-Saxe 20 %, Qatar 17 % (rapport annuel 2025).",
   "sources": [
+   "https://annualreport2025.volkswagen-group.com/group-management-report/shares-and-bonds/shareholder-structure.html",
+   "https://www.porsche-se.com/en/investments",
    "https://fr.wikipedia.org/wiki/Volkswagen_AG",
    "https://en.wikipedia.org/wiki/Volkswagen_Group"
   ],
@@ -33551,8 +33765,8 @@
     "id": "access-industries",
     "type": "groupe",
     "pays": "US",
-    "part_pct": 72,
-    "part_date": "2025"
+    "part_pct": 71.7,
+    "part_date": "2026-01-06"
    },
    {
     "nom": "Flottant / public",
@@ -33562,6 +33776,7 @@
   ],
   "description": "Major du disque, cotée au Nasdaq, contrôlée par Access Industries (≈72 % du capital, ≈98 % des droits de vote, 2025).",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1319161/000114036126001664/ny20057694x1_def14a.htm",
    "https://fr.wikipedia.org/wiki/Warner_Music_Group",
    "https://en.wikipedia.org/wiki/Warner_Music_Group"
   ],
@@ -34100,6 +34315,7 @@
   ],
   "description": "Portail, Yahoo Mail et actualités (chiffres de la cession de 2021).",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/732712/000073271224000010/vz-20231231.htm",
    "https://en.wikipedia.org/wiki/Yahoo!"
   ],
   "verifie_le": "2026-10"
