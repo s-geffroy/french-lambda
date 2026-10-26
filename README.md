@@ -64,8 +64,7 @@ Les secrets reels vont dans `/etc/app-secrets/french-lambda/` (root uniquement),
 jamais dans ce depot :
 
 ```bash
-printf '%s\n' "<la cle>" | sudo tee /etc/app-secrets/french-lambda/api_key
-sudo chmod 0444 /etc/app-secrets/french-lambda/api_key   # lisible dans le conteneur
+sudo appctl secret set api_key   # saisie masquee, pose en 0444
 ```
 
 et dans `compose.yaml` :
