@@ -5666,7 +5666,7 @@
    }
   ],
   "description": "Constructeur allemand (BMW, Mini, Rolls-Royce).",
-  "note": "Famille Quandt ≈ 50 % du capital : Stefan Quandt 27,7 %, Susanne Klatten 22,5 % (Wikipédia, 2025). Parts de Stefan Quandt et Susanne Klatten en droits de vote (actions ordinaires) fin 2025, soit environ 25,2 % et 20,5 % du capital ; les actions de préférence, converties en actions ordinaires le 30/06/2026, diluent ces parts.",
+  "note": "Parts de Stefan Quandt et Susanne Klatten en droits de vote (actions ordinaires) fin 2025, soit environ 25,2 % et 20,5 % du capital ; les actions de préférence, converties en actions ordinaires le 30/06/2026, diluent ces parts.",
   "sources": [
    "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/company/downloads/de/2026/Key_Aspects_of_Corporate_Governance.pdf",
    "https://www.bmwgroup.com/en/investor-relations/bmw-shares.html",
@@ -6198,7 +6198,7 @@
     "pays": "FR"
    }
   ],
-  "description": "Conglomérat (BTP, Equans, TF1, Bouygues Telecom). Au 31/12/2025 : SCDM (Martin et Olivier Bouygues) 28,3 % du capital et 29,3 % des droits de vote ; salariés 19,2 % du capital et 30,9 % des droits de vote ; actionnaires étrangers 41,6 % du capital.",
+  "description": "Conglomérat (BTP, Equans, TF1, Bouygues Telecom). Au 31/12/2025 : SCDM (Martin et Olivier Bouygues) 28,3 % du capital et 29,3 % des droits de vote ; salariés 19,2 % du capital et 29,3 % des droits de vote ; autres actionnaires 52,2 % du capital.",
   "sources": [
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/134/2026/07/FC134640445_20260731.pdf",
    "https://www.bouygues.com/app/uploads/docs/180929/Rapport-Financier-Semestriel-2026-BOUYGUES-SA.pdf",
@@ -6687,6 +6687,18 @@
     }
    },
    {
+    "nom": "CPP Investments",
+    "id": "cpp-investments",
+    "type": "fonds",
+    "pays": "CA",
+    "part_pct": 14.0,
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://www.sec.gov/Archives/edgar/data/1996862/000162828026009842/bg-20251231.htm",
+     "type": "autorite"
+    }
+   },
+   {
     "nom": "Flottant",
     "type": "flottant",
     "pays": "XX"
@@ -6697,7 +6709,8 @@
    "https://www.ajbell.co.uk/news/articles/glencore-closes-viterra-bunge-merger-launch-1-billion-buyback",
    "https://www.sec.gov/Archives/edgar/data/1996862/000162828026009842/bg-20251231.htm"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Selon le 10-K 2025 de Bunge, au 31/12/2025 : Glencore environ 17 %, CPP Investments environ 14 %, BCI environ 3 %."
  },
  {
   "id": "burger-king-france",
@@ -7527,8 +7540,8 @@
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-16-casino-daniel-kretinsky-proche-dun-accord-avec-les-creanciers.html",
    "https://www.tradingsat.com/actualites/informations-societes/casino-daniel-kretinsky-proche-d-un-accord-avec-les-creanciers-1171909.html"
   ],
-  "verifie_le": "2026-10",
-  "note": "FRH détient ≈ 53 % (Wikipédia : 53,04 %). Restructuration en cours : offres concurrentes de FRH et des créanciers TLB reçues le 6/07/2026 ; mi-octobre 2026, Křetínský serait proche d'un accord avec les créanciers historiques (rachat de leur ≈ 30 %, augmentation de capital, dette ramenée à 800 M€), encore soumis au vote des classes et au tribunal : forte dilution attendue. Hypers Géant et supermarchés Casino cédés en 2024 (≈162 à Intermarché, 98 à Auchan, 26 à Carrefour) ou fermés. Le groupe Casino a pris le nom Plesio le 20/10/2026 ; la société cotée reste Casino, Guichard-Perrachon."
+  "verifie_le": "2026-11",
+  "note": "FRH est actionnaire majoritaire depuis la restructuration de 2024. Restructuration en cours : offres concurrentes de FRH et des créanciers TLB reçues le 6/07/2026 ; mi-octobre 2026, Křetínský serait proche d'un accord avec les créanciers historiques (rachat de leur ≈ 30 %, augmentation de capital, dette ramenée à 800 M€), encore soumis au vote des classes et au tribunal : forte dilution attendue. Hypers Géant et supermarchés Casino cédés en 2024 (≈162 à Intermarché, 98 à Auchan, 26 à Carrefour) ou fermés. Le groupe Casino a pris le nom Plesio le 20/10/2026 ; la société cotée reste Casino, Guichard-Perrachon."
  },
  {
   "id": "castel",
@@ -8375,6 +8388,17 @@
     "part_pct": 93.18,
     "pays": "FR",
     "type": "groupe",
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://www.cic.fr/telechargements/institutionnel/cic/information-reglementee/document-enregistrement-universel-2025.pdf",
+     "type": "document_societe"
+    }
+   },
+   {
+    "nom": "Mutuelles Investissement (groupe Crédit Mutuel)",
+    "type": "groupe",
+    "pays": "FR",
+    "part_pct": 6.22,
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.cic.fr/telechargements/institutionnel/cic/information-reglementee/document-enregistrement-universel-2025.pdf",
@@ -10852,7 +10876,7 @@
    }
   ],
   "description": "Groupe postal et logistique allemand (ex-Deutsche Post).",
-  "note": "KfW ≈ 21 % (Wikipédia).",
+  "note": "La KfW a cédé 50 millions d'actions le 7/02/2024 : la part de l'État fédéral est passée de 24,89 % à 16,84 % des droits de vote.",
   "sources": [
    "https://group.dhl.com/de/investoren/aktie/aktionaersstruktur.html",
    "https://fr.wikipedia.org/wiki/DHL_Group",
@@ -12916,7 +12940,7 @@
    "https://en.wikipedia.org/wiki/Epic_Games"
   ],
   "verifie_le": "2026-11",
-  "note": "Disney a investi 1,5 Md$ en février 2024 et détient 8 % (10-K 2025) ; les autres parts viennent de Wikipédia et n'ont pas pu être confirmées."
+  "note": "Disney a investi 1,5 Md$ en février 2024 et détient 8 % (10-K 2025) ; les parts des autres actionnaires ne sont pas publiées."
  },
  {
   "id": "eqt",
@@ -19868,9 +19892,9 @@
   "groupe_parent": "famille-ortega",
   "actionnaires": [
    {
-    "nom": "Pontegadea (Amancio Ortega)",
+    "nom": "Amancio Ortega (Pontegadea Inversiones 50,01 % et Partler Participaciones 9,28 %)",
     "id": "famille-ortega",
-    "part_pct": 59.3,
+    "part_pct": 59.29,
     "type": "famille",
     "pays": "ES",
     "part_date": "2026-01-31",
@@ -19897,7 +19921,6 @@
    }
   ],
   "description": "Premier groupe mondial de prêt-à-porter (Zara, Bershka, Pull&Bear, Stradivarius, Massimo Dutti, Oysho).",
-  "note": "Parts approximatives d'après la communication actionnaires d'Inditex.",
   "sources": [
    "https://www.inditex.com/itxcomweb/en/investors",
    "https://www.inditex.com/itxcomweb/api/media/bc056846-807b-4924-b11c-c85797226a7f/IAGC2025_ENG.pdf"
@@ -22060,8 +22083,8 @@
    "https://www.cfnews.net/L-actualite/International/Operations/M-A/Labeyrie-cede-ses-surgeles-252025",
    "https://www.salmonbusiness.com/private-equity-firm-considers-selling-stake-in-labeyrie-fine-foods/?amp=1"
   ],
-  "verifie_le": "2026-10",
-  "note": "Co-détenu par Lur Berri et PAI Partners (accord de parité de 2014) aux côtés du management (≈ 91 % / ≈ 9 % selon Wikipédia). PAI a cherché à vendre sa part en 2019 ; aucune cession réalisée depuis n'a été trouvée."
+  "verifie_le": "2026-11",
+  "note": "Co-détenu par Lur Berri et PAI Partners (accord de parité de 2014) aux côtés du management. PAI a cherché à vendre sa part en 2019 ; aucune cession réalisée depuis n'a été trouvée."
  },
  {
   "id": "lactalis",
@@ -22157,7 +22180,13 @@
     "id": "qia",
     "type": "etat",
     "pays": "QA",
-    "lei": "5493008JZL5CRK3VS565"
+    "lei": "5493008JZL5CRK3VS565",
+    "part_pct": 11.47,
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://www.lagardere.com/wp-content/uploads/2026/04/260409_lagardere_urd_fr.pdf",
+     "type": "document_societe"
+    }
    },
    {
     "nom": "Vivendi SE",
@@ -22179,7 +22208,7 @@
     "pays": "XX"
    }
   ],
-  "description": "Édition (Hachette Livre), Travel Retail (Relay) et médias (Europe 1, JDD, Europe 2, RFM) ; Wikipédia hésite entre 65,7 et 66,5 % pour LHG.",
+  "description": "Édition (Hachette Livre), Travel Retail (Relay) et médias (Europe 1, JDD, Europe 2, RFM).",
   "sources": [
    "https://www.lagardere.com/wp-content/uploads/2026/04/260409_lagardere_urd_fr.pdf",
    "https://www.louishachettegroup.com/wp-content/uploads/2026/05/260505_AG2026_Louis_Hachette_Group_Presentation_FR.pdf",
@@ -22853,7 +22882,7 @@
   "groupe_parent": "kirkbi",
   "actionnaires": [
    {
-    "nom": "KIRKBI (famille Kirk Kristiansen)",
+    "nom": "KIRKBI (famille Kirk Kristiansen, via LEGO Holding)",
     "id": "kirkbi",
     "part_pct": 75.0,
     "type": "famille",
@@ -25030,15 +25059,9 @@
   "lei": "9695000EBC93PGEEN407",
   "actionnaires": [
    {
-    "nom": "Famille Montagne",
+    "nom": "Famille Montagne (majoritaire ; part non publiée)",
     "type": "famille",
-    "pays": "FR",
-    "part_pct": 75,
-    "part_date": "2017",
-    "source": {
-     "url": "https://www.livreshebdo.fr/article/la-longue-marche-de-media-participations",
-     "type": "presse"
-    }
+    "pays": "FR"
    },
    {
     "nom": "Investisseurs minoritaires (La Martinière Participations, Axa, Michelin, Caisse des dépôts, CIC Finances, Siparex, Sofina)",
@@ -25054,7 +25077,7 @@
    "https://www.livreshebdo.fr/article/la-longue-marche-de-media-participations"
   ],
   "verifie_le": "2026-11",
-  "note": "Famille Montagne ≈75 % du capital (chiffre 2017, Wikipédia)."
+  "note": "En 2017, Vincent Montagne, avec sa famille et la famille Michelin, contrôlait 75 % de la holding belge qui détient 80 % de Média-Participations Paris (Livres Hebdo, 29/09/2017) ; part diluée depuis l'apport des titres des actionnaires de La Martinière (décision 17-DCC-208)."
  },
  {
   "id": "mediametrie",
@@ -26977,6 +27000,28 @@
     "type": "fonds",
     "pays": "US",
     "lei": "54930013V5I303TF9571",
+    "part_date": "2025-07-22",
+    "source": {
+     "url": "https://www.sec.gov/Archives/edgar/data/2054696/000119312525163597/d906383d424b4.htm",
+     "type": "autorite"
+    }
+   },
+   {
+    "nom": "NIM (Nuremberg Institute for Market Decisions)",
+    "type": "autre",
+    "pays": "DE",
+    "part_pct": 11.9,
+    "part_date": "2025-07-22",
+    "source": {
+     "url": "https://www.sec.gov/Archives/edgar/data/2054696/000119312525163597/d906383d424b4.htm",
+     "type": "autorite"
+    }
+   },
+   {
+    "nom": "VNU International B.V.",
+    "type": "autre",
+    "pays": "NL",
+    "part_pct": 6.0,
     "part_date": "2025-07-22",
     "source": {
      "url": "https://www.sec.gov/Archives/edgar/data/2054696/000119312525163597/d906383d424b4.htm",
@@ -34723,7 +34768,7 @@
     "pays": "XX"
    }
   ],
-  "description": "Premier groupe privé de télévision (TF1, TMC, TFX, LCI, TF1+); Wikipédia donne 43,9 % ou 46,1 % (mai 2025) pour Bouygues.",
+  "description": "Premier groupe privé de télévision (TF1, TMC, TFX, LCI, TF1+).",
   "sources": [
    "https://groupe-tf1.fr/sites/default/files//TF1_DEU_2025_0.pdf",
    "https://groupe-tf1.fr/fr/investisseurs/espace-actionnaires",
@@ -37052,12 +37097,12 @@
    }
   ],
   "description": "Constructeur suédois contrôlé par Geely.",
-  "note": "Geely Holding ≈ 78,7 % (Wikipédia) ; environ 18 % introduits à la Bourse de Stockholm en octobre 2021.",
+  "note": "Geely Holding est actionnaire majoritaire ; environ 18 % introduits à la Bourse de Stockholm en octobre 2021.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Volvo_Cars",
    "https://en.wikipedia.org/wiki/Volvo_Cars"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "voodoo",
