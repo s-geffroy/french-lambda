@@ -1538,35 +1538,30 @@
   "actionnaires": [
    {
     "nom": "Wren House Infrastructure (fonds souverain koweïtien)",
-    "part_pct": 60,
     "type": "fonds",
-    "pays": "KW",
-    "part_date": "2021-07"
+    "pays": "KW"
    },
    {
     "nom": "Bpifrance",
     "id": "bpifrance",
-    "part_pct": 16,
     "type": "etat",
     "pays": "FR",
     "siren": "320252489",
-    "lei": "969500STN7T9MRUMJ267",
-    "part_date": "2021-07"
+    "lei": "969500STN7T9MRUMJ267"
    },
    {
     "nom": "Autres actionnaires (non précisés)",
-    "part_pct": 24,
     "type": "autre",
-    "pays": "XX",
-    "part_date": "2021-07"
+    "pays": "XX"
    }
   ],
   "description": "Groupe de cliniques (Sud-Est, Île-de-France).",
-  "note": "Depuis juillet 2021 : Wren House 60 %, Bpifrance 16 % (Le Figaro, 26/07/2021) ; détenteur des 24 % restants non précisé.",
+  "note": "Depuis décembre 2021, Wren House (qui a racheté la part d'Antin) est l'actionnaire de référence, aux côtés de Bpifrance et du fondateur Yves Journel ; la presse (Le Figaro, 26/07/2021) donnait 60 % et 16 %, aucune source de premier rang ne chiffre la répartition.",
   "sources": [
    "https://www.swisslife-am.com/en/home/media/news/corporate/company-news/2022/0516_almaviva_sante.html",
    "https://www.almaviva-sante.com",
-   "https://fr.wikipedia.org/wiki/Almaviva_Sant%C3%A9"
+   "https://fr.wikipedia.org/wiki/Almaviva_Sant%C3%A9",
+   "https://www.lemondedudroit.fr/deals/79083-arsene-conseille-wren-house-pour-son-entree-au-capital-d-almaviva-sante.html"
   ],
   "verifie_le": "2026-11"
  },
@@ -7601,14 +7596,15 @@
     "pays": "FR",
     "siren": "410408959",
     "lei": "969500BHQM2R5E9SXR13",
-    "part_date": "2012"
+    "part_date": "2024-12-31"
    }
   ],
   "description": "Drive piéton/voiture filiale d'Auchan Retail France (≈56 sites).",
   "sources": [
    "https://fr.wikipedia.org/wiki/Chronodrive"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "100 % d'intérêt du groupe ELO (ex-Auchan Holding) au 31/12/2024, branche Auchan Retail International (rapport financier 2024 d'ELO, note 17)."
  },
  {
   "id": "cic",
@@ -7875,7 +7871,6 @@
    {
     "nom": "Famille Saadé (Merit France)",
     "id": "famille-saade",
-    "part_pct": 73,
     "type": "famille",
     "pays": "FR"
    },
@@ -7884,24 +7879,16 @@
     "part_pct": 24,
     "type": "groupe",
     "pays": "TR"
-   },
-   {
-    "nom": "Bpifrance",
-    "id": "bpifrance",
-    "part_pct": 3,
-    "type": "etat",
-    "pays": "FR",
-    "siren": "320252489",
-    "lei": "969500STN7T9MRUMJ267"
    }
   ],
   "description": "Armateur et logisticien (CEVA, Colis Privé), actionnaire d'Air France-KLM et de médias.",
-  "note": "Famille Saadé (Merit France) 73 %, Yildirim 24 %, Bpifrance 3 % d'après la presse maritime ; selon CFNEWS (13/10/2026), Bpifrance aurait cédé le solde de sa participation à l'été 2026. Aucune source de premier rang.",
+  "note": "Société non cotée, contrôlée par la famille Saadé (Merit France) ; elle ne publie pas la répartition de son capital. Yildirim Holding détient environ 24 % selon la presse maritime (Lloyd's List). Bpifrance aurait cédé le solde de sa participation à l'été 2026 (CFNEWS, 13/10/2026). Aucune source de premier rang.",
   "sources": [
    "https://fr.wikipedia.org/wiki/CMA_CGM",
    "https://www.journaldunet.com/business/1531475-rachat-officiel-d-altice-media-bfm-et-rmc-par-cma-cgm/",
    "https://www.cma-cgm.com/group/presentation",
-   "https://en.wikipedia.org/wiki/CMA_CGM"
+   "https://en.wikipedia.org/wiki/CMA_CGM",
+   "https://www.lloydslist.com/LL1140011/Yildirim-considers-future-of-CMA-CGM-stake-after-12-years"
   ],
   "verifie_le": "2026-11"
  },
@@ -8579,26 +8566,24 @@
   "siren": "438937245",
   "actionnaires": [
    {
-    "nom": "Hervé Lecat (fondateur)",
-    "part_pct": 55,
+    "nom": "Hervé Lecat (fondateur, majoritaire via Senek et la holding Epiktet)",
     "type": "personne",
-    "pays": "FR",
-    "part_date": "2021-11"
+    "pays": "FR"
    },
    {
-    "nom": "Raise Invest et Geneo Capital Entrepreneur",
-    "part_pct": 45,
+    "nom": "Raise Invest et Geneo Capital Entrepreneur (minoritaires dans Epiktet)",
     "type": "fonds",
-    "pays": "FR",
-    "part_date": "2021-11"
+    "pays": "FR"
    }
   ],
   "description": "Soutien scolaire à domicile.",
-  "note": "Société mère Epiktet ; entrée de Raise Invest et Geneo en novembre 2021, le fondateur passant de 85 % à 55 % (Les Échos Capital Finance, 22/11/2021).",
+  "note": "Depuis novembre 2021, Complétude appartient à la holding Epiktet, dont Senek (holding d'Hervé Lecat) garde la majorité, avec deux fonds minoritaires (communiqué Altur Investissement, 17/11/2021). La presse (Les Échos Capital Finance, 22/11/2021) donnait 55 % au fondateur.",
   "sources": [
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2017/06/FCACT038889_20170601.pdf",
    "https://www.completude.com/",
-   "https://fr.wikipedia.org/wiki/Compl%C3%A9tude_(entreprise)"
+   "https://fr.wikipedia.org/wiki/Compl%C3%A9tude_(entreprise)",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/11/FCACT057843_20211117.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2021/12/FCACT058217_20211221.pdf"
   ],
   "verifie_le": "2026-11"
  },
@@ -8809,33 +8794,34 @@
   "lei": "213800SUC1NFSRN1TU70",
   "actionnaires": [
    {
-    "nom": "Consortium d'entrepreneurs, majoritairement ultramarins",
+    "nom": "Blue Sky Holding (consortium d'entrepreneurs, majoritairement ultramarins)",
     "type": "autre",
     "pays": "FR",
     "part_pct": 52.0,
-    "part_date": "2024-09-11"
+    "part_date": "2026-06-12"
    },
    {
     "nom": "Abbas Jaber (Advens-Geocoton)",
     "type": "personne",
     "pays": "FR",
     "part_pct": 40.0,
-    "part_date": "2024-09-11"
+    "part_date": "2026-06-12"
    },
    {
     "nom": "SEM patrimoniale de la Région Guadeloupe",
     "type": "public",
     "pays": "FR",
     "part_pct": 8.0,
-    "part_date": "2024-09-11"
+    "part_date": "2026-06-12"
    }
   ],
   "description": "Compagnie aérienne française (Antilles, Réunion, Afrique).",
-  "note": "Répartition annoncée le 11/09/2024 ; elle n'a pris effet qu'avec la validation de l'augmentation de capital, ramenée à 30 M€, le 12/06/2026 (TourMaG, 18/06/2026). Aucune source de premier rang.",
+  "note": "Répartition annoncée le 11/09/2024, effective avec la validation de l'augmentation de capital, ramenée à 30 M€, le 12/06/2026 ; Abbas Jaber préside depuis le conseil d'administration (TourMaG, 18/06/2026). La SEM Patrimoniale Guadeloupe est contrôlée par la Région (Autorité de la concurrence, décision 21-DCC-138). Pourcentages de presse : aucune source de premier rang.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Corsair_International",
    "https://outremers360.com/bassin-atlantique-appli/aerien-lentrepreneur-abbas-jaber-futur-actionnaire-de-reference-de-corsair",
-   "https://www.tourmag.com/Corsair-voici-les-nouveaux-hommes-forts-de-la-compagnie-_a132270.html"
+   "https://www.tourmag.com/Corsair-voici-les-nouveaux-hommes-forts-de-la-compagnie-_a132270.html",
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2021-09/21-090_version_publique_decision_21dcc138.pdf"
   ],
   "verifie_le": "2026-11"
  },
@@ -15728,47 +15714,44 @@
    {
     "nom": "CPP Investments",
     "id": "cpp-investments",
-    "part_pct": 37,
+    "part_pct": 40,
     "type": "fonds",
     "pays": "CA",
-    "part_date": "2020-03"
+    "part_date": "2020-03-06"
    },
    {
     "nom": "Téthys Invest (famille Bettencourt Meyers)",
     "id": "famille-bettencourt-meyers",
-    "part_pct": 37,
+    "part_pct": 40,
     "type": "famille",
     "pays": "FR",
-    "part_date": "2020-03"
+    "part_date": "2020-03-06"
    },
    {
     "nom": "Montagu Private Equity",
-    "part_pct": 17,
     "type": "fonds",
     "pays": "GB",
-    "lei": "549300RB30SBLW1ROO17",
-    "part_date": "2020-03"
+    "lei": "549300RB30SBLW1ROO17"
    },
    {
     "nom": "Bpifrance",
     "id": "bpifrance",
-    "part_pct": 9,
     "type": "etat",
     "pays": "FR",
     "siren": "320252489",
-    "lei": "969500STN7T9MRUMJ267",
-    "part_date": "2020-03"
+    "lei": "969500STN7T9MRUMJ267"
    }
   ],
   "description": "Groupe d'enseignement supérieur privé (Cours Florent, PSB, Penninghen, Strate...).",
-  "note": "Le communiqué de CPP Investments du 6/03/2020 annonçait environ 40 % chacun pour CPP Investments et Téthys Invest ; la répartition 37/37/17/9 vient de la presse. Aucune opération sur le capital publiée depuis.",
+  "note": "Le communiqué de CPP Investments du 6/03/2020 annonçait environ 40 % chacun pour CPP Investments et Téthys Invest ; le solde est partagé entre Montagu (toujours au capital selon sa page portefeuille), Bpifrance et le management, sans répartition publiée. Aucune opération sur le capital publiée depuis.",
   "sources": [
    "https://www.cppinvestments.com/wp-content/uploads/2020/03/cpp-investments-global-investors-galileo-global-education-06Mar2020-EN.pdf",
    "https://www.ggeedu.com/",
    "https://www.ggeedu.com",
    "https://fr.wikipedia.org/wiki/Galileo_Global_Education",
    "https://www.businesswire.com/news/home/20200306005495/fr/",
-   "https://www.cfnews.net/L-actualite/LBO/Operations/LBO-bis/Galileo-se-projette-avec-des-actionnaires-de-long-terme-325148"
+   "https://www.cfnews.net/L-actualite/LBO/Operations/LBO-bis/Galileo-se-projette-avec-des-actionnaires-de-long-terme-325148",
+   "https://montagu.com/portfolio/galileo-global-education/"
   ],
   "verifie_le": "2026-11"
  },
@@ -19768,22 +19751,21 @@
     "type": "famille",
     "pays": "FR",
     "part_pct": 70,
-    "part_date": "2023-12"
+    "part_date": "2024-01"
    },
    {
     "nom": "PRG Retail Group, BNP Paribas Développement, Garibaldi Participations, C2AD",
     "type": "fonds",
-    "pays": "FR",
-    "part_pct": 30,
-    "part_date": "2023-12"
+    "pays": "FR"
    }
   ],
   "description": "Enseigne de magasins de jouets.",
-  "note": "La famille Gueydon est redevenue majoritaire (≈ 70 %) en décembre 2023.",
+  "note": "En décembre 2023, PRG Retail Group a cédé 46 % de ses parts à la famille Gueydon et reste actionnaire minoritaire privilégié (communiqué PRG du 17/01/2024). Le chiffre de 70 % pour la famille vient de la presse (L'Express Franchise, 11/12/2024).",
   "sources": [
    "https://prenatalretailgroup.com/en/brand/king-jouet/",
    "https://www.king-jouet.com/",
-   "https://fr.wikipedia.org/wiki/King_Jouet"
+   "https://fr.wikipedia.org/wiki/King_Jouet",
+   "https://prenatalretailgroup.com/prg_nuova-joint-venture_gennaio-2024"
   ],
   "verifie_le": "2026-11"
  },
@@ -22108,10 +22090,8 @@
    {
     "nom": "Famille Kopf (Kobrand)",
     "id": "famille-kopf",
-    "part_pct": 100.0,
     "type": "famille",
-    "pays": "US",
-    "part_date": "1985"
+    "pays": "US"
    }
   ],
   "description": "Négociant-éleveur de Beaune (Bourgogne, Beaujolais via le Château des Jacques).",
@@ -22120,7 +22100,8 @@
    "https://fr.wikipedia.org/wiki/Maison_Louis_Jadot",
    "https://www.winespectator.com/webfeature/show/id/48812"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Rachetée en 1985 par les dirigeants de Kobrand, la famille Kopf ; le pourcentage et le véhicule de détention ne sont pas publiés."
  },
  {
   "id": "louis-latour",
@@ -22620,15 +22601,16 @@
     "pays": "FR",
     "siren": "775670417",
     "lei": "IOG4E947OATN0KJYSD45",
-    "part_date": "2013-10"
+    "part_date": "2013-10-29"
    }
   ],
-  "description": "Gallimard, Flammarion, Casterman, Folio, J'ai lu, Denoël, POL. Holding contrôlée par la famille Gallimard (98 % en 2003), LVMH entré au capital à 9,5 % en 2013.",
+  "description": "Gallimard, Flammarion, Casterman, Folio, J'ai lu, Denoël, POL. Holding contrôlée par la famille Gallimard.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Madrigall"
+   "https://fr.wikipedia.org/wiki/Madrigall",
+   "https://www.livreshebdo.fr/article/lvmh-fait-son-entree-au-capital-de-madrigall"
   ],
-  "verifie_le": "2026-10",
-  "note": "Famille Gallimard majoritaire ; LVMH ≈ 9,5 % depuis octobre 2013 (Wikipédia)."
+  "verifie_le": "2026-11",
+  "note": "LVMH est entré au capital à 9,5 % en octobre 2013 (Livres Hebdo, 12/11/2013) ; Antoine Gallimard détenait alors 60 % du capital et en contrôlait 85 % avec ses partenaires historiques. Aucune source de premier rang ni opération récente."
  },
  {
   "id": "magnum-ice-cream-company",
@@ -22934,21 +22916,17 @@
     "pays": "US",
     "lei": "549300AH4FFUCP2TKP21",
     "part_pct": 49,
-    "part_date": "2025"
+    "part_date": "2025-09-19"
    },
    {
     "nom": "Famille Abitbol (Laurent Abitbol)",
     "type": "famille",
-    "pays": "FR",
-    "part_pct": 20,
-    "part_date": "2025"
+    "pays": "FR"
    },
    {
     "nom": "Managers et salariés",
     "type": "salaries",
-    "pays": "FR",
-    "part_pct": 15,
-    "part_date": "2025"
+    "pays": "FR"
    },
    {
     "nom": "Bpifrance et AfricInvest Europe",
@@ -22959,15 +22937,16 @@
     "lei": "969500STN7T9MRUMJ267"
    }
   ],
-  "description": "Réseau d'agences et tour-opérateur lyonnais (Havas Voyages, Selectour, Fram) dirigé par Laurent Abitbol ; Certares 49 %, famille et managers/salariés ≈ 35 % (dont 15 % managers et salariés), aux côtés de Bpifrance et AfricInvest Europe.",
+  "description": "Réseau d'agences et tour-opérateur lyonnais (Havas Voyages, Selectour, Fram) dirigé par Laurent Abitbol.",
   "sources": [
    "https://www.tendancehotellerie.fr/articles-breves/communique-de-presse/24939-article/marietton-developpement-groupe-specialise-dans-le-voyage-et-leader-en-france-finalise-sa-4eme-operation-de-lbo",
    "https://fr.wikipedia.org/wiki/Havas_Voyages",
    "https://www.lejournaldesentreprises.com/article/marietton-developpement-ouvre-son-capital-ses-salaries-et-signe-deux-acquisitions-2127982",
-   "https://www.lechotouristique.com/article/rumeurs-de-vente-de-marietton-et-fram-laurent-abitbol-dement"
+   "https://www.lechotouristique.com/article/rumeurs-de-vente-de-marietton-et-fram-laurent-abitbol-dement",
+   "https://www.lemondedudroit.fr/deals/100653-dentons-mcdermott-will-schulte-et-ashurst-conseils-4e-lbo-marietton-developpement.html"
   ],
   "verifie_le": "2026-11",
-  "note": "Répartition issue du quatrième LBO (presse 2025) ; nouvelle ouverture du capital aux salariés prévue en avril 2026."
+  "note": "Quatrième LBO réalisé en septembre 2025 (holding Havas Voyages Groupe) : Certares garde environ 49 % selon les conseils de l'opération ; le management et environ 300 salariés investissent, aux côtés de Bpifrance et AfricInvest Europe, sans répartition publiée."
  },
  {
   "id": "mars",
@@ -24926,10 +24905,8 @@
    {
     "nom": "Famille Nicollin (Nicollin Holding)",
     "id": "famille-nicollin",
-    "part_pct": 100.0,
     "type": "famille",
-    "pays": "FR",
-    "part_date": "2020"
+    "pays": "FR"
    }
   ],
   "description": "Groupe familial de collecte et traitement des déchets et de propreté urbaine.",
@@ -24937,7 +24914,7 @@
    "https://www.morganstanley.com/press-releases/msip-to-acquire-majority-stake-in-nicollin-environnement",
    "https://fr.wikipedia.org/wiki/Groupe_Nicollin"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "note": "Le 10/07/2026, le groupe a annoncé une négociation exclusive avec Morgan Stanley Infrastructure Partners, qui deviendrait actionnaire majoritaire de Nicollin Environnement, la famille restant minoritaire ; réalisation non annoncée."
  },
  {
@@ -25797,14 +25774,13 @@
   "siren": "382372993",
   "actionnaires": [
    {
-    "nom": "Laurent Lévy (fondateur)",
+    "nom": "Laurent Lévy (fondateur, président via LL Vision Ltd ; détention non publiée)",
     "type": "personne",
-    "pays": "FR",
-    "part_pct": 100
+    "pays": "FR"
    }
   ],
   "description": "Chaîne d'optique et d'audition.",
-  "note": "Fondée en 1991 par Laurent Lévy, seul actionnaire (Les Échos, 2015-2016).",
+  "note": "Fondée en 1991 par Laurent Lévy, présenté comme seul actionnaire par la presse (Les Échos, 2015-2016) ; la SAS est présidée par LL Vision Ltd, société étrangère, et sa répartition du capital n'est pas publiée.",
   "sources": [
    "https://www.optical-center.fr",
    "https://fr.wikipedia.org/wiki/Optical_Center"
@@ -26444,7 +26420,7 @@
     "part_pct": 80,
     "type": "famille",
     "pays": "FR",
-    "part_date": "2025-05"
+    "part_date": "2025-05-12"
    },
    {
     "nom": "Famille Saadé (holding Merit France)",
@@ -26452,17 +26428,18 @@
     "part_pct": 20,
     "type": "famille",
     "pays": "FR",
-    "part_date": "2025-05"
+    "part_date": "2025-05-12"
    }
   ],
   "description": "Exploitant de cinémas (Les Cinémas Pathé) et producteur-distributeur, contrôlé par la famille Seydoux.",
   "sources": [
    "https://www.cbnews.fr/node/92698",
    "https://fr.wikipedia.org/wiki/Path%C3%A9",
-   "https://www.pathe.fr/"
+   "https://www.pathe.fr/",
+   "https://www.pathe.com/wp-content/uploads/2025/05/Communique-de-Presse-Pathe-X-Merit-12-mai-2025-Anglais-1.pdf"
   ],
   "verifie_le": "2026-11",
-  "note": "La famille Saadé (CMA CGM) est entrée au capital à 20 % via Merit France en mai 2025."
+  "note": "La famille Saadé (CMA CGM) est entrée au capital à 20 % via Merit France (communiqué Pathé du 12/05/2025) ; les 80 % de la famille Seydoux s'en déduisent, Pathé lui appartenant jusque-là entièrement."
  },
  {
   "id": "payfit-sas",
@@ -27442,18 +27419,18 @@
    {
     "nom": "SHV Energy",
     "id": "shv",
-    "part_pct": 100,
     "type": "groupe",
     "pays": "NL",
-    "lei": "7245009Q7DZLB3HX6E68",
-    "part_date": "1999"
+    "lei": "7245009Q7DZLB3HX6E68"
    }
   ],
   "description": "Distributeur de GPL, groupe SHV.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Primagaz"
+   "https://fr.wikipedia.org/wiki/Primagaz",
+   "https://annualreport.shv.nl/2024/xmlpages/resources/TXP/SHV/jv_2023/pdf/SHV_Annual_Report_2024.pdf"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Filiale française de SHV Energy depuis 1999 (rapport annuel SHV 2024) ; le pourcentage de détention n'est pas publié."
  },
  {
   "id": "printemps",
@@ -27700,9 +27677,8 @@
   "groupe_parent": "qsi",
   "actionnaires": [
    {
-    "nom": "Qatar Sports Investments",
+    "nom": "Qatar Sports Investments (majoritaire)",
     "id": "qsi",
-    "part_pct": 85.9,
     "type": "etat",
     "pays": "QA",
     "lei": "984500780AC5NF054704"
@@ -27711,11 +27687,11 @@
     "nom": "Arctos Sports Partners",
     "part_pct": 12.5,
     "type": "fonds",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2023-12-07"
    },
    {
     "nom": "Boardroom",
-    "part_pct": 1.6,
     "type": "autre",
     "pays": "US"
    }
@@ -27723,9 +27699,11 @@
   "description": "Club de football, double vainqueur de la Ligue des champions (2025, 2026).",
   "sources": [
    "https://www.qsi.com.qa/qsi-and-arctos-agree-landmark-partnership/",
-   "https://fr.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club"
+   "https://fr.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club",
+   "https://www.psg.fr/en/content/kevin-durant-partners-with-qsi-investing-directly-in-paris-saint-germain"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "QSI est l'actionnaire majoritaire ; il a cédé une part minoritaire à Arctos (décembre 2023, 12,5 % selon RMC Sport et L'Équipe) puis une part directe à Boardroom (Kevin Durant, juin 2025), sans pourcentage publié."
  },
  {
   "id": "public-senat",
@@ -27858,18 +27836,23 @@
   "statut": "associatif",
   "actionnaires": [
    {
-    "nom": "Association du Puy du Fou (loi 1901, organisatrice de la Cinéscénie)",
+    "nom": "Association La Cinéscénie (spectacle originel)",
     "type": "autre",
-    "pays": "FR",
-    "part_pct": 99
+    "pays": "FR"
+   },
+   {
+    "nom": "Association Puy du Fou Stratégie (droits d'auteur des spectacles)",
+    "type": "autre",
+    "pays": "FR"
    }
   ],
-  "description": "Parc à spectacles historiques en Vendée, exploité par une SAS détenue à 99 % par l'association du Puy du Fou, présidée par Nicolas de Villiers.",
+  "description": "Parc à spectacles historiques en Vendée, exploité par une SAS détenue par deux associations, présidée par Nicolas de Villiers.",
   "sources": [
+   "https://www.puydufou.com/france/fr/notre-groupe",
    "https://fr.wikipedia.org/wiki/Puy_du_Fou"
   ],
-  "verifie_le": "2026-10",
-  "note": "La SAS du parc est détenue à 99 % par l'association (le Crédit mutuel en détenait 28 % jusqu'en 2003) ; la famille de Villiers dirige mais n'apparaît pas comme actionnaire directe."
+  "verifie_le": "2026-11",
+  "note": "Selon le site officiel, la SAS qui gère le parc est détenue par deux associations, La Cinéscénie et Puy du Fou Stratégie ; le parc n'appartient à aucune personne physique et les bénéfices sont réinvestis. La répartition entre les deux associations n'est pas publiée. La famille de Villiers dirige mais n'apparaît pas comme actionnaire."
  },
  {
   "id": "qia",
@@ -28359,8 +28342,8 @@
    "https://www.evi.gv.at/f/56247t",
    "https://fr.wikipedia.org/wiki/Red_Bull_GmbH"
   ],
-  "verifie_le": "2026-10",
-  "note": "Selon la presse (mai 2025), Chalerm Yoovidhya a transféré ses 2 % à un trust genevois dont le bénéficiaire n'est pas publié : la majorité de la famille Yoovidhya n'est plus établie. Aucune source de premier rang accessible (registre autrichien payant)."
+  "verifie_le": "2026-11",
+  "note": "Associés inscrits au registre autrichien : TC Agro Trading (famille Yoovidhya), Distribution & Marketing GmbH (Mark Mateschitz) et, depuis le 31/05/2025, Fides Trustees SA, sans publication des parts. Selon la presse (2025), Chalerm Yoovidhya a transféré ses 2 % à ce trust genevois, dont le bénéficiaire n'est pas publié ; la presse autrichienne écrit encore 51 % / 49 % (APA, octobre 2026)."
  },
  {
   "id": "reddit",
@@ -28466,14 +28449,17 @@
     "id": "etat-francais",
     "part_pct": 15.01,
     "pays": "FR",
-    "type": "etat"
+    "type": "etat",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Nissan",
     "id": "nissan",
     "pays": "JP",
     "lei": "353800DRBDH1LUTNAY26",
-    "type": "groupe"
+    "type": "groupe",
+    "part_pct": 15.0,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Salariés",
@@ -28489,7 +28475,7 @@
    }
   ],
   "description": "Constructeur automobile (Renault, Dacia, Alpine, Mobilize).",
-  "note": "Nissan détient environ 15 % (sans droit de vote) ; l'accord de l'Alliance de mars 2025 ramène le seuil minimal de participation croisée à 10 %, Nissan a évoqué une cession partielle (≈5 %) sans opération publiée à ce jour.",
+  "note": "Au 31/12/2025 (document d'enregistrement universel 2025) : État 15,01 % du capital (22,24 % des droits de vote, droits de vote double), Nissan 15,00 % (droits de vote plafonnés à 15 %), salariés 6,12 %, autodétention 1,99 %. L'accord de l'Alliance de mars 2025 ramène le seuil minimal de participation croisée à 10 % ; aucune cession de Nissan déclarée à l'AMF en 2026. Key Group a déclaré 5,23 % le 13/10/2026, surtout via options et equity swaps (avis AMF 226C1798).",
   "sources": [
    "https://media.renaultgroup.com/renault-group-reconduit-son-plan-dactionnariat-salarie-pour-la-5e-annee-consecutive/?lang=fra",
    "https://www.zonebourse.com/cours/action/RENAULT-120789408/societe-actionnaires/",
@@ -28497,7 +28483,8 @@
    "https://www.renaultgroup.com/finance/action-renault/actionnariat/",
    "https://www.economie.gouv.fr/agence-participations-etat",
    "https://en.wikipedia.org/wiki/Renault",
-   "https://ca.marketscreener.com/quote/stock/NISSAN-MOTOR-CO-LTD-6492477/news/Nissan-plans-to-reduce-stake-in-Renault-CEO-Espinosa-tells-Nikkei-50245197/"
+   "https://ca.marketscreener.com/quote/stock/NISSAN-MOTOR-CO-LTD-6492477/news/Nissan-plans-to-reduce-stake-in-Renault-CEO-Espinosa-tells-Nikkei-50245197/",
+   "https://bdif.amf-france.org/back/api/v1/documents/2026/D.26-0104/E341E3668ECA20766B13E9B43F11B3634E3EAD5CB3BBA7EC3692D7DF361BB958.zip"
   ],
   "verifie_le": "2026-11"
  },
@@ -33675,26 +33662,52 @@
     "nom": "Salariés (plan d'épargne groupe)",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 10.9,
-    "part_date": "2024-12-31"
+    "part_pct": 11.3,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Qatar Holding",
     "type": "fonds",
     "pays": "QA",
     "lei": "549300ZQMTBNHCK6R412",
-    "part_pct": 2.5,
-    "part_date": "2024-12-31"
+    "part_pct": 1.7,
+    "part_date": "2025-04-28"
+   },
+   {
+    "nom": "TCI Fund Management",
+    "type": "fonds",
+    "pays": "GB",
+    "part_pct": 8.8,
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "BlackRock, Inc.",
+    "id": "blackrock",
+    "lei": "529900VBK42Y5HHRMD23",
+    "type": "fonds",
+    "pays": "US",
+    "part_pct": 5.98,
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "Caisse des Dépôts",
+    "id": "caisse-des-depots",
+    "siren": "180020026",
+    "lei": "969500Q2PFTTP0Y5QL44",
+    "type": "public",
+    "pays": "FR",
+    "part_pct": 2.0,
+    "part_date": "2025-11-24"
    },
    {
     "nom": "Actionnaires individuels",
     "type": "flottant",
     "pays": "FR",
-    "part_pct": 11.9,
-    "part_date": "2024-12-31"
+    "part_pct": 11.6,
+    "part_date": "2025-12-31"
    },
    {
-    "nom": "Investisseurs institutionnels (dont Amundi, BlackRock, Vanguard)",
+    "nom": "Autres investisseurs institutionnels",
     "type": "flottant",
     "pays": "XX"
    }
@@ -33702,10 +33715,11 @@
   "description": "Concessions et construction.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Vinci_(entreprise)",
-   "https://www.vinci.com/fr/investisseurs/action-vinci/actionnariat"
+   "https://www.vinci.com/fr/investisseurs/action-vinci/actionnariat",
+   "https://bdif.amf-france.org/back/api/v1/documents/2026/D.26-0051/70C61A842F95D997ACFCE84A65B65061448025EBD920DA2F8D5F6B6BE02AD02F.zip"
   ],
   "verifie_le": "2026-11",
-  "note": "Salariés premiers actionnaires : 10,9 % du capital au 31/12/2024 (≈11,8 % fin 2025) ; autodétention 3,3 % ; institutionnels étrangers ≈71 %."
+  "note": "Au 31/12/2025 (document d'enregistrement universel 2025) : salariés 11,3 % via le FCPE, TCI 8,8 % (en partie via des equity swaps), BlackRock 5,98 % (déclaration du 31/12/2025), actionnaires individuels 11,6 %, autodétention 4,4 %, institutionnels 72,7 %. Qatar Holding est passé sous 2 % le 28/04/2025 ; la Caisse des Dépôts a franchi 2 % le 24/11/2025. Aucun actionnaire de contrôle."
  },
  {
   "id": "vinci-airports",
