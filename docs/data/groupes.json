@@ -18812,16 +18812,18 @@
   "lei": "529900BTFFDXO8UFLB03",
   "actionnaires": [
    {
-    "nom": "Familles fondatrices (non détaillé)",
-    "type": "famille",
+    "nom": "Pfeifer & Langen Industrie- und Handels-KG (Cologne ; filiale au sein du groupe Pfeifer & Langen-IHKG, part non publiée)",
+    "type": "groupe",
     "pays": "DE"
    }
   ],
-  "description": "Groupe familial allemand de snacks salés (Vico, Bénénuts, Curly).",
+  "description": "Groupe allemand de snacks salés (Vico, Bénénuts, Curly, Monster Munch), filiale du groupe sucrier familial Pfeifer & Langen-IHKG.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Intersnack"
+   "https://ec.europa.eu/competition/mergers/cases1/202410/M_11394_9944120_324_3.pdf",
+   "https://www.boersen-zeitung.de/unternehmen-branchen/chio-chips-hersteller-expandiert-mit-milliardenkauf-in-die-usa"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "D'après la notification à la Commission européenne (affaire M.11394, 2024), les parts de la société mère Pfeifer & Langen Industrie- und Handels-KG sont dispersées et aucune personne n'en détient le contrôle ; la presse la décrit comme familiale."
  },
  {
   "id": "intersport-france",
