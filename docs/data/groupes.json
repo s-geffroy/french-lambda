@@ -3721,7 +3721,7 @@
   "lei": "529900YNBT62HCUPRG10",
   "actionnaires": [
    {
-    "nom": "Axel Oberwelland (famille Oberwelland)",
+    "nom": "Famille Oberwelland (descendants du fondateur ; Axel Oberwelland, 4e génération, à la tête du groupe)",
     "type": "famille",
     "pays": "DE"
    }
@@ -3729,10 +3729,11 @@
   "description": "Confiseur allemand familial (merci, Toffifee, Werther's).",
   "sources": [
    "https://www.storck.com/",
-   "https://en.wikipedia.org/wiki/August_Storck"
+   "https://www.storck.com/de/unternehmen",
+   "https://www.storck.com/de/unternehmen/geschichte"
   ],
-  "verifie_le": "2026-10",
-  "note": "Détenue par Axel Oberwelland, descendant du fondateur August Storck (Wikipédia)."
+  "verifie_le": "2026-11",
+  "note": "Entreprise familiale fondée en 1903 à Werther par August Storck et restée « en possession familiale ». Elle est dirigée depuis 2003 par Axel Oberwelland, de la 4e génération de la famille fondatrice. La répartition du capital n'est pas publiée."
  },
  {
   "id": "aura-retail",
@@ -8025,17 +8026,18 @@
   "lei": "969500LT1FQ2GR4AJ402",
   "actionnaires": [
    {
-    "nom": "Fondation Alexandre et Marguerite Varenne",
+    "nom": "Fondation Alexandre et Marguerite Varenne (part non publiée)",
     "type": "autre",
     "pays": "FR"
    }
   ],
   "description": "La Montagne, Le Berry républicain, L'Yonne républicaine, La République du Centre ; actionnaire de référence : la Fondation Varenne.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Groupe_Centre_France"
+   "https://phrases.media/prix-varenne-concourez-pour-ledition-2026/",
+   "https://www.fondationvarenne.fr/la-fondation/"
   ],
-  "verifie_le": "2026-10",
-  "note": "Fondation Varenne actionnaire de référence (Wikipédia) ; part exacte non publiée."
+  "verifie_le": "2026-11",
+  "note": "La Fondation Alexandre et Marguerite Varenne, reconnue d'utilité publique en 1988, est présentée par la presse comme actionnaire majoritaire du groupe (2026) ; la répartition du capital n'est pas publiée par le groupe."
  },
  {
   "id": "cerba",
@@ -9172,7 +9174,7 @@
  },
  {
   "id": "combat-pigasse",
-  "nom": "Combat (ex-Les Nouvelles Éditions Indépendantes)",
+  "nom": "Combat Media (ex-Les Nouvelles Éditions Indépendantes)",
   "pays_siege": "FR",
   "statut": "prive",
   "siren": "514035187",
@@ -9181,17 +9183,24 @@
    {
     "nom": "Matthieu Pigasse",
     "type": "personne",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 100,
+    "part_date": "2026-04-02",
+    "source": {
+     "url": "https://questions.assemblee-nationale.fr/dyn/17/comptes-rendus/ceaudio/l17ceaudio2526060_compte-rendu.pdf",
+     "type": "autorite"
+    }
    }
   ],
-  "description": "Groupe de Matthieu Pigasse (Radio Nova, Les Inrockuptibles), ex-LNEI rebaptisé Combat en 2021.",
+  "description": "Groupe de Matthieu Pigasse (Radio Nova, Les Inrockuptibles, festivals), ex-Les Nouvelles Éditions Indépendantes, renommé Combat Media en 2021.",
   "sources": [
    "https://lessentieldeleco.fr/7519-matthieu-pigasse-le-banquier-qui-veut-tout-largent-les-medias-et-lelysee/",
-   "https://fr.wikipedia.org/wiki/Radio_Nova",
-   "https://fr.wikipedia.org/wiki/Les_Inrockuptibles"
+   "https://questions.assemblee-nationale.fr/dyn/17/comptes-rendus/ceaudio/l17ceaudio2526060_compte-rendu.pdf",
+   "https://www.assemblee-nationale.fr/dyn/opendata/CRCANR5L17S2026PO874480N046.html",
+   "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202100983275"
   ],
-  "verifie_le": "2026-10",
-  "note": "Matthieu Pigasse propriétaire (Wikipédia, article Les Inrockuptibles) ; autres actionnaires éventuels non publiés."
+  "verifie_le": "2026-11",
+  "note": "Matthieu Pigasse se déclare seul actionnaire du groupe Combat (Les Inrocks, Radio Nova, festivals) devant la commission d'enquête de l'Assemblée nationale sur l'audiovisuel public, le 02/04/2026. Société renommée de Les Nouvelles Éditions Indépendantes en Combat Media en 2021 (BODACC)."
  },
  {
   "id": "comdata",
@@ -13290,16 +13299,24 @@
     "nom": "Rewe Group",
     "id": "rewe-group",
     "type": "groupe",
-    "pays": "DE",
-    "lei": "5299009CUQ7OPH9OIO05"
+    "pays": "DE"
+   },
+   {
+    "nom": "Ahold Delhaize",
+    "type": "groupe",
+    "pays": "NL"
    }
   ],
-  "description": "Centrale d'achats européenne d'E.Leclerc et de Rewe, basée à Bruxelles.",
-  "note": "Visée par la DGCCRF pour contournement d'EGalim (amende de 117 M€ requise selon Wikipédia).",
+  "description": "Centrale d'achats européenne basée à Bruxelles, fondée en 2016 par E.Leclerc et Rewe, rejointe par Ahold Delhaize comme troisième actionnaire (annoncé en 2023, achats communs depuis 2025).",
+  "note": "En juillet 2019, après une enquête de la DGCCRF, le ministère de l'Économie a assigné Eurelec Trading et des entités E.Leclerc (Scabel, Galec, Acdlec) devant le tribunal de commerce de Paris et demandé une amende civile de 117,3 M€. Il leur reproche d'avoir utilisé la centrale belge pour contourner le droit français des négociations commerciales. Après un arrêt de la CJUE (C-98/22, 22/12/2022) et un arrêt de la cour d'appel de Paris (21/02/2024) retenant la compétence du tribunal de Paris, l'affaire est toujours pendante selon les sources consultées. Eurelec a par ailleurs reçu des amendes administratives de la DGCCRF pour non-respect de la date butoir de signature des conventions : 6,34 M€ (2020), 38,07 M€ (2024) et 33,54 M€ (février 2026).",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Centrale_d%27achat"
+   "https://www.mynewsdesk.com/uk/eurelec-trading-sc/pressreleases/ahold-delhaize-is-joining-the-european-purchasing-alliance-eurelec-3276573",
+   "https://one.rewe-group.com/en/magazin/magazine-article/item/Article/showMag/ahold-delhaize-joins-european-purchasing-alliance",
+   "https://www.rayon-boissons.com/distribution/bercy-assomme-leclerc-avec-une-amende-de-1173-millions-d-euros",
+   "https://econostrum.info/e-leclerc-pourquoi-sa-centrale-europenne-amende/",
+   "https://www.lalibre.be/economie/entreprises-startup/2024/08/14/le-distributeur-eleclerc-sanctionne-dune-amende-de-pres-de-40-millions-deuros-LYECAFAOFRGRLKEUSXH4OENW2A/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "eurofins",
@@ -16447,11 +16464,13 @@
    }
   ],
   "description": "Centrale d'achats de grossistes indépendants de proximité (Coccinelle, Coccimarket, G20, Diagonal, MDD Belle France).",
-  "note": "Achats confiés à la centrale d'Intermarché depuis 2019 selon Wikipédia.",
+  "note": "Depuis le 01/01/2019, Francap confie à Intermarché la négociation de ses achats de produits de grande consommation de marques nationales et internationales. Ses marques propres en sont exclues, et chacun garde sa politique de prix (accord annoncé en juillet 2018). Le 17/10/2026, Colruyt a signé avec Carrefour France une option de vente de Codifrance, grossiste des enseignes Coccinelle et Coccimarket, pour 152 M€. La finalisation est prévue au 1er semestre 2027. L'effet de cette cession sur l'adhésion de Codifrance à Francap n'est pas publié.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Francap"
+   "https://esmmagazine.com/supply-chain/french-firms-intermarche-and-francap-partner-up-on-fmcg-62031",
+   "https://questions.assemblee-nationale.fr/dyn/15/comptes-rendus/cegrdist/l15cegrdist1819069_compte-rendu.pdf",
+   "https://www.clearygottlieb.com/news-and-insights/news-listing/colruyt-to-sell-codifrance-to-carrefour"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "france-medias-monde",
@@ -19679,18 +19698,18 @@
   "lei": "969500389E3GEX8JDE26",
   "actionnaires": [
    {
-    "nom": "Mutuelles et assureurs (MACIF, MAIF, Matmut, AMF Assurances, SMACL, MAPA, AGPM, MAE, Mutuelle des motards, BPCE Assurances, P&V, Wafa Assurance)",
+    "nom": "Mutuelles et assureurs (MACIF et Macifilia, MAIF et Altima Assurances, Matmut et ses entités, AMF, MAPA, SMACL Assurances, AGPM, MAE, Assurance Mutuelle des Motards, BPCE Assurances IARD, P&V Assurances, Wafa Assurance)",
     "type": "groupe",
     "pays": "FR"
    }
   ],
   "description": "Assisteur des mutuelles d'assurance.",
-  "note": "Liste des actionnaires selon Wikipédia (août 2026) ; parts non publiées.",
+  "note": "Actionnaires d'IMA SA selon l'organigramme du rapport d'activité 2025 du groupe (juin 2026) : 21 sociétés d'assurance mutualistes ou liées à la mutualité (groupes Macif, MAIF, Matmut, AMF, MAPA, SMACL, AGPM, MAE, Mutuelle des Motards, BPCE Assurances IARD, P&V, Wafa Assurance) ; parts individuelles non publiées.",
   "sources": [
    "https://www.groupeima.fr",
-   "https://fr.wikipedia.org/wiki/Inter_Mutuelles_Assistance"
+   "https://www.ima.eu/sites/default/files/medias/file/2026-06/RAPPORT%20ACTIVITE%202025%20Web%20.pdf"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "imi",
@@ -20675,14 +20694,16 @@
   "siren": "338880180",
   "lei": "5493003E3B3NPC9BY242",
   "actionnaires": [],
-  "description": "Enseigne de mode adolescente placée en liquidation judiciaire le 30 avril 2025.",
-  "note": "Liquidation judiciaire le 30/04/2025, boutiques fermées le 28/05/2025 ; le 12/06/2025 le tribunal de Bobigny a retenu Beaumanoir et Celio pour 33 magasins. Le nom d'enseigne Jennyfer disparaît avec la liquidation (Wikipédia).",
+  "description": "Ancienne société exploitant l'enseigne de mode adolescente Jennyfer, placée en liquidation judiciaire le 30 avril 2025. La marque a été cédée au groupe Beaumanoir.",
+  "note": "Liquidation judiciaire prononcée le 30/04/2025 par le tribunal de commerce de Bobigny. Plan de cession arrêté le 12/06/2025 : le groupe Beaumanoir reprend la marque Jennyfer et 26 magasins (convertis à ses enseignes), Celio reprend 7 magasins. La société liquidée, STOCK J BOUTIQUE JENNYFER, n'exploite plus rien. La marque appartient désormais au groupe Beaumanoir, qui la relance depuis juillet 2026 au sein de l'enseigne Vib's et en ligne.",
   "sources": [
    "https://www.lsa-conso.fr/en-cessation-de-paiement-jennyfer-demande-sa-mise-en-liquidation-judiciaire,460515",
    "https://www.lejournaldesentreprises.com/breve/beaumanoir-reprend-26-magasins-de-la-marque-jennyfer-2121529",
-   "https://fr.wikipedia.org/wiki/Jennyfer"
+   "https://www.groupe-beaumanoir.com/wp-content/uploads/2025/09/Communique-de-presse-Groupe-Beaumanoir-Jennyfer.pdf",
+   "https://www.groupe-beaumanoir.com/wp-content/uploads/2026/08/CP-Vibs-x-Jennyfer.pdf",
+   "https://fashionunited.fr/actualite/business/le-groupe-beaumanoir-reprend-lenseigne-jennyfer/2025061238418"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "jin-jiang",
@@ -22034,17 +22055,25 @@
   "lei": "969500862BWFK5OWA902",
   "actionnaires": [
    {
-    "nom": "Investissement et Développement (holding de Régis Pelen)",
-    "type": "personne",
+    "nom": "Famille Pelen & Cie (holding de la famille Pelen, ex-Investissement et Développement)",
+    "type": "famille",
+    "pays": "FR",
+    "siren": "398456996"
+   },
+   {
+    "nom": "Crédit Mutuel Equity (groupe Crédit Mutuel Alliance Fédérale)",
+    "type": "fonds",
     "pays": "FR"
    }
   ],
   "description": "Réseau de magasins bio fondé en 1948.",
-  "note": "Actionnariat issu d'informations anciennes de Wikipédia, non confirmé pour 2026.",
+  "note": "Depuis 2026, contrôle conjoint de Famille Pelen & Cie (holding familiale présidée par Régis Pelen, ex-Investissement et Développement), majoritaire, et de Crédit Mutuel Equity, minoritaire entré par augmentation de capital (protocole du 25/02/2026, autorisé par l'Autorité de la concurrence le 16/03/2026, décision 26-DCC-68). Parts non publiées.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/La_Vie_claire"
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2026-04/26-035%20-%20Publique%20-%20D%C3%A9cision%20simplifi%C3%A9e%2026DCC68.pdf",
+   "https://www.autoritedelaconcurrence.fr/en/press-release/organic-food-retail-sector-autorite-unconditionally-clears-joint-takeover-la-vie",
+   "https://www.creditmutuel-equity.eu/en/news/press-releases/la-vie-claire.html"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "labeyrie-fine-foods",
@@ -29072,14 +29101,13 @@
   "statut": "prive",
   "actionnaires": [],
   "description": "Fabricant chinois (ODM) de robots aspirateurs (Shenzhen, usines en Chine et au Vietnam), propriétaire à 100 % d'iRobot depuis la sortie du Chapter 11 le 23/01/2026.",
-  "note": "Rachat d'iRobot (avec sa filiale Santrum Hong Kong) finalisé le 23/01/2026 par conversion de créances en capital. Actionnaires de Picea, société chinoise non cotée, à confirmer : fondateurs, dirigeant et investisseurs non publiés dans les sources consultées (Wikipédia en, presse iRobot, registres chinois inaccessibles).",
+  "note": "iRobot appartient à 100 % à Picea depuis le 23/01/2026. Picea, créancier garanti et principal sous-traitant d'iRobot, a pris l'intégralité du capital dans le cadre d'un Chapter 11 « pre-packaged » ; les actions existantes ont été annulées. Le communiqué d'iRobot réunit sous le nom « Picea » Shenzhen PICEA Robotics Co., Ltd. et Santrum Hong Kong Co., Limited. Picea a été créée en juin 2016 à Shenzhen par Yang Yong, son fondateur. Son actionnariat, celui d'une société chinoise non cotée, n'est pas publié.",
   "sources": [
-   "https://en.wikipedia.org/wiki/IRobot",
    "https://media.irobot.com/2026-01-23-iRobot-Completes-Court-Supervised-Transaction-with-Picea,-Enabling-the-Next-Chapter-of-Growth",
-   "https://vacuumwars.com/who-is-picea",
-   "https://en.wikipedia.org/wiki/Shenzhen_Picea_Robotics"
+   "https://media.irobot.com/2025-12-14-iRobot-Announces-Strategic-Transaction-to-Drive-Long-Term-Growth-Plan",
+   "https://www.piceacorp.com/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "picnic",
@@ -32841,25 +32869,31 @@
  },
  {
   "id": "sncf-connect-tech",
-  "nom": "SNCF Connect & Tech",
+  "nom": "SNCF Connect",
   "pays_siege": "FR",
   "statut": "public",
-  "siren": "432672236",
+  "siren": "431810621",
   "groupe_parent": "sncf-voyageurs",
   "actionnaires": [
    {
     "nom": "SNCF Voyageurs (part non publiée)",
-    "id": "sncf-voyageurs",
+    "type": "groupe",
     "pays": "FR",
-    "siren": "519037584",
-    "type": "groupe"
+    "id": "sncf-voyageurs",
+    "siren": "519037584"
    }
   ],
-  "description": "Filiale numérique de distribution (SNCF Connect).",
+  "description": "Agence de voyages en ligne du groupe SNCF (application et site SNCF Connect), ex-Voyages-sncf.com puis Oui.sncf.",
   "sources": [
-   "https://www.sncf.com/fr/groupe/profil-et-chiffres-cles"
+   "https://www.sncf.com/fr/groupe/profil-et-chiffres-cles",
+   "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202200312848",
+   "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B201702352957",
+   "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:B202200312849",
+   "https://www.groupe-sncf.com/medias-publics/2024-03/rapport-financier-annuel-2023-groupe-sncf.pdf",
+   "https://www.voyages-d-affaires.com/?p=197583"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "SNCF Connect (application et site) est exploitée par la SAS SNCF Connect, SIREN 431810621, agence de voyages anciennement Voyages-sncf.com puis Oui.sncf (BODACC). Le SIREN 432672236 correspond à SNCF Connect & Tech, tête de l'ensemble (ex-VSC Groupe, e-Voyageurs Groupe) ; les prestations numériques sont portées par SNCF Connect & Tech Services, marque Tesmo (SIREN 483815619). Filiale du secteur SNCF Voyageurs selon les comptes du groupe SNCF ; part et chaîne de détention exactes non publiées."
  },
  {
   "id": "sncf-reseau",
@@ -38156,28 +38190,92 @@
   "lei": "969500MEAH4AK68JBY25",
   "actionnaires": [
    {
-    "nom": "Fondateurs (Charles Egly, Geoffroy Guigou)",
+    "nom": "Eurazeo (fonds gérés, dont Eurazeo Growth Fund III, FCPR Idinvest Entrepreneurs Club, Legendre Holding 34)",
+    "type": "fonds",
     "pays": "FR",
-    "type": "personne"
+    "part_pct": 23.43,
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
+     "type": "document_societe"
+    }
    },
    {
-    "nom": "Investisseurs (Crédit Mutuel Arkéa, Eurazeo, Schibsted, Bpifrance, Matmut, Goldman Sachs, Bridgepoint)",
-    "pays": "XX",
-    "type": "fonds"
+    "nom": "Ripplewood Holdings I LLC (Timothy C. Collins)",
+    "type": "fonds",
+    "pays": "US",
+    "part_pct": 21.81,
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
+     "type": "document_societe"
+    }
    },
    {
-    "nom": "Flottant / public",
+    "nom": "Bpifrance",
+    "id": "bpifrance",
+    "type": "etat",
+    "pays": "FR",
+    "part_pct": 12.29,
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
+     "type": "document_societe"
+    }
+   },
+   {
+    "nom": "SRP Management LLC (Robert et Sharon Prince)",
+    "type": "personne",
+    "pays": "US",
+    "part_pct": 9.04,
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
+     "type": "document_societe"
+    }
+   },
+   {
+    "nom": "Goldman Sachs (WSGG Holding et fonds West Street)",
+    "type": "fonds",
+    "pays": "US",
+    "part_pct": 7.92,
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
+     "type": "document_societe"
+    }
+   },
+   {
+    "nom": "Bridgepoint (Bridgepoint Europe VI)",
+    "id": "bridgepoint",
+    "type": "fonds",
+    "pays": "GB",
+    "part_pct": 7.88,
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
+     "type": "document_societe"
+    }
+   },
+   {
+    "nom": "Autres porteurs (flottant, dirigeants, salariés)",
     "type": "flottant",
-    "pays": "XX"
+    "pays": "XX",
+    "part_pct": 17.63,
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
+     "type": "document_societe"
+    }
    }
   ],
-  "description": "Crédit à la consommation en ligne, coté sur Euronext Paris depuis le 20/01/2025 (ex-SPAC Iberis), propriétaire de la néobanque Helios depuis mai 2025.",
-  "note": "Liste des actionnaires de référence d'après Wikipédia ; parts individuelles non publiées.",
+  "description": "Crédit à la consommation en ligne ; maison mère Younited Financial S.A. cotée sur Euronext Paris depuis le 20/01/2025 (ex-SPAC Iris Financial), propriétaire de la néobanque Helios depuis juillet 2025.",
+  "note": "Société cotée : Younited Financial S.A. (Luxembourg), ex-RA Special Acquisition Corporation puis Iris Financial, cotée à Euronext Paris depuis le 20/01/2025 (radiée d'Euronext Amsterdam en mars 2026). Actionnaires significatifs au 31/12/2025 selon le rapport annuel 2025 : Eurazeo 23,43 %, Ripplewood 21,81 %, Bpifrance 12,29 %, SRP Management 9,04 %, Goldman Sachs 7,92 %, Bridgepoint 7,88 %. Le SIREN de la fiche est celui de la filiale française Younited SA.",
   "sources": [
    "https://www.younited-credit.com",
-   "https://fr.wikipedia.org/wiki/Younited"
+   "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "yum-brands",
