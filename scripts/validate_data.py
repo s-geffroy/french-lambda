@@ -24,6 +24,7 @@ JOUR = re.compile(r"^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])$")
 SIREN = re.compile(r"^\d{9}$")
 LEI = re.compile(r"^[A-Z0-9]{18}\d{2}$")
 MOTIFS = {"renommage", "fusion", "scission", "suppression"}
+TYPES_SOURCE = {"document_societe", "autorite", "registre", "presse", "encyclopedie"}
 TYPES_ACT = {"personne", "famille", "etat", "public", "fonds", "groupe", "flottant", "salaries", "societaires", "autre"}
 
 
@@ -111,6 +112,18 @@ def main():
                 err(f"groupe {gid} : actionnaire {a.get('nom')} part_date {d!r} n'est pas AAAA, AAAA-MM ou AAAA-MM-JJ")
             if d and a.get("part_pct") is None:
                 err(f"groupe {gid} : actionnaire {a.get('nom')} a une part_date sans part_pct")
+            # source du pourcentage : facultative ; son adresse figure aussi dans les sources du groupe.
+            s = a.get("source")
+            if s is not None:
+                if a.get("part_pct") is None:
+                    err(f"groupe {gid} : actionnaire {a.get('nom')} a une source sans part_pct")
+                if not isinstance(s, dict) or set(s) != {"url", "type"}:
+                    err(f"groupe {gid} : actionnaire {a.get('nom')} source attendue {{url, type}}")
+                else:
+                    if s["type"] not in TYPES_SOURCE:
+                        err(f"groupe {gid} : actionnaire {a.get('nom')} type de source inconnu {s['type']!r}")
+                    if s["url"] not in g.get("sources", []):
+                        err(f"groupe {gid} : actionnaire {a.get('nom')} source {s['url']} absente des sources du groupe")
             pct = a.get("part_pct")
             if pct is not None:
                 if not isinstance(pct, (int, float)) or not 0 <= pct <= 100:

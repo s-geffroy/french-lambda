@@ -10,8 +10,18 @@ function datePart(d) {
   const [a, m, j] = d.split("-");
   return [j && String(+j), m && MOIS[+m - 1], a].filter(Boolean).join(" ");
 }
+// Source du pourcentage, quand la fiche la précise : lien vers le document, nommé par son type.
+const TYPE_SOURCE = {
+  document_societe: "document de la société",
+  autorite: "autorité",
+  registre: "registre",
+  presse: "presse",
+  encyclopedie: "encyclopédie",
+};
+const sourcePart = (s) =>
+  s?.url ? ` <a class="src-part" href="${esc(s.url)}" target="_blank" rel="noopener" title="source de ce pourcentage">${esc(TYPE_SOURCE[s.type] || "source")}</a>` : "";
 const part = (a) =>
-  a.part_pct == null ? "" : ` ${a.part_pct.toLocaleString("fr-FR")} % <span class="date-part" title="date à laquelle cette part a été mesurée">${esc(datePart(a.part_date))}</span>`;
+  a.part_pct == null ? "" : ` ${a.part_pct.toLocaleString("fr-FR")} % <span class="date-part" title="date à laquelle cette part a été mesurée">${esc(datePart(a.part_date))}</span>${sourcePart(a.source)}`;
 
 // Identifiants officiels, chacun relié à son registre public.
 const fmtSiren = (s) => s.replace(/^(\d{3})(\d{3})(\d{3})$/, "$1 $2 $3");
