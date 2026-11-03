@@ -5958,21 +5958,91 @@
   "statut": "prive",
   "actionnaires": [
    {
-    "nom": "Fondateur Markus Villig",
+    "nom": "Markus Villig (fondateur, via Mordor Management OÜ)",
     "type": "personne",
-    "pays": "EE"
+    "pays": "EE",
+    "part_pct": 14.25,
+    "part_date": "2026-11",
+    "source": {
+     "url": "https://ariregister.rik.ee/eng/company/12417834",
+     "type": "registre"
+    }
    },
    {
-    "nom": "Fonds (Sequoia, Fidelity…), Didi, Daimler (Mercedes-Benz), IFC",
+    "nom": "D1 Capital Partners (D1 Master Holdco I LLC)",
+    "type": "fonds",
+    "pays": "US",
+    "part_pct": 14.09,
+    "part_date": "2026-11",
+    "source": {
+     "url": "https://ariregister.rik.ee/eng/company/12417834",
+     "type": "registre"
+    }
+   },
+   {
+    "nom": "Oliver Leisalu (cofondateur, via Grest Technologies OÜ)",
+    "type": "personne",
+    "pays": "EE",
+    "part_pct": 7.04,
+    "part_date": "2026-11",
+    "source": {
+     "url": "https://ariregister.rik.ee/eng/company/12417834",
+     "type": "registre"
+    }
+   },
+   {
+    "nom": "Mercedes-Benz Mobility Services (groupe Mercedes-Benz)",
+    "id": "mercedes-benz-group",
+    "type": "groupe",
+    "pays": "DE",
+    "part_pct": 6.82,
+    "part_date": "2026-11",
+    "source": {
+     "url": "https://ariregister.rik.ee/eng/company/12417834",
+     "type": "registre"
+    }
+   },
+   {
+    "nom": "Darsana Master Fund LP",
+    "type": "fonds",
+    "pays": "KY",
+    "part_pct": 5.87,
+    "part_date": "2026-11",
+    "source": {
+     "url": "https://ariregister.rik.ee/eng/company/12417834",
+     "type": "registre"
+    }
+   },
+   {
+    "nom": "Martin Villig (cofondateur, via ZERO Media OÜ)",
+    "type": "personne",
+    "pays": "EE",
+    "part_pct": 4.84,
+    "part_date": "2026-11",
+    "source": {
+     "url": "https://ariregister.rik.ee/eng/company/12417834",
+     "type": "registre"
+    }
+   },
+   {
+    "nom": "Fonds Naya (sept entités)",
+    "type": "fonds",
+    "pays": "KY"
+   },
+   {
+    "nom": "Autres fonds (GCM Grosvenor 3,91 %, Sequoia, Fidelity, Tekne, G Squared, Whale Rock, Creandum…) et petits porteurs",
     "type": "fonds",
     "pays": "XX"
    }
   ],
   "description": "Plateforme estonienne de VTC et trottinettes.",
-  "note": "Société non cotée fondée et dirigée par Markus Villig. Tours de financement : Didi (2017), Daimler (2018), IFC (2021), Sequoia (2021), Sequoia et Fidelity (janvier 2022, valorisation 7,4 Md€) ; aucune introduction en bourse ni cession à 2026 ; parts non publiées.",
+  "note": "Société non cotée (OÜ estonienne, code registre 12417834) fondée et dirigée par Markus Villig, premier associé via sa holding Mordor Management (14,25 %) et bénéficiaire effectif déclaré ; suivent D1 Capital (14,09 %), le cofondateur Oliver Leisalu (7,04 %), Mercedes-Benz Mobility (6,82 %), Darsana (5,87 %) et Martin Villig (4,84 %), d'après la liste des associés du registre estonien (novembre 2026). Didi, entrée en 2017, a cédé sa part en 2021 ; Sequoia et Fidelity ont mené la levée de janvier 2022 (628 M€, valorisation 7,4 Md€) et restent associés minoritaires. Aucune introduction en bourse à 2026. Le registre présente cette liste des associés comme informative ; la liste officielle est tenue par le directoire.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Bolt_(entreprise)",
-   "https://en.wikipedia.org/wiki/Bolt_(company)"
+   "https://ariregister.rik.ee/eng/company/12417834",
+   "https://ariregister.rik.ee/eng/company/14166520",
+   "https://ariregister.rik.ee/eng/company/14164478",
+   "https://ariregister.rik.ee/eng/company/10364677",
+   "https://tech.eu/brief/bolt-kicks-off-the-new-year-with-jaw-dropping-e628-million-raise-at-e7-4-billion-valuation/"
   ],
   "verifie_le": "2026-11"
  },
@@ -7404,7 +7474,7 @@
    {
     "nom": "Galfa (famille Moulin-Houzé)",
     "id": "famille-moulin",
-    "part_pct": 9.46,
+    "part_pct": 7.42,
     "type": "famille",
     "pays": "FR",
     "part_date": "2025-12-31",
@@ -7456,7 +7526,7 @@
    }
   ],
   "description": "Distributeur multiformat coté (CAC 40), 2e distributeur alimentaire français ; a repris Cora et Match (2024).",
-  "note": "Participations approximatives et divergentes selon les sources (Galfa entre ~7,7 % et ~11 % du capital ; Saadé ~4-5 %). Peninsula (famille Diniz) a cédé ses ~8,5 % fin 2025.",
+  "note": "Au 31/12/2025, Galfa (famille Moulin-Houzé) détient directement 7,42 % du capital et 13,74 % des droits de vote réels, plus 2,04 % via des options d'achat (sous-total 9,46 %), selon le document d'enregistrement universel 2025. Peninsula (famille Diniz) a cédé ses ~8,5 % fin 2025.",
   "sources": [
    "https://www.carrefour.com/sites/default/files/2026-03/CFR2025_URD_FR_PDF_MEL_270326.pdf",
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307624803_20260417.pdf",
@@ -23814,7 +23884,7 @@
   "groupe_parent": "bollore",
   "actionnaires": [
    {
-    "nom": "Famille Bolloré",
+    "nom": "Groupe Bolloré (Bolloré SE 30,43 %, Compagnie de l'Odet 0,60 %)",
     "id": "bollore",
     "part_pct": 31.03,
     "type": "groupe",
@@ -23864,7 +23934,7 @@
    "https://www.louishachettegroup.com/"
   ],
   "verifie_le": "2026-11",
-  "note": "Part de Bolloré non relevée."
+  "note": "Au 31/12/2025, le groupe Bolloré détient 31,03 % du capital au sens de l'article L. 233-10 du Code de commerce : 301 869 191 actions par Bolloré SE et 5 995 559 par Compagnie de l'Odet (rapport annuel 2025)."
  },
  {
   "id": "louis-jadot",
@@ -30239,8 +30309,7 @@
     "nom": "Tencent",
     "id": "tencent",
     "type": "groupe",
-    "pays": "CN",
-    "lei": "254900N4SLUMW4XUYY11"
+    "pays": "CN"
    },
    {
     "nom": "DST Global",
@@ -30255,17 +30324,29 @@
    {
     "nom": "Alven",
     "type": "fonds",
-    "pays": "FR",
-    "siren": "442935532",
-    "lei": "969500XEG9ID45XK4R92"
+    "pays": "FR"
+   },
+   {
+    "nom": "Tiger Global",
+    "type": "fonds",
+    "pays": "US"
+   },
+   {
+    "nom": "TCV",
+    "type": "fonds",
+    "pays": "US"
    }
   ],
   "description": "Néobanque pour TPE/indépendants.",
-  "note": "Établissement de paiement agréé ACPR (2018), fonds placés chez Crédit Mutuel Arkéa ; licence bancaire demandée en 2026. Investisseurs : Alven et Valar (2017), Tencent et DST Global (2020) ; parts non publiées.",
+  "note": "Établissement de paiement agréé par l'ACPR (2018) ; les fonds des clients sont cantonnés auprès de plusieurs banques (Crédit Mutuel Arkéa, Société Générale, Natixis, Rothschild Martin Maurel). Demande d'agrément bancaire déposée auprès de l'ACPR en juillet 2025, non obtenu à novembre 2026. Investisseurs : Valar et Alven (dès 2016-2017), Tencent et DST Global (2020), Tiger Global et TCV (chefs de file de la levée de 486 M€ de janvier 2022, valorisation 4,4 Md€) ; une cession secondaire d'actions de premiers investisseurs et de salariés, annoncée en octobre 2025, n'a pas été confirmée publiquement. Parts non publiées.",
   "sources": [
    "https://qonto.com",
-   "https://fr.wikipedia.org/wiki/Qonto",
-   "https://www.maddyness.com/2025/10/13/qonto-pas-dipo-en-vue-mais-bientot-une-operation-secondaire/"
+   "https://www.maddyness.com/2025/10/13/qonto-pas-dipo-en-vue-mais-bientot-une-operation-secondaire/",
+   "https://qonto.com/fr",
+   "https://qonto.com/en/press",
+   "https://tech.eu/2022/01/11/frances-qonto-raises-e486-million-at-record-breaking-valuation-of-e4-4-billion/",
+   "https://www.journaldunet.com/fintech/1488219-qonto-leve-104-millions-d-euros-pour-devenir-une-banque/",
+   "https://tech.eu/2025/07/03/qonto-applies-for-french-banking-licence-tops-600000-customers/"
   ],
   "verifie_le": "2026-11"
  },
@@ -37082,11 +37163,10 @@
    {
     "nom": "Aegean Airlines",
     "type": "groupe",
-    "pays": "GR",
-    "lei": "213800VI8OH5EJM18L21"
+    "pays": "GR"
    },
    {
-    "nom": "Alaeo Partnership (fondateurs Carlos Muñoz et Lázaro Ros, direction ; détention non vérifiée)",
+    "nom": "Alaeo (véhicule des fondateurs Carlos Muñoz et Lázaro Ros et de la direction ; détention non publiée)",
     "type": "personne",
     "pays": "ES"
    },
@@ -37097,16 +37177,17 @@
    }
   ],
   "description": "Compagnie aérienne low-cost espagnole très présente en régions françaises.",
-  "note": "Recapitalisation de 71 M€ close en mars 2026, à laquelle Aegean Airlines a participé ; Aegean détient plus de 20 %. Les fondateurs seraient actionnaires via Alaeo Partnership (non vérifié) ; PAR Capital (US) est l'autre actionnaire principal. Un projet de prise de contrôle par Aegean, rapporté par la presse espagnole en septembre 2026, a été démenti par Aegean le 5/10/2026.",
+  "note": "Aegean Airlines est entrée au capital en septembre 2024 par un prêt participatif convertible (13 % après conversion de la première tranche, jusqu'à 21 % avec la seconde, selon son communiqué) ; la recapitalisation, close en mars 2026 à 71 M€, a été menée par Aegean avec PAR Capital (fonds américain) et Alaeo, véhicule de la direction et des fondateurs Carlos Muñoz et Lázaro Ros. La presse attribue à Aegean plus de 20 % ; aucun pourcentage exact n'est publié. Un projet de prise de contrôle par Aegean (holding détenue à 56 %), rapporté par la presse espagnole en septembre 2026, a été démenti par Aegean début octobre 2026.",
   "sources": [
-   "https://fr.wikipedia.org/wiki/Volotea",
    "https://ulysse.com/news/?p=52549",
    "https://centreforaviation.com/news/volotea-announces-board-restructuring-and-new-strategic-plan-1367528",
    "https://centreforaviation.com/news/volotea-announces-eur15m-capital-increase-raising-total-to-eur71m-1353507",
-   "https://es.wikipedia.org/wiki/Volotea",
    "https://greekcitytimes.com/2026/10/05/aegean-airlines-volotea-takeover/",
    "https://www.air-journal.fr/2026-09-17-la-compagnie-grecque-aegean-airlines-prepare-sa-prise-de-controle-de-volotea-5277561.html",
-   "https://www.investinspain.org/en/noticias-main/2024/aegean"
+   "https://www.investinspain.org/en/noticias-main/2024/aegean",
+   "https://athens.euronext.com/en/node/941099",
+   "https://www.flightglobal.com/archive/2026/03/aegean-lifts-share-in-volotea-as-capital-increase-concludes/",
+   "https://www.qualitytravel.it/?p=186029"
   ],
   "verifie_le": "2026-11"
  },
