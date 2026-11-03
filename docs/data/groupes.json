@@ -358,7 +358,7 @@
     "type": "fonds",
     "pays": "GB",
     "lei": "35GDVHRBMFE7NWATNM84",
-    "part_date": "2026-03"
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Autres (management, co-investisseurs)",
@@ -368,11 +368,12 @@
   ],
   "description": "Discounter non alimentaire néerlandais (avec rayon épicerie/hygiène), ≈3 400 magasins en Europe.",
   "sources": [
+   "https://www.3i.com/media/04oheewu/3i-group-press-release-fy26.pdf",
    "https://en.wikipedia.org/wiki/Action_(store)",
    "https://www.action.com/"
   ],
-  "verifie_le": "2026-10",
-  "note": "3i Group détient 65,4 % du capital (mars 2026)."
+  "verifie_le": "2026-11",
+  "note": "3i a porté sa participation de 57,9 % à 65,4 % au cours de l'exercice clos le 31/03/2026 ; le reste est détenu par des fonds de 3i, des co-investisseurs et le management."
  },
  {
   "id": "action-logement",
@@ -485,7 +486,7 @@
     "type": "groupe",
     "pays": "NO",
     "lei": "5967007LIEEXZXHT0O36",
-    "part_date": "2025-05"
+    "part_date": "2026-02-27"
    },
    {
     "nom": "eBay (participation réinvestie lors du rachat)",
@@ -497,6 +498,7 @@
   ],
   "description": "Groupe de petites annonces (leboncoin), retiré de la cote d'Oslo en mai 2024 par un consortium Permira / Blackstone.",
   "sources": [
+   "https://vend.com/ir/releases/vend-marketplaces-asa-vendavendb-capital-distribution-of-eur-336-million-from-adevinta",
    "https://www.mind.eu.com/retail/en/article/blackstone-and-permira-take-over-parent-company-of-leboncoin-for-e12-billion/",
    "https://siecledigital.fr/2023/11/22/adevinta-maison-mere-de-leboncoin-bientot-rachetee-pour-12-milliards-deuros/",
    "https://fr.wikipedia.org/wiki/Leboncoin",
@@ -506,7 +508,7 @@
    "https://chainstoreage.com/ebay-gain-22-billion-sale-shares-adevinta",
    "https://www.tipranks.com/news/company-announcements/vend-marketplaces-to-distribute-eur-336-million-from-adevinta-stake"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "groupe_parent": "permira",
   "note": "Retirée de la cote d'Oslo en mai 2024 par Permira et Blackstone (avec General Atlantic et TCV), via la holding Aurelia. Vend Marketplaces (ex-Schibsted) en détient environ 14 % (mai 2025) ; eBay a réinvesti une partie de ses titres ; répartition entre les fonds non publiée."
  },
@@ -846,13 +848,15 @@
    }
   ],
   "description": "Concessionnaire de Lyon-Saint Exupéry.",
-  "note": "Privatisation d'octobre 2016 : les 60 % de l'État cédés au consortium Vinci Airports / Caisse des Dépôts / Predica (535 M€) ; CCI de Lyon (25 %) et collectivités (3 × 5 %) restent au capital (Wikipédia). Répartition interne au consortium non publiée.",
+  "note": "Privatisation d'octobre 2016 : une société détenue à 51 % par Vinci Airports, le reste par la Caisse des Dépôts et Predica, détient 60 % du capital ; CCI de Lyon 25 % ; Métropole de Lyon 7 %, Région Auvergne-Rhône-Alpes 5 %, Département du Rhône 3 % (décision de l'Autorité de la concurrence 16-DCC-167).",
   "sources": [
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/commitments//16DCC167versionpublication.pdf",
+   "https://ca-assurances.com/wp-content/uploads/CP-Lyon-Signature-du-nouveau-pacte-dactionnaires-10012017.pdf",
    "https://www.vinci-airports.com/fr",
    "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Lyon-Saint-Exup%C3%A9ry",
    "https://en.wikipedia.org/wiki/Lyon%E2%80%93Saint-Exup%C3%A9ry_Airport"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "affinity-petcare",
@@ -1408,10 +1412,12 @@
   "description": "Grossiste-répartiteur pharmaceutique.",
   "note": "Filiale à 100 % de Cencora depuis le rachat d'Alliance Healthcare à Walgreens Boots Alliance (juin 2021, 6,275 Md$).",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1140859/000114085925000131/cor-20250930.htm",
+   "https://www.cencora.com/global-reach/europe/france",
    "https://www.alliance-healthcare.fr",
    "https://en.wikipedia.org/wiki/Alliance_Healthcare"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "allianz",
@@ -1547,10 +1553,11 @@
   "description": "Groupe de cliniques (Sud-Est, Île-de-France).",
   "note": "Depuis juillet 2021 : Wren House 60 %, Bpifrance 16 % (Le Figaro, 26/07/2021) ; détenteur des 24 % restants non précisé.",
   "sources": [
+   "https://www.swisslife-am.com/en/home/media/news/corporate/company-news/2022/0516_almaviva_sante.html",
    "https://www.almaviva-sante.com",
    "https://fr.wikipedia.org/wiki/Almaviva_Sant%C3%A9"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "alphabet",
@@ -1680,6 +1687,7 @@
   ],
   "description": "Maison mère de SFR, RED by SFR et de plusieurs MVNO ; restructurée en 2025 (créanciers à 45 % du capital, validation par la cour d'appel de Paris en décembre 2025). Cession à Bouygues Telecom (42 %), Free-iliad (31 %) et Orange (27 %) en cours : protocole d'accord du 6 juin 2026 (20,35 Md€), dossier renvoyé le 15/07/2026 par la Commission européenne à l'Autorité de la concurrence ; finalisation attendue au second semestre 2027 au plus tôt.",
   "sources": [
+   "https://static.s-sfr.fr/AlticeFrance/investors/press-releases/AlticeFrance-announces-successful-implementation-financial-restructuring.pdf",
    "https://www.tradingsat.com/actualites/marches-financiers/marche-altice-france-plan-de-restructuration-valide-le-sort-de-sfr-en-question-1143953.html",
    "https://www.ifre.com/ifr-awards/2333229/emea-restructuring-altice-frances-24bn-restructuring",
    "https://www.orange.com/fr/communiques/signature-dun-protocole-daccord-en-vue-de-lacquisition-de-sfr-476229",
@@ -1692,7 +1700,7 @@
    "https://en.arcep.fr/news/press-releases/view/n/competition-080626.html",
    "https://www.telcotitans.com/orangewatch/ec-cedes-oversight-of-sfr-takeover-to-french-authorities/10682.article"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "amazon",
@@ -2077,23 +2085,23 @@
    {
     "nom": "Lov & Bread (pôle alimentaire de Financière Lov, Stéphane Courbit)",
     "id": "financiere-lov",
-    "part_pct": 35,
     "type": "groupe",
     "pays": "FR",
     "siren": "487997660",
-    "lei": "969500A1DZZ3VLIF6818",
-    "part_date": "2023-10"
+    "lei": "969500A1DZZ3VLIF6818"
    }
   ],
   "description": "Chaîne de boulangeries en franchise fondée en 2008 par François Bultel, Patricia Gaffet et Patrice Guillois (plus de 300 boulangeries).",
   "sources": [
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2023-10/23-231%20-%20Publique%20-%20d%C3%A9cision%2023DCC211.pdf",
    "https://www.boulangeries-ange.fr/",
    "https://fr.wikipedia.org/wiki/Ange_(boulangerie)",
    "https://lexpress-franchise.com/actualites/un-nouvel-actionnaire-au-capital-des-boulangeries-ange/",
    "https://www.lsa-conso.fr/le-reseau-de-boulangeries-ange-noue-un-partenariat-avec-ffl,447781"
   ],
-  "verifie_le": "2026-10",
-  "note": "Lov & Bread (pôle alimentaire du groupe de Stéphane Courbit, déjà actionnaire de Ladurée) a pris 35 % du capital en octobre 2023 ; les cofondateurs restent dirigeants et associés (L'Express Franchise, LSA)."
+  "verifie_le": "2026-11",
+  "note": "L'Autorité de la concurrence a autorisé le 13/10/2023 la prise de contrôle exclusif du groupe Ange par Lov & Bread (décision 23-DCC-211) ; la part au capital n'est pas publiée. Les cofondateurs restent dirigeants et associés.",
+  "groupe_parent": "financiere-lov"
  },
  {
   "id": "animalis",
@@ -2419,33 +2427,40 @@
    {
     "nom": "Eiffage (via Eiffarie)",
     "id": "eiffage",
-    "part_pct": 52.0,
+    "part_pct": 52.5,
     "pays": "FR",
     "siren": "709802094",
     "lei": "969500OQXKE5WDM9M994",
     "type": "groupe",
-    "part_date": "2022"
+    "part_date": "2022-06-30"
    },
    {
-    "nom": "Fonds gérés par Macquarie Asset Management (via Eiffarie)",
-    "id": "macquarie",
-    "part_pct": 48.0,
+    "nom": "Atlas Arteria (via Financière Eiffarie)",
+    "part_pct": 30.82,
+    "type": "groupe",
     "pays": "AU",
-    "lei": "ACMHD8HWFMFUIQQ8Y590",
+    "part_date": "2022-06-30"
+   },
+   {
+    "nom": "Autres investisseurs de MAF Group (via Financière Eiffarie)",
+    "part_pct": 16.68,
     "type": "fonds",
-    "part_date": "2022"
+    "pays": "XX",
+    "part_date": "2022-06-30"
    }
   ],
   "description": "Deuxième concessionnaire autoroutier français (APRR, AREA).",
-  "note": "Détenu par Eiffarie, coentreprise d'Eiffage (52 %, d'après les résultats annuels d'Eiffage) et de Macquarie (solde), depuis la privatisation de 2006 ; retiré de la cote après l'offre publique de retrait autorisée par l'AMF en décembre 2012.",
+  "note": "Intérêts économiques depuis le 30/06/2022 (page APRR d'Atlas Arteria) : Eiffage 52,5 %, Atlas Arteria 30,82 %, autres investisseurs de MAF Group 16,68 %, via Financière Eiffarie. APRR a été retirée de la cote après l'offre publique de retrait de décembre 2012.",
   "sources": [
+   "https://www.atlasarteria.com/portfolio/aprr",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2026/02/FCECO081044_20260225.pdf",
    "https://fr.wikipedia.org/wiki/Autoroutes_Paris-Rhin-Rhône",
    "https://www.eiffage.com/finance",
    "https://fr.wikipedia.org/wiki/Autoroutes_Paris-Rhin-Rh%C3%B4ne",
    "https://www.eiffage.com/files/live/sites/eiffagev2/files/Eiffage_Résultats_annuels_2022.pdf",
    "https://infrastructureinvestor.com/macquarie-eiffage-disagree-on-french-road"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "aquarelle",
@@ -2756,25 +2771,19 @@
   "siren": "397534033",
   "actionnaires": [
    {
-    "nom": "Jean-Guy Le Floch et Michel Gueguen (repreneurs en 1993)",
-    "type": "personne",
+    "nom": "Familles Le Floch et Gueguen (repreneurs en 1993)",
+    "type": "famille",
     "pays": "FR"
-   },
-   {
-    "nom": "Institut de participation de l'Ouest (CIC) et Ouest Croissance (Banque populaire)",
-    "type": "fonds",
-    "pays": "FR",
-    "part_pct": 25.0,
-    "part_date": "2007"
    }
   ],
   "description": "Textile breton (marinières, vêtements de travail).",
-  "note": "Majorité détenue par J.-G. Le Floch et M. Gueguen depuis 1993 ; IPO (CIC) et Ouest Croissance 25 % depuis 2007 (Wikipédia, situation vers 2019).",
+  "note": "Majorité détenue par les familles Le Floch et Gueguen ; l'actionnariat était 100 % familial avant l'entrée minoritaire d'Unexo (Crédit Agricole) fin 2024, selon la presse. La sortie d'IPO et d'Ouest Croissance n'est pas datée.",
   "sources": [
+   "https://www.lemondedudroit.fr/deals/95902-cornet-vincent-segurel-accompagne-unexo-pour-sa-prise-de-participation-au-capital-d-armor-lux.html",
    "https://www.armorlux.com/",
    "https://fr.wikipedia.org/wiki/Armor-Lux"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "arrow-global",
@@ -2884,14 +2893,14 @@
     "type": "fonds",
     "pays": "GB",
     "part_pct": 60,
-    "part_date": "2016"
+    "part_date": "2025-01-13"
    },
    {
     "nom": "Famille Catelli",
     "type": "famille",
     "pays": "IT",
     "part_pct": 40,
-    "part_date": "2016"
+    "part_date": "2025-01-13"
    }
   ],
   "description": "Groupe italien de puériculture (Chicco).",
@@ -2902,7 +2911,7 @@
    "https://www.finanzaonline.com/notizie/investindustrial-bonomi-diventa-socio-di-maggioranza-di-chicco-585249",
    "https://fr.wikipedia.org/wiki/Artsana"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "as-watson",
@@ -3205,41 +3214,47 @@
     "siren": "180020026",
     "lei": "969500Q2PFTTP0Y5QL44",
     "part_pct": 67.3,
-    "part_date": "2026-07-31"
+    "part_date": "2026-10"
    },
    {
     "nom": "Départements de la Haute-Savoie et de l'Ain",
     "type": "public",
     "pays": "FR",
-    "part_pct": 18.62
+    "part_pct": 18.62,
+    "part_date": "2026-10"
    },
    {
     "nom": "Canton et ville de Genève",
     "type": "public",
     "pays": "CH",
-    "part_pct": 5.41
+    "part_pct": 5.41,
+    "part_date": "2026-10"
    },
    {
     "nom": "Assureurs et établissements financiers français et suisses",
     "type": "autre",
     "pays": "FR",
-    "part_pct": 7.15
+    "part_pct": 7.15,
+    "part_date": "2026-10"
    },
    {
     "nom": "Divers et personnel",
     "type": "autre",
     "pays": "FR",
-    "part_pct": 1.52
+    "part_pct": 1.52,
+    "part_date": "2026-10"
    }
   ],
   "description": "Concessionnaire public (A40, A41, tunnel du Mont-Blanc).",
   "note": "Participation de l'État (67,3 %) cédée à la Caisse des Dépôts, finalisée le 31/07/2026 (avec la SFTRF, ≈ 1,5 Md€ pour les deux).",
   "sources": [
+   "https://www.atmb.com/connaitre-atmb/gouvernance-et-statut/",
+   "https://www.atmb.com/app/uploads/2026/10/repartition-capital-2026.png",
    "https://www.atmb.com/",
    "https://fr.wikipedia.org/wiki/Autoroutes_et_tunnel_du_Mont-Blanc",
    "https://www.caissedesdepots.fr/sites/cdc.fr/files/2026-07/31072026%20-%20CP_Closing_Cession_ATMB_SFTRF.pdf"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "atol",
@@ -4515,11 +4530,11 @@
    {
     "nom": "D'Ieteren Group",
     "id": "d-ieteren",
-    "part_pct": 50.01,
+    "part_pct": 50.3,
     "type": "groupe",
     "pays": "BE",
     "lei": "549300DV5KJ23OKVTW34",
-    "part_date": "2021"
+    "part_date": "2026-04-24"
    },
    {
     "nom": "Clayton, Dubilier & Rice",
@@ -4527,7 +4542,7 @@
     "part_pct": 20,
     "type": "fonds",
     "pays": "US",
-    "part_date": "2021-12"
+    "part_date": "2021-12-17"
    },
    {
     "nom": "Hellman & Friedman",
@@ -4555,14 +4570,15 @@
    }
   ],
   "description": "Leader mondial de la réparation de vitrage automobile (Carglass).",
-  "note": "D'Ieteren détient 50,01 % (base diluée, opération de 2021) ; CD&R ≈ 20 %, H&F ≈ 9 %. Introduction en Bourse à Amsterdam étudiée (banques choisies en octobre 2026).",
+  "note": "D'Ieteren détient 50,3 % des droits économiques entièrement dilués (communiqué du 24/04/2026) ; CD&R 20 % depuis décembre 2021 ; H&F environ 9 %. Introduction en Bourse à Amsterdam étudiée (banques choisies en octobre 2026).",
   "sources": [
+   "https://www.vfb.be/Media/Default/pdf/20260424_Annual-Report_NL.pdf",
    "https://fr.wikipedia.org/wiki/Belron",
    "https://www.cdr.com/news/cdr-fund-x-sells-belron-stake-in-transaction-that-values-belron-at-eur21-billion",
    "https://www.lw.com/en/news/latham-advises-hf-on-belron-investment",
    "https://www.mainsights.io/ma-news/d039ieteren-and-cdampr-backed-belron-selected-banks-to-lead-upcoming-amsterdam-ipo-seeking-valuation-of-over-eur-30bn"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "berkshire-hathaway",
@@ -5253,7 +5269,12 @@
     "type": "famille",
     "pays": "FR",
     "part_pct": 78.98,
-    "part_date": "2024-01-31"
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "ORFIM (entre 5 et 10 %)",
+    "type": "fonds",
+    "pays": "FR"
    },
    {
     "nom": "Flottant / public",
@@ -5262,8 +5283,9 @@
    }
   ],
   "description": "Leader mondial de l'homéopathie (Lyon).",
-  "note": "OPA simplifiée de Boiron Développement (holding des familles Boiron) à 39,64 € close le 31/01/2024 : 78,98 % du capital et 76,79 % des droits de vote à l'issue de l'offre, sous le seuil de 90 % du retrait obligatoire (avis AMF 224C0180 du 1/02/2024).",
+  "note": "Boiron Développement (holding des familles Boiron) détient 79,0 % du capital au 31/12/2025 (rapport financier annuel 2025), après l'offre publique simplifiée close le 31/01/2024 ; ORFIM détient entre 5 et 10 % du capital et des droits de vote.",
   "sources": [
+   "https://www.boironfinance.fr/files/Rapport%20financier%20-%20Donn%C3%A9es%20annuelles/Rapport%20Financier%20Annuel%202025.pdf",
    "https://www.boiron.fr",
    "https://fr.wikipedia.org/wiki/Laboratoires_Boiron",
    "https://www.tradingsat.com/boiron-FR0000061129/actualites/boiron-boiron-les-actionnaires-familiaux-vont-lancer-une-opa-1075675.html",
@@ -5271,7 +5293,7 @@
    "https://bdif.amf-france.org/back/api/v1/documents/2024/224C0043/3670ECC27C85B5597392B15F307A6E7DC1AC550E335088CED05B21A6596DBE8F.pdf",
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2023-12-20-boiron-perspectives-degradees-retrait-de-la-cote-confirme.html"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "boisset",
@@ -5449,7 +5471,8 @@
     "nom": "Robert Bosch Stiftung (fondation)",
     "part_pct": 94,
     "type": "autre",
-    "pays": "DE"
+    "pays": "DE",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Famille Bosch",
@@ -5459,10 +5482,12 @@
   ],
   "description": "Équipementier ; chauffage via Bosch Home Comfort (elm.leblanc).",
   "sources": [
+   "https://www.bosch.co.jp/publications/bosch-group-corporate-profile/2026-bosch-group-corporate-profile-en-01.pdf",
    "https://fr.wikipedia.org/wiki/Robert_Bosch_GmbH",
    "https://www.bosch.com/company/ownership/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Fin 2025 : Robert Bosch Stiftung environ 94 % du capital sans droit de vote déterminant ; Robert Bosch Industrietreuhand KG 0,01 % du capital mais environ 93 % des droits de vote ; famille Bosch environ 5 % du capital et 7 % des droits de vote ; autodétention environ 1 %."
  },
  {
   "id": "bose",
@@ -5665,21 +5690,24 @@
     "nom": "Banques Populaires (sociétaires)",
     "part_pct": 50.0,
     "pays": "FR",
-    "type": "societaires"
+    "type": "societaires",
+    "part_date": "2026-03-17"
    },
    {
     "nom": "Caisses d'Épargne (sociétaires)",
     "part_pct": 50.0,
     "pays": "FR",
-    "type": "societaires"
+    "type": "societaires",
+    "part_date": "2026-03-17"
    }
   ],
   "description": "Deuxième groupe bancaire français, coopératif (Banque Populaire, Caisse d'Épargne, Natixis, Oney).",
   "sources": [
+   "https://www.groupebpce.com/app/uploads/2026/05/bpce-deu--2025.pdf",
    "https://groupebpce.com/investisseurs",
    "https://fr.wikipedia.org/wiki/Groupe_BPCE"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "bpifrance",
@@ -5808,9 +5836,10 @@
   "actionnaires": [
    {
     "nom": "Coopératives agricoles bretonnes (holding SOPARFI : Sica de Saint-Pol-de-Léon, Cerafel…)",
-    "part_pct": 75.0,
+    "part_pct": 73.21,
     "type": "societaires",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-10-31"
    },
    {
     "nom": "CMA CGM",
@@ -5820,29 +5849,34 @@
     "pays": "FR",
     "siren": "562024422",
     "lei": "969500BZJ49IICIBZZ08",
-    "part_date": "2023-03"
+    "part_date": "2025-10-31"
    },
    {
     "nom": "CCI bretonnes",
     "type": "public",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 10.52,
+    "part_date": "2025-10-31"
    },
    {
     "nom": "Investisseurs bretons entrés en 2024-2025 (Louis Le Duff, Société financière de la Loire, Alain Glon Holding, Idea Future, Helea Patri, TM Participations, FOR Invest…)",
     "type": "autre",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 4.27,
+    "part_date": "2025-10-31"
    }
   ],
   "description": "Compagnie de ferries bretonne (Manche, Espagne, Irlande), fondée par des agriculteurs.",
   "sources": [
+   "https://brittanyferriesnewsroom.com/wp-content/uploads/2026/05/Sustainability-Report-2025-EN-final.pdf",
    "https://www.lejournaldesentreprises.com/article/brittany-ferries-accueille-huit-nouveaux-actionnaires-son-capital-2102628",
    "https://www.lechotouristique.com/article/brittany-ferries-ouvre-son-capital-a-huit-nouveaux-actionnaires-bretons",
    "https://fr.wikipedia.org/wiki/Brittany_Ferries",
    "https://www.lejournaldesentreprises.com/article/cma-cgm-entre-hauteur-de-12-au-capital-de-brittany-ferries-2056999",
    "https://maritime-executive.com/article/cma-cgm-takes-stake-in-brittany-ferries"
   ],
-  "verifie_le": "2026-10",
-  "note": "CMA CGM a converti en 2023 son financement de 2021 en 12 % du capital. Après l'ouverture du capital à huit actionnaires bretons, les coopératives agricoles restent majoritaires avec 75 % (communiqué de la compagnie) ; part exacte des CCI après l'opération non publiée."
+  "verifie_le": "2026-11",
+  "note": "Capital de B.A.I. SA au 31/10/2025 (rapport de durabilité 2025) : actionnaires agriculteurs 73,21 %, CMA CGM 12 %, CCI bretonnes 10,52 %, divers 4,27 %. B.A.I. SA est devenue actionnaire unique de Condor Ferries."
  },
  {
   "id": "britvic",
@@ -7190,7 +7224,7 @@
    "https://www.centrakor.com/",
    "https://fr.wikipedia.org/wiki/Centrakor"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "centre-france",
@@ -7802,14 +7836,14 @@
    }
   ],
   "description": "Armateur et logisticien (CEVA, Colis Privé), actionnaire d'Air France-KLM et de médias.",
-  "note": "Famille Saadé (Merit France SAS) 73 %, Yildirim 24 %, Bpifrance 3 % (Wikipédia).",
+  "note": "Famille Saadé (Merit France) 73 %, Yildirim 24 %, Bpifrance 3 % d'après la presse maritime ; selon CFNEWS (13/10/2026), Bpifrance aurait cédé le solde de sa participation à l'été 2026. Aucune source de premier rang.",
   "sources": [
    "https://fr.wikipedia.org/wiki/CMA_CGM",
    "https://www.journaldunet.com/business/1531475-rachat-officiel-d-altice-media-bfm-et-rmc-par-cma-cgm/",
    "https://www.cma-cgm.com/group/presentation",
    "https://en.wikipedia.org/wiki/CMA_CGM"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "cma-media",
@@ -7861,7 +7895,8 @@
    "https://fr.themedialeader.com/?p=108892",
    "https://fr.wikipedia.org/wiki/CMI_France"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Télé 7 Jours a été cédé à Bauer Media Group en janvier 2026 (presse). La part de Daniel Křetínský dans Czech Media Invest n'est pas publiée."
  },
  {
   "id": "cnaf",
@@ -7977,22 +8012,25 @@
   "groupe_parent": "la-banque-postale",
   "actionnaires": [
    {
-    "nom": "La Banque Postale (groupe La Poste)",
+    "nom": "La Banque Postale (via CNP Assurances Holding)",
     "id": "la-poste",
-    "part_pct": 100,
+    "part_pct": 99.95,
     "type": "groupe",
     "pays": "FR",
     "siren": "356000000",
     "lei": "9695000YG7TR7PAP0L59",
-    "part_date": "2022-06-20"
+    "part_date": "2023-12-31"
    }
   ],
   "description": "Assureur, filiale de La Banque Postale.",
   "sources": [
+   "https://www.cnp.fr/cnp/content/download/11497/file/CNP-Assurances-Document-Enregistrement-Universel-2023-VF.pdf",
+   "https://www.cnp.fr/le-groupe-cnp-assurances/newsroom/publications/2026/analystes-investisseurs/resultats/rapport-de-gestion-2025-cnp-assurances-sa-et-ses-filiales",
    "https://fr.wikipedia.org/wiki/CNP_Assurances",
    "https://www.cnp.fr"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Depuis le 11/04/2023, CNP Assurances Holding, filiale à 100 % de La Banque Postale, détient 99,95 % du capital et 100 % des droits de vote ; le reste est autodétenu."
  },
  {
   "id": "cnr",
@@ -8491,10 +8529,11 @@
   "description": "Soutien scolaire à domicile.",
   "note": "Société mère Epiktet ; entrée de Raise Invest et Geneo en novembre 2021, le fondateur passant de 85 % à 55 % (Les Échos Capital Finance, 22/11/2021).",
   "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2017/06/FCACT038889_20170601.pdf",
    "https://www.completude.com/",
    "https://fr.wikipedia.org/wiki/Compl%C3%A9tude_(entreprise)"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "comtesse-du-barry",
@@ -8715,7 +8754,7 @@
     "part_date": "2024-09-11"
    },
    {
-    "nom": "SEM du département de la Guadeloupe",
+    "nom": "SEM patrimoniale de la Région Guadeloupe",
     "type": "public",
     "pays": "FR",
     "part_pct": 8.0,
@@ -8723,13 +8762,13 @@
    }
   ],
   "description": "Compagnie aérienne française (Antilles, Réunion, Afrique).",
-  "note": "Répartition rendue publique le 11/09/2024 (A. Jaber 40 % pour 15 M€) après le renoncement de la République du Congo ; augmentation de capital ramenée à 30 M€ puis validée.",
+  "note": "Répartition annoncée le 11/09/2024 ; elle n'a pris effet qu'avec la validation de l'augmentation de capital, ramenée à 30 M€, le 12/06/2026 (TourMaG, 18/06/2026). Aucune source de premier rang.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Corsair_International",
    "https://outremers360.com/bassin-atlantique-appli/aerien-lentrepreneur-abbas-jaber-futur-actionnaire-de-reference-de-corsair",
    "https://www.tourmag.com/Corsair-voici-les-nouveaux-hommes-forts-de-la-compagnie-_a132270.html"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "corteva",
@@ -9093,26 +9132,19 @@
   "actionnaires": [
    {
     "nom": "Famille Guedj (Yvonne, Karine, Fanny Guedj, Nathalie Jaoui)",
-    "part_pct": 74.5,
+    "part_pct": 74.54,
     "type": "famille",
     "pays": "FR",
-    "part_date": "2024-12-26"
-   },
-   {
-    "nom": "Eximium SAS",
-    "part_pct": 7.97,
-    "type": "fonds",
-    "pays": "FR",
-    "part_date": "2024-12-26"
+    "part_date": "2026-02-28"
    },
    {
     "nom": "Amiral Gestion",
-    "part_pct": 2.47,
+    "part_pct": 6.47,
     "type": "fonds",
     "pays": "FR",
     "siren": "445224090",
     "lei": "969500797CYN8EAVWA69",
-    "part_date": "2024-12-26"
+    "part_date": "2026-02-28"
    },
    {
     "nom": "Flottant",
@@ -9121,12 +9153,15 @@
    }
   ],
   "description": "Groupe d'intérim français.",
-  "note": "Répartition au 26/12/2024 (Wikipédia, d'après Zone Bourse) ; cotation suspendue depuis décembre 2023.",
+  "note": "Coté sur Euronext Paris. Au 28/02/2026 (document d'enregistrement universel 2025) : famille Guedj 74,54 % du capital et 80,26 % des droits de vote, Amiral Gestion 6,47 %, autodétention 6,36 %. Eximium est passée sous 5 % le 25/01/2024 (avis AMF 224C0155).",
   "sources": [
+   "https://www.groupe-crit.com/infos/annuel/CRIT_DEU_2025_FR_OPTI.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307566408_20250109.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307518688_20240130.pdf",
    "https://www.groupe-crit.com",
    "https://fr.wikipedia.org/wiki/Groupe_Crit"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "criteo",
@@ -9821,7 +9856,7 @@
    "https://fr.wikipedia.org/wiki/Dessange",
    "https://www.lemondedudroit.fr/deals/88748-ayache-conseille-icg-acquisition-groupe-dessange-international.html"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "note": "ICG a racheté en 2023 100 % de D. Participations, holding du groupe, à Eurazeo."
  },
  {
@@ -10367,18 +10402,19 @@
    {
     "nom": "Crédit Mutuel Alliance Fédérale",
     "id": "credit-mutuel-alliance-federale",
-    "part_pct": 100.0,
+    "part_pct": 100,
     "type": "groupe",
     "pays": "FR",
-    "part_date": "2009-09"
+    "part_date": "2025-01-28"
    }
   ],
   "description": "Premier groupe de PQR de l'Est (Le Progrès, Le Dauphiné libéré, L'Est Républicain, DNA, L'Alsace, Le Républicain lorrain, Le Bien Public).",
   "sources": [
+   "https://www.creditmutuel.fr/fr/alliancefederale/presse/communiques-de-presse/depart-philippe-carli-groupe-ebra.html",
    "https://fr.wikipedia.org/wiki/EBRA",
    "https://www.cbnews.fr/node/102866"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "ebro-foods",
@@ -10596,17 +10632,18 @@
     "part_pct": 100,
     "type": "etat",
     "pays": "FR",
-    "part_date": "2023-06-08"
+    "part_date": "2024"
    }
   ],
   "description": "Électricien historique, renationalisé à 100 % en 2023.",
   "sources": [
+   "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF2025-Jaunes/10-Jaune_Etat_actionnaire.pdf",
    "https://fr.wikipedia.org/wiki/Électricité_de_France",
    "https://www.edf.fr/groupe-edf/investisseurs",
    "https://www.edf.fr/groupe-edf",
    "https://www.economie.gouv.fr/agence-participations-etat"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "edgewell",
@@ -11219,16 +11256,17 @@
     "part_pct": 25,
     "type": "fonds",
     "pays": "US",
-    "part_date": "2021-10"
+    "part_date": "2021-10-12"
    }
   ],
   "description": "Holding de Foncia (syndic, gestion locative, transaction) ; contrôlée par Partners Group depuis 2016.",
   "sources": [
+   "https://www.ta.com/news/ta-associates-to-acquire-a-significant-stake-in-partners-group-owned-foncia/",
    "https://fr.wikipedia.org/wiki/Foncia",
    "https://allnews.ch/node/59477",
    "https://en.newsroom.eurazeo.com/news/eurazeo-and-bridgepoint-sell-foncia-to-partners-group-in-transaction-totalling-eur1-833-million-004bb-52e2c.html"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "emil-frey",
@@ -12243,7 +12281,7 @@
     "siren": "552049447",
     "lei": "969500A4MXJ3ESPHK698",
     "type": "groupe",
-    "part_date": "2022-04"
+    "part_date": "2022-04-29"
    },
    {
     "nom": "CDPQ",
@@ -12252,7 +12290,7 @@
     "pays": "CA",
     "lei": "HWR6ATEU4L0XN8IT6Y39",
     "type": "public",
-    "part_date": "2022-04"
+    "part_date": "2022-04-29"
    },
    {
     "nom": "SNCB",
@@ -12261,24 +12299,26 @@
     "pays": "BE",
     "lei": "5493006QKLIH7XVP2K64",
     "type": "etat",
-    "part_date": "2022-04"
+    "part_date": "2022-04-29"
    },
    {
     "nom": "Federated Hermes Infrastructure",
     "part_pct": 6.44,
     "pays": "US",
     "type": "fonds",
-    "part_date": "2022-04"
+    "part_date": "2022-04-29"
    }
   ],
   "description": "Opérateur des trains à grande vitesse Eurostar (ex-Thalys inclus).",
   "note": "Répartition issue de la fusion Eurostar-Thalys (2022), sans changement signalé depuis.",
   "sources": [
+   "https://www.lacaisse.com/en/news/pressreleases/eurostar-thalys-join-forces-lay-foundations-new-european-player-sustainable-high",
+   "https://www.groupe-sncf.com/medias-publics/2026-04/rapport-annuel-integre-2025.pdf",
    "https://fr.wikipedia.org/wiki/Eurostar",
    "https://www.eurostar.com/",
    "https://en.wikipedia.org/wiki/Eurostar"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "even",
@@ -15214,18 +15254,20 @@
    {
     "nom": "État français",
     "id": "etat-francais",
-    "part_pct": 100.0,
+    "part_pct": 100,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024"
    }
   ],
   "description": "Groupe audiovisuel public (France 2, France 3, France 4, France 5, franceinfo, france.tv).",
   "sources": [
+   "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF2025-Jaunes/10-Jaune_Etat_actionnaire.pdf",
    "https://www.francetelevisions.fr/groupe",
    "https://www.economie.gouv.fr/agence-participations-etat",
    "https://fr.wikipedia.org/wiki/France_T%C3%A9l%C3%A9visions"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "france-titres",
@@ -15337,7 +15379,7 @@
     "siren": "479973513",
     "lei": "969500N6AVPA51648T62",
     "part_pct": 100,
-    "part_date": "2021-03"
+    "part_date": "2021-03-17"
    }
   ],
   "description": "Opérateur et fournisseur de services de recharge (badge, appli).",
@@ -15347,7 +15389,7 @@
    "https://fr.wikipedia.org/wiki/Freshmile",
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/MKW/2021/03/FCMKW132790_20210317.pdf"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "groupe_parent": "rexel"
  },
  {
@@ -15644,15 +15686,16 @@
    }
   ],
   "description": "Groupe d'enseignement supérieur privé (Cours Florent, PSB, Penninghen, Strate...).",
-  "note": "Répartition issue du rachat de mars 2020 (sortie de Providence Equity) : Téthys Invest et CPP Investments ≈ 37-40 % chacun, Montagu 17 %, Bpifrance 9 % ; aucune modification du capital publiée depuis.",
+  "note": "Le communiqué de CPP Investments du 6/03/2020 annonçait environ 40 % chacun pour CPP Investments et Téthys Invest ; la répartition 37/37/17/9 vient de la presse. Aucune opération sur le capital publiée depuis.",
   "sources": [
+   "https://www.cppinvestments.com/wp-content/uploads/2020/03/cpp-investments-global-investors-galileo-global-education-06Mar2020-EN.pdf",
    "https://www.ggeedu.com/",
    "https://www.ggeedu.com",
    "https://fr.wikipedia.org/wiki/Galileo_Global_Education",
    "https://www.businesswire.com/news/home/20200306005495/fr/",
    "https://www.cfnews.net/L-actualite/LBO/Operations/LBO-bis/Galileo-se-projette-avec-des-actionnaires-de-long-terme-325148"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "gameloft",
@@ -16218,16 +16261,18 @@
     "type": "groupe",
     "part_pct": 100,
     "pays": "US",
-    "part_date": "2025-07-03"
+    "part_date": "2025-08-18"
    }
   ],
   "description": "Spécialiste suisse de la détaxe et des services de paiement pour le commerce, propriétaire de ZigZag Global et Shipup.",
-  "note": "Rachetée par Shift4 (accord de février 2025, opération finalisée le 3/7/2025) ; retirée de la cote.",
+  "note": "Rachetée par Shift4 : offre finalisée le 3/07/2025 (97,37 %), fusion de retrait et radiation du NYSE le 18/08/2025.",
   "sources": [
+   "https://d1io3yog0oux5.cloudfront.net/_3c8b019cee13fc1263029a983a9a9883/shift4/news/2025-08-18_Shift4_Completes_Squeeze_Out_Merger_of_Global_274.pdf",
+   "https://www.businesswire.com/news/home/20250703782220/en",
    "https://en.wikipedia.org/wiki/Global_Blue",
    "https://www.zigzag.global/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "gls",
@@ -16466,10 +16511,11 @@
   ],
   "description": "L'Équipe (journal, TV), ASO (Tour de France), Amaury Media (régie de Ligue 1+).",
   "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/BWR/2013/04/FCBWR088116_20130402.pdf",
    "https://fr.wikipedia.org/wiki/Groupe_Amaury",
    "https://fr.themedialeader.com/tag/lfp/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "groupe-atlantic",
@@ -16658,19 +16704,22 @@
    {
     "nom": "Groupe Industriel Marcel Dassault",
     "id": "groupe-dassault",
-    "part_pct": 100.0,
+    "part_pct": 99.73,
     "type": "groupe",
     "pays": "FR",
     "siren": "400628079",
-    "lei": "9695004A07O308YSRV47"
+    "lei": "9695004A07O308YSRV47",
+    "part_date": "2009-05-20"
    }
   ],
   "description": "Le Figaro, TV Magazine, Madame Figaro, Gala (racheté en 2023), CCM Benchmark.",
   "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/CNS/2009/05/FCCNS019789_20090520.pdf",
    "https://fr.wikipedia.org/wiki/Groupe_Figaro",
    "https://fr.themedialeader.com/vivendi-lagardere-le-groupe-francais-editis-dans-le-giron-de-daniel-kretinsky/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Le Groupe Industriel Marcel Dassault détenait 99,73 % du Groupe Figaro en 2009 (communiqué du 20/05/2009) ; aucune source plus récente ne chiffre la part."
  },
  {
   "id": "groupe-le-monde",
@@ -16823,8 +16872,8 @@
    "https://www.lemondedudroit.fr/deals/105691-cornet-vincent-segurel-accompagne-le-groupe-rossel.html",
    "https://www.boursedirect.fr/fr/actualites/categorie/economie/presse-sud-ouest-en-passe-d-etre-cede-a-rossel-proprietaire-de-la-voix-du-nord-afp-b660c1b1bd070104d2a46c5d2b3db691bc90d0ad"
   ],
-  "verifie_le": "2026-10",
-  "note": "Capital détenu à 80 % par la famille Lemoîne et alliés via Socibog, 10 % par la société des journalistes et 10 % par la société des personnels (Wikipédia). Négociations exclusives pour la prise de contrôle par Rossel France annoncées le 3/09/2026 (prix évoqué d'environ 100 M€) ; pas de clôture au 22/10/2026, visée fin 2026 après consultation des instances du personnel."
+  "verifie_le": "2026-11",
+  "note": "Capital détenu à 80 % par la famille Lemoîne et alliés via Socibog, 10 % par la société des journalistes et 10 % par la société des personnels, d'après une répartition ancienne ; l'AFP parlait encore d'environ 80 % pour la famille Lemoîne le 3/09/2026. Négociations exclusives pour la prise de contrôle par Rossel France annoncées le 3/09/2026 (prix évoqué d'environ 100 M€) ; pas de clôture au 3/11/2026, visée fin 2026 après consultation des instances du personnel."
  },
  {
   "id": "groupe-tranchant",
@@ -17326,16 +17375,18 @@
     "part_pct": 100,
     "type": "famille",
     "pays": "NL",
-    "part_date": "2026-02"
+    "part_date": "2026-02-11"
    }
   ],
   "description": "Enseigne néerlandaise d'articles de maison et papeterie.",
-  "note": "La famille Van Eerd détient 100 % de HEMA depuis février 2026 (rachat des parts du reste du consortium).",
+  "note": "La famille Van Eerd (Jumbo) détient 100 % de HEMA depuis le 11/02/2026, via Van Eerd Retail, après le rachat des 50 % de Parcom.",
   "sources": [
+   "https://corporate.hema.com/en/hema-continues-growth-strategy-under-full-ownership-of-the-van-eerd-family/",
+   "https://www.stibbe.com/nl/publications-and-insights/stibbe-adviseert-jumbo-familie-van-eerd-bij-overname-hema",
    "https://www.hema.com/",
    "https://en.wikipedia.org/wiki/HEMA_(store)"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "henkel",
@@ -17862,7 +17913,7 @@
  },
  {
   "id": "humensis",
-  "nom": "Humensis",
+  "nom": "Presses universitaires de France (ex-Humensis)",
   "pays_siege": "FR",
   "statut": "prive",
   "siren": "791917230",
@@ -17880,12 +17931,13 @@
    }
   ],
   "description": "Ancien groupe d'édition (Belin, PUF, Que sais-je ?), racheté par Albin Michel en 2025 puis fondu dans ses entités en 2026.",
-  "note": "Scor a cédé Humensis à Albin Michel le 2/01/2025 ; Humensis a été dissoute le 11/05/2026, ses marques (dont Belin Éducation, pôle éducation) intégrées au groupe Albin Michel.",
+  "note": "Scor a cédé Humensis à Huyghens de Participations, holding d'Albin Michel, le 2/01/2025. La société (SIREN 791917230) est active et s'appelle désormais Presses universitaires de France (répertoire Sirene, mise à jour du 24/09/2026).",
   "sources": [
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/791917230",
    "https://www.humensis.com/",
    "https://fr.wikipedia.org/wiki/Humensis"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "groupe_parent": "albin-michel"
  },
  {
@@ -19342,7 +19394,7 @@
     "siren": "552049447",
     "lei": "969500A4MXJ3ESPHK698",
     "type": "groupe",
-    "part_date": "2012"
+    "part_date": "2012-08"
    },
    {
     "nom": "CDPQ",
@@ -19351,7 +19403,7 @@
     "pays": "CA",
     "lei": "HWR6ATEU4L0XN8IT6Y39",
     "type": "public",
-    "part_date": "2012"
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Salariés (FCPE)",
@@ -19361,12 +19413,14 @@
    }
   ],
   "description": "Opérateur de transports publics, filiale de la SNCF.",
-  "note": "SNCF ≈ 70 %, CDPQ (La Caisse) ≈ 30 % depuis 2012 ; part résiduelle des salariés.",
+  "note": "SNCF 69,7 % et CDPQ (La Caisse) 30 % depuis 2012 (décision 12-DCC-129), confirmés à 70/30 dans le rapport annuel 2025 du groupe SNCF.",
   "sources": [
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/commitments/12DCC129decision_version_publicaion.pdf",
+   "https://www.groupe-sncf.com/medias-publics/2026-04/rapport-annuel-integre-2025.pdf",
    "https://www.autoritedelaconcurrence.fr/en/communiques-de-presse/3-august-2012-public-transport",
    "https://fr.wikipedia.org/wiki/Keolis"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "kergence",
@@ -19648,10 +19702,11 @@
   "description": "Enseigne de magasins de jouets.",
   "note": "La famille Gueydon est redevenue majoritaire (≈ 70 %) en décembre 2023.",
   "sources": [
+   "https://prenatalretailgroup.com/en/brand/king-jouet/",
    "https://www.king-jouet.com/",
    "https://fr.wikipedia.org/wiki/King_Jouet"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "kingfisher",
@@ -20212,18 +20267,21 @@
     "type": "public",
     "pays": "FR",
     "siren": "180020026",
-    "lei": "969500Q2PFTTP0Y5QL44"
+    "lei": "969500Q2PFTTP0Y5QL44",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "État français",
     "id": "etat-francais",
     "part_pct": 34.0,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Groupe public postal ; a cédé La Poste Telecom à Bouygues Telecom en 2024.",
   "sources": [
+   "https://www.lapostegroupe.com/assets/media/le-groupe-laposte/adTxQZGXnQHGZUXK_Nombre_total_d_actions_et_de_droits_de_vote_composant_le_capital_social_au_31122025.pdf",
    "https://www.groupelaposte.com/fr",
    "https://www.edcom.fr/actualites/c-est-boucle-pour-le-rachat-de-la-poste-mobile-par-bouygues-telecom-quelles-consequences",
    "https://fr.wikipedia.org/wiki/La_Poste_(entreprise_française)",
@@ -20231,7 +20289,7 @@
    "https://www.groupelaposte.com/fr/gouvernance",
    "https://www.groupelaposte.com"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "la-poste-telecom",
@@ -20536,11 +20594,13 @@
   "description": "Distributeur de menuiseries, cuisines et salles de bains.",
   "note": "Propriété de Mutares depuis le 1/06/2021 (ex-Saint-Gobain). Le 5/10/2026, Mutares a reçu une offre irrévocable d'entrepreneurs italiens (famille liée à Bricofer et Conforama Italia) pour une participation de contrôle ; Mutares resterait minoritaire ; clôture attendue au 4e trimestre 2026.",
   "sources": [
+   "https://mutares.com/en/?p=25045",
+   "https://live.deutsche-boerse.com/news/EQS-News-Mutares-receives-irrevocable-offer-for-the-acquisition-of-a-controlling-stake-in-Lapeyre-Group-from-an-investment-vehicle-backed-by-Italian-entrepreneurs-9bc686dc-255b-47c0-b077-457f9dc6bed7",
    "https://fr.wikipedia.org/wiki/Lapeyre",
    "https://alpha-maven.com/news/hedge-fund/mutares-received-an-irrevocable-offer-for-a-controlling-stake-in-lapeyre",
    "https://www.batiweb.com/actualites/acquisition/lapeyre-reprise-groupe-italien-mutares-49376"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "lastminute-group",
@@ -20994,29 +21054,30 @@
    {
     "nom": "Stellantis",
     "id": "stellantis",
-    "part_pct": 50.0,
+    "part_pct": 50,
     "pays": "NL",
     "lei": "549300LKT9PW7ZIBDF31",
     "type": "groupe",
-    "part_date": "2023-04"
+    "part_date": "2026"
    },
    {
     "nom": "Crédit Agricole Personal Finance & Mobility",
     "id": "credit-agricole",
-    "part_pct": 50.0,
+    "part_pct": 50,
     "pays": "FR",
     "type": "groupe",
-    "part_date": "2023-04"
+    "part_date": "2026"
    }
   ],
   "description": "Société de location longue durée et de location courte (Leasys Rent).",
   "note": "Coentreprise 50/50 de Stellantis et Crédit Agricole Personal Finance & Mobility depuis avril 2023 ; aucun changement d'actionnariat relevé en 2026.",
   "sources": [
+   "https://origin-corporatewebleasys.leasys.com/corporate/investor-relations/2025_Credit_Update_Leasys Group__IR Deck_VF_1307.pdf",
    "https://fr.wikipedia.org/wiki/Leasys",
    "https://journalauto.com/journal-des-flottes/lld-stellantis-et-credit-agricole-consumer-finance-donnent-naissance-a-leasys/",
    "https://www.motorionline.com/leasys-noleggio-lungo-termine-47-715-immatricolazioni/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "lebara",
@@ -21158,10 +21219,12 @@
   "description": "Néo-assureur mobile (habitation, auto, smartphone).",
   "note": "Fondée en 2017 par Christophe Dandois et Noureddine Bekrar ; Belfius Insurance a acquis 100 % d'Insurlytech, maison mère de Leocare, opération effective le 1/07/2026 (accord du 12/06/2026).",
   "sources": [
+   "https://www.belfius.be/about-us/dam/corporate/press-room/press-articles/downloads/fr/2026/Communique-de-presse-Belfius-Insurance-Leocare-12-06-2026.pdf",
+   "https://www.belfius.be/about-us/dam/corporate/press-room/press-articles/downloads/en/2026/Press%20release%20Belfius_Half-yearly%20results%202026.pdf",
    "https://leocare.eu",
    "https://fr.wikipedia.org/wiki/Leocare"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "groupe_parent": "belfius"
  },
  {
@@ -21973,10 +22036,11 @@
   ],
   "description": "Négociant-éleveur de Beaune (Bourgogne, Beaujolais via le Château des Jacques).",
   "sources": [
+   "https://www.kobrandwineandspirits.com/?p=598",
    "https://fr.wikipedia.org/wiki/Maison_Louis_Jadot",
    "https://www.winespectator.com/webfeature/show/id/48812"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "louis-latour",
@@ -22099,7 +22163,7 @@
     "siren": "502203953",
     "lei": "969500NKZEYLV4FEFW13",
     "part_pct": 41,
-    "part_date": "2021"
+    "part_date": "2021-07-08"
    },
    {
     "nom": "Bpifrance",
@@ -22119,7 +22183,7 @@
    "https://www.infraviacapital.com/portfolio/",
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2021/07/FCECO059571_20210708.pdf"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "lucca-sas",
@@ -22366,19 +22430,21 @@
    {
     "nom": "RTL Group",
     "id": "rtl-group",
-    "part_pct": 48.26,
+    "part_pct": 49.35,
     "type": "groupe",
     "pays": "LU",
-    "lei": "5493000C8J3C3SZYS040"
+    "lei": "5493000C8J3C3SZYS040",
+    "part_date": "2026-06-30"
    },
    {
-    "nom": "CMA CGM (via CMA Média)",
+    "nom": "CMA CGM (via CMA CGM Participations)",
     "id": "cma-cgm",
     "part_pct": 10.25,
     "type": "groupe",
     "pays": "FR",
     "siren": "562024422",
-    "lei": "969500BZJ49IICIBZZ08"
+    "lei": "969500BZJ49IICIBZZ08",
+    "part_date": "2023-03-31"
    },
    {
     "nom": "Silchester International Investors",
@@ -22394,11 +22460,14 @@
   ],
   "description": "Deuxième groupe privé de télévision (M6, W9, 6ter, Gulli) et radios RTL ; Bertelsmann a renoncé à vendre en 2022.",
   "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/199/2026/07/FC199639625_20260728.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307479400_20230406.pdf",
    "https://fr.wikipedia.org/wiki/Groupe_M6",
    "https://www.groupem6.fr/fr/finance/",
    "https://www.europe1.fr/node/78000"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "RTL Group détient 49,35 % du capital au 30/06/2026 (rapport financier semestriel 2026). CMA CGM a franchi 10 % le 31/03/2023 (avis AMF 223C0543)."
  },
  {
   "id": "macquarie",
@@ -22801,11 +22870,12 @@
   ],
   "description": "Réseau d'agences et tour-opérateur lyonnais (Havas Voyages, Selectour, Fram) dirigé par Laurent Abitbol ; Certares 49 %, famille et managers/salariés ≈ 35 % (dont 15 % managers et salariés), aux côtés de Bpifrance et AfricInvest Europe.",
   "sources": [
+   "https://www.tendancehotellerie.fr/articles-breves/communique-de-presse/24939-article/marietton-developpement-groupe-specialise-dans-le-voyage-et-leader-en-france-finalise-sa-4eme-operation-de-lbo",
    "https://fr.wikipedia.org/wiki/Havas_Voyages",
    "https://www.lejournaldesentreprises.com/article/marietton-developpement-ouvre-son-capital-ses-salaries-et-signe-deux-acquisitions-2127982",
    "https://www.lechotouristique.com/article/rumeurs-de-vente-de-marietton-et-fram-laurent-abitbol-dement"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "note": "Répartition issue du quatrième LBO (presse 2025) ; nouvelle ouverture du capital aux salariés prévue en avril 2026."
  },
  {
@@ -22839,10 +22909,10 @@
   "actionnaires": [
    {
     "nom": "Mastercard Foundation",
-    "part_pct": 6.9,
+    "part_pct": 7.4,
     "type": "autre",
     "pays": "CA",
-    "part_date": "2026-10"
+    "part_date": "2026-03-31"
    },
    {
     "nom": "Vanguard",
@@ -22868,13 +22938,15 @@
    }
   ],
   "description": "Réseau de paiement par carte.",
-  "note": "Mastercard Foundation premier actionnaire avec ≈ 6,9 % des actions (dotée de 13,5 millions d'actions à l'introduction en Bourse de 2006), devant Vanguard (≈ 6 %) et BlackRock (≈ 5,7 %) selon MarketScreener (octobre 2026).",
+  "note": "La Mastercard Foundation détient 7,4 % des actions de classe A au 31/03/2026 (déclaration 13G/A). Les parts de Vanguard et BlackRock viennent de MarketScreener (octobre 2026) ; Vanguard déclare par filiale depuis janvier 2026.",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/0001141391/000200639726000007/primary_doc.xml",
+   "https://www.sec.gov/Archives/edgar/data/0001141391/000114139126000021/ma-20260427.htm",
    "https://investor.mastercard.com",
    "https://en.wikipedia.org/wiki/Mastercard_Foundation",
    "https://www.marketscreener.com/quote/stock/MASTERCARD-INCORPORATED-17163/company/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "match-group",
@@ -23128,7 +23200,8 @@
     "type": "public",
     "pays": "FR",
     "siren": "432766947",
-    "lei": "969500WW934VZKE6FI91"
+    "lei": "969500WW934VZKE6FI91",
+    "part_date": "2026"
    },
    {
     "nom": "Radio France",
@@ -23137,7 +23210,8 @@
     "type": "public",
     "pays": "FR",
     "siren": "326094471",
-    "lei": "969500DC6JZGREGND468"
+    "lei": "969500DC6JZGREGND468",
+    "part_date": "2026"
    },
    {
     "nom": "TF1",
@@ -23146,7 +23220,8 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "326300159",
-    "lei": "969500WQFC6OAQYG7E65"
+    "lei": "969500WQFC6OAQYG7E65",
+    "part_date": "2026"
    },
    {
     "nom": "Union des marques",
@@ -23154,7 +23229,8 @@
     "type": "autre",
     "pays": "FR",
     "siren": "784669533",
-    "lei": "894500JK46E2B5J2PG60"
+    "lei": "894500JK46E2B5J2PG60",
+    "part_date": "2026"
    },
    {
     "nom": "Publicis Conseil",
@@ -23163,14 +23239,16 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "542080601",
-    "lei": "2138004KW8BV57III342"
+    "lei": "2138004KW8BV57III342",
+    "part_date": "2026"
    },
    {
     "nom": "Dentsu France",
     "part_pct": 6.7,
     "type": "groupe",
     "pays": "JP",
-    "lei": "213800YE9E8KBJBE1E37"
+    "lei": "213800YE9E8KBJBE1E37",
+    "part_date": "2026"
    },
    {
     "nom": "Havas",
@@ -23178,27 +23256,31 @@
     "part_pct": 6.7,
     "type": "groupe",
     "pays": "FR",
-    "lei": "894500L53AVOFQK7T710"
+    "lei": "894500L53AVOFQK7T710",
+    "part_date": "2026"
    },
    {
     "nom": "Europe 1",
     "part_pct": 5.4,
     "type": "groupe",
     "pays": "FR",
-    "siren": "542168463"
+    "siren": "542168463",
+    "part_date": "2026"
    },
    {
     "nom": "NextRadioTV",
     "part_pct": 5.4,
     "type": "groupe",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2026"
    },
    {
     "nom": "INA",
     "part_pct": 2.81,
     "type": "public",
     "pays": "FR",
-    "siren": "302421193"
+    "siren": "302421193",
+    "part_date": "2026"
    },
    {
     "nom": "Groupe M6",
@@ -23207,7 +23289,8 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "339012452",
-    "lei": "96950018NOMJX5XRH047"
+    "lei": "96950018NOMJX5XRH047",
+    "part_date": "2026"
    },
    {
     "nom": "Orange Participations",
@@ -23216,19 +23299,22 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "380129866",
-    "lei": "969500MCOONR8990S771"
+    "lei": "969500MCOONR8990S771",
+    "part_date": "2026"
    },
    {
     "nom": "Omnicom Media Group",
     "part_pct": 1.62,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026"
    },
    {
     "nom": "IPG France Holding",
     "part_pct": 1.61,
     "type": "groupe",
-    "pays": "US"
+    "pays": "US",
+    "part_date": "2026"
    },
    {
     "nom": "Canal+",
@@ -23237,7 +23323,8 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "835150434",
-    "lei": "9695000537F9F73BXN18"
+    "lei": "9695000537F9F73BXN18",
+    "part_date": "2026"
    }
   ],
   "description": "Mesure d'audience de référence (TV, radio, internet), détenue à 65 % par les médias et à 35 % par les marques (Union des marques) et les agences.",
@@ -23246,7 +23333,7 @@
    "https://fr.wikipedia.org/wiki/M%C3%A9diam%C3%A9trie",
    "https://fr.wikipedia.org/wiki/Médiamétrie"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "note": "Capital de 14,88 M€ : médias 65 % (France Télévisions 22,89 %, Radio France 13,5 %, TF1 10,8 %, Europe 1 et NextRadioTV 5,4 % chacun, INA 2,81 %, M6 2,7 %, Canal+ 1,4 %), marques et agences 35 % (Union des marques 9,33 %, Publicis, Dentsu, Havas 6,7 % chacun, Orange 2,44 %, Omnicom 1,62 %, IPG 1,61 %) (site Médiamétrie, 2026)."
  },
  {
@@ -23535,19 +23622,19 @@
   "groupe_parent": "famille-kretinsky",
   "actionnaires": [
    {
-    "nom": "EP Global Commerce (Daniel Křetínský)",
+    "nom": "EP Global Commerce (Daniel Křetínský) (droits de vote)",
     "id": "famille-kretinsky",
     "type": "personne",
     "pays": "CZ",
     "part_pct": 49.99,
-    "part_date": "2025-03"
+    "part_date": "2025-02-05"
    },
    {
-    "nom": "Meridian Stiftung (famille Schmidt-Ruthenbeck) et Beisheim Holding",
+    "nom": "Meridian Stiftung (famille Schmidt-Ruthenbeck) et Beisheim Holding (droits de vote)",
     "type": "famille",
     "pays": "DE",
     "part_pct": 24.99,
-    "part_date": "2025-03"
+    "part_date": "2025-02-05"
    },
    {
     "nom": "Actionnaires résiduels (non apportés à l'offre)",
@@ -23558,13 +23645,14 @@
   "description": "Grossiste cash & carry allemand (Metro), retiré de la Bourse de Francfort en 2025 ; maison mère de Metro France.",
   "note": "EPGC détenait ≈ 49,99 % des droits de vote avant l'offre de retrait (5,33 €/action, 20/03-16/04/2025) ; Meridian et Beisheim (24,99 % ensemble) se sont engagés à ne pas apporter. Retrait de la cote effectif le 16/04/2025 ; part finale d'EPGC non publiée.",
   "sources": [
+   "https://reports.metroag.de/annual-report/2023-2024/to-our-shareholders/metro-share/shareholder-structure.html",
    "https://en.wikipedia.org/wiki/Metro_AG",
    "https://fr.wikipedia.org/wiki/Metro_France",
    "https://investors.metroag.de/news/delisting-offer",
    "https://www.boerse-online.de/dpa-afx/eqs-adhoc-metro-ag-und-epgc-vereinbaren-delisting-der-metro-aktien-deutsch-425665.html",
    "https://lebensmittelpraxis.de/handel-aktuell/43653-grosshandelskonzern-metro-konzern-steht-vor-boersenrueckzug.html"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "metropole-de-lyon",
@@ -24032,7 +24120,7 @@
   "id": "monoprix",
   "nom": "Monoprix",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "552018020",
   "lei": "969500DZ56QVIKRIU954",
   "groupe_parent": "casino",
@@ -24044,16 +24132,18 @@
     "type": "groupe",
     "pays": "FR",
     "siren": "554501171",
-    "lei": "969500VHL8F83GBL6L29"
+    "lei": "969500VHL8F83GBL6L29",
+    "part_date": "2024-12-31"
    }
   ],
   "description": "Enseigne de centre-ville (Monoprix, Monop'), filiale de Casino.",
-  "note": "Environ 50 Monop' sont exploités par une structure commune avec la famille Zouari.",
+  "note": "Filiale à 100 % du groupe Casino (Plesio depuis le 20/10/2026) selon le document d'enregistrement universel 2024. Environ 50 Monop' doivent passer dans une structure commune avec la famille Zouari (communiqué du 8/06/2026, réalisation attendue fin 2026).",
   "sources": [
+   "https://www.groupe-casino.fr/wp-content/uploads/2025/03/CASINO_DEU_2024_VFR.pdf",
    "https://fr.wikipedia.org/wiki/Groupe_Casino",
    "https://www.groupe-casino.fr/wp-content/uploads/2026/06/2026-06-08-PR-Casino-Communication.pdf"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "monster-beverage",
@@ -24232,7 +24322,7 @@
   "lei": "391200NWMO6NLQFSCU64",
   "actionnaires": [
    {
-    "nom": "Robin Laik (fondateur et PDG, en direct et via Elber GmbH)",
+    "nom": "Robin Laik (fondateur et PDG, en direct et via Elber GmbH) (droits de vote)",
     "part_pct": 24.0,
     "type": "personne",
     "pays": "DE",
@@ -24245,7 +24335,7 @@
    }
   ],
   "description": "Holding allemande de retournement, propriétaire de Lapeyre depuis juin 2021 (rachat à Saint-Gobain).",
-  "note": "Fondée en 2008 par Robin Laik et Axel Geuer. Robin Laik détient 23,99 % des droits de vote au 7/04/2026 (15,02 % en direct, 8,97 % indirectement), après dilution par augmentation de capital (déclaration WpHG du 22/04/2026). Lapeyre toujours détenu par Mutares en février 2026 (audition à l'Assemblée nationale), avec cessions de magasins.",
+  "note": "Robin Laik détient 24,0 % des droits de vote (15,0 % en direct, 9,0 % via Elber GmbH) au 7/04/2026 ; une action donne une voix. D'autres membres de la famille Laik ont fait des déclarations le même jour.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Lapeyre",
    "https://en.wikipedia.org/wiki/Mutares",
@@ -24254,7 +24344,7 @@
    "https://ir.mutares.com/en/corporate-governance/voting-rights-notifications/",
    "https://ir.mutares.com/wp-content/uploads/2026/04/Robin-Laik-Stimmrechtsmitteilung-2026.pdf"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "mutuelle-generale",
@@ -24287,7 +24377,7 @@
     "part_pct": 20,
     "pays": "AT",
     "type": "personne",
-    "part_date": "2025-08"
+    "part_date": "2025-08-19"
    },
    {
     "nom": "Fonds (Tencent, Insight Partners, GIC, Third Point, Coatue, Dragoneer…)",
@@ -24298,10 +24388,11 @@
   "description": "Néobanque allemande.",
   "note": "Les fondateurs gardent environ un cinquième du capital (août 2025) ; tous deux ont quitté la direction opérationnelle (Stalf en août 2025, Tayenthal fin 2025), Mike Dargan PDG depuis avril 2026.",
   "sources": [
+   "https://n26.com/en-eu/press/press-release/n26-founder-valentin-stalf-to-move-to-digital-bank-supervisory-board",
    "https://n26.com",
    "https://en.wikipedia.org/wiki/N26"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "naf-naf-sas",
@@ -24705,30 +24796,31 @@
    {
     "nom": "BNP Paribas",
     "id": "bnp-paribas",
-    "part_pct": 95,
+    "part_pct": 95.0,
     "pays": "FR",
     "siren": "662042449",
     "lei": "R0MUWSFPU8MPRO8K5P83",
     "type": "groupe",
-    "part_date": "2017-04"
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Confédération des buralistes",
-    "part_pct": 5,
+    "part_pct": 5.0,
     "pays": "FR",
     "siren": "784359796",
     "lei": "969500K2HS2X97IVBV08",
     "type": "autre",
-    "part_date": "2017-04"
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Compte bancaire sans conditions vendu chez les buralistes.",
-  "note": "BNP Paribas a racheté 95 % de la Financière des paiements électroniques en avril 2017 ; la Confédération des buralistes garde 5 % (Wikipédia, septembre 2026).",
+  "note": "BNP Paribas a racheté la Financière des paiements électroniques en 2017 et en détient 95,0 % au 31/12/2025 (comptes consolidés de BNP Paribas) ; la Confédération des buralistes garde 5 %.",
   "sources": [
+   "https://invest.bnpparibas/document/4t25-efna",
    "https://nickel.eu",
    "https://fr.wikipedia.org/wiki/Nickel_(banque)"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "nicollin",
@@ -25061,7 +25153,8 @@
     "nom": "Famille Baudecroux (Jean-Paul Baudecroux)",
     "part_pct": 80.23,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -25071,12 +25164,14 @@
   ],
   "description": "Groupe radio (NRJ, Chérie FM, Nostalgie, Rire & Chansons) ; sorti de la télévision en clair en 2025 (NRJ 12 arrêtée sur la TNT le 1/03/2025, Chérie 25 cédée à CMA Média le 17/09/2025) ; conserve NRJ Hits. Contrôlé à ≈80 % par la famille Baudecroux.",
   "sources": [
+   "https://www.nrjgroup.fr/files/2026/03/nrj-urd-2025-opti.pdf",
    "https://fr.themedialeader.com/nrj-group-838-me-de-resultat-net-en-2025-porte-par-les-cessions/",
    "https://fr.themedialeader.com/larcom-valide-la-cession-de-cherie-25-a-cma-cgm-la-chaine-deviendra-rmc-life/",
    "https://www.nrjgroup.fr/files/2026/04/nrj-group-expose-sommaire-2025.pdf",
    "https://fr.wikipedia.org/wiki/NRJ_Group"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Le groupe familial de Jean-Paul Baudecroux détient 80,23 % du capital et 86,74 % des droits de vote théoriques au 31/12/2025 ; donation-partage du 17/10/2025 au profit de Paul et Matilda Baudecroux, sans changement du total."
  },
  {
   "id": "ntt",
@@ -25628,7 +25723,7 @@
    "https://www.optical-center.fr",
    "https://fr.wikipedia.org/wiki/Optical_Center"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "orange",
@@ -26154,7 +26249,7 @@
     "type": "famille",
     "pays": "FR",
     "part_pct": 66.83,
-    "part_date": "2023-10-31"
+    "part_date": "2025-10-31"
    },
    {
     "nom": "Butler Capital Partners",
@@ -26163,30 +26258,32 @@
     "siren": "418930434",
     "lei": "96950087EUNSN1BQRZ02",
     "part_pct": 13.26,
-    "part_date": "2023-10-31"
+    "part_date": "2025-10-31"
    },
    {
     "nom": "Membres du conseil de surveillance et du directoire",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 5.92,
-    "part_date": "2023-10-31"
+    "part_pct": 6.11,
+    "part_date": "2025-10-31"
    },
    {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX",
-    "part_pct": 13.84,
-    "part_date": "2023-10-31"
+    "part_pct": 13.72,
+    "part_date": "2025-10-31"
    }
   ],
   "description": "Exploitant de casinos, coté sur Euronext Paris depuis 1995.",
   "sources": [
+   "https://partouchecms.ptech.fr/groupepartouche/documents/3540d37a-fba0-4614-84e8-d20430eb1761.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307557805_20241021.pdf",
    "https://fr.wikipedia.org/wiki/Groupe_Partouche",
    "https://groupe.partouche.com/finances"
   ],
-  "verifie_le": "2026-10",
-  "note": "Répartition du capital au 31/10/2023 publiée par le groupe (page Finances) ; autodétention 0,15 %."
+  "verifie_le": "2026-11",
+  "note": "Répartition au 31/10/2025 (document d'enregistrement universel). Patrick Partouche contrôle Financière Partouche depuis le 11/10/2024 et détient, directement et indirectement, 72,77 % du capital de Groupe Partouche (avis AMF 224C2004)."
  },
  {
   "id": "pasquier",
@@ -26272,10 +26369,11 @@
   ],
   "description": "Exploitant de cinémas (Les Cinémas Pathé) et producteur-distributeur, contrôlé par la famille Seydoux.",
   "sources": [
+   "https://www.cbnews.fr/node/92698",
    "https://fr.wikipedia.org/wiki/Path%C3%A9",
    "https://www.pathe.fr/"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "note": "La famille Saadé (CMA CGM) est entrée au capital à 20 % via Merit France en mai 2025."
  },
  {
@@ -26713,7 +26811,7 @@
    "https://medias24.com/agence-presse/le-neerlandais-picnic-a-creuse-ses-pertes-en-2025-mais-poursuivi-son-expansion/",
    "https://www.lyonmag.com/article/153129/un-nouveau-supermarche-a-bas-prix-veut-s-implanter-pres-de-lyon-et-recruter-jusqu-a-400-salaries"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "pierre-fabre",
@@ -26765,31 +26863,31 @@
   "actionnaires": [
    {
     "nom": "Fidera",
-    "part_pct": 25.05,
+    "part_pct": 26.72,
     "type": "fonds",
     "pays": "GB",
-    "part_date": "2025-09-30"
+    "part_date": "2026-07-20"
    },
    {
-    "nom": "Alcentra",
+    "nom": "Benefit Street Partners (ex-Alcentra)",
     "part_pct": 24.96,
     "type": "fonds",
     "pays": "GB",
-    "part_date": "2025-09-30"
+    "part_date": "2026-07-20"
    },
    {
     "nom": "Pristine",
     "part_pct": 11.55,
-    "type": "fonds",
+    "type": "autre",
     "pays": "XX",
     "part_date": "2025-09-30"
    },
    {
-    "nom": "Pastel Holding (G. Brémond)",
+    "nom": "Pastel Holding (affiliée à Atream)",
     "part_pct": 8.6,
     "type": "personne",
     "pays": "FR",
-    "part_date": "2025-09-30"
+    "part_date": "2026-07-20"
    },
    {
     "nom": "Flottant / public",
@@ -26799,12 +26897,14 @@
   ],
   "description": "Résidences et villages de vacances ; rachat par Mubadala Capital (Abou Dhabi) annoncé le 22/06/2026, en cours.",
   "sources": [
+   "https://www.groupepvcp.com/app/uploads/2025/12/document-denregistrement-universel-20242025-deu-2025-pvcp.pdf",
+   "https://www.groupepvcp.com/app/uploads/2026/07/pr-toa-200726-en-1.pdf",
    "https://fr.wikipedia.org/wiki/Groupe_Pierre_%26_Vacances-Center_Parcs",
    "https://www.abcbourse.com/marches/pierre-vacances-confirme-sa-dynamique-au-3e-trimestre-et-avance-vers-son-racha_700221",
    "https://www.abcbourse.com/marches/pierre-vacances-center-parcs-un-actionnaire-apporte-11-5-du-capital-a-l-op_699344"
   ],
-  "verifie_le": "2026-10",
-  "note": "Offre de Mubadala Capital à 1,90 € (2,00 € si 90 % atteints) annoncée le 22/06/2026 ; engagements d'apport de 80,13 % du capital et accord de rapprochement signé le 20/07/2026 ; dépôt de l'offre publique attendu au plus tard au 1er trimestre 2027."
+  "verifie_le": "2026-11",
+  "note": "Offre de Mubadala Capital à 1,90 € (2,00 € si 90 % atteints) annoncée le 22/06/2026 ; accord de rapprochement signé le 20/07/2026 avec des engagements d'apport de 80,13 % du capital (Fidera 26,72 %, Benefit Street Partners 24,96 %, Pristine 11,49 %, Pastel 8,60 %) ; dépôt de l'offre publique attendu au plus tard au 1er trimestre 2027. Pristine est le fiduciaire des actions émises lors de la conversion du prêt garanti par l'État."
  },
  {
   "id": "pikolin",
@@ -27301,7 +27401,7 @@
    "https://fr.wikipedia.org/wiki/Louis_Hachette_Group",
    "https://www.louishachettegroup.com/en/press-releases-lhg/louis-hachette-group-announces-the-sale-of-prisma-medias-luxury-division-and-vivendis-acquisition-of-a-stake-in-prisma-group/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "pro-btp",
@@ -27374,19 +27474,19 @@
   "lei": "969500C7QC6Z1EIRQQ02",
   "actionnaires": [
    {
-    "nom": "Famille Pollet (holding Promos Invest)",
-    "part_pct": 98.2,
+    "nom": "Famille Pollet (holding Promod Invest)",
     "type": "famille",
     "pays": "FR"
    }
   ],
   "description": "Enseigne roubaisienne de prêt-à-porter féminin.",
-  "note": "Famille Pollet ≈ 98,2 % via Promos Invest ; dirigée par Julien Pollet depuis 2018 (CA 2025 : 313,7 M€).",
+  "note": "Groupe familial détenu par la famille Pollet via Promod Invest ; la part exacte n'est pas publiée. Dirigé par Julien Pollet depuis 2018 (CA 2025 : 313,7 M€).",
   "sources": [
+   "https://eu-assets.contentstack.com/v3/assets/blt2bc61eb6d63f8631/bltcd82632641fb98fc/Rapport_RSE_2024_C.pdf",
    "https://www.promod.fr/",
    "https://fr.wikipedia.org/wiki/Promod"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "prosol",
@@ -27551,7 +27651,23 @@
     "part_pct": 6.57,
     "type": "famille",
     "pays": "FR",
-    "part_date": "2025"
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "The Capital Group Companies",
+    "part_pct": 16.58,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "BlackRock",
+    "id": "blackrock",
+    "part_pct": 5.49,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2025-12-31",
+    "lei": "529900VBK42Y5HHRMD23"
    },
    {
     "nom": "Flottant / public",
@@ -27566,8 +27682,8 @@
    "https://publicis-groupe.publispeak.com/2025-universal-registration-document/article/375/",
    "https://publicis-groupe.publispeak.com/2023-universal-registration-document/article/389/"
   ],
-  "verifie_le": "2026-10",
-  "note": "Famille Badinter : 16 700 967 actions, soit 6,57 % du capital (document d'enregistrement universel 2025 ; 8,45 % des droits de vote fin 2022)."
+  "verifie_le": "2026-11",
+  "note": "Au 31/12/2025 (document d'enregistrement universel 2025) : The Capital Group 16,58 % du capital et 15,33 % des droits de vote ; famille Badinter 6,57 % du capital et 12,15 % des droits de vote (droits de vote doubles) ; BlackRock 5,49 %."
  },
  {
   "id": "puig",
@@ -27625,7 +27741,7 @@
    "https://fashionunited.com/news/business/anta-sports-completes-puma-acquisition-and-becomes-largest-shareholder/2026100775077",
    "https://www.thestar.com.my/business/business-news/2026/10/09/anta-becomes-puma039s-largest-shareholder-as-firm-accelerates-global-expansion"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "puy-du-fou",
@@ -27842,18 +27958,20 @@
    {
     "nom": "État français",
     "id": "etat-francais",
-    "part_pct": 100.0,
+    "part_pct": 100,
     "type": "etat",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2024"
    }
   ],
   "description": "Groupe radiophonique public (France Inter, franceinfo, France Culture, France Bleu/ICI, FIP, Mouv').",
   "sources": [
+   "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF2025-Jaunes/10-Jaune_Etat_actionnaire.pdf",
    "https://www.radiofrance.com",
    "https://www.economie.gouv.fr/agence-participations-etat",
    "https://fr.wikipedia.org/wiki/Radio_France"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "rakuten",
@@ -27965,19 +28083,34 @@
     "pays": "NL"
    },
    {
+    "nom": "Pzena Investment Management",
+    "part_pct": 5,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "Silchester International Investors",
+    "part_pct": 5,
+    "type": "fonds",
+    "pays": "GB",
+    "part_date": "2025-12-31"
+   },
+   {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX"
    }
   ],
   "description": "Groupe d'intérim néerlandais.",
-  "note": "Au 31/12/2025 : Stichting Stad en Lant (liée au fondateur Frits Goldschmeding, décédé le 26/07/2024) 33 % des actions et des votes ; Stichting Administratiekantoor Preferente Aandelen 29 % des actions / 10 % des votes ; NN Group 12 % / 3 % ; ASR 5 % / 1 % (Wikipédia nl).",
+  "note": "Participations déclarées à l'AFM (page « shareholder base » de Randstad) : Stichting Stad en Lant 33 % des actions et des votes ; Stichting Administratiekantoor Preferente Aandelen 29 % des actions / 10 % des votes ; NN Group 12 % / 3 % ; Richmond 6 % / 1 % ; ASR 5 % / 1 % ; Stichting Randstad Optiefonds 5 % / 2 %.",
   "sources": [
+   "https://www.randstad.com/investor-relations/randstad-share/shareholder-base/",
    "https://www.randstad.com/investors/",
    "https://en.wikipedia.org/wiki/Randstad_NV",
    "https://nl.wikipedia.org/wiki/Randstad_Holding"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "ratp",
@@ -28238,7 +28371,8 @@
     "nom": "Salariés",
     "part_pct": 6.12,
     "pays": "FR",
-    "type": "salaries"
+    "type": "salaries",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -28249,6 +28383,7 @@
   "description": "Constructeur automobile (Renault, Dacia, Alpine, Mobilize).",
   "note": "Nissan détient environ 15 % (sans droit de vote) ; l'accord de l'Alliance de mars 2025 ramène le seuil minimal de participation croisée à 10 %, Nissan a évoqué une cession partielle (≈5 %) sans opération publiée à ce jour.",
   "sources": [
+   "https://media.renaultgroup.com/renault-group-reconduit-son-plan-dactionnariat-salarie-pour-la-5e-annee-consecutive/?lang=fra",
    "https://www.zonebourse.com/cours/action/RENAULT-120789408/societe-actionnaires/",
    "https://www.boursorama.com/bourse/actualites-amp/renault-lance-une-operation-d-actionnariat-salarie-f7b28ab15dc7b4ebabe4761821aee054",
    "https://www.renaultgroup.com/finance/action-renault/actionnariat/",
@@ -28256,7 +28391,7 @@
    "https://en.wikipedia.org/wiki/Renault",
    "https://ca.marketscreener.com/quote/stock/NISSAN-MOTOR-CO-LTD-6492477/news/Nissan-plans-to-reduce-stake-in-Renault-CEO-Espinosa-tells-Nikkei-50245197/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "renfe",
@@ -28305,14 +28440,14 @@
    }
   ],
   "description": "Réseau français de location de voitures et utilitaires.",
-  "note": "Rent A Car SAS (siren 310591649, CA 2024 : 177,5 M€) présidée par Marc-Olivier Boré ; administrateurs dont MBC, holding de la famille Boré, et Groupama Holding Filiales et Participations (registre, 2026). Groupama détient 20 % depuis 2003 (Wikipédia).",
+  "note": "Rent A Car SAS (siren 310591649, CA 2024 : 177,5 M€) présidée par Marc-Olivier Boré ; administrateurs dont MBC, holding de la famille Boré, et Groupama Holding Filiales et Participations (registre, 2026). Groupama a pris 20 % du capital en 2003 (presse de l'époque) ; aucune source récente ne chiffre sa part.",
   "sources": [
    "https://www.rentacar.fr/",
    "https://fr.wikipedia.org/wiki/Rent_A_Car",
    "https://recherche-entreprises.api.gouv.fr/search?q=rent%20a%20car",
    "https://recherche-entreprises.api.gouv.fr/search?q=422721860"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "rethmann",
@@ -28954,20 +29089,23 @@
     "pays": "FR",
     "siren": "632012100",
     "lei": "529900JI1GG6F7RKVI53",
-    "part_pct": 9.43
+    "part_pct": 7.27,
+    "part_date": "2026-01-31"
    },
    {
     "nom": "BlackRock",
     "type": "fonds",
     "pays": "US",
     "lei": "529900VBK42Y5HHRMD23",
-    "part_pct": 6.96
+    "part_pct": 7.09,
+    "part_date": "2025-07-31"
    },
    {
     "nom": "Salariés",
     "type": "salaries",
     "pays": "FR",
-    "part_pct": 1.62
+    "part_pct": 2.92,
+    "part_date": "2026-01-31"
    },
    {
     "nom": "Flottant / public",
@@ -28976,12 +29114,13 @@
    }
   ],
   "description": "Laboratoire pharmaceutique français ; conserve 48,2 % d'Opella.",
-  "note": "L'Oréal 9,43 % du capital (≈ 17 % des droits de vote). Sanofi conserve 48,2 % d'Opella (50 % cédés à CD&R en 2025).",
+  "note": "L'Oréal détient 7,27 % du capital et 13,22 % des droits de vote au 31/01/2026, après la vente d'un bloc à Sanofi en février 2025 ; salariés 2,92 % du capital et 5,34 % des droits de vote (document d'enregistrement universel 2025). Sanofi conserve 48,2 % d'Opella (50 % cédés à CD&R en 2025).",
   "sources": [
+   "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/swi-sanofi-2025-urd-fr-pages-amf.pdf",
    "https://www.sanofi.com/fr/investisseurs",
    "https://fr.wikipedia.org/wiki/Sanofi"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "santevet",
@@ -29442,18 +29581,20 @@
     "pays": "FR",
     "siren": "180020026",
     "lei": "969500Q2PFTTP0Y5QL44",
-    "part_pct": 99.9,
+    "part_pct": 99.94,
     "part_date": "2026-07-31"
    }
   ],
   "description": "Société publique concessionnaire du tunnel du Fréjus et de l'autoroute de la Maurienne.",
-  "note": "L'État (99,93 % depuis 2008) a cédé sa participation à la Caisse des Dépôts : accord du 11/05/2026, cession ATMB-SFTRF finalisée le 31/07/2026.",
+  "note": "L'État (99,94 %) a cédé sa participation à la Caisse des Dépôts : accord du 11/05/2026, autorisation 26-DCC-150 du 9/07/2026, cession finalisée le 31/07/2026.",
   "sources": [
+   "https://www.caissedesdepots.fr/sites/cdc.fr/files/2026-05/11052026_CP_APE_Caisse%20des%20D%C3%A9p%C3%B4ts_participation_strat%C3%A9gique.pdf",
+   "https://www.autoritedelaconcurrence.fr/fr/entityprint/pdf/node/12227",
    "https://www.sftrf.fr/",
    "https://www.caissedesdepots.fr/sites/cdc.fr/files/2026-07/31072026%20-%20CP_Closing_Cession_ATMB_SFTRF.pdf",
    "https://fr.wikipedia.org/wiki/Société_française_du_tunnel_routier_du_Fréjus"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "sgm",
@@ -29597,11 +29738,12 @@
   "description": "Groupe propriétaire de la néobanque pro Shine (cédée par Société Générale à Ageras en 2024), racheté par Cegid en 2026.",
   "note": "Accord de rachat par Cegid du 26/11/2025, finalisé début juin 2026 (communiqué du 8/06/2026).",
   "sources": [
+   "https://www.investcorp.com/investcorp-agrees-to-sell-accounting-and-administrative-solutions-platform-shine/",
    "https://fr.wikipedia.org/wiki/Shine_(banque)",
    "https://www.cegid.com/global/news/cegid-closes-its-acquisition-of-shine/",
    "https://www.maddyness.com/2025/11/26/shine-18-mois-apres-son-rachat-par-ageras-la-fintech-bascule-dans-le-giron-de-cegid/"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "groupe_parent": "cegid"
  },
  {
@@ -29810,10 +29952,11 @@
   ],
   "description": "Premier groupe de presse quotidienne régionale (Ouest-France, Le Courrier de l'Ouest, Presse Océan, Publihebdos/actu.fr, chaîne Novo19) ; cède sa moitié de 20 Minutes à Rossel.",
   "sources": [
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/commitments/05a18.pdf",
    "https://fr.wikipedia.org/wiki/Ouest-France",
    "https://fr.themedialeader.com/rossel-sapprete-a-prendre-le-controle-de-20-minutes/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "sixt",
@@ -30044,20 +30187,22 @@
    {
     "nom": "État français",
     "id": "etat-francais",
-    "part_pct": 100.0,
+    "part_pct": 100,
     "pays": "FR",
     "type": "etat",
-    "part_date": "2020-01-01"
+    "part_date": "2024"
    }
   ],
   "description": "Groupe ferroviaire public (SA détenue à 100 % par l'État).",
   "sources": [
+   "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF2025-Jaunes/10-Jaune_Etat_actionnaire.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/125/2026/07/FC125640060_20260730.pdf",
    "https://www.sncf.com/fr/groupe/profil-et-chiffres-cles",
    "https://fr.wikipedia.org/wiki/SNCF",
    "https://www.groupe-sncf.com",
    "https://www.economie.gouv.fr/agence-participations-etat"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "sncf-connect-tech",
@@ -30498,11 +30643,39 @@
   "lei": "969500CHE47COB873G22",
   "actionnaires": [
    {
-    "nom": "Dirigeants et entités liées (Boris Saragaglia et cofondateurs)",
+    "nom": "Fondateurs (Boris Saragaglia, Paul Lorne, Jérémie Touchard)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 33.5,
-    "part_date": "2026-10-01"
+    "part_pct": 22.67,
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "Sofina",
+    "part_pct": 13.17,
+    "type": "fonds",
+    "pays": "BE",
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "DES Holdings V",
+    "part_pct": 7.7,
+    "type": "fonds",
+    "pays": "XX",
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "Trocadero 2015 LP",
+    "part_pct": 5.38,
+    "type": "fonds",
+    "pays": "XX",
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "FIPS Tech Growth Secondary",
+    "part_pct": 5.16,
+    "type": "fonds",
+    "pays": "XX",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Investisseurs institutionnels et flottant",
@@ -30511,13 +30684,14 @@
    }
   ],
   "description": "Site de vente de chaussures en ligne, propriétaire d'André depuis 2018.",
-  "note": "Coté sur Euronext Growth Paris. Dirigeants et entités liées ≈ 33,5 % du capital au 01/10/2026 (agrégat Idéal Investisseur, sans détail nominatif publié) ; Boris Saragaglia directeur général.",
+  "note": "Coté sur Euronext Growth Paris. Au 31/12/2025 (rapport financier annuel 2025) : fondateurs 22,67 % du capital, deux autres dirigeants environ 5,3 %, Sofina 13,17 %, DES Holdings V 7,70 %, Trocadero 2015 LP 5,38 %, FIPS Tech Growth Secondary 5,16 % ; Boris Saragaglia directeur général.",
   "sources": [
+   "https://spartoo-finance.com/images/Spartoo_Rapport_financier_annuel_2025_21042026.pdf",
    "https://www.spartoo.com/",
    "https://fr.wikipedia.org/wiki/Spartoo",
    "https://www.ideal-investisseur.fr/actions/spartoo-FR00140043Y1-societe.html"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "spectrum-brands",
@@ -30624,8 +30798,8 @@
     "nom": "Martin Lorentzon",
     "type": "personne",
     "pays": "SE",
-    "part_pct": 9.72,
-    "part_date": "2026"
+    "part_pct": 9.3,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Tencent / Tencent Music",
@@ -30633,23 +30807,15 @@
     "type": "groupe",
     "pays": "CN",
     "lei": "254900N4SLUMW4XUYY11",
-    "part_pct": 8.08,
-    "part_date": "2026"
-   },
-   {
-    "nom": "Baillie Gifford",
-    "type": "fonds",
-    "pays": "GB",
-    "lei": "549300UYMK70HLNJU654",
-    "part_pct": 6.43,
-    "part_date": "2026"
+    "part_pct": 8.1,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Daniel Ek",
     "type": "personne",
     "pays": "SE",
-    "part_pct": 6.06,
-    "part_date": "2026"
+    "part_pct": 5.83,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -30659,14 +30825,15 @@
   ],
   "description": "Premier service de streaming audio (siège juridique au Luxembourg, opérationnel à Stockholm).",
   "sources": [
+   "https://s29.q4cdn.com/175625835/files/doc_financials/2025/q4/Spotify-20-F-Filing.pdf",
    "https://fr.wikipedia.org/wiki/Spotify",
    "https://simplywall.st/stocks/us/media/nyse-spot/spotify-technology/ownership",
    "https://simplywall.st/stocks/ch/media/vtx-spot/spotify-technology-shares/ownership",
    "https://www.revenuememo.com/p/who-owns-spotify",
    "https://en.wikipedia.org/wiki/Spotify"
   ],
-  "verifie_le": "2026-10",
-  "note": "Parts du capital en 2026 selon Simply Wall St (20-F du 10/02/2026 : 205,8 millions d'actions au 31/12/2025) ; via les actions bénéficiaires, Lorentzon ≈ 42 % et Ek ≈ 29 % des droits de vote. Daniel Ek président exécutif, Alex Norström et Gustav Söderström codirecteurs généraux."
+  "verifie_le": "2026-11",
+  "note": "Au 31/12/2025 (rapport 20-F 2025) : grâce aux certificats bénéficiaires, Martin Lorentzon détient 40,5 % des droits de vote et Daniel Ek 28,8 %, plus les votes des actions de Tencent qu'il exerce par procuration. Aucun autre actionnaire au-dessus de 5 %. Daniel Ek président exécutif, Alex Norström et Gustav Söderström codirecteurs généraux."
  },
  {
   "id": "spsti",
@@ -30984,40 +31151,50 @@
   "groupe_parent": "meridiam",
   "actionnaires": [
    {
-    "nom": "Meridiam",
+    "nom": "Meridiam (via Suez Holding, 40,2 %)",
     "id": "meridiam",
-    "part_pct": 40,
+    "part_pct": 38.39,
     "type": "fonds",
     "pays": "FR",
     "siren": "483579389",
     "lei": "969500XDNEIYIX371907",
-    "part_date": "2022"
+    "part_date": "2025-12-31"
    },
    {
-    "nom": "Global Infrastructure Partners",
+    "nom": "Global Infrastructure Partners (BlackRock, via Suez Holding, 40,2 %)",
     "id": "gip",
-    "part_pct": 40,
+    "part_pct": 38.39,
     "type": "fonds",
     "pays": "US",
-    "part_date": "2022"
+    "part_date": "2025-12-31"
    },
    {
-    "nom": "Caisse des Dépôts et CNP Assurances",
+    "nom": "Caisse des Dépôts et CNP Assurances (via Suez Holding, 19,7 %)",
     "id": "caisse-des-depots",
-    "part_pct": 20,
+    "part_pct": 18.81,
     "type": "public",
     "pays": "FR",
     "siren": "180020026",
     "lei": "969500Q2PFTTP0Y5QL44",
-    "part_date": "2022"
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "Salariés",
+    "part_pct": 4.2,
+    "type": "salaries",
+    "pays": "FR",
+    "part_date": "2026-06-30"
    }
   ],
   "description": "« Nouveau Suez » recentré sur la France depuis 2022 (eau, déchets).",
   "sources": [
+   "https://www.suez.com/-/media/suez-global/files/publication/annual-report/suez-sa-consolidated-financial-statements-year-ended-december-31-2025.pdf?h=12&w=12&v=1&d=20260409T151844Z&open=true",
+   "https://www.suez.com/-/media/suez-global/files/publication-docs/pdf-english/finance/20262907-suez-sa-financial-statements.pdf?v=1&d=20260729T055845Z&open=true",
    "https://www.economiematin.fr/?p=50143",
    "https://fr.wikipedia.org/wiki/Suez_(company,_2015)"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Suez SA est détenue à 95,5 % par Suez Holding SAS (Meridiam 40,2 %, GIP 40,2 %, Caisse des Dépôts et CNP Assurances 19,7 %) et à 4,2 % par ses salariés (comptes au 30/06/2026) ; les parts affichées sont calculées en transparence au 31/12/2025."
  },
  {
   "id": "suntory",
@@ -31155,7 +31332,7 @@
    "https://www.swile.co",
    "https://newsroom.groupebpce.fr/assets/20230105-cp-swile-groupe-bpce-pdf-0cb4-7b707.html?dl=1"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "note": "BPCE premier actionnaire avec 22 % (base pleinement diluée) depuis la finalisation du rachat de Bimpli par Swile le 5/1/2023, plus 150 M€ d'obligations convertibles ; répartition du reste du capital non publiée."
  },
  {
@@ -31210,7 +31387,7 @@
     "part_pct": 69.2,
     "type": "famille",
     "pays": "FR",
-    "part_date": "2025-12-31"
+    "part_date": "2025-12-08"
    },
    {
     "nom": "Actions autodétenues",
@@ -31226,13 +31403,13 @@
    }
   ],
   "description": "Groupe d'intérim français.",
-  "note": "Au 31/12/2025, HB Collector (Henri Barande) détient 69,16 % du capital et 81,50 % des droits de vote ; après donation-partage du 8/12/2025, le concert familial avec ses enfants Vaney détient 69,20 % du capital et 81,54 % des droits de vote (avis AMF 225C2144). Autocontrôle 6,25 %. Rapport annuel 2025.",
+  "note": "Concert familial Barande-Vaney : 69,20 % du capital et 81,54 % des droits de vote après la donation-partage du 8/12/2025 (avis AMF 225C2144).",
   "sources": [
    "https://www.synergie.com",
    "https://fr.wikipedia.org/wiki/Synergie_(entreprise)",
    "https://www.synergie.com/system/files/Synergie_Rapport_Annuel_2025_FR.pdf"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "syngenta-group",
@@ -31319,21 +31496,20 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Shigeru Uehara (via Taisho Pharmaceutical Holdings, ex-Otemon)",
+    "nom": "Famille Uehara (Shigeru, Osamu et Ken Uehara, via Otemon)",
     "type": "personne",
-    "pays": "JP",
-    "part_pct": 100,
-    "part_date": "2024-04"
+    "pays": "JP"
    }
   ],
   "description": "Laboratoire japonais, propriétaire d'UPSA depuis 2019.",
-  "note": "MBO de la famille Uehara : OPA d'Otemon lancée le 19/01/2024, retrait de la Bourse de Tokyo le 9/04/2024 ; holding détenue à 100 % par Shigeru Uehara, PDG depuis le 1/07/2024.",
+  "note": "Rachat par la famille Uehara via Otemon : offre lancée le 19/01/2024, retrait de la Bourse de Tokyo le 9/04/2024. Les actions ordinaires, qui portent les droits de vote, sont aux trois frères Shigeru, Osamu et Ken Uehara ; les fondations Uehara et d'autres membres de la famille ont des actions de préférence (avis d'offre du 24/11/2023).",
   "sources": [
+   "https://www.marr.jp/shared_files/contents/manews/48/48034/48034.pdf",
    "https://www.taisho-holdings.co.jp/en/",
    "https://ja.wikipedia.org/wiki/大正製薬ホールディングス",
    "https://en.wikipedia.org/wiki/Taisho_Pharmaceutical"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "taittinger",
@@ -31591,7 +31767,7 @@
     "type": "groupe",
     "pays": "IT",
     "lei": "8156002278562044AF79",
-    "part_date": "2018"
+    "part_date": "2023-06"
    },
    {
     "nom": "Enagás",
@@ -31609,28 +31785,29 @@
     "pays": "FR",
     "siren": "552081317",
     "lei": "549300X3UK4GG3FNMO06",
-    "part_date": "2018"
+    "part_date": "2023-06"
    },
    {
-    "nom": "Predica (Crédit Agricole Assurances)",
+    "nom": "Predica et Crédit Agricole Assurances Retraite",
     "id": "credit-agricole-assurances",
     "part_pct": 10,
     "type": "groupe",
     "pays": "FR",
     "siren": "451746077",
     "lei": "969500K2MUPSI57XK083",
-    "part_date": "2018"
+    "part_date": "2023-06"
    }
   ],
   "description": "Transport et stockage de gaz dans le Sud-Ouest.",
   "sources": [
+   "https://www.cre.fr/fileadmin/Documents/Deliberations/import/230619_2023-117_Certification_Terega.pdf",
    "https://fr.wikipedia.org/wiki/Teréga",
    "https://www.enagas.es/en/press-room/news-room/press-releases/results-3t-2026/",
    "https://www.enagas.es/en/press-room/news-room/press-releases/t1-2026-results/",
    "https://fr.wikipedia.org/wiki/Ter%C3%A9ga"
   ],
-  "verifie_le": "2026-10",
-  "note": "Enagás a racheté les 31,5 % de GIC pour 573 M€ (accord du 21/04/2026, finalisé le 30/07/2026)."
+  "verifie_le": "2026-11",
+  "note": "Parts de Teréga Holding. Enagás a racheté les 31,5 % de GIC pour 573 M€ (finalisé le 30/07/2026) ; Snam garde 40,5 % (délibération CRE 2023-117)."
  },
  {
   "id": "tereos",
@@ -31685,7 +31862,7 @@
     "type": "personne",
     "pays": "US",
     "part_pct": 19.9,
-    "part_date": "2026-06-17"
+    "part_date": "2026-06-16"
    },
    {
     "nom": "Flottant / public",
@@ -31700,7 +31877,7 @@
    "https://www.sec.gov/Archives/edgar/data/0001318605/000110465926075203/primary_doc.xml",
    "https://en.wikipedia.org/wiki/Tesla,_Inc."
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "tetra-laval",
@@ -31772,17 +31949,19 @@
    {
     "nom": "Bouygues",
     "id": "bouygues",
-    "part_pct": 46.1,
+    "part_pct": 46.8,
     "type": "groupe",
     "pays": "FR",
     "siren": "572015246",
     "lei": "969500MOCLNQFNZN0D63",
-    "part_date": "2025-05-30"
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Salariés (PEE)",
     "type": "salaries",
-    "pays": "FR"
+    "pays": "FR",
+    "part_pct": 10.5,
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Vesa Equity Investment (D. Kretinsky)",
@@ -31800,10 +31979,13 @@
   ],
   "description": "Premier groupe privé de télévision (TF1, TMC, TFX, LCI, TF1+); Wikipédia donne 43,9 % ou 46,1 % (mai 2025) pour Bouygues.",
   "sources": [
+   "https://groupe-tf1.fr/sites/default/files//TF1_DEU_2025_0.pdf",
+   "https://groupe-tf1.fr/fr/investisseurs/espace-actionnaires",
    "https://fr.wikipedia.org/wiki/Groupe_TF1",
    "https://groupe-tf1.fr/fr/investisseurs"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Au 31/12/2025 (document d'enregistrement universel 2025) : Bouygues 46,8 % du capital et des droits de vote, salariés 10,5 %. Vesa Equity Investment (Daniel Křetínský) déclare plus de 5 % des droits de vote, sans chiffre publié."
  },
  {
   "id": "thai-union",
@@ -31991,10 +32173,19 @@
   "actionnaires": [
    {
     "nom": "Salariés",
-    "part_pct": 8.13,
+    "part_pct": 8.91,
     "type": "salaries",
     "pays": "FR",
-    "part_date": "2024-06"
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "BlackRock",
+    "id": "blackrock",
+    "part_pct": 6.5,
+    "type": "fonds",
+    "pays": "US",
+    "part_date": "2025-03-31",
+    "lei": "529900VBK42Y5HHRMD23"
    },
    {
     "nom": "Investisseurs institutionnels (dont Amundi, BlackRock)",
@@ -32008,12 +32199,13 @@
    }
   ],
   "description": "Major pétrolière et gazière française, premier réseau de stations-service en France.",
-  "note": "Actionnariat dispersé : salariés 8,13 % du capital après l'augmentation de capital réservée de juin 2024 ; investisseurs américains ≈40 % du capital en février 2025, investisseurs français ≈15 % (Wikipédia).",
+  "note": "Actionnariat dispersé. Au 31/12/2025 (document d'enregistrement universel 2025) : salariés 8,91 % du capital et 9,17 % des droits de vote ; BlackRock 6,5 % d'après sa déclaration du 31/03/2025.",
   "sources": [
+   "https://www.sec.gov/Archives/edgar/data/879764/000110465926035876/tot-20251231xex15d1.htm",
    "https://totalenergies.com/fr/investisseurs/action-totalenergies/repartition-du-capital",
    "https://fr.wikipedia.org/wiki/TotalEnergies"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "totem",
@@ -32614,7 +32806,7 @@
     "type": "autre",
     "pays": "FR",
     "part_pct": 66,
-    "part_date": "2025-10-16"
+    "part_date": "2025-11-07"
    },
    {
     "nom": "Canal+",
@@ -32624,17 +32816,19 @@
     "pays": "FR",
     "siren": "835150434",
     "lei": "9695000537F9F73BXN18",
-    "part_date": "2025-10-16"
+    "part_date": "2025-11-07"
    }
   ],
   "description": "Exploitant de cinémas (UGC Illimité) et producteur.",
   "sources": [
+   "https://www.investegate.co.uk/announcement/rns/canal-sa--can/completion-of-acquisition-of-minority-stake-in-ugc/9219387",
+   "https://www.ticker.app/lse/CAN/rns/2025-11-07/Completion-of-Acquisition-of-Minority-Stake-in-UGC/6685G",
    "https://fr.wikipedia.org/wiki/UGC_(entreprise)",
    "https://www.boxofficepro.fr/canal-acte-son-entree-au-capital-dugc/",
    "https://www.lemondedudroit.fr/deals/101637-bredin-prat-conseille-la-societe-ugc-et-certains-de-ses-actionnaires-historiques-dans-le-cadre-de-la-prise-de-participation-minoritaire-de-groupe-canal-au-capital-dugc.html"
   ],
-  "verifie_le": "2026-10",
-  "note": "Canal+ détient 34 % depuis le 16/10/2025, avec une option de prise de contrôle totale à partir de 2028 auprès des actionnaires historiques ; présidée par Brigitte Maccioni."
+  "verifie_le": "2026-11",
+  "note": "Canal+ a finalisé l'achat de 34 % le 7/11/2025, avec une option de prise de contrôle à partir de 2028 auprès des actionnaires historiques ; présidée par Brigitte Maccioni."
  },
  {
   "id": "ugi",
@@ -32665,20 +32859,22 @@
    {
     "nom": "Bolloré SE",
     "id": "bollore",
-    "part_pct": 18.4,
+    "part_pct": 18.41,
     "type": "groupe",
     "pays": "FR",
     "siren": "055804124",
-    "lei": "969500LEKCHH6VV86P94"
+    "lei": "969500LEKCHH6VV86P94",
+    "part_date": "2026-09-21"
    },
    {
     "nom": "Vivendi",
     "id": "vivendi",
-    "part_pct": 9.9,
+    "part_pct": 9.89,
     "type": "groupe",
     "pays": "FR",
     "siren": "343134763",
-    "lei": "969500FU4DRAEVJW7U54"
+    "lei": "969500FU4DRAEVJW7U54",
+    "part_date": "2026-09-22"
    },
    {
     "nom": "Tencent (Tencent Mobility, Tencent Music Entertainment)",
@@ -32687,12 +32883,7 @@
     "type": "groupe",
     "pays": "CN",
     "lei": "254900N4SLUMW4XUYY11",
-    "part_date": "2025-03-26"
-   },
-   {
-    "nom": "Pershing Square",
-    "type": "fonds",
-    "pays": "US"
+    "part_date": "2026-09-21"
    },
    {
     "nom": "Flottant / public",
@@ -32706,8 +32897,8 @@
    "https://en.wikipedia.org/wiki/Universal_Music_Group",
    "https://afm.nl/en/sector/registers/meldingenregisters/substantiele-deelnemingen/details?id=172348"
   ],
-  "verifie_le": "2026-10",
-  "note": "Tencent : 11,45 % du capital (déclaration AFM du 26/03/2025, via Tencent Mobility et Tencent Music Entertainment ; 40,24 % des droits de vote en comptant le pacte avec Bolloré/Vivendi). Offre de Pershing Square (≈60 Md$, avril 2026) rejetée par le conseil d'UMG le 29/05/2026."
+  "verifie_le": "2026-11",
+  "note": "Déclarations à l'AFM de septembre 2026 : Bolloré 18,41 %, Tencent 11,45 %, Vivendi 9,89 % (plus 2,54 % via des instruments), capital et droits de vote désormais égaux. Pershing Square, dont l'offre a été rejetée le 29/05/2026, a déclaré 0,01 % le 3/06/2026."
  },
  {
   "id": "unedic",
@@ -32780,11 +32971,25 @@
   "lei": "969500VO74QGAKE3EF53",
   "actionnaires": [
    {
-    "nom": "Pascal Chevalier, Gautier Normand et entités liées (dirigeants)",
+    "nom": "Dirigeants (Pascal Chevalier, Gautier Normand et managers)",
     "type": "personne",
     "pays": "FR",
-    "part_pct": 34.5,
-    "part_date": "2026-09-01"
+    "part_pct": 26.2,
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "DLB Investments (Jean-David Camus)",
+    "part_pct": 9.0,
+    "type": "personne",
+    "pays": "FR",
+    "part_date": "2025-12-31"
+   },
+   {
+    "nom": "Eurazeo (ex-Idinvest)",
+    "part_pct": 5.4,
+    "type": "fonds",
+    "pays": "FR",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant / public",
@@ -32794,6 +32999,7 @@
   ],
   "description": "Éditeur de presse magazine et de sites (Closer, Télé Star, Grazia, Marie France, Science & Vie, Auto Plus, Marmiton, Doctissimo, aufeminin) ; Reworld Media a pris le nom d'Unify Group en juin 2026.",
   "sources": [
+   "https://www.reworldmedia.com/investisseurs/laction/",
    "https://www.ozap.com/actu/tf1-va-ceder-aufemin-doctissimo-et-marmiton-a-reworld-media/618472",
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2025/07/FCACT075413_20250718.pdf",
    "https://fr.wikipedia.org/wiki/Reworld_Media",
@@ -32801,8 +33007,8 @@
    "https://www.abcbourse.com/forums/msg1031374_reworld-media-son-pdg-a-vendu",
    "https://www.abcbourse.com/marches/reworld-media-devient-unify-group-et-adopte-le-code-aluni-en-bourse_698761"
   ],
-  "verifie_le": "2026-10",
-  "note": "Coté sur Euronext Growth Paris (mnémonique ALUNI depuis le 26/06/2026). Dirigeants et entités liées ≈ 34,5 % du capital au 01/09/2026 ; Eurazeo et Rothschild AM étaient actionnaires à 10,4 % et 9,8 % au 31/12/2022, parts actuelles non publiées."
+  "verifie_le": "2026-11",
+  "note": "Coté sur Euronext Growth Paris (ALUNI depuis le 26/06/2026). Au 31/12/2025 : dirigeants 26,2 % du capital, DLB Investments 9,0 %, Eurazeo 5,4 %, autocontrôle 6,7 %. Offre de rachat d'actions (1,51 % du capital) soumise à l'AMF en octobre 2026."
  },
  {
   "id": "unilabs",
@@ -33379,7 +33585,7 @@
    "https://fr.wikipedia.org/wiki/Vinci_(entreprise)",
    "https://www.vinci.com/fr/investisseurs/action-vinci/actionnariat"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "note": "Salariés premiers actionnaires : 10,9 % du capital au 31/12/2024 (≈11,8 % fin 2025) ; autodétention 3,3 % ; institutionnels étrangers ≈71 %."
  },
  {
@@ -33597,11 +33803,12 @@
    {
     "nom": "Famille Bolloré (Bolloré SE, Cie de l'Odet)",
     "id": "bollore",
-    "part_pct": 29.9,
+    "part_pct": 29.2,
     "type": "groupe",
     "pays": "FR",
     "siren": "055804124",
-    "lei": "969500LEKCHH6VV86P94"
+    "lei": "969500LEKCHH6VV86P94",
+    "part_date": "2026-07-06"
    },
    {
     "nom": "Flottant / public",
@@ -33611,11 +33818,13 @@
   ],
   "description": "Holding résiduelle après la scission de déc. 2024 (Gameloft, participations Banijay, MFE, UMG, Prisa, 13,58 % de Prisma Group, V Collection).",
   "sources": [
+   "https://www.bollore.com/wp-content/uploads/2026/09/rfs_bollore_2026_fr_mel-1.pdf",
    "https://fr.wikipedia.org/wiki/Vivendi",
    "https://fr.wikipedia.org/wiki/Louis_Hachette_Group",
    "https://www.louishachettegroup.com/en/press-releases-lhg/louis-hachette-group-announces-the-sale-of-prisma-medias-luxury-division-and-vivendis-acquisition-of-a-stake-in-prisma-group/"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Le groupe Bolloré détient 29,2 % du capital après l'annulation de 17,7 millions d'actions Vivendi le 6/07/2026 (rapport semestriel 2026 de Bolloré). Le 8/07/2026, la cour d'appel de Paris a jugé que Vivendi n'est pas contrôlée par Bolloré ; pourvoi en cassation formé le 27/07/2026."
  },
  {
   "id": "vivescia",
@@ -33848,7 +34057,8 @@
     "nom": "Compagnie Vranken (Paul-François Vranken)",
     "part_pct": 70.93,
     "type": "famille",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
    },
    {
     "nom": "Flottant",
@@ -33860,17 +34070,19 @@
     "nom": "Actions autodétenues",
     "part_pct": 0.56,
     "type": "autre",
-    "pays": "FR"
+    "pays": "FR",
+    "part_date": "2025-12-31"
    }
   ],
   "description": "Groupe champenois coté (Pommery, Vranken, Charles Lafitte).",
   "sources": [
+   "https://www.maisonpommery.com/wp-content/uploads/2026/09/DEU-MPA-2025.pdf",
    "https://www.boerse.de/unternehmensprofil/VRANKEN-POMMONINH-Aktie/FR0000062796",
    "https://live.euronext.com/en/products/equities/company-news/2024-12-17-repeat-financial-press-release-governance-evolution",
    "https://fr.wikipedia.org/wiki/Vranken-Pommery_Monopole"
   ],
-  "verifie_le": "2026-10",
-  "note": "Groupe renommé Maison Pommery & Associés ; Heidsieck & Co Monopole cédé à Lanson-BCC en octobre 2025. Capital : Compagnie Vranken 70,93 %, flottant 28,51 %, autodétention 0,56 % (boerse.de, consulté le 22/10/2026)."
+  "verifie_le": "2026-11",
+  "note": "Compagnie Vranken détient 70,93 % du capital et 82,40 % des droits de vote au 31/12/2025. Raison sociale « Maison Pommery & Associés » depuis le 1/01/2026 ; protocole de conciliation homologué le 5/08/2026 (42,8 M€ d'argent frais, échéances reportées)."
  },
  {
   "id": "vtech",
@@ -34805,16 +35017,18 @@
     "pays": "FR",
     "siren": "315065292",
     "lei": "969500R4CLSQFTYYI535",
-    "part_date": "2023-09"
+    "part_date": "2023-09-29"
    }
   ],
   "description": "Opérateur de paris sportifs en ligne du groupe ZEturf, racheté par la FDJ (finalisé fin septembre 2023).",
   "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/BWR/2023/09/FCBWR152545_20230929.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/BWR/2022/11/FCBWR146049_20221117.pdf",
    "https://fr.wikipedia.org/wiki/ZEbet",
    "https://www.optionfinance.fr/info-financiere-en-continu/d/2023-09-29-paris-sportifs-la-francaise-des-jeux-finalise-lacquisition-de-zeturf-pour-175-millions-deuros.html",
    "https://www.businesswire.com/news/home/20221116006120/en/FDJ-Signs-an-Agreement-to-Acquire-the-ZEturf-Group-France%E2%80%99s-Second-Largest-Operator-in-the-Online-Horse-Race-Betting-Market"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "groupe_parent": "fdj-united",
   "note": "Rachat du groupe ZEturf (ZEturf, ZEbet) par la FDJ pour 175 M€, finalisé fin septembre 2023 après feu vert de l'Autorité de la concurrence du 15/09/2023."
  },
@@ -34849,17 +35063,20 @@
     "id": "global-blue",
     "type": "groupe",
     "part_pct": 100,
-    "pays": "CH"
+    "pays": "CH",
+    "part_date": "2026"
    }
   ],
   "description": "Plateforme britannique de gestion des retours e-commerce fondée en 2015 par Al Gerrie, propriétaire de Shipup (« Shipup by ZigZag ») ; filiale de Global Blue, elle-même détenue par Shift4.",
   "note": "Détenue par Global Blue (site ZigZag, 2026) ; Global Blue rachetée par l'américain Shift4 (opération finalisée le 3/7/2025).",
   "sources": [
+   "https://www.businesswire.com/news/home/20210308005430/en",
+   "https://www.zigzag.global/blogs/shift4-to-acquire-global-blue-a-new-strategic-milestone",
    "https://www.shipup.co/",
    "https://www.zigzag.global/",
    "https://en.wikipedia.org/wiki/Global_Blue"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "groupe_parent": "global-blue"
  },
  {
