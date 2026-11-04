@@ -9749,7 +9749,7 @@
     }
    },
    {
-    "nom": "SEM patrimoniale de la Région Guadeloupe",
+    "nom": "SEM patrimoniale de la Région Guadeloupe (SEMPAT)",
     "type": "public",
     "pays": "FR",
     "part_pct": 8.0,
@@ -9761,12 +9761,13 @@
    }
   ],
   "description": "Compagnie aérienne française (Antilles, Réunion, Afrique).",
-  "note": "Répartition annoncée le 11/09/2024, effective avec la validation de l'augmentation de capital, ramenée à 30 M€, le 12/06/2026 ; Abbas Jaber préside depuis le conseil d'administration (TourMaG, 18/06/2026). La SEM Patrimoniale Guadeloupe est contrôlée par la Région (Autorité de la concurrence, décision 21-DCC-138). Pourcentages de presse : aucune source de premier rang.",
+  "note": "Répartition annoncée le 11/09/2024, effective avec la validation de l'augmentation de capital, ramenée à 30 M€, le 12/06/2026 ; Abbas Jaber préside depuis le conseil d'administration (TourMaG, 18/06/2026). La décision de la Commission européenne du 23/12/2025 autorisant l'aide à la restructuration (JO UE C/2026/3952, publiée le 24/07/2026) confirme ces trois actionnaires, Blue Sky Holding, Advens-Geocoton et la SEMPAT, sans publier de pourcentage. D'après cette décision, les apports en capital prévus par le protocole du 7/11/2025 sont de [5-30] M€ pour Blue Sky Holding, [0-5] M€ pour Advens-Geocoton et 3 M€ pour la SEMPAT ; ce sont des fourchettes, mais celle d'Advens-Geocoton paraît difficile à concilier avec les 15 M€ rapportés par la presse. La République du Congo, envisagée comme investisseur en 2024, s'est retirée. La SEMPAT est contrôlée par la Région (Autorité de la concurrence, décision 21-DCC-138). Pourcentages de presse : aucune source de premier rang.",
   "sources": [
    "https://fr.wikipedia.org/wiki/Corsair_International",
    "https://outremers360.com/bassin-atlantique-appli/aerien-lentrepreneur-abbas-jaber-futur-actionnaire-de-reference-de-corsair",
    "https://www.tourmag.com/Corsair-voici-les-nouveaux-hommes-forts-de-la-compagnie-_a132270.html",
-   "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2021-09/21-090_version_publique_decision_21dcc138.pdf"
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2021-09/21-090_version_publique_decision_21dcc138.pdf",
+   "https://data.europa.eu/eli/C/2026/3952/oj"
   ],
   "verifie_le": "2026-11"
  },
