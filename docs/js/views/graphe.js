@@ -19,6 +19,7 @@ export function render(el, brands, ctx) {
       <span><i class="pastille" style="background:var(--muted)"></i>Marque</span>
       <span><i class="pastille" style="background:var(--s1)"></i>Entreprise / filiale</span>
       <span><i class="pastille" style="background:var(--s2)"></i>Contrôleur ultime ou actionnaire</span>
+      <span><svg width="22" height="8" aria-hidden="true"><line x1="0" y1="4" x2="22" y2="4" style="stroke:var(--ink-2)" stroke-width="1.2" stroke-dasharray="4 3"/></svg> Influence hors capital (sourcée, voir la fiche)</span>
       <label style="margin-left:auto"><input type="checkbox" name="m" ${avecMarques ? "checked" : ""}> Afficher les marques</label>
     </div>
     <div class="zone"></div>`;
@@ -53,6 +54,16 @@ export function render(el, brands, ctx) {
       links.push({ source: "g:" + id, target: node.id, pct: a.part_pct });
     }
   }
+  // Influences hors capital : trait pointillé vers celui qui l'exerce, avec sa nature.
+  for (const n of [...nodes.values()]) {
+    if (!n.id.startsWith("g:")) continue;
+    for (const i of model.g.get(n.id.slice(2))?.influences || []) {
+      if (!model.g.has(i.id)) continue;
+      const cible = gNode(model.g.get(i.id));
+      cible.kind = "top";
+      links.push({ source: n.id, target: cible.id, influence: i });
+    }
+  }
   const uniq = new Map(links.map((l) => [l.source + ">" + l.target, l]));
   const L = [...uniq.values()];
   const N = [...nodes.values()];
@@ -73,7 +84,10 @@ export function render(el, brands, ctx) {
   }));
 
   const link = root.append("g").selectAll("line").data(L).join("line")
-    .style("stroke", "var(--axis)").attr("stroke-width", (d) => (d.pct ? 0.6 + d.pct / 40 : 0.8));
+    .style("stroke", (d) => (d.influence ? "var(--ink-2)" : "var(--axis)"))
+    .attr("stroke-width", (d) => (d.influence ? 1.2 : d.pct ? 0.6 + d.pct / 40 : 0.8))
+    .attr("stroke-dasharray", (d) => (d.influence ? "4 3" : null));
+  link.filter((d) => d.influence).append("title").text((d) => `Influence hors capital (${d.influence.nom}) : ${d.influence.nature}`);
   const node = root.append("g").selectAll("circle").data(N).join("circle")
     .attr("r", r)
     .style("fill", (d) => (d.kind === "marque" ? "var(--muted)" : d.kind === "top" ? "var(--s2)" : "var(--s1)"))
@@ -96,12 +110,18 @@ export function render(el, brands, ctx) {
     label.style("opacity", (n) => (!v || v.has(n.id) ? 1 : 0.12)).style("display", (n) => (v && v.has(n.id)) || showLabel(n, 1) ? null : "none");
     link.style("opacity", (l) => (!v || (v.has(l.source.id) && v.has(l.target.id) && (l.source.id === d.id || l.target.id === d.id)) ? 1 : 0.06));
   };
+  // Bulle : nombre de marques, plus les influences hors capital qui partent de ce nœud ou y arrivent.
+  const bulle = (d) => {
+    const inf = L.filter((l) => l.influence && (l.source.id === d.id || l.target.id === d.id))
+      .map((l) => `<br>Influence hors capital de ${esc(l.influence.nom)} sur ${esc(l.source.label)} : ${esc(l.influence.nature)}`).join("");
+    return `<b>${esc(d.label)}</b>${d.kind === "marque" ? "Marque" : `${d.n} marque${d.n > 1 ? "s" : ""}`}${inf}`;
+  };
   node
     .on("mouseenter", (e, d) => {
       focus(d);
-      ctx.tip.show(e, `<b>${esc(d.label)}</b>${d.kind === "marque" ? "Marque" : `${d.n} marque${d.n > 1 ? "s" : ""}`}`);
+      ctx.tip.show(e, bulle(d));
     })
-    .on("mousemove", (e, d) => ctx.tip.show(e, `<b>${esc(d.label)}</b>${d.kind === "marque" ? "Marque" : `${d.n} marque${d.n > 1 ? "s" : ""}`}`))
+    .on("mousemove", (e, d) => ctx.tip.show(e, bulle(d)))
     .on("mouseleave", () => {
       focus(null);
       ctx.tip.hide();

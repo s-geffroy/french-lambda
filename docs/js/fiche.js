@@ -34,8 +34,19 @@ const identsActionnaire = (a) =>
 
 const STATUT = (ctx, id) => ctx.model.ref.statuts.find((s) => s.id === id)?.label || id || "—";
 
+// Influence hors capital (gouvernance contestée…) : jamais un pourcentage, toujours une source.
+function influences(ctx, g) {
+  if (!g.influences?.length) return "";
+  return g.influences
+    .map((i) => {
+      const nom = ctx.model.g.has(i.id) ? `<button class="lien" data-sel="g:${esc(i.id)}">${esc(i.nom)}</button>` : esc(i.nom);
+      return `<div class="influence"><b>Influence hors capital</b> : ${nom}. ${esc(i.nature)}${sourcePart(i.source)}</div>`;
+    })
+    .join("");
+}
+
 function actionnaires(ctx, g) {
-  if (!g.actionnaires?.length) return "";
+  if (!g.actionnaires?.length) return influences(ctx, g);
   return (
     '<div class="act">' +
     g.actionnaires
@@ -50,7 +61,8 @@ function actionnaires(ctx, g) {
           (a.id && ctx.model.g.has(a.id) ? "" : identsActionnaire(a));
       })
       .join(" · ") +
-    "</div>"
+    "</div>" +
+    influences(ctx, g)
   );
 }
 
@@ -126,7 +138,7 @@ export function renderFiche(el, ctx) {
         ${g.lei ? `<dt>LEI</dt><dd>${lienLei(g.lei)}</dd>` : ""}
         <dt>Marques</dt><dd>${under.length}</dd>
       </dl>
-      ${g.actionnaires?.length ? `<h4>Actionnaires</h4>${actionnaires(ctx, g)}` : ""}
+      ${g.actionnaires?.length || g.influences?.length ? `<h4>Actionnaires</h4>${actionnaires(ctx, g)}` : ""}
       ${parents.length ? `<h4>Contrôlé par</h4>${chaine(ctx, parents)}` : ""}
       ${filles.length ? `<h4>Filiales</h4><p>${filles.map((f) => `<button class="lien" data-sel="g:${esc(f.id)}">${esc(f.nom)}</button>`).join(" · ")}</p>` : ""}
       ${detient.length ? `<h4>Participations</h4><p>${detient.map((f) => `<button class="lien" data-sel="g:${esc(f.id)}">${esc(f.nom)}</button>`).join(" · ")}</p>` : ""}

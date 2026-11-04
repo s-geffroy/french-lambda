@@ -18241,10 +18241,22 @@
   "sources": [
    "https://www.cbnews.fr/node/79038",
    "https://www.cbnews.fr/node/57358",
-   "https://fr.themedialeader.com/groupe-le-monde-xavier-niel-finalise-la-cession-de-ses-parts-a-un-fonds-independant/"
+   "https://fr.themedialeader.com/groupe-le-monde-xavier-niel-finalise-la-cession-de-ses-parts-a-un-fonds-independant/",
+   "https://www.cbnews.fr/node/63882"
   ],
   "verifie_le": "2026-11",
-  "note": "Le 17/04/2024, le Fonds pour l'indépendance de la presse a acquis pour 1 € l'essentiel du capital de NJJ Presse, holding de Xavier Niel qui détient Le Monde Libre ; Xavier Niel n'en garde qu'une action. Le capital transmis devient incessible sauf décision unanime du conseil du Fonds. Répartition annoncée : environ trois quarts au Fonds, environ un quart au Pôle d'indépendance (presse : The Media Leader, 24/04/2024 ; aucune source de premier rang ne publie de pourcentage)."
+  "note": "Le 17/04/2024, le Fonds pour l'indépendance de la presse a acquis pour 1 € l'essentiel du capital de NJJ Presse, holding de Xavier Niel qui détient Le Monde Libre ; Xavier Niel n'en garde qu'une action. Le capital transmis devient incessible sauf décision unanime du conseil du Fonds. Répartition annoncée : environ trois quarts au Fonds, environ un quart au Pôle d'indépendance (presse : The Media Leader, 24/04/2024 ; aucune source de premier rang ne publie de pourcentage). L'économiste Julia Cagé, présidente de la société des lecteurs du Monde, estime que les statuts du Fonds laissent à Xavier Niel le contrôle de sa gouvernance (AFP, 2021).",
+  "influences": [
+   {
+    "id": "famille-niel",
+    "nom": "Xavier Niel",
+    "nature": "Selon l'économiste Julia Cagé, présidente de la société des lecteurs du Monde, les statuts du Fonds pour l'indépendance de la presse laissent à Xavier Niel le contrôle de sa gouvernance : fondateur unique, il désigne seul le président du Fonds et peut le remplacer à tout moment (AFP, septembre 2021).",
+    "source": {
+     "url": "https://www.cbnews.fr/node/63882",
+     "type": "presse"
+    }
+   }
+  ]
  },
  {
   "id": "groupe-marie-claire",

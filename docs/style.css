@@ -156,3 +156,4 @@ tr:hover td { background: var(--surface-2); }
 .bascule button[aria-pressed="true"] { background: var(--surface-2); color: var(--ink); font-weight: 600; }
 .recherche-liste { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
 .recherche-liste input { flex: 1 1 260px; background: var(--surface); border: 1px solid var(--ring); border-radius: 8px; padding: 6px 10px; }
+.influence { font-size: 0.85rem; color: var(--ink-2); margin-top: 0.3rem; padding-left: 0.6rem; border-left: 2px dashed var(--ink-2); }

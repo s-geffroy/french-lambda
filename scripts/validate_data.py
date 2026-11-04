@@ -130,6 +130,16 @@ def main():
                     err(f"groupe {gid} : part invalide {pct!r} pour {a.get('nom')}")
                 else:
                     total += pct
+        # influence hors capital (contrôle de gouvernance contesté, etc.) : toujours sourcée.
+        for inf in g.get("influences", []):
+            if not isinstance(inf, dict) or not inf.get("id") or not inf.get("nom") or not inf.get("nature"):
+                err(f"groupe {gid} : influence attendue {{id, nom, nature, source}}")
+                continue
+            s = inf.get("source")
+            if not isinstance(s, dict) or set(s) != {"url", "type"} or s["type"] not in TYPES_SOURCE:
+                err(f"groupe {gid} : influence {inf['nom']} sans source {{url, type}} valide")
+            elif s["url"] not in g.get("sources", []):
+                err(f"groupe {gid} : influence {inf['nom']} source {s['url']} absente des sources du groupe")
         if total > 100.5:
             err(f"groupe {gid} : parts cumulées {total:.1f} % > 100 %")
 
@@ -137,6 +147,9 @@ def main():
         gid = g["id"]
         if g.get("groupe_parent") and g["groupe_parent"] not in gids:
             err(f"groupe {gid} : groupe_parent inconnu {g['groupe_parent']}")
+        for inf in g.get("influences", []):
+            if isinstance(inf, dict) and inf.get("id") and inf["id"] not in gids:
+                err(f"groupe {gid} : influence vers un groupe inconnu {inf['id']}")
         for a in g.get("actionnaires", []):
             if a.get("id") and a["id"] not in gids:
                 err(f"groupe {gid} : actionnaire id inconnu {a['id']}")
