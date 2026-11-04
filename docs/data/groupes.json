@@ -18219,17 +18219,15 @@
   "pays_siege": "FR",
   "statut": "prive",
   "siren": "433891850",
-  "groupe_parent": "famille-niel",
   "actionnaires": [
    {
-    "nom": "Le Monde Libre (Xavier Niel, titres promis au Fonds pour l'indépendance de la presse)",
-    "id": "famille-niel",
+    "nom": "Fonds pour l'indépendance de la presse (fonds de dotation créé par Xavier Niel ; via NJJ Presse et Le Monde Libre)",
     "part_pct": 75,
-    "type": "groupe",
+    "type": "autre",
     "pays": "FR",
-    "part_date": "2020-12-16",
+    "part_date": "2024-04-24",
     "source": {
-     "url": "https://www.cbnews.fr/node/57358",
+     "url": "https://fr.themedialeader.com/groupe-le-monde-xavier-niel-finalise-la-cession-de-ses-parts-a-un-fonds-independant/",
      "type": "presse"
     }
    },
@@ -18239,12 +18237,14 @@
     "pays": "FR"
    }
   ],
-  "description": "Le Monde, Télérama, Courrier international, L'Obs, La Vie ; Kretinsky s'est désengagé, Niel seul actionnaire de contrôle de LML.",
+  "description": "Le Monde, Télérama, Courrier international, L'Obs, La Vie ; contrôlé depuis avril 2024 par le Fonds pour l'indépendance de la presse, fonds de dotation créé par Xavier Niel.",
   "sources": [
    "https://www.cbnews.fr/node/79038",
-   "https://www.cbnews.fr/node/57358"
+   "https://www.cbnews.fr/node/57358",
+   "https://fr.themedialeader.com/groupe-le-monde-xavier-niel-finalise-la-cession-de-ses-parts-a-un-fonds-independant/"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Le 17/04/2024, le Fonds pour l'indépendance de la presse a acquis pour 1 € l'essentiel du capital de NJJ Presse, holding de Xavier Niel qui détient Le Monde Libre ; Xavier Niel n'en garde qu'une action. Le capital transmis devient incessible sauf décision unanime du conseil du Fonds. Répartition annoncée : environ trois quarts au Fonds, environ un quart au Pôle d'indépendance (presse : The Media Leader, 24/04/2024 ; aucune source de premier rang ne publie de pourcentage)."
  },
  {
   "id": "groupe-marie-claire",
