@@ -4034,10 +4034,10 @@
     "pays": "FR",
     "siren": "572015246",
     "lei": "969500MOCLNQFNZN0D63",
-    "part_date": "2019-02",
+    "part_date": "2018-12-21",
     "source": {
-     "url": "https://next.ink/brief-article/fibre-4g-et-5g-natixis-entre-au-capital-daxione-bouygues-a-hauteur-de-49/",
-     "type": "presse"
+     "url": "https://assets.ccpc.ie/data/docs/default-source/merger-attachments/m-2018/mirova-(bpce)-axione-(bouygues)/m-18-091-determination.pdf?sfvrsn=df6db2b0_1",
+     "type": "autorite"
     }
    },
    {
@@ -4045,18 +4045,20 @@
     "part_pct": 49.0,
     "type": "fonds",
     "pays": "FR",
-    "part_date": "2019-02",
+    "part_date": "2018-12-21",
     "source": {
-     "url": "https://next.ink/brief-article/fibre-4g-et-5g-natixis-entre-au-capital-daxione-bouygues-a-hauteur-de-49/",
-     "type": "presse"
+     "url": "https://assets.ccpc.ie/data/docs/default-source/merger-attachments/m-2018/mirova-(bpce)-axione-(bouygues)/m-18-091-determination.pdf?sfvrsn=df6db2b0_1",
+     "type": "autorite"
     }
    }
   ],
   "description": "Opérateur d'infrastructures et de réseaux fibre d'initiative publique.",
   "sources": [
-   "https://next.ink/brief-article/fibre-4g-et-5g-natixis-entre-au-capital-daxione-bouygues-a-hauteur-de-49/"
+   "https://next.ink/brief-article/fibre-4g-et-5g-natixis-entre-au-capital-daxione-bouygues-a-hauteur-de-49/",
+   "https://assets.ccpc.ie/data/docs/default-source/merger-attachments/m-2018/mirova-(bpce)-axione-(bouygues)/m-18-091-determination.pdf?sfvrsn=df6db2b0_1"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Répartition 51 % Bouygues / 49 % fonds gérés par Mirova, en contrôle conjoint, d'après la décision M/18/091 de l'autorité irlandaise de la concurrence (21/12/2018)."
  },
  {
   "id": "ayvens",
@@ -8754,13 +8756,14 @@
    }
   ],
   "description": "Armateur et logisticien (CEVA, Colis Privé), actionnaire d'Air France-KLM et de médias.",
-  "note": "Société non cotée, contrôlée par la famille Saadé (Merit France) ; elle ne publie pas la répartition de son capital. Yildirim Holding détient environ 24 % selon la presse maritime (Lloyd's List). Bpifrance aurait cédé le solde de sa participation à l'été 2026 (CFNEWS, 13/10/2026). Aucune source de premier rang.",
+  "note": "Société non cotée, contrôlée par la famille Saadé (Merit France) ; elle ne publie pas la répartition de son capital. Yildirim Holding détient environ 24 % selon la presse maritime (Lloyd's List). Bpifrance aurait cédé le solde de sa participation à l'été 2026 (CFNEWS, 13/10/2026). La Commission européenne (décision M.11511, 2024) écrit que CMA CGM est détenue par Merit France et « in fine, contrôlée exclusivement par la famille Saadé », sans donner de pourcentage.",
   "sources": [
    "https://fr.wikipedia.org/wiki/CMA_CGM",
    "https://www.journaldunet.com/business/1531475-rachat-officiel-d-altice-media-bfm-et-rmc-par-cma-cgm/",
    "https://www.cma-cgm.com/group/presentation",
    "https://en.wikipedia.org/wiki/CMA_CGM",
-   "https://www.lloydslist.com/LL1140011/Yildirim-considers-future-of-CMA-CGM-stake-after-12-years"
+   "https://www.lloydslist.com/LL1140011/Yildirim-considers-future-of-CMA-CGM-stake-after-12-years",
+   "https://ec.europa.eu/competition/mergers/cases1/202429/M_11511_10162696_113_3.pdf"
   ],
   "verifie_le": "2026-11"
  },
@@ -21443,13 +21446,14 @@
    }
   ],
   "description": "Enseigne de magasins de jouets.",
-  "note": "En décembre 2023, PRG Retail Group a cédé 46 % de ses parts à la famille Gueydon et reste actionnaire minoritaire privilégié (communiqué PRG du 17/01/2024). Le chiffre de 70 % pour la famille vient de la presse (L'Express Franchise, 11/12/2024).",
+  "note": "En décembre 2023, PRG Retail Group a cédé 46 % de ses parts à la famille Gueydon et reste actionnaire minoritaire privilégié (communiqué PRG du 17/01/2024). Le chiffre de 70 % pour la famille vient de la presse (L'Express Franchise, 11/12/2024). Avant cette cession, l'Autorité de la concurrence (décision 21-DCC-210) donnait 49 % à Fijace (famille Gueydon) et 51 % à PRG dans Distritoys, tête du groupe, en contrôle conjoint.",
   "sources": [
    "https://prenatalretailgroup.com/en/brand/king-jouet/",
    "https://www.king-jouet.com/",
    "https://fr.wikipedia.org/wiki/King_Jouet",
    "https://prenatalretailgroup.com/prg_nuova-joint-venture_gennaio-2024",
-   "https://lexpress-franchise.com/actualites/king-jouet-la-saga-familiale-se-poursuit/"
+   "https://lexpress-franchise.com/actualites/king-jouet-la-saga-familiale-se-poursuit/",
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2021-12/21-227_decision_21-dcc-210-publique_.pdf"
   ],
   "verifie_le": "2026-11"
  },
@@ -23780,10 +23784,10 @@
     "pays": "ES",
     "lei": "95980020140005374753",
     "part_pct": 75,
-    "part_date": "2022-02",
+    "part_date": "2021-10-08",
     "source": {
-     "url": "https://fashionunited.es/noticias/empresas/el-corte-ingles-se-hace-con-el-100-por-cien-de-su-filial-de-viajes/2026100150826",
-     "type": "presse"
+     "url": "https://www.cnmc.es/sites/default/files/3862511_1.pdf",
+     "type": "autorite"
     }
    },
    {
@@ -23791,10 +23795,10 @@
     "type": "personne",
     "pays": "ES",
     "part_pct": 25,
-    "part_date": "2022-02",
+    "part_date": "2021-10-08",
     "source": {
-     "url": "https://fashionunited.es/noticias/empresas/el-corte-ingles-se-hace-con-el-100-por-cien-de-su-filial-de-viajes/2026100150826",
-     "type": "presse"
+     "url": "https://www.cnmc.es/sites/default/files/3862511_1.pdf",
+     "type": "autorite"
     }
    }
   ],
@@ -23803,10 +23807,11 @@
    "https://www.logitravel.fr/",
    "https://www.hosteltur.com/145195_viajes-el-corte-ingles-y-logitravel-sellan-su-fusion.html",
    "https://dealroom.co/news/158223-el-corte-ingl-s-to-buy-back-25-of-travel-arm-taking-full-control/",
-   "https://fashionunited.es/noticias/empresas/el-corte-ingles-se-hace-con-el-100-por-cien-de-su-filial-de-viajes/2026100150826"
+   "https://fashionunited.es/noticias/empresas/el-corte-ingles-se-hace-con-el-100-por-cien-de-su-filial-de-viajes/2026100150826",
+   "https://www.cnmc.es/sites/default/files/3862511_1.pdf"
   ],
   "verifie_le": "2026-11",
-  "note": "Logitravel intégré en février 2022 au Grupo Viajes El Corte Inglés, détenu à 75 % par El Corte Inglés et à 25 % par Tool Factory. Rachat de ces 25 % par El Corte Inglés annoncé le 1/10/2026 (pacte de 2022), en attente du feu vert des autorités de concurrence espagnole et portugaise."
+  "note": "Logitravel intégré en février 2022 au Grupo Viajes El Corte Inglés, détenu à 75 % par El Corte Inglés et à 25 % par Tool Factory. Rachat de ces 25 % par El Corte Inglés annoncé le 1/10/2026 (pacte de 2022), en attente du feu vert des autorités de concurrence espagnole et portugaise. Répartition 75 % / 25 % en contrôle conjoint selon le rapport de la CNMC (affaire C/1240/21, autorisée le 26/10/2021)."
  },
  {
   "id": "longchamp",
@@ -27884,14 +27889,14 @@
    {
     "nom": "Microsoft",
     "id": "microsoft",
-    "part_pct": 27.0,
+    "part_pct": 24,
     "type": "groupe",
     "pays": "US",
     "lei": "INR2EJN1ERAN0W5ZP974",
-    "part_date": "2025-10-28",
+    "part_date": "2026-09-30",
     "source": {
-     "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
-     "type": "document_societe"
+     "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/R10.htm",
+     "type": "autorite"
     }
    },
    {
@@ -27906,24 +27911,21 @@
     }
    },
    {
-    "nom": "Autres investisseurs et salariés",
-    "part_pct": 47.0,
+    "nom": "Autres investisseurs et salariés (part non publiée)",
     "type": "autre",
-    "pays": "XX",
-    "part_date": "2025-10-28",
-    "source": {
-     "url": "https://techcrunch.com/2025/10/28/openai-completes-its-for-profit-recapitalization",
-     "type": "presse"
-    }
+    "pays": "XX"
    }
   ],
   "description": "Éditeur de ChatGPT, société d'intérêt public contrôlée par l'OpenAI Foundation depuis la recapitalisation d'octobre 2025.",
   "sources": [
    "https://techcrunch.com/2025/10/28/openai-completes-its-for-profit-recapitalization",
    "https://the-decoder.com/openai-restructures-under-new-foundation-microsoft-takes-27-percent-stake/",
-   "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/"
+   "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+   "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/R10.htm",
+   "https://news.delaware.gov/2025/10/28/ag-jennings-completes-review-of-openai-recapitalization/"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Microsoft déclare une participation d'environ 24 % sur une base après conversion (10-Q du trimestre clos le 30/09/2026), contre environ 27 % lors de la recapitalisation du 28/10/2025. Les 26 % de l'OpenAI Foundation datent de cette recapitalisation (presse : TechCrunch) et ont pu être dilués depuis ; le procureur général du Delaware confirme que la Fondation contrôle la société (elle nomme et révoque ses administrateurs), sans pourcentage."
  },
  {
   "id": "openclassrooms-sas",
@@ -30828,26 +30830,26 @@
   "groupe_parent": "famille-yoovidhya",
   "actionnaires": [
    {
-    "nom": "Famille Yoovidhya",
+    "nom": "Famille Yoovidhya (via TC Agro Trading Company)",
     "id": "famille-yoovidhya",
     "part_pct": 49.0,
     "type": "famille",
     "pays": "TH",
-    "part_date": "2025-05-20",
+    "part_date": "2025-05-31",
     "source": {
-     "url": "https://www.trend.at/unternehmen/eigentuemerwechsel-red-bull",
-     "type": "presse"
+     "url": "https://www.evi.gv.at/f/56247t",
+     "type": "registre"
     }
    },
    {
-    "nom": "Mark Mateschitz",
+    "nom": "Mark Mateschitz (via Distribution & Marketing GmbH)",
     "part_pct": 49.0,
     "type": "personne",
     "pays": "AT",
-    "part_date": "2025-06-03",
+    "part_date": "2025-05-31",
     "source": {
-     "url": "https://www.trend.at/unternehmen/eigentuemerwechsel-red-bull",
-     "type": "presse"
+     "url": "https://www.evi.gv.at/f/56247t",
+     "type": "registre"
     }
    },
    {
@@ -30855,10 +30857,10 @@
     "part_pct": 2.0,
     "type": "autre",
     "pays": "CH",
-    "part_date": "2025-05-20",
+    "part_date": "2025-05-31",
     "source": {
-     "url": "https://www.trend.at/unternehmen/eigentuemerwechsel-red-bull",
-     "type": "presse"
+     "url": "https://www.evi.gv.at/f/56247t",
+     "type": "registre"
     }
    }
   ],
@@ -30869,7 +30871,7 @@
    "https://www.trend.at/unternehmen/eigentuemerwechsel-red-bull"
   ],
   "verifie_le": "2026-11",
-  "note": "Associés inscrits au registre autrichien : TC Agro Trading (famille Yoovidhya), Distribution & Marketing GmbH (Mark Mateschitz) et, depuis le 31/05/2025, Fides Trustees SA, sans publication des parts. Selon la presse (2025), Chalerm Yoovidhya a transféré ses 2 % à ce trust genevois, dont le bénéficiaire n'est pas publié ; la presse autrichienne écrit encore 51 % / 49 % (APA, octobre 2026)."
+  "note": "Registre du commerce autrichien (publication officielle EVI, Red Bull GmbH, FN 56247t) : capital de 500 000 ATS, dont 245 000 ATS (49 %) à TC Agro Trading Company (famille Yoovidhya), 245 000 ATS (49 %) à Distribution & Marketing GmbH (Mark Mateschitz) et, depuis le 31/05/2025, 10 000 ATS (2 %) à Fides Trustees SA. Le rattachement des deux sociétés à ces familles et le transfert des 2 % de Chalerm Yoovidhya à ce trust genevois, dont le bénéficiaire n'est pas publié, viennent de la presse (2025) ; la presse autrichienne écrit encore 51 % / 49 % (APA, octobre 2026)."
  },
  {
   "id": "reddit",
