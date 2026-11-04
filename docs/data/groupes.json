@@ -72,7 +72,7 @@
   "groupe_parent": "aema",
   "actionnaires": [
    {
-    "nom": "Aéma Groupe",
+    "nom": "Aéma Groupe (via Macif SAM 85 %, AÉSIO mutuelle 10 %, Apivia Macif Mutuelle 5 %)",
     "id": "aema",
     "part_pct": 100.0,
     "pays": "FR",
@@ -91,7 +91,8 @@
    "https://www.abeille-assurances.fr",
    "https://www.mnpaf.fr/sites/default/files/resource_pdf/SFCR%20unique%202021.pdf"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Aéma ne détient pas Abeille Assurances en direct : son capital est réparti entre Macif SAM (85 %), AÉSIO mutuelle (10 %) et Apivia Macif Mutuelle (5 %), membres du groupe Aéma (rapport SFCR 2021). Aviva France a pris le nom Abeille Assurances le 13/10/2021."
  },
  {
   "id": "abertis",
@@ -2623,7 +2624,7 @@
  },
  {
   "id": "aprr",
-  "nom": "APRR (via Eiffarie)",
+  "nom": "APRR (via Financière Eiffarie)",
   "pays_siege": "FR",
   "statut": "prive",
   "siren": "016250029",
@@ -2631,7 +2632,7 @@
   "groupe_parent": "eiffage",
   "actionnaires": [
    {
-    "nom": "Eiffage (via Eiffarie)",
+    "nom": "Eiffage (via Financière Eiffarie)",
     "id": "eiffage",
     "part_pct": 52.5,
     "pays": "FR",
@@ -2668,7 +2669,7 @@
    }
   ],
   "description": "Deuxième concessionnaire autoroutier français (APRR, AREA).",
-  "note": "Intérêts économiques depuis le 30/06/2022 (page APRR d'Atlas Arteria) : Eiffage 52,5 %, Atlas Arteria 30,82 %, autres investisseurs de MAF Group 16,68 %, via Financière Eiffarie. APRR a été retirée de la cote après l'offre publique de retrait de décembre 2012.",
+  "note": "Intérêts économiques depuis le 30/06/2022 (page APRR d'Atlas Arteria) : Eiffage 52,5 %, Atlas Arteria 30,82 %, autres investisseurs de MAF Group 16,68 %, via Financière Eiffarie, qui détient directement 100 % d'APRR depuis la dissolution d'Eiffarie SAS au 31/12/2023. APRR a été retirée de la cote après l'offre publique de retrait de décembre 2012.",
   "sources": [
    "https://www.atlasarteria.com/portfolio/aprr",
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2026/02/FCECO081044_20260225.pdf",
@@ -4504,6 +4505,17 @@
     }
    },
    {
+    "nom": "UBS Group",
+    "part_pct": 3.1,
+    "type": "groupe",
+    "pays": "CH",
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://annualreport.basic-fit.com/2025/shareholder-information",
+     "type": "document_societe"
+    }
+   },
+   {
     "nom": "Flottant / public",
     "type": "flottant",
     "pays": "XX"
@@ -4868,7 +4880,8 @@
    "https://www.arcelikglobal.com/",
    "https://www.whirlpoolcorp.com/whirlpool-corporation-completes-major-milestone-in-its-portfolio-transformation-with-closing-of-emea-transaction/"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Répartition à la création (2024), soumise à un mécanisme d'ajustement prévu par l'accord ; état postérieur non publié."
  },
  {
   "id": "bel",
@@ -6337,9 +6350,11 @@
   "sources": [
    "https://www.corporate.bouyguestelecom.fr/archives-communique-presse/bouygues-telecom-franchit-une-etape-structurante-pour-son-developpement-futur-en-signant-aux-cotes-de-free-groupe-iliad-et-orange-un-protocole-daccord-avec-altice-france-en-vue-de-l/",
    "https://fr.wikipedia.org/wiki/Bouygues_Telecom",
-   "https://filings.xbrl.org/969500MOCLNQFNZN0D63/2024-12-31/ESEF/FR/0/969500MOCLNQFNZN0D63-2024-12-31-0-fr/reports/969500MOCLNQFNZN0D63-2024-12-31-0-fr.xhtml"
+   "https://filings.xbrl.org/969500MOCLNQFNZN0D63/2024-12-31/ESEF/FR/0/969500MOCLNQFNZN0D63-2024-12-31-0-fr/reports/969500MOCLNQFNZN0D63-2024-12-31-0-fr.xhtml",
+   "https://static.s-sfr.fr/AlticeFrance/investors/press-releases/260607-signing-of-a-memorandum-of-understanding-for-the-acquisition-of-sfr.pdf"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Le 6/06/2026, Bouygues Telecom, Free-iliad et Orange ont signé avec Altice France un protocole d'accord pour racheter SFR (communiqué d'Altice France) ; actes définitifs attendus au second semestre 2026."
  },
  {
   "id": "bp",
@@ -6801,9 +6816,11 @@
   "description": "Master-franchisé Burger King pour la France (et la Belgique).",
   "sources": [
    "https://www.groupe-bertrand.com/wp-content/uploads/2026/07/BK_RA_RSE_2025_FINALE.pdf",
-   "https://fr.wikipedia.org/wiki/Groupe_Bertrand"
+   "https://fr.wikipedia.org/wiki/Groupe_Bertrand",
+   "https://www.24matins.fr/le-groupe-bertrand-chercherait-a-mettre-en-vente-burger-king-et-lintegralite-de-ses-enseignes-en-franchise-1406333"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Burger King France fait partie de Bertrand Franchise depuis 2023 (rapport RSE 2025). Selon la presse (24matins d'après L'Informé, 20/04/2026), Bridgepoint détiendrait environ 25 % de Bertrand Franchise, et une cession de tout ou partie du pôle est étudiée ; rien n'est confirmé par les sociétés."
  },
  {
   "id": "but-conforama",
@@ -8073,7 +8090,7 @@
   "lei": "969500PN8ZPHIPSJRR14",
   "actionnaires": [
    {
-    "nom": "Cargo (holding toulousaine, associé unique ; part non publiée)",
+    "nom": "Groupe Cargo (holding toulousaine ; part non publiée)",
     "type": "groupe",
     "pays": "FR",
     "siren": "483108551",
@@ -8081,10 +8098,11 @@
    }
   ],
   "description": "Enseigne de décoration et équipement de la maison à petits prix.",
-  "note": "Fondée en 1990 à Toulouse par Frédéric Rous ; associé unique : la holding Cargo (SIREN 483 108 551).",
+  "note": "Fondée en 1990 à Toulouse par Frédéric Rous. L'appartenance de Centrakor Stores au groupe Cargo (holding SIREN 483 108 551) est attestée par l'Autorité de la concurrence (décision 16-DCC-203), sans pourcentage.",
   "sources": [
    "https://www.centrakor.com/",
-   "https://fr.wikipedia.org/wiki/Centrakor"
+   "https://fr.wikipedia.org/wiki/Centrakor",
+   "https://www.autoritedelaconcurrence.fr/fr/entityprint/pdf/node/4407"
   ],
   "verifie_le": "2026-11"
  },
@@ -9888,7 +9906,7 @@
   "id": "cpcu",
   "nom": "CPCU",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "542097324",
   "lei": "549300PBREGM4MP7PV25",
   "groupe_parent": "engie",
@@ -9914,7 +9932,7 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/Compagnie_parisienne_de_chauffage_urbain"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "cpp-investments",
@@ -12212,7 +12230,7 @@
   "id": "elengy",
   "nom": "Elengy",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "451438782",
   "lei": "969500L8Q7K6M0V0ZD75",
   "groupe_parent": "engie",
@@ -12230,7 +12248,7 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/Engie"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "elida-beauty",
@@ -13315,7 +13333,7 @@
   "id": "eureca",
   "nom": "Eureca (Eureca Mayoristas SL)",
   "pays_siege": "ES",
-  "statut": "cote",
+  "statut": "prive",
   "groupe_parent": "carrefour",
   "actionnaires": [
    {
@@ -13335,7 +13353,7 @@
    "https://retaildetail.eu/news/food/carrefour-bundles-purchasing-for-six-countries",
    "https://www.lsa-conso.fr/10-millions-d-euros-d-amende-administrative-a-l-encontre-d-eureca-la-centrale-d-achat-de-carrefour,458228"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "eureden",
@@ -19985,7 +20003,7 @@
    }
   ],
   "description": "Opérateur mondial de parkings.",
-  "note": "Répartition de source espagnole non datée ; une autre source donne 47,83 % pour CAA. Contrôle conjoint plutôt qu'exclusif.",
+  "note": "Répartition au 26/03/2026 (communiqué des résultats annuels d'Indigo) : Crédit Agricole Assurances 49,5 %, Vauban Infrastructure Partners 34,5 %, MEAG 14,9 %, autocontrôle 0,1 %, le solde au management. Contrôle conjoint plutôt qu'exclusif.",
   "sources": [
    "https://okdiario.com/economia/operador-frances-parkings-indigo-credit-agricole-assurances-compra-parkia-700-millones-11347282",
    "https://www.group-indigo.com/wp-content/uploads/2026/03/Communique-de-Presse-Resultats-FY25_FR.pdf"
@@ -22629,6 +22647,17 @@
      "url": "https://portail-lcl-web.cdn.prismic.io/portail-lcl-web/agRMdqYofJOwHLMw_LCLComptesconsolid%C3%A9sau31d%C3%A9cembre2025Vcac.pdf",
      "type": "document_societe"
     }
+   },
+   {
+    "nom": "SACAM Développement (Caisses régionales du Crédit Agricole)",
+    "part_pct": 4.44,
+    "type": "groupe",
+    "pays": "FR",
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://portail-lcl-web.cdn.prismic.io/portail-lcl-web/agRMdqYofJOwHLMw_LCLComptesconsolid%C3%A9sau31d%C3%A9cembre2025Vcac.pdf",
+     "type": "document_societe"
+    }
    }
   ],
   "description": "Banque de détail nationale du groupe Crédit Agricole.",
@@ -22636,7 +22665,8 @@
    "https://www.lcl.com",
    "https://portail-lcl-web.cdn.prismic.io/portail-lcl-web/agRMdqYofJOwHLMw_LCLComptesconsolid%C3%A9sau31d%C3%A9cembre2025Vcac.pdf"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "LCL est détenu à 100 % par le groupe Crédit Agricole : 95,56 % par Crédit Agricole SA et 4,44 % par SACAM Développement, structure des Caisses régionales."
  },
  {
   "id": "lcp-an",
@@ -23836,7 +23866,7 @@
   "id": "look-voyages",
   "nom": "Look Voyages (TUI France)",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "331089474",
   "lei": "213800Z3NBTGSAK59T74",
   "actionnaires": [
@@ -26409,7 +26439,7 @@
   "statut": "familial",
   "actionnaires": [
    {
-    "nom": "Famille Aponte (part non publiée)",
+    "nom": "Famille Aponte (Diego et Alexa Aponte depuis fin 2025 ; part non publiée)",
     "type": "famille",
     "pays": "CH"
    }
@@ -26417,9 +26447,11 @@
   "description": "Armateur et croisiériste (MSC Croisières).",
   "sources": [
    "https://www.msc.com/en/newsroom/press-releases/2026/april/msc-mediterranean-shipping-company-announces-ownership-transfer",
-   "https://fr.wikipedia.org/wiki/Mediterranean_Shipping_Company"
+   "https://fr.wikipedia.org/wiki/Mediterranean_Shipping_Company",
+   "https://www.mscgroup.com/en/media-room/MSC-Mediterranean-Shipping-Company-Announces-Ownership-Transfer"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "La propriété est passée au 4e trimestre 2025 du fondateur Gianluigi Aponte à ses enfants Diego et Alexa Aponte ; il reste président exécutif (communiqué MSC du 13/04/2026)."
  },
  {
   "id": "mundys",
@@ -26659,7 +26691,7 @@
   "id": "natran",
   "nom": "NaTran (ex-GRTgaz)",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "440117620",
   "lei": "549300WKO9211VIK5170",
   "groupe_parent": "engie",
@@ -26686,7 +26718,7 @@
    "https://fr.wikipedia.org/wiki/Engie",
    "https://fr.wikipedia.org/wiki/GRTgaz"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "naxicap",
@@ -28950,7 +28982,8 @@
    "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm",
    "https://fr.wikipedia.org/wiki/Lipton"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Répartition de Pepsi Lipton Partnership (coentreprise nord-américaine). Pour le reste du monde, Unilever publie Pepsi Lipton International Limited (Royaume-Uni) à 45,45 % (rapport annuel 2025)."
  },
  {
   "id": "pepsico",
@@ -29564,7 +29597,7 @@
   "id": "plenitude",
   "nom": "Plenitude (Eni Plenitude)",
   "pays_siege": "IT",
-  "statut": "cote",
+  "statut": "prive",
   "lei": "81560041C853AE5B9057",
   "groupe_parent": "eni",
   "actionnaires": [
@@ -29585,7 +29618,7 @@
   "sources": [
    "https://fr.wikipedia.org/wiki/Eni"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "pluxee",
@@ -31501,7 +31534,7 @@
    }
   ],
   "description": "Société d'économie mixte de stationnement parisienne.",
-  "note": "Répartition de 2022 ; la présence de Sogaris n'est pas confirmée. Le partenaire privé est Effia, qui a deux sièges au conseil.",
+  "note": "Répartition de 2022 pour la Ville de Paris, Effia, la RIVP et Paris Habitat (bilan des SEM de la Ville de Paris). Sogaris a repris la part de la Caisse des dépôts (communiqué Saemes-Sogaris-CDC), et la CCI d'Île-de-France est sortie en 2026. Le partenaire privé est Effia, qui a deux sièges au conseil.",
   "sources": [
    "https://cdn.paris.fr/paris/2024/03/22/paris-bilansem-2022-rapport2023-29012024-Ow7F.pdf",
    "https://fr.wikipedia.org/wiki/Saemes",
@@ -35196,7 +35229,7 @@
   "id": "totem",
   "nom": "Totem (TowerCo d'Orange)",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "groupe_parent": "orange",
   "actionnaires": [
    {
@@ -35212,7 +35245,7 @@
   "sources": [
    "https://www.orange.com/fr"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "toyota",
@@ -35473,9 +35506,11 @@
   "description": "Ex-activité jus de PepsiCo cédée en 2022.",
   "sources": [
    "https://www.pepsico.com/our-stories/press-release/pepsico-announces-strategic-partnership-with-pai-partners-for-juice-business",
-   "https://www.sec.gov/Archives/edgar/data/77476/000007747622000020/pep-20220319.htm"
+   "https://www.sec.gov/Archives/edgar/data/77476/000007747622000020/pep-20220319.htm",
+   "https://paipartners.com/wp-content/uploads/2021/08/press-release-pai-partners-tropicana-pepsi-3-august-2021.pdf"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "PAI Partners est « the majority shareholder » (communiqué PAI/PepsiCo du 3/08/2021) ; PepsiCo garde 39 %. Les 61 % restants ne sont pas tous attribués à PAI : le management a pu investir."
  },
  {
   "id": "truffaut",
@@ -36809,7 +36844,7 @@
   "id": "vinci-airports",
   "nom": "Vinci Airports",
   "pays_siege": "FR",
-  "statut": "cote",
+  "statut": "prive",
   "siren": "410002075",
   "lei": "213800912CIOXUFPC625",
   "groupe_parent": "vinci",
