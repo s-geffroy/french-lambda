@@ -6853,8 +6853,8 @@
    "https://www.dccenergy.com/~/media/Files/D/Dcc-Corp-v3/documents/investors/annual-and-sustainability-reports/2026/annual-report-2026.pdf",
    "https://fr.wikipedia.org/wiki/Butagaz"
   ],
-  "verifie_le": "2026-10",
-  "note": "Sa maison mère DCC (désormais DCC Energy) est en cours de rachat par des fonds d'ECP et de KKR (scheme approuvé le 18/09/2026, réalisation attendue au 1er trimestre 2027)."
+  "verifie_le": "2026-11",
+  "note": "Sa maison mère DCC (désormais DCC Energy) est en cours de rachat par des fonds d'ECP et de KKR (scheme approuvé par les actionnaires le 18/09/2026 ; restent la sanction de la High Court irlandaise et les autorisations ; réalisation attendue au 1er trimestre 2027)."
  },
  {
   "id": "byd",
@@ -7847,7 +7847,7 @@
   "lei": "5299001X9L42HXEBCZ51",
   "actionnaires": [
    {
-    "nom": "JD.com (offre de rachat annoncée en 2025 ; finalisation non vérifiée)",
+    "nom": "JD.com (offre de rachat ; dernière autorisation obtenue le 3/11/2026, réalisation annoncée sous quelques jours)",
     "type": "groupe",
     "pays": "CN",
     "lei": "549300HVTWB0GJZ16V92"
@@ -7860,9 +7860,11 @@
   ],
   "description": "Maison mère de MediaMarkt/Saturn, deuxième actionnaire de Fnac Darty (≈ 21,9 %).",
   "sources": [
-   "https://www.lsa-conso.fr/distributeurs-non-alimentaires/maison/fnac-darty/fnac-darty-loffre-de-rachat-du-groupe-par-daniel-kretinsky-sera-cloturee-le-9-novembre-2026.LE5NEBTBWJE2TNWMLK76CXJDJY.html"
+   "https://www.lsa-conso.fr/distributeurs-non-alimentaires/maison/fnac-darty/fnac-darty-loffre-de-rachat-du-groupe-par-daniel-kretinsky-sera-cloturee-le-9-novembre-2026.LE5NEBTBWJE2TNWMLK76CXJDJY.html",
+   "https://www.ceconomy-mms.com/en/article/neues-kapitel-ceconomy-und-jdcom-erhalten-abschliessende-behordliche-genehmigung"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Le 3/11/2026, la Commission européenne a autorisé l'opération au titre du règlement sur les subventions étrangères ; selon Ceconomy, c'était la dernière autorisation requise et la réalisation doit intervenir dans les jours suivants."
  },
  {
   "id": "cegedim",
@@ -8724,8 +8726,8 @@
    "https://fr.wikipedia.org/wiki/Club_Med",
    "https://www.boursorama.com/actualite-economique/actualites/club-med-sera-cote-a-la-bourse-de-hong-kong-au-sein-d-une-nouvelle-entite-annonce-son-proprietaire-7f4d4691e6a57ac45674722e89cc0f4d"
   ],
-  "verifie_le": "2026-10",
-  "note": "Fosun Tourism Group a été retiré de la cote de Hong Kong le 19/03/2025. ClubMed Lifestyle Group a déposé le 28/08/2026 une demande d'introduction en bourse à Hong Kong et doit rester une filiale de Fosun International."
+  "verifie_le": "2026-11",
+  "note": "Fosun Tourism Group a été retiré de la cote de Hong Kong le 19/03/2025. ClubMed Lifestyle Group a déposé le 28/08/2026 une demande d'introduction en bourse à Hong Kong et doit rester une filiale de Fosun International. Au 4/11/2026, la cotation n'a pas eu lieu (accord du comité de cotation de HKEX encore requis)."
  },
  {
   "id": "cma-cgm",
@@ -16367,10 +16369,11 @@
    "https://www.globenewswire.com/news-release/2026/10/20/3384786/0/fr/fnac-darty-offre-publique-d-achat-initi%C3%A9e-par-ep-group-cl%C3%B4ture-de-l-offre-publique-le-9-novembre-2026.html",
    "https://www.lsa-conso.fr/distributeurs-non-alimentaires/maison/fnac-darty/opa-fnac-darty-la-commission-europeenne-autorise-loffre-de-rachat-du-groupe-par-daniel-kretinsky.BMKIZB3SLFA2DNKIHHPXW5CNHU.html",
    "https://www.boursorama.com/bourse/actualites/kretinsky-veut-lancer-une-opa-sur-fnac-darty-ee17e1db5ca9eaeb0f25406dd660c291",
-   "https://en.wikipedia.org/wiki/Ceconomy"
+   "https://en.wikipedia.org/wiki/Ceconomy",
+   "https://www.ceconomy-mms.com/en/article/neues-kapitel-ceconomy-und-jdcom-erhalten-abschliessende-behordliche-genehmigung"
   ],
-  "verifie_le": "2026-10",
-  "note": "OPA d'EP Group (Kretinsky) à 36 €/action (35 € après dividende) : avis favorable du conseil (10/03/2026), conformité AMF (7/05/2026), feu vert de la Commission européenne (20/10/2026) ; clôture de l'offre fixée au 9/11/2026, en cours. Ceconomy : rachat par JD.com en cours (enquête UE sur les subventions étrangères ouverte en mai 2026)."
+  "verifie_le": "2026-11",
+  "note": "OPA d'EP Group (Kretinsky) à 36 €/action (35 € après dividende) : avis favorable du conseil (10/03/2026), conformité AMF (7/05/2026), feu vert de la Commission européenne (20/10/2026) ; clôture de l'offre fixée au 9/11/2026, en cours au 4/11/2026. Ceconomy : rachat par JD.com autorisé le 3/11/2026 au titre des subventions étrangères, dernière autorisation requise."
  },
  {
   "id": "fondation-carlsberg",
@@ -20038,9 +20041,9 @@
    "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32026M12601",
    "https://www.boursorama.com/bourse/actualites/bruxelles-autorise-le-rachat-d-ingenico-par-allianz-ce4076e8af4483bcf913f9f4c2639eff"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "siren": "909465700",
-  "note": "Accord annoncé le 17/08/2026 : réorganisation du capital avec 150 M€ apportés par des investisseurs menés par PIMCO (groupe Allianz), Apollo sortant. La Commission européenne a autorisé le 11/09/2026 la prise de contrôle exclusif de Poseidon Holdco par Allianz via PIMCO (affaire M.12601) ; réalisation non annoncée à ce jour."
+  "note": "Accord annoncé le 17/08/2026 : réorganisation du capital avec 150 M€ apportés par des investisseurs menés par PIMCO (groupe Allianz), Apollo sortant. La Commission européenne a autorisé le 11/09/2026 la prise de contrôle exclusif de Poseidon Holdco par Allianz via PIMCO (affaire M.12601) ; réalisation non annoncée au 4/11/2026."
  },
  {
   "id": "ingka",
@@ -21037,26 +21040,36 @@
   "id": "kenvue",
   "nom": "Kenvue",
   "pays_siege": "US",
-  "statut": "cote",
+  "statut": "prive",
   "lei": "5493008HSF8L4M2LIJ82",
   "actionnaires": [
    {
-    "nom": "Flottant / public",
-    "type": "flottant",
-    "pays": "XX"
+    "nom": "Kimberly-Clark",
+    "id": "kimberly-clark",
+    "part_pct": 100,
+    "type": "groupe",
+    "pays": "US",
+    "lei": "MP3J6QPYPGN75NVW2S34",
+    "part_date": "2026-11-02",
+    "source": {
+     "url": "https://www.sec.gov/Archives/edgar/data/0000055785/000110465926120990/tm2628636d1_8k.htm",
+     "type": "autorite"
+    }
    }
   ],
-  "description": "Ex-pôle santé grand public de Johnson & Johnson (Neutrogena, Listerine, Le Petit Marseillais) ; rachat par Kimberly-Clark approuvé par les actionnaires (janv. 2026), clôture attendue fin 2026.",
+  "description": "Ex-pôle santé grand public de Johnson & Johnson (Neutrogena, Listerine, Le Petit Marseillais) ; filiale de Kimberly-Clark depuis le 2/11/2026.",
   "sources": [
    "https://investors.kenvue.com/financial-news/news-details/2026/Kimberly-Clark-and-Kenvue-Shareholders-Overwhelmingly-Approve-Kimberly-Clarks-Acquisition-of-Kenvue/default.aspx",
    "https://www.sec.gov/Archives/edgar/data/0000055785/000162828026052348/kmb-20260630.htm",
    "https://fr.wikipedia.org/wiki/Kenvue",
    "https://en.wikipedia.org/wiki/Kenvue",
    "https://dallasinnovates.com/shareholders-approve-kimberly-clarks-40b-acquisition-of-tylenol-maker-kenvue/",
-   "https://www.kenvue.com/media"
+   "https://www.kenvue.com/media",
+   "https://www.sec.gov/Archives/edgar/data/0000055785/000110465926120990/tm2628636d1_8k.htm"
   ],
-  "verifie_le": "2026-10",
-  "note": "Rachat par Kimberly-Clark annoncé le 3/11/2025, approuvé par les actionnaires des deux groupes le 29/01/2026 ; clôture attendue au S2 2026, non intervenue au 21/10/2026 (Kenvue annonce ses résultats du T3 2026 pour le 30/10/2026)."
+  "verifie_le": "2026-11",
+  "note": "Rachat par Kimberly-Clark annoncé le 3/11/2025, approuvé par les actionnaires des deux groupes le 29/01/2026, réalisé le 2/11/2026 (déclaration 8-K de Kimberly-Clark) : chaque action Kenvue a été échangée contre 0,14625 action Kimberly-Clark et 3,50 $ ; Kenvue, devenue filiale à 100 %, a été transformée en Kenvue LLC.",
+  "groupe_parent": "kimberly-clark"
  },
  {
   "id": "keolis",
@@ -21134,13 +21147,15 @@
    }
   ],
   "description": "SAS créée en juin 2026 par la direction du BHV Marais pour reprendre le grand magasin à la SGM, avec un capital ouvert aux salariés.",
-  "note": "Reprise signée, annoncée le 16/06/2026 (BHV Marais et Parly 2) ; sa réalisation et la répartition du capital restent à confirmer. Les murs appartiennent à Brookfield.",
+  "note": "Reprise signée, annoncée le 16/06/2026 (BHV Marais et Parly 2) ; la répartition du capital n'est pas publiée. Les murs appartiennent à Brookfield. Le BHV Marais a demandé le 27/10/2026 son placement en redressement judiciaire devant le tribunal des activités économiques de Paris, sur fond de litige avec Brookfield ; audience le 30/10/2026, décision annoncée pour le 2/11/2026 et non encore connue de nous au 4/11/2026 (presse : Sud Radio, Économie Matin).",
   "sources": [
    "https://fr.fashionnetwork.com/news/Le-bhv-marais-cede-par-la-sgm-a-la-direction-du-grand-magasin,1840356.html",
    "https://www.lyonmag.com/article/152584/le-bhv-marais-bientot-repris-par-son-management-et-ses-salaries-la-page-sgm-et-shein-tournee",
-   "https://annuaire-entreprises.data.gouv.fr/entreprise/106165061"
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/106165061",
+   "https://www.sudradio.fr/societe/redressement-judiciaire-du-bhv-le-tribunal-donnera-sa-decision-lundi",
+   "https://www.economiematin.fr/?p=235834"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11"
  },
  {
   "id": "kering",
@@ -21321,15 +21336,16 @@
     "pays": "XX"
    }
   ],
-  "description": "Groupe américain d'hygiène papier (Huggies, Kleenex) ; rachat de Kenvue en cours (clôture attendue au 4e trimestre 2026).",
+  "description": "Groupe américain d'hygiène papier (Huggies, Kleenex) ; propriétaire de Kenvue (Neutrogena, Listerine, Le Petit Marseillais) depuis le 2/11/2026.",
   "sources": [
    "https://www.investor.kimberly-clark.com/",
    "https://en.wikipedia.org/wiki/Kenvue",
    "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000141/q226earningspressrelease.htm",
-   "https://www.kenvue.com/media"
+   "https://www.kenvue.com/media",
+   "https://www.sec.gov/Archives/edgar/data/0000055785/000110465926120990/tm2628636d1_8k.htm"
   ],
-  "verifie_le": "2026-10",
-  "note": "Rachat de Kenvue annoncé le 3/11/2025 (48,7 Md$ de valeur d'entreprise), approuvé par les actionnaires le 29/01/2026 ; clôture attendue au 4e trimestre 2026 sous réserve d'autorisations étrangères. Après clôture : ≈ 54 % anciens actionnaires K-C, ≈ 46 % ex-Kenvue."
+  "verifie_le": "2026-11",
+  "note": "Rachat de Kenvue annoncé le 3/11/2025 (48,7 Md$ de valeur d'entreprise), approuvé par les actionnaires le 29/01/2026 et réalisé le 2/11/2026 (déclaration 8-K). Annoncé à la signature : ≈ 54 % du capital aux anciens actionnaires de Kimberly-Clark, ≈ 46 % aux ex-actionnaires de Kenvue."
  },
  {
   "id": "kindred",
@@ -22405,7 +22421,7 @@
    }
   ],
   "description": "Distributeur de menuiseries, cuisines et salles de bains.",
-  "note": "Propriété de Mutares depuis le 1/06/2021 (ex-Saint-Gobain). Le 5/10/2026, Mutares a reçu une offre irrévocable d'entrepreneurs italiens (famille liée à Bricofer et Conforama Italia) pour une participation de contrôle ; Mutares resterait minoritaire ; clôture attendue au 4e trimestre 2026.",
+  "note": "Propriété de Mutares depuis le 1/06/2021 (ex-Saint-Gobain). Le 5/10/2026, Mutares a reçu une offre irrévocable d'entrepreneurs italiens (famille liée à Bricofer et Conforama Italia) pour une participation de contrôle ; Mutares resterait minoritaire ; clôture attendue au 4e trimestre 2026, non annoncée au 4/11/2026.",
   "sources": [
    "https://mutares.com/en/?p=25045",
    "https://live.deutsche-boerse.com/news/EQS-News-Mutares-receives-irrevocable-offer-for-the-acquisition-of-a-controlling-stake-in-Lapeyre-Group-from-an-investment-vehicle-backed-by-Italian-entrepreneurs-9bc686dc-255b-47c0-b077-457f9dc6bed7",
@@ -27025,10 +27041,11 @@
   "description": "Groupe familial de collecte et traitement des déchets et de propreté urbaine.",
   "sources": [
    "https://www.morganstanley.com/press-releases/msip-to-acquire-majority-stake-in-nicollin-environnement",
-   "https://fr.wikipedia.org/wiki/Groupe_Nicollin"
+   "https://fr.wikipedia.org/wiki/Groupe_Nicollin",
+   "https://competition-cases.ec.europa.eu/cases/M.12545"
   ],
   "verifie_le": "2026-11",
-  "note": "Le 10/07/2026, le groupe a annoncé une négociation exclusive avec Morgan Stanley Infrastructure Partners, qui deviendrait actionnaire majoritaire de Nicollin Environnement, la famille restant minoritaire ; réalisation non annoncée."
+  "note": "Le 10/07/2026, le groupe a annoncé une négociation exclusive avec Morgan Stanley Infrastructure Partners, qui deviendrait actionnaire majoritaire de Nicollin Environnement, la famille restant minoritaire. La Commission européenne a autorisé l'opération le 19/08/2026 (affaire M.12545, procédure simplifiée) ; réalisation non annoncée au 4/11/2026."
  },
  {
   "id": "nike",
@@ -29343,7 +29360,7 @@
    "https://www.abcbourse.com/marches/pierre-vacances-center-parcs-un-actionnaire-apporte-11-5-du-capital-a-l-op_699344"
   ],
   "verifie_le": "2026-11",
-  "note": "Offre de Mubadala Capital à 1,90 € (2,00 € si 90 % atteints) annoncée le 22/06/2026 ; accord de rapprochement signé le 20/07/2026 avec des engagements d'apport de 80,13 % du capital (Fidera 26,72 %, Benefit Street Partners 24,96 %, Pristine 11,49 %, Pastel 8,60 %) ; dépôt de l'offre publique attendu au plus tard au 1er trimestre 2027. Pristine est le fiduciaire des actions émises lors de la conversion du prêt garanti par l'État."
+  "note": "Offre de Mubadala Capital à 1,90 € (2,00 € si 90 % atteints) annoncée le 22/06/2026 ; accord de rapprochement signé le 20/07/2026 avec des engagements d'apport de 80,13 % du capital (Fidera 26,72 %, Benefit Street Partners 24,96 %, Pristine 11,49 %, Pastel 8,60 %) ; dépôt de l'offre publique attendu au plus tard au 1er trimestre 2027. Pristine est le fiduciaire des actions émises lors de la conversion du prêt garanti par l'État. Au 4/11/2026, l'offre n'est pas déposée : elle attend les autorisations de concurrence, de subventions étrangères et d'investissements étrangers."
  },
  {
   "id": "pikolin",
@@ -29679,7 +29696,7 @@
   "siren": "818840175",
   "actionnaires": [
    {
-    "nom": "OGF (acquisition annoncée en avril 2026)",
+    "nom": "OGF (cession de 100 % du capital annoncée en mai 2026 ; part non publiée par OGF)",
     "id": "ogf",
     "type": "groupe",
     "pays": "FR",
@@ -29691,10 +29708,11 @@
    "https://www.observatoiredelafranchise.fr/creation-entreprise/franchise-pompes-funebres-de-france-5489.htm",
    "https://www.businesswire.com/news/home/20260408712270/fr",
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2019/12/FCACT049454_20191219.pdf",
-   "https://www.cfnews.net/L-actualite/Build-up/OGF-herite-d-un-reseau-de-franchise-funeraire-640694"
+   "https://www.cfnews.net/L-actualite/Build-up/OGF-herite-d-un-reseau-de-franchise-funeraire-640694",
+   "https://gramond-avocats.com/gramond-accompagne-la-cession-des-pompes-funebres-de-france-a-ogf/"
   ],
   "verifie_le": "2026-11",
-  "note": "Altur Investissement a pris la majorité le 19/12/2019 aux côtés des managers (communiqué). OGF est entré en négociations exclusives pour racheter le réseau le 8/04/2026 (CFNEWS) et préside désormais la société (registre, 2026) ; la réalisation de l'achat n'est pas confirmée par une source de premier rang."
+  "note": "Altur Investissement a pris la majorité le 19/12/2019 aux côtés des managers (communiqué). OGF est entré en négociations exclusives le 8/04/2026 (CFNEWS) ; le 4/05/2026, le cabinet Gramond, conseil des cédants, a annoncé la cession de 100 % du capital à OGF, qui préside désormais la société (registre). Ni OGF ni Altur n'ont publié de communiqué de réalisation."
  },
  {
   "id": "ponant",
@@ -32581,7 +32599,7 @@
    "https://fr.wikipedia.org/wiki/Siblu",
    "https://www.cfnews.net/L-actualite/Exclusif-CFNEWS/Siblu-en-exclusivite-chez-un-fonds-de-real-estate-748108"
   ],
-  "verifie_le": "2026-10",
+  "verifie_le": "2026-11",
   "note": "Naxicap Partners actionnaire majoritaire depuis fin 2019 ; en négociations exclusives depuis octobre 2026 pour céder Siblu à un fonds immobilier américain (non nommé)."
  },
  {
