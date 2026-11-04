@@ -962,15 +962,16 @@
     "lei": "959800NVFYY35CA67396",
     "part_date": "2002-04",
     "source": {
-     "url": "https://www.petworldwide.net/content-1/pet-worldwide/2002/04/4-2002/affinity-petcare-on-the-starting-blocks.html",
-     "type": "presse"
+     "url": "https://www.affinity-petcare.com/es/quienes-somos",
+     "type": "document_societe"
     }
    }
   ],
   "description": "Fabricant d'aliments pour animaux (Ultima, Advance, Brekkies).",
   "sources": [
    "https://www.affinity-petcare.com/",
-   "https://www.petworldwide.net/content-1/pet-worldwide/2002/04/4-2002/affinity-petcare-on-the-starting-blocks.html"
+   "https://www.petworldwide.net/content-1/pet-worldwide/2002/04/4-2002/affinity-petcare-on-the-starting-blocks.html",
+   "https://www.affinity-petcare.com/es/quienes-somos"
   ],
   "verifie_le": "2026-11"
  },
@@ -1814,10 +1815,10 @@
     "part_pct": 55.0,
     "type": "personne",
     "pays": "CH",
-    "part_date": "2025-10",
+    "part_date": "2025-10-01",
     "source": {
-     "url": "https://www.tradingsat.com/actualites/marches-financiers/marche-altice-france-plan-de-restructuration-valide-le-sort-de-sfr-en-question-1143953.html",
-     "type": "presse"
+     "url": "https://static.s-sfr.fr/AlticeFrance/publications/Investors/PressReleasesAndNotices/2025/alticefranceannouncesagreementwithcreditors.pdf",
+     "type": "document_societe"
     }
    },
    {
@@ -1825,10 +1826,10 @@
     "part_pct": 45.0,
     "type": "autre",
     "pays": "XX",
-    "part_date": "2025-10",
+    "part_date": "2025-10-01",
     "source": {
-     "url": "https://www.tradingsat.com/actualites/marches-financiers/marche-altice-france-plan-de-restructuration-valide-le-sort-de-sfr-en-question-1143953.html",
-     "type": "presse"
+     "url": "https://static.s-sfr.fr/AlticeFrance/investors/financial-documentation/Altice-France-SAS-FY-2025-Consolidated-Financial-Statements.pdf",
+     "type": "document_societe"
     }
    }
   ],
@@ -1845,9 +1846,13 @@
    "https://www.autoritedelaconcurrence.fr/en/article/telecoms-sfr-autorite-de-la-concurrence-review-acquisition-sfr-altice-france",
    "https://www.abcbourse.com/marches/la-vente-de-sfr-sera-finalement-examinee-par-l-autorite-de-la-concurrence-franca_699719",
    "https://en.arcep.fr/news/press-releases/view/n/competition-080626.html",
-   "https://www.telcotitans.com/orangewatch/ec-cedes-oversight-of-sfr-takeover-to-french-authorities/10682.article"
+   "https://www.telcotitans.com/orangewatch/ec-cedes-oversight-of-sfr-takeover-to-french-authorities/10682.article",
+   "https://static.s-sfr.fr/AlticeFrance/publications/Investors/PressReleasesAndNotices/2025/alticefranceannouncesagreementwithcreditors.pdf",
+   "https://static.s-sfr.fr/AlticeFrance/investors/financial-documentation/Altice-France-SAS-FY-2025-Consolidated-Financial-Statements.pdf",
+   "https://static.s-sfr.fr/AlticeFrance/investors/press-releases/260607-signing-of-a-memorandum-of-understanding-for-the-acquisition-of-sfr.pdf"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Parts mesurées sur Altice France Lux 3, société mère indirecte d'Altice France ; les 45 % des créanciers se répartissent en 31 % (dette sécurisée) et 14 % (créanciers d'Altice France Holding) selon les comptes consolidés 2025. Le 6/06/2026, Bouygues Telecom, Free-iliad et Orange ont signé avec Altice France un protocole d'accord pour racheter SFR (actes définitifs attendus au second semestre 2026)."
  },
  {
   "id": "amazon",
@@ -2769,8 +2774,8 @@
     "lei": "391200AW174YQSDMGG41",
     "part_date": "2026-07-01",
     "source": {
-     "url": "https://investnews.com.br/negocios/suzano-e-kimberly-clark-concluem-acordo-de-r-67-bilhoes-e-lancam-a-arbex/",
-     "type": "presse"
+     "url": "https://www.sec.gov/Archives/edgar/data/909327/000090932726000064/earningsrelease_2t26xen.htm",
+     "type": "autorite"
     }
    },
    {
@@ -2782,8 +2787,8 @@
     "lei": "MP3J6QPYPGN75NVW2S34",
     "part_date": "2026-07-01",
     "source": {
-     "url": "https://www.suno.com.br/noticias/suzano-suzb3-conclusao-joint-venture-kimberly-clark-go/",
-     "type": "presse"
+     "url": "https://www.sec.gov/Archives/edgar/data/909327/000090932726000064/earningsrelease_2t26xen.htm",
+     "type": "autorite"
     }
    }
   ],
@@ -2791,7 +2796,8 @@
   "sources": [
    "https://www.midlandco.com/suzano-and-kimberly-clark-finalize-3-4-billion-jv-to-create-arbex/",
    "https://investnews.com.br/negocios/suzano-e-kimberly-clark-concluem-acordo-de-r-67-bilhoes-e-lancam-a-arbex/",
-   "https://www.suno.com.br/noticias/suzano-suzb3-conclusao-joint-venture-kimberly-clark-go/"
+   "https://www.suno.com.br/noticias/suzano-suzb3-conclusao-joint-venture-kimberly-clark-go/",
+   "https://www.sec.gov/Archives/edgar/data/909327/000090932726000064/earningsrelease_2t26xen.htm"
   ],
   "verifie_le": "2026-11"
  },
@@ -4661,10 +4667,10 @@
     "part_pct": 100.0,
     "type": "autre",
     "pays": "FR",
-    "part_date": "2017-04",
+    "part_date": "2026-05-29",
     "source": {
-     "url": "https://fr.themedialeader.com/pascal-ruffenach-va-succeder-a-georges-sanerot-a-la-presidence-du-directoire-de-bayard-presse/",
-     "type": "presse"
+     "url": "https://www.assomption.org/jean-baptiste-de-franssu-propose-pour-succeder-a-hubert-chicou-comme-president-du-conseil-de-surveillance-du-groupe-bayard/",
+     "type": "document_societe"
     }
    }
   ],
@@ -4672,7 +4678,8 @@
   "sources": [
    "https://www.assomption.org/wp-content/uploads/2026/06/20260529_CP_Nomination-Conseil-de-Surveillance.pdf",
    "https://fr.wikipedia.org/wiki/Bayard_(groupe)",
-   "https://fr.themedialeader.com/pascal-ruffenach-va-succeder-a-georges-sanerot-a-la-presidence-du-directoire-de-bayard-presse/"
+   "https://fr.themedialeader.com/pascal-ruffenach-va-succeder-a-georges-sanerot-a-la-presidence-du-directoire-de-bayard-presse/",
+   "https://www.assomption.org/jean-baptiste-de-franssu-propose-pour-succeder-a-hubert-chicou-comme-president-du-conseil-de-surveillance-du-groupe-bayard/"
   ],
   "verifie_le": "2026-11"
  },
@@ -5004,27 +5011,15 @@
     }
    },
    {
-    "nom": "Hellman & Friedman",
-    "part_pct": 9,
+    "nom": "Hellman & Friedman, GIC et BlackRock",
+    "part_pct": 16.8,
     "type": "fonds",
     "pays": "US",
-    "part_date": "2021-07",
+    "part_date": "2021-12-17",
     "source": {
-     "url": "https://www.lw.com/en/news/latham-advises-hf-on-belron-investment",
-     "type": "presse"
+     "url": "https://dieterengroup.imgix.net/press-releases/20211217_Closing-Belron-shareholdership_EN_FV.pdf",
+     "type": "document_societe"
     }
-   },
-   {
-    "nom": "GIC",
-    "type": "fonds",
-    "pays": "SG",
-    "lei": "BG8P3GI5QU6LUUX5HI38"
-   },
-   {
-    "nom": "BlackRock",
-    "type": "fonds",
-    "pays": "US",
-    "lei": "529900VBK42Y5HHRMD23"
    },
    {
     "nom": "Management et Atessa",
@@ -5039,14 +5034,15 @@
    }
   ],
   "description": "Leader mondial de la réparation de vitrage automobile (Carglass).",
-  "note": "D'Ieteren détient 50,3 % des droits économiques entièrement dilués (communiqué du 24/04/2026) ; CD&R 20 % depuis décembre 2021 ; H&F environ 9 %. Introduction en Bourse à Amsterdam étudiée (banques choisies en octobre 2026).",
+  "note": "D'Ieteren détient 50,3 % des droits économiques entièrement dilués (communiqué du 24/04/2026) ; à la clôture de décembre 2021, CD&R 20,3 % et H&F, GIC et BlackRock 16,8 % ensemble, sans part individuelle publiée (communiqué D'Ieteren du 17/12/2021). Introduction en Bourse à Amsterdam étudiée (banques choisies en octobre 2026).",
   "sources": [
    "https://www.vfb.be/Media/Default/pdf/20260424_Annual-Report_NL.pdf",
    "https://fr.wikipedia.org/wiki/Belron",
    "https://www.cdr.com/news/cdr-fund-x-sells-belron-stake-in-transaction-that-values-belron-at-eur21-billion",
    "https://www.lw.com/en/news/latham-advises-hf-on-belron-investment",
    "https://www.mainsights.io/ma-news/d039ieteren-and-cdampr-backed-belron-selected-banks-to-lead-upcoming-amsterdam-ipo-seeking-valuation-of-over-eur-30bn",
-   "https://www.dieterengroup.com/press-releases/transaction-between-belrons-minority-shareholders/"
+   "https://www.dieterengroup.com/press-releases/transaction-between-belrons-minority-shareholders/",
+   "https://dieterengroup.imgix.net/press-releases/20211217_Closing-Belron-shareholdership_EN_FV.pdf"
   ],
   "verifie_le": "2026-11"
  },
@@ -6753,8 +6749,8 @@
     "lei": "2138002658CPO9NBH955",
     "part_date": "2025-07-02",
     "source": {
-     "url": "https://www.ajbell.co.uk/news/articles/glencore-closes-viterra-bunge-merger-launch-1-billion-buyback",
-     "type": "presse"
+     "url": "https://www.sec.gov/Archives/edgar/data/1521365/000114036125025077/xslSCHEDULE_13D_X01/primary_doc.xml",
+     "type": "autorite"
     }
    },
    {
@@ -6778,7 +6774,8 @@
   "description": "Négoce et trituration d'oléagineux ; fusion avec Viterra finalisée le 02/07/2025.",
   "sources": [
    "https://www.ajbell.co.uk/news/articles/glencore-closes-viterra-bunge-merger-launch-1-billion-buyback",
-   "https://www.sec.gov/Archives/edgar/data/1996862/000162828026009842/bg-20251231.htm"
+   "https://www.sec.gov/Archives/edgar/data/1996862/000162828026009842/bg-20251231.htm",
+   "https://www.sec.gov/Archives/edgar/data/1521365/000114036125025077/xslSCHEDULE_13D_X01/primary_doc.xml"
   ],
   "verifie_le": "2026-11",
   "note": "Selon le 10-K 2025 de Bunge, au 31/12/2025 : Glencore environ 17 %, CPP Investments environ 14 %, BCI environ 3 %."
@@ -8785,8 +8782,8 @@
     "lei": "969500BZJ49IICIBZZ08",
     "part_date": "2024-07-02",
     "source": {
-     "url": "https://www.journaldunet.com/business/1531475-rachat-officiel-d-altice-media-bfm-et-rmc-par-cma-cgm/",
-     "type": "presse"
+     "url": "https://www.cmacgm-group.com/en/news-media/cma-cgm-completes-acquisition-altice-media",
+     "type": "document_societe"
     }
    }
   ],
@@ -8796,9 +8793,12 @@
    "https://www.journaldunet.com/business/1555753-cma-media-finalise-le-rachat-de-rmc-sport-et-lance-cma-sport/",
    "https://www.cbnews.fr/node/101413",
    "https://fr.themedialeader.com/larcom-valide-la-cession-de-cherie-25-a-cma-cgm-la-chaine-deviendra-rmc-life/",
-   "https://www.nrjgroup.fr/files/2026/04/nrj-group-expose-sommaire-2025.pdf"
+   "https://www.nrjgroup.fr/files/2026/04/nrj-group-expose-sommaire-2025.pdf",
+   "https://www.cmacgm-group.com/en/news-media/cma-cgm-completes-acquisition-altice-media",
+   "https://www.cmacgm-group.com/en/news-media/cma-cgm-signed-put-option-agreement-altice-media"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Répartition annoncée le 15/03/2024 : CMA CGM 80 %, Merit France (famille Saadé) 20 %."
  },
  {
   "id": "cmi-france",
@@ -15922,10 +15922,10 @@
     "siren": "722032778",
     "lei": "9695009OW5BFZN8NCX45",
     "type": "groupe",
-    "part_date": "2026-02",
+    "part_date": "2026-02-24",
     "source": {
-     "url": "https://www.toute-la-franchise.com/news-feu-vert-change-actionnaire-bassac",
-     "type": "presse"
+     "url": "https://bassac.fr/__l5e/assets-v1/3519a3b9-c958-41e0-a70f-d95db4f497d5/Finalisation_acquisition_Feu_Vert.pdf",
+     "type": "document_societe"
     }
    }
   ],
@@ -15934,7 +15934,8 @@
   "sources": [
    "https://www.franchise-magazine.com/news-franchise/rachat-reseau-centres-auto-feu-vert-janvier-2026",
    "https://www.toute-la-franchise.com/news-feu-vert-engage-projet-reprise-bassac",
-   "https://www.toute-la-franchise.com/news-feu-vert-change-actionnaire-bassac"
+   "https://www.toute-la-franchise.com/news-feu-vert-change-actionnaire-bassac",
+   "https://bassac.fr/__l5e/assets-v1/3519a3b9-c958-41e0-a70f-d95db4f497d5/Finalisation_acquisition_Feu_Vert.pdf"
   ],
   "verifie_le": "2026-11"
  },
@@ -26059,10 +26060,10 @@
     "part_pct": 50.0,
     "type": "fonds",
     "pays": "US",
-    "part_date": "2020-07",
+    "part_date": "2021-09-15",
     "source": {
-     "url": "https://www.lemondedudroit.fr/deals/70793-latham-watkins-conseil-banques-dans-le-cadre-de-l’acquisition-de-conforama-actionnaires-but.html",
-     "type": "presse"
+     "url": "https://www.autoritedelaconcurrence.fr/sites/default/files/20-102%20-21-DEX-01-publique.pdf",
+     "type": "autorite"
     }
    },
    {
@@ -26072,19 +26073,21 @@
     "type": "groupe",
     "pays": "AT",
     "lei": "529900OJFTLS1RYWIF55",
-    "part_date": "2020-07",
+    "part_date": "2021-09-15",
     "source": {
-     "url": "https://www.lemondedudroit.fr/deals/70793-latham-watkins-conseil-banques-dans-le-cadre-de-l’acquisition-de-conforama-actionnaires-but.html",
-     "type": "presse"
+     "url": "https://www.autoritedelaconcurrence.fr/sites/default/files/20-102%20-21-DEX-01-publique.pdf",
+     "type": "autorite"
     }
    }
   ],
   "description": "Holding commune de But et Conforama.",
   "sources": [
    "https://www.lemondedudroit.fr/deals/70793-latham-watkins-conseil-banques-dans-le-cadre-de-l’acquisition-de-conforama-actionnaires-but.html",
-   "https://next.ink/brief-article/le-rachat-de-conforama-par-mobilux-but-sera-examine-par-lautorite-de-la-concurrence/"
+   "https://next.ink/brief-article/le-rachat-de-conforama-par-mobilux-but-sera-examine-par-lautorite-de-la-concurrence/",
+   "https://www.autoritedelaconcurrence.fr/sites/default/files/20-102%20-21-DEX-01-publique.pdf"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "L'Autorité de la concurrence (décision 21-DEX-01) dit Mobilux « contrôlée à parts égales » par CD&R et WM Holding."
  },
  {
   "id": "mobivia",
@@ -26833,24 +26836,24 @@
   "actionnaires": [
    {
     "nom": "Hellman & Friedman",
-    "part_pct": 22.2,
+    "part_pct": 22.23,
     "type": "fonds",
     "pays": "US",
-    "part_date": "2026-05-25",
+    "part_date": "2026-02-16",
     "source": {
-     "url": "https://www.websim.it/azioni/blue-chip/nexi-cdp-equity-apre-alla-salita-fino-al-29-9-esclude-l-opa//",
-     "type": "presse"
+     "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-02/20260216_177552.pdf",
+     "type": "document_societe"
     }
    },
    {
     "nom": "CDP Equity (Cassa depositi e prestiti, État italien)",
-    "part_pct": 19.1,
+    "part_pct": 19.14,
     "type": "etat",
     "pays": "IT",
-    "part_date": "2026-05-25",
+    "part_date": "2026-02-16",
     "source": {
-     "url": "https://www.websim.it/azioni/blue-chip/nexi-cdp-equity-apre-alla-salita-fino-al-29-9-esclude-l-opa//",
-     "type": "presse"
+     "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-02/20260216_177552.pdf",
+     "type": "document_societe"
     }
    },
    {
@@ -26862,9 +26865,12 @@
   "description": "Paiements électroniques européens ; en France via ses activités d'acquisition et traitement.",
   "sources": [
    "https://www.startmag.it/economia/nexi-escono-bain-e-advent-ora-la-partita-e-tra-cdp-e-hf/",
-   "https://www.websim.it/azioni/blue-chip/nexi-cdp-equity-apre-alla-salita-fino-al-29-9-esclude-l-opa//"
+   "https://www.websim.it/azioni/blue-chip/nexi-cdp-equity-apre-alla-salita-fino-al-29-9-esclude-l-opa//",
+   "https://www.emarketstorage.it/sites/default/files/comunicati/2026-02/20260216_177552.pdf",
+   "https://www.emarketstorage.it/sites/default/files/comunicati/2026-05/20260518_184491.pdf"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Parts au 16/02/2026 (extrait du pacte publié par Nexi). Le 25/05/2026, CDP Equity a été autorisée à monter jusqu'à 29,9 % ; selon la presse (Radiocor, 3/06/2026, d'après la Consob), elle détiendrait 19,64 % en actions et environ 8 % en dérivés. Le pacte « Nets SHA » entre H&F, Advent et Bain a pris fin le 14/05/2026."
  },
  {
   "id": "nexity",
@@ -28739,7 +28745,7 @@
     "part_date": "2025-05-12",
     "source": {
      "url": "https://www.pathe.com/wp-content/uploads/2025/05/Communique-de-Presse-Pathe-X-Merit-12-mai-2025-Anglais-1.pdf",
-     "type": "presse"
+     "type": "document_societe"
     }
    },
    {
@@ -29166,10 +29172,10 @@
     "part_pct": 100.0,
     "type": "famille",
     "pays": "FR",
-    "part_date": "2024-09",
+    "part_date": "2024-10-02",
     "source": {
-     "url": "https://www.abcbourse.com/marches/moez-alexandre-zouari-devient-proprietaire-a-100-de-picard_644484",
-     "type": "presse"
+     "url": "https://www.mondaq.com/pressrelease/148368/lion-capital-signs-a-put-option-agreement-for-the-acquisition-of-its-majority-stake-in-picard-surgel%C3%A9s-by-invest-group-zouari",
+     "type": "document_societe"
     }
    }
   ],
@@ -29177,7 +29183,8 @@
   "sources": [
    "https://www.goodwinlaw.com/en/news-and-events/news/2024/10/announcements-privateequity-lion-capital-signs-agreement-of-picard",
    "https://fr.wikipedia.org/wiki/Picard_Surgel%C3%A9s",
-   "https://www.abcbourse.com/marches/moez-alexandre-zouari-devient-proprietaire-a-100-de-picard_644484"
+   "https://www.abcbourse.com/marches/moez-alexandre-zouari-devient-proprietaire-a-100-de-picard_644484",
+   "https://www.mondaq.com/pressrelease/148368/lion-capital-signs-a-put-option-agreement-for-the-acquisition-of-its-majority-stake-in-picard-surgel%C3%A9s-by-invest-group-zouari"
   ],
   "verifie_le": "2026-11"
  },
@@ -30237,8 +30244,8 @@
     "lei": "529900291XG0CTK4LF95",
     "part_date": "2026-10-07",
     "source": {
-     "url": "https://fashionunited.com/news/business/anta-sports-completes-puma-acquisition-and-becomes-largest-shareholder/2026100775077",
-     "type": "presse"
+     "url": "https://live.deutsche-boerse.com/news/EQS-News-PUMA-welcomes-ANTA-Sports-as-new-largest-shareholder-426245e8-6183-4470-9ef9-e2be8a92dd4c",
+     "type": "document_societe"
     }
    },
    {
@@ -30253,7 +30260,8 @@
    "https://www.worldfootwear.com/news/anta-sports-to-acquire-29-stake-in-puma/11215.html",
    "https://fr.wikipedia.org/wiki/Puma_(entreprise)",
    "https://fashionunited.com/news/business/anta-sports-completes-puma-acquisition-and-becomes-largest-shareholder/2026100775077",
-   "https://www.thestar.com.my/business/business-news/2026/10/09/anta-becomes-puma039s-largest-shareholder-as-firm-accelerates-global-expansion"
+   "https://www.thestar.com.my/business/business-news/2026/10/09/anta-becomes-puma039s-largest-shareholder-as-firm-accelerates-global-expansion",
+   "https://live.deutsche-boerse.com/news/EQS-News-PUMA-welcomes-ANTA-Sports-as-new-largest-shareholder-426245e8-6183-4470-9ef9-e2be8a92dd4c"
   ],
   "verifie_le": "2026-11"
  },
@@ -33797,24 +33805,24 @@
     "pays": "NL",
     "lei": "5493002ENHZ6NYET7405",
     "type": "groupe",
-    "part_date": "2026-05-19",
+    "part_date": "2025-12-31",
     "source": {
-     "url": "https://journalauto.com/constructeurs/quelle-place-aura-la-france-dans-le-plan-de-redressement-de-stellantis/",
-     "type": "presse"
+     "url": "https://www.exor.com/system/files/2026/document-documents/EXOR%202025%20Annual%20Report.pdf",
+     "type": "document_societe"
     }
    },
    {
     "nom": "Peugeot Invest / Établissements Peugeot Frères (famille Peugeot)",
     "id": "peugeot-invest",
-    "part_pct": 7.7,
+    "part_pct": 7.72,
     "pays": "FR",
     "siren": "562075390",
     "lei": "969500Z8LOO0H8JY2E60",
     "type": "famille",
-    "part_date": "2026-05-19",
+    "part_date": "2025-12-31",
     "source": {
-     "url": "https://journalauto.com/constructeurs/quelle-place-aura-la-france-dans-le-plan-de-redressement-de-stellantis/",
-     "type": "presse"
+     "url": "https://peugeot-invest.com/telecharger/1111",
+     "type": "document_societe"
     }
    },
    {
@@ -33842,7 +33850,9 @@
   "sources": [
    "https://de.marketscreener.com/kurs/aktie/STELLANTIS-N-V-117814143/unternehmen-aktionare/",
    "https://journalauto.com/constructeurs/quelle-place-aura-la-france-dans-le-plan-de-redressement-de-stellantis/",
-   "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000021/stellantis-20251231.htm"
+   "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000021/stellantis-20251231.htm",
+   "https://www.exor.com/system/files/2026/document-documents/EXOR%202025%20Annual%20Report.pdf",
+   "https://peugeot-invest.com/telecharger/1111"
   ],
   "verifie_le": "2026-11"
  },
@@ -34440,10 +34450,10 @@
     "part_pct": 45.0,
     "type": "fonds",
     "pays": "CA",
-    "part_date": "2026-09-30",
+    "part_date": "2015-05-28",
     "source": {
-     "url": "https://www.universfreebox.com/?p=597934",
-     "type": "presse"
+     "url": "https://ca-assurances.com/en/?p=7235",
+     "type": "document_societe"
     }
    },
    {
@@ -34474,9 +34484,11 @@
   "sources": [
    "https://www.universfreebox.com/?p=597934",
    "https://www.universfreebox.com/article/526956/8-a-10-milliards-deuros-attendus-pour-la-vente-de-tdf/amp",
-   "https://ca-assurances.com/wp-content/uploads/FR-28-05-15-_-CA-Assurances-TDF.pdf"
+   "https://ca-assurances.com/wp-content/uploads/FR-28-05-15-_-CA-Assurances-TDF.pdf",
+   "https://ca-assurances.com/en/?p=7235"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Répartition de 2015 (communiqué de Crédit Agricole Assurances) ; la presse donne toujours 45 % à Brookfield en septembre 2026."
  },
  {
   "id": "tdr-capital",
@@ -34942,13 +34954,13 @@
    {
     "nom": "État français (via TSA)",
     "id": "etat-francais",
-    "part_pct": 26.6,
+    "part_pct": 26.06,
     "type": "etat",
     "pays": "FR",
-    "part_date": "2024-12-31",
+    "part_date": "2023-09-05",
     "source": {
-     "url": "https://www.tradingsat.com/actualites/marches-financiers/airbus-safran-thales-l-etat-possede-environ-200-milliards-d-euros-d-actions-bercy-evoque-des-cessions-mais-pour-financer-quoi-1142736.html",
-     "type": "presse"
+     "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307504925_20230908.pdf",
+     "type": "autorite"
     }
    },
    {
@@ -34974,9 +34986,11 @@
   "sources": [
    "https://www.thalesgroup.com/fr/investisseurs/action-thales/structure-du-capital",
    "https://www.tradingsat.com/actualites/marches-financiers/airbus-safran-thales-l-etat-possede-environ-200-milliards-d-euros-d-actions-bercy-evoque-des-cessions-mais-pour-financer-quoi-1142736.html",
-   "https://www.dassault-aviation.com/wp-content/blogs.dir/1/files/2025/04/RA_2024_VF_BD.pdf"
+   "https://www.dassault-aviation.com/wp-content/blogs.dir/1/files/2025/04/RA_2024_VF_BD.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/307/8888/01/FC307504925_20230908.pdf"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "L'État détenait 26,06 % du capital via TSA en septembre 2023 (déclaration AMF) ; avec la réduction de capital déclarée en 2025, cette détention représente environ 26,6 % (calcul)."
  },
  {
   "id": "thienot",
@@ -36578,8 +36592,8 @@
     "pays": "US",
     "part_date": "2025-12-31",
     "source": {
-     "url": "https://www.financierworldwide.com/advent-to-take-70-percent-stake-in-reckitts-essential-home-business",
-     "type": "presse"
+     "url": "https://reckitt.com/news/reckitt-completes-divestment-of-essential-home/",
+     "type": "document_societe"
     }
    },
    {
@@ -37965,10 +37979,10 @@
     "pays": "FR",
     "siren": "794661470",
     "lei": "5493001ZMCICV4N02J21",
-    "part_date": "2019",
+    "part_date": "2018-11-30",
     "source": {
-     "url": "https://fibre-systems.com/news/altice-europe-closes-sale-sfr-ftth-stake",
-     "type": "presse"
+     "url": "https://www.omers.com/news/omers-allianz-and-axa-im-real-assets-announce-investment-in-altice-france-s-fibre-to-the-home-business",
+     "type": "document_societe"
     }
    },
    {
@@ -37976,10 +37990,10 @@
     "part_pct": 49.99,
     "type": "fonds",
     "pays": "XX",
-    "part_date": "2019",
+    "part_date": "2018-11-30",
     "source": {
-     "url": "https://fibre-systems.com/news/altice-europe-closes-sale-sfr-ftth-stake",
-     "type": "presse"
+     "url": "https://www.omers.com/news/omers-allianz-and-axa-im-real-assets-announce-investment-in-altice-france-s-fibre-to-the-home-business",
+     "type": "document_societe"
     }
    }
   ],
