@@ -18,8 +18,10 @@ const TYPE_SOURCE = {
   presse: "presse",
   encyclopedie: "encyclopédie",
 };
+// Un document de la société précise sa nature : rapport, communiqué ou page de son site.
+const NATURE_DOC = { rapport: "rapport de la société", communique: "communiqué de la société", page: "site de la société" };
 const sourcePart = (s) =>
-  s?.url ? ` <a class="src-part" href="${esc(s.url)}" target="_blank" rel="noopener" title="source de ce pourcentage">${esc(TYPE_SOURCE[s.type] || "source")}</a>` : "";
+  s?.url ? ` <a class="src-part" href="${esc(s.url)}" target="_blank" rel="noopener" title="source de ce pourcentage">${esc(NATURE_DOC[s.nature] || TYPE_SOURCE[s.type] || "source")}</a>` : "";
 const part = (a) =>
   a.part_pct == null ? "" : ` ${a.part_pct.toLocaleString("fr-FR")} % <span class="date-part" title="date à laquelle cette part a été mesurée">${esc(datePart(a.part_date))}</span>${sourcePart(a.source)}`;
 

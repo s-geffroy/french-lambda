@@ -82,7 +82,8 @@
     "part_date": "2021",
     "source": {
      "url": "https://www.mnpaf.fr/sites/default/files/resource_pdf/SFCR%20unique%202021.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -112,7 +113,8 @@
     "part_date": "2018-10-29",
     "source": {
      "url": "https://mundys.com/sites/default/files/documents/Press%20Release-2018-10-28-1008.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -125,7 +127,8 @@
     "part_date": "2018-10-29",
     "source": {
      "url": "https://mundys.com/sites/default/files/documents/Press%20Release-2018-10-28-1008.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -253,7 +256,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://group.accor.com/en/finance/accor-share/shareholding-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -265,7 +269,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://group.accor.com/en/finance/accor-share/shareholding-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -278,7 +283,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://group.accor.com/en/finance/accor-share/shareholding-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -290,7 +296,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://group.accor.com/en/finance/accor-share/shareholding-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -301,7 +308,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://group.accor.com/en/finance/accor-share/shareholding-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -399,7 +407,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://www.3i.com/media/04oheewu/3i-group-press-release-fy26.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -531,7 +540,8 @@
     "part_date": "2026-02-27",
     "source": {
      "url": "https://vend.com/ir/releases/vend-marketplaces-asa-annual-report-2025-published",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -679,7 +689,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.parisaeroport.fr/docs/default-source/groupe-fichiers/groupe-et-strategie/adp_essentiel_2025_fr.pdf?sfvrsn=a415a5bd_2",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -693,7 +704,8 @@
     "part_date": "2026-02-25",
     "source": {
      "url": "https://www.vinci.com/en/newsroom/press-releases/vinci-launches-issue-bonds-exchangeable-existing-ordinary-shares-groupe-adp",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -716,7 +728,8 @@
     "part_date": "2025-12",
     "source": {
      "url": "https://www.parisaeroport.fr/docs/default-source/groupe-fichiers/finance/information-r%C3%A9glement%C3%A9e-amf/communiqu%C3%A9s-information-permanente/2026/a%C3%A9roports-de-paris-sa---r%C3%A9sultats-annuels-2025.pdf?sfvrsn=10c0a5bd_0",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -824,7 +837,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://www.azzurra-aeroporti.com/sites/default/files/2025-04/Statutory%20financial%20statement%202024%20%28English%29.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -837,7 +851,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://www.azzurra-aeroporti.com/sites/default/files/2025-04/Statutory%20financial%20statement%202024%20%28English%29.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -851,7 +866,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://www.azzurra-aeroporti.com/sites/default/files/2025-04/Statutory%20financial%20statement%202024%20%28English%29.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -862,7 +878,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://www.azzurra-aeroporti.com/sites/default/files/2025-04/Statutory%20financial%20statement%202024%20%28English%29.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -964,7 +981,8 @@
     "part_date": "2002-04",
     "source": {
      "url": "https://www.affinity-petcare.com/es/quienes-somos",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -995,7 +1013,8 @@
     "part_date": "2025-07-01",
     "source": {
      "url": "https://www.afflelou.com/media/wysiwyg/cms/informations-financieres/2025/Afflelou-Press-Release-Transaction-Announcement-July-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -1006,7 +1025,8 @@
     "part_date": "2025-07-01",
     "source": {
      "url": "https://www.afflelou.com/media/wysiwyg/cms/informations-financieres/2025/Afflelou-Press-Release-Transaction-Announcement-July-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -1200,7 +1220,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.airfranceklm.com/sites/default/files/2026-07/2026.06-air-france-klm-consolidated-financial-statements-and-notes-as-of-june-30-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -1212,7 +1233,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.airfranceklm.com/sites/default/files/2026-07/2026.06-air-france-klm-consolidated-financial-statements-and-notes-as-of-june-30-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -1226,7 +1248,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.airfranceklm.com/sites/default/files/2026-07/2026.06-air-france-klm-consolidated-financial-statements-and-notes-as-of-june-30-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -1237,7 +1260,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.airfranceklm.com/sites/default/files/2026-07/2026.06-air-france-klm-consolidated-financial-statements-and-notes-as-of-june-30-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -1249,7 +1273,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.airfranceklm.com/sites/default/files/2026-07/2026.06-air-france-klm-consolidated-financial-statements-and-notes-as-of-june-30-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -1265,7 +1290,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.airfranceklm.com/sites/default/files/2026-07/2026.06-air-france-klm-consolidated-financial-statements-and-notes-as-of-june-30-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -1276,7 +1302,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.airfranceklm.com/sites/default/files/2026-07/2026.06-air-france-klm-consolidated-financial-statements-and-notes-as-of-june-30-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -1819,7 +1846,8 @@
     "part_date": "2025-10-01",
     "source": {
      "url": "https://static.s-sfr.fr/AlticeFrance/publications/Investors/PressReleasesAndNotices/2025/alticefranceannouncesagreementwithcreditors.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -1830,7 +1858,8 @@
     "part_date": "2025-10-01",
     "source": {
      "url": "https://static.s-sfr.fr/AlticeFrance/investors/financial-documentation/Altice-France-SAS-FY-2025-Consolidated-Financial-Statements.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -2080,7 +2109,8 @@
     "part_date": "2026-05-26",
     "source": {
      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-05/20260522_184725.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -2145,7 +2175,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://about.amundi.com/shareholder-hub",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -2639,10 +2670,11 @@
     "siren": "709802094",
     "lei": "969500OQXKE5WDM9M994",
     "type": "groupe",
-    "part_date": "2022-06-30",
+    "part_date": "2025-12-31",
     "source": {
-     "url": "https://www.atlasarteria.com/portfolio/aprr",
-     "type": "document_societe"
+     "url": "https://www.eiffage.com/files/live/sites/eiffagev2/files/Finance/Rapport%20Annuel/EIF_2025_URD_FR-Version%20Accessible.pdf",
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -2650,10 +2682,11 @@
     "part_pct": 30.82,
     "type": "groupe",
     "pays": "AU",
-    "part_date": "2024-07-03",
+    "part_date": "2025-12-31",
     "source": {
-     "url": "https://www.atlasarteria.com/portfolio/aprr",
-     "type": "document_societe"
+     "url": "https://d3ar6irj6sybdw.cloudfront.net/stores/_sharedfiles/Results/2025_Results/ALX%202025%20Annual%20Report.pdf",
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -2664,12 +2697,13 @@
     "part_date": "2024-07-03",
     "source": {
      "url": "https://www.atlasarteria.com/portfolio/aprr",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
   "description": "Deuxième concessionnaire autoroutier français (APRR, AREA).",
-  "note": "Intérêts économiques depuis le 30/06/2022 (page APRR d'Atlas Arteria) : Eiffage 52,5 %, Atlas Arteria 30,82 %, autres investisseurs de MAF Group 16,68 %, via Financière Eiffarie, qui détient directement 100 % d'APRR depuis la dissolution d'Eiffarie SAS au 31/12/2023. APRR a été retirée de la cote après l'offre publique de retrait de décembre 2012.",
+  "note": "Financière Eiffarie détient 100 % d'APRR depuis la dissolution d'Eiffarie SAS au 31/12/2023 ; elle est détenue à 50 % plus une action par Eiffage et à 50 % moins une action par MAF (prospectus EMTN d'APRR, 25/09/2025). En intérêt économique : Eiffage 52,5 % (document d'enregistrement universel 2025), Atlas Arteria 30,82 % via sa part de 61,6 % dans MAF2 (rapport annuel 2025) ; les 16,68 % des autres investisseurs de MAF sont le solde, publié seulement sur le site d'Atlas Arteria. APRR a été retirée de la cote après l'offre publique de retrait de décembre 2012.",
   "sources": [
    "https://www.atlasarteria.com/portfolio/aprr",
    "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2026/02/FCECO081044_20260225.pdf",
@@ -2677,7 +2711,10 @@
    "https://www.eiffage.com/finance",
    "https://fr.wikipedia.org/wiki/Autoroutes_Paris-Rhin-Rh%C3%B4ne",
    "https://www.eiffage.com/files/live/sites/eiffagev2/files/Eiffage_Résultats_annuels_2022.pdf",
-   "https://infrastructureinvestor.com/macquarie-eiffage-disagree-on-french-road"
+   "https://infrastructureinvestor.com/macquarie-eiffage-disagree-on-french-road",
+   "https://www.eiffage.com/files/live/sites/eiffagev2/files/Finance/Rapport%20Annuel/EIF_2025_URD_FR-Version%20Accessible.pdf",
+   "https://d3ar6irj6sybdw.cloudfront.net/stores/_sharedfiles/Results/2025_Results/ALX%202025%20Annual%20Report.pdf",
+   "https://www.aprr.com/files/live/sites/APRR/files/Medias/APRR-Update2025-BP_vfinal.pdf"
   ],
   "verifie_le": "2026-11"
  },
@@ -2721,7 +2758,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://aramis.group/wp-content/uploads/2026/01/aramis-ag-2025-brochure-de-convocation-au-17-01-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -2732,7 +2770,8 @@
     "part_date": "2025-09-30",
     "source": {
      "url": "https://aramis.group/wp-content/uploads/2026/01/aramis-ag-2025-brochure-de-convocation-au-17-01-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -2743,7 +2782,8 @@
     "part_date": "2025-09-30",
     "source": {
      "url": "https://aramis.group/wp-content/uploads/2026/01/aramis-ag-2025-brochure-de-convocation-au-17-01-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -3160,7 +3200,8 @@
     "part_date": "2025-01-13",
     "source": {
      "url": "https://adhoccommunication.it/wp-content/uploads/2025/01/Artsana-nomina-del-nuovo-AD-Alberto-Rivolta-DEF.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -3171,7 +3212,8 @@
     "part_date": "2025-01-13",
     "source": {
      "url": "https://adhoccommunication.it/wp-content/uploads/2025/01/Artsana-nomina-del-nuovo-AD-Alberto-Rivolta-DEF.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -3202,7 +3244,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://doc.irasia.com/listco/hk/ckh/annual/2025/ar2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -3213,7 +3256,8 @@
     "part_date": "2014-04",
     "source": {
      "url": "https://www.ckh.com.hk/en/media/press_each.php?id=2674",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -3277,7 +3321,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://storage.mfn.se/c80d63ae-9cfb-4319-aa31-63ea481fdf57/eng-asmodee-group-annual-report-2025-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -3288,7 +3333,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://storage.mfn.se/c80d63ae-9cfb-4319-aa31-63ea481fdf57/eng-asmodee-group-annual-report-2025-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -3299,7 +3345,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://storage.mfn.se/c80d63ae-9cfb-4319-aa31-63ea481fdf57/eng-asmodee-group-annual-report-2025-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -3508,7 +3555,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.atmb.com/connaitre-atmb/gouvernance-et-statut/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -3519,7 +3567,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.atmb.com/app/uploads/2026/10/repartition-capital-2026.png",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -3530,7 +3579,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.atmb.com/app/uploads/2026/10/repartition-capital-2026.png",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -3541,7 +3591,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.atmb.com/app/uploads/2026/10/repartition-capital-2026.png",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -3552,7 +3603,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.atmb.com/app/uploads/2026/10/repartition-capital-2026.png",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -3604,7 +3656,8 @@
     "part_date": "2025-12",
     "source": {
      "url": "https://www.atosgroup.com/en/investors/capital-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -3616,7 +3669,8 @@
     "part_date": "2025-12",
     "source": {
      "url": "https://www.atosgroup.com/en/investors/capital-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -3628,7 +3682,8 @@
     "part_date": "2025-12",
     "source": {
      "url": "https://www.atosgroup.com/en/investors/capital-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -3681,7 +3736,8 @@
     "part_date": "2021-12-31",
     "source": {
      "url": "https://www.auchan-retail.com/storage/app/uploads/public/650/1c1/f9b/6501c1f9b7a6f273544360.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -3971,7 +4027,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.axa.com/en/investor/capital-ownership",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -3982,7 +4039,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.axa.com/en/investor/capital-ownership",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -3993,7 +4051,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.axa.com/en/investor/capital-ownership",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -4004,7 +4063,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.axa.com/en/investor/capital-ownership",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -4081,7 +4141,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.societegenerale.com/sites/default/files/documents/2026-03/document-enregistrement-universel-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -4418,7 +4479,8 @@
     "part_date": "2023",
     "source": {
      "url": "https://www.journaldespalaces.com/communique-67575-nominations-barriere-fait-evoluer-sa-gouvernance-et-son-actionnariat-avec-l-arrivee-aux-commandes-de-la-quatrieme-generation-qui-procede-au-rachat-de-la-participation-de-fimalac.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -4444,7 +4506,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://annualreport.basic-fit.com/2025/shareholder-information",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -4468,7 +4531,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://annualreport.basic-fit.com/2025/shareholder-information",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -4479,7 +4543,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://annualreport.basic-fit.com/2025/shareholder-information",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -4490,7 +4555,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://annualreport.basic-fit.com/2025/shareholder-information",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -4501,7 +4567,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://annualreport.basic-fit.com/2025/shareholder-information",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -4512,7 +4579,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://annualreport.basic-fit.com/2025/shareholder-information",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -4545,7 +4613,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.bassac.fr/actionnariat",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -4556,7 +4625,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.bassac.fr/actionnariat",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -4567,7 +4637,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.bassac.fr/actionnariat",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -4578,7 +4649,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.bassac.fr/actionnariat",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -4613,7 +4685,8 @@
     "part_date": "2025-06-30",
     "source": {
      "url": "https://bastide-groupe.fr/wp-content/uploads/sites/7/2025/10/Bastide-RA-2025-WEB-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -4624,7 +4697,8 @@
     "part_date": "2025-06-30",
     "source": {
      "url": "https://bastide-groupe.fr/wp-content/uploads/sites/7/2025/10/Bastide-RA-2025-WEB-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -4684,7 +4758,8 @@
     "part_date": "2026-05-29",
     "source": {
      "url": "https://www.assomption.org/jean-baptiste-de-franssu-propose-pour-succeder-a-hubert-chicou-comme-president-du-conseil-de-surveillance-du-groupe-bayard/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -4858,7 +4933,8 @@
     "part_date": "2024",
     "source": {
      "url": "https://www.whirlpoolcorp.com/whirlpool-corporation-completes-major-milestone-in-its-portfolio-transformation-with-closing-of-emea-transaction/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -4871,7 +4947,8 @@
     "part_date": "2024",
     "source": {
      "url": "https://www.whirlpoolcorp.com/whirlpool-corporation-completes-major-milestone-in-its-portfolio-transformation-with-closing-of-emea-transaction/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -4962,7 +5039,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.belfius.be/about-us/dam/corporate/investors/results/en/Belfius-Capital-Market-Days-April-and-May2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -5010,7 +5088,8 @@
     "part_date": "2026-04-24",
     "source": {
      "url": "https://www.vfb.be/Media/Default/pdf/20260424_Annual-Report_NL.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -5022,7 +5101,8 @@
     "part_date": "2021-12-17",
     "source": {
      "url": "https://www.cdr.com/news/cdr-fund-x-sells-belron-stake-in-transaction-that-values-belron-at-eur21-billion",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -5033,7 +5113,8 @@
     "part_date": "2021-12-17",
     "source": {
      "url": "https://dieterengroup.imgix.net/press-releases/20211217_Closing-Belron-shareholdership_EN_FV.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -5044,7 +5125,8 @@
     "part_date": "2024-10-30",
     "source": {
      "url": "https://www.dieterengroup.com/press-releases/transaction-between-belrons-minority-shareholders/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -5095,7 +5177,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.bertelsmann.com/en/company/aktionaere/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -5106,7 +5189,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.bertelsmann.com/en/company/aktionaere/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -5138,7 +5222,8 @@
     "part_date": "2025-10-28",
     "source": {
      "url": "https://ml-eu.globenewswire.com/Resource/Download/fa2bff50-a2c9-45a3-b139-99e37c3e091d",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -5149,7 +5234,8 @@
     "part_date": "2025-10-28",
     "source": {
      "url": "https://ml-eu.globenewswire.com/Resource/Download/fa2bff50-a2c9-45a3-b139-99e37c3e091d",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -5238,7 +5324,8 @@
     "part_date": "2024-10-08",
     "source": {
      "url": "https://ml-eu.globenewswire.com/Resource/Download/0f09d9ff-e1f3-489a-aa38-22577b33ddfc",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -5257,7 +5344,8 @@
     "lei": "969500JJ71T2DIPDVV84",
     "source": {
      "url": "https://ml-eu.globenewswire.com/Resource/Download/0f09d9ff-e1f3-489a-aa38-22577b33ddfc",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -5462,7 +5550,8 @@
     "part_date": "2017-12-01",
     "source": {
      "url": "https://prnewswire.com/news-releases/bitdefender-announces-investment-from-growth-capital-investor-vitruvian-partners---values-business-at-over-600m-661251673.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -5541,7 +5630,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.vnv.global/netcat_files/12/13/vnv_2q26_eng.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -5650,7 +5740,8 @@
     "part_date": "2025-12",
     "source": {
      "url": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/company/downloads/de/2026/Key_Aspects_of_Corporate_Governance.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -5662,7 +5753,8 @@
     "part_date": "2025-12",
     "source": {
      "url": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/company/downloads/de/2026/Key_Aspects_of_Corporate_Governance.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -5673,7 +5765,8 @@
     "part_date": "2025",
     "source": {
      "url": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/company/downloads/de/2026/Key_Aspects_of_Corporate_Governance.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -5705,7 +5798,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://invest.bnpparibas/en/document/2nd-amendment-to-the-2025-universal-registration-document-and-annual-financial-report",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -5716,7 +5810,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://invest.bnpparibas/en/document/2nd-amendment-to-the-2025-universal-registration-document-and-annual-financial-report",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -5727,7 +5822,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://invest.bnpparibas/en/document/2nd-amendment-to-the-2025-universal-registration-document-and-annual-financial-report",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -5738,7 +5834,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://invest.bnpparibas/en/document/2nd-amendment-to-the-2025-universal-registration-document-and-annual-financial-report",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -5749,7 +5846,8 @@
     "part_date": "2025",
     "source": {
      "url": "https://invest.bnpparibas/en/document/universal-registration-document-annual-financial-report-2025-pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -5785,7 +5883,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://invest.bnpparibas/en/document/universal-registration-document-annual-financial-report-2025-pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -5815,7 +5914,8 @@
     "type": "groupe",
     "source": {
      "url": "https://personal-finance.bnpparibas/qui-sommes-nous/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -5861,7 +5961,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.boironfinance.fr/files/Rapport%20financier%20-%20Donn%C3%A9es%20annuelles/Rapport%20Financier%20Annuel%202025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -6138,7 +6239,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.bosch.co.jp/publications/bosch-group-corporate-profile/2026-bosch-group-corporate-profile-en-01.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -6224,7 +6326,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.societegenerale.com/sites/default/files/documents/2026-03/document-enregistrement-universel-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -6311,7 +6414,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.bouygues.com/app/uploads/2026/03/bouygues_deu_2025_fr_web.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -6342,7 +6446,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://filings.xbrl.org/969500MOCLNQFNZN0D63/2024-12-31/ESEF/FR/0/969500MOCLNQFNZN0D63-2024-12-31-0-fr/reports/969500MOCLNQFNZN0D63-2024-12-31-0-fr.xhtml",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -6391,7 +6496,8 @@
     "part_date": "2026-03-17",
     "source": {
      "url": "https://www.groupebpce.com/app/uploads/2026/05/bpce-deu--2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -6402,7 +6508,8 @@
     "part_date": "2026-03-17",
     "source": {
      "url": "https://www.groupebpce.com/app/uploads/2026/05/bpce-deu--2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -6555,7 +6662,8 @@
     "part_date": "2025-10-31",
     "source": {
      "url": "https://brittanyferriesnewsroom.com/wp-content/uploads/2026/05/Sustainability-Report-2025-EN-final.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -6569,7 +6677,8 @@
     "part_date": "2025-10-31",
     "source": {
      "url": "https://brittanyferriesnewsroom.com/wp-content/uploads/2026/05/Sustainability-Report-2025-EN-final.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -6580,7 +6689,8 @@
     "part_date": "2025-10-31",
     "source": {
      "url": "https://brittanyferriesnewsroom.com/wp-content/uploads/2026/05/Sustainability-Report-2025-EN-final.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -6591,7 +6701,8 @@
     "part_date": "2025-10-31",
     "source": {
      "url": "https://brittanyferriesnewsroom.com/wp-content/uploads/2026/05/Sustainability-Report-2025-EN-final.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -6625,7 +6736,8 @@
     "part_date": "2025-01",
     "source": {
      "url": "https://filings.xbrl.org/5299001O0WJQYB5GYZ19/2025-12-31/ESEF/DK/0/Carlsberg-2025-12-31-en/reports/Carlsberg-2025-12-31-en.xhtml",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -6718,7 +6830,8 @@
     "part_date": "2015-01",
     "source": {
      "url": "https://www.bsh-group.com/about-bsh/company-portrait/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -6860,7 +6973,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://www.dccenergy.com/~/media/Files/D/Dcc-Corp-v3/documents/investors/annual-and-sustainability-reports/2026/annual-report-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -6913,7 +7027,8 @@
     "part_date": "2023-11",
     "source": {
      "url": "https://newsroom.tiktok.com/fact-vs-fiction-on-tiktok",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -6924,7 +7039,8 @@
     "part_date": "2023-11",
     "source": {
      "url": "https://newsroom.tiktok.com/fact-vs-fiction-on-tiktok",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -6935,7 +7051,8 @@
     "part_date": "2023-11",
     "source": {
      "url": "https://newsroom.tiktok.com/fact-vs-fiction-on-tiktok",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -6967,7 +7084,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://filings.xbrl.org/969500TJ5KRTCJQWXH05/2025-12-31/ESEF/FR/0/969500TJ5KRTCJQWXH05-2025-12-31-1-fr/reports/969500TJ5KRTCJQWXH05-2025-12-31-1-fr.xhtml",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -6994,7 +7112,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://cafom.com/ashymuzu/2026/07/Rapport-Financier-Semestriel-CAFOM-au-31-mars-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -7007,7 +7126,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://cafom.com/ashymuzu/2026/07/Rapport-Financier-Semestriel-CAFOM-au-31-mars-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -7018,7 +7138,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://cafom.com/ashymuzu/2026/07/Rapport-Financier-Semestriel-CAFOM-au-31-mars-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -7029,7 +7150,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://cafom.com/ashymuzu/2026/07/Rapport-Financier-Semestriel-CAFOM-au-31-mars-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -7040,7 +7162,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://cafom.com/ashymuzu/2026/07/Rapport-Financier-Semestriel-CAFOM-au-31-mars-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -7051,7 +7174,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://cafom.com/ashymuzu/2026/07/Rapport-Financier-Semestriel-CAFOM-au-31-mars-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -7062,7 +7186,8 @@
     "part_date": "2025-09-30",
     "source": {
      "url": "https://cafom.com/ashymuzu/2026/01/CAFOM-Rapport-Financier-Annuel-30-septembre-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -7198,7 +7323,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.bollore.com/wp-content/uploads/2026/09/2026-09-16-bollore-cp-resultats-s1-2026-uk.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -7209,7 +7335,8 @@
     "part_date": "2026-09-16",
     "source": {
      "url": "https://www.bollore.com/wp-content/uploads/2026/09/2026-09-16-bollore-cp-resultats-s1-2026-uk.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -7370,7 +7497,8 @@
     "part_date": "2025-10-31",
     "source": {
      "url": "https://fr.newsroom.eurazeo.com/actualites/eurazeo-finalise-la-cession-du-groupe-cpk-a-la-holding-europeenne-de-ferrara-candy-company-41a2e-7ed35.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -7496,7 +7624,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.carrefour.com/sites/default/files/2026-03/CFR2025_URD_FR_PDF_MEL_270326.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -7508,7 +7637,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.carrefour.com/sites/default/files/2026-03/CFR2025_URD_FR_PDF_MEL_270326.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -7532,7 +7662,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.carrefour.com/sites/default/files/2026-03/CFR2025_URD_FR_PDF_MEL_270326.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -7806,7 +7937,8 @@
     "part_date": "2025-06",
     "source": {
      "url": "https://www.groupe-casino.fr/wp-content/uploads/2025/06/2025-06-16-CP-Casino-Cnova.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -7898,7 +8030,8 @@
     "part_date": "2026-09-30",
     "source": {
      "url": "https://www.cegedim.fr/finance/action/Pages/actionnariat.aspx",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -7909,7 +8042,8 @@
     "part_date": "2026-09-30",
     "source": {
      "url": "https://www.cegedim.fr/finance/action/Pages/actionnariat.aspx",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -7920,7 +8054,8 @@
     "part_date": "2026-09-30",
     "source": {
      "url": "https://www.cegedim.fr/finance/action/Pages/actionnariat.aspx",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -8261,7 +8396,8 @@
     "part_date": "2026-10-22",
     "source": {
      "url": "https://irpages2.eqs.com/download/companies/cewe/factsheet_518_german.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -8272,7 +8408,8 @@
     "part_date": "2026-05",
     "source": {
      "url": "https://irpages2.eqs.com/download/companies/cewe/factsheet_518_german.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -8283,7 +8420,8 @@
     "part_date": "2026-10-22",
     "source": {
      "url": "https://irpages2.eqs.com/download/companies/cewe/factsheet_518_german.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -8294,7 +8432,8 @@
     "part_date": "2026-10-22",
     "source": {
      "url": "https://irpages2.eqs.com/download/companies/cewe/factsheet_518_german.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -8482,7 +8621,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.cic.fr/telechargements/institutionnel/cic/information-reglementee/document-enregistrement-universel-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -8493,7 +8633,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.cic.fr/telechargements/institutionnel/cic/information-reglementee/document-enregistrement-universel-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -8632,7 +8773,8 @@
     "part_date": "2026-08-31",
     "source": {
      "url": "https://www.clariane.com/en/investor-area/the-clariane-share",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -8645,7 +8787,8 @@
     "part_date": "2026-08-31",
     "source": {
      "url": "https://www.clariane.com/en/investor-area/the-clariane-share",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -8656,7 +8799,8 @@
     "part_date": "2026-08-31",
     "source": {
      "url": "https://www.clariane.com/en/investor-area/the-clariane-share",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -8804,7 +8948,8 @@
     "part_date": "2024-07-02",
     "source": {
      "url": "https://www.cmacgm-group.com/en/news-media/cma-cgm-completes-acquisition-altice-media",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -8968,7 +9113,8 @@
     "part_date": "2023-12-31",
     "source": {
      "url": "https://www.cnp.fr/cnp/content/download/11497/file/CNP-Assurances-Document-Enregistrement-Universel-2023-VF.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -9002,7 +9148,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.cnr.tm.fr/a-propos/gouvernance/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -9016,7 +9163,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.cnr.tm.fr/a-propos/gouvernance/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -9027,7 +9175,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.cnr.tm.fr/a-propos/gouvernance/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -9178,7 +9327,8 @@
     "part_date": "2022-04",
     "source": {
      "url": "https://www.cmacgm-group.com/en/news-media/cma-cgm-finalizes-acquisition-leading-last-mile-provider-colis-prive",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -9360,7 +9510,8 @@
     "part_date": "2024-09-30",
     "source": {
      "url": "https://compagniedesalpes.com/sites/default/files/documents/2025-02/COMPAGNIE_DES_ALPES_DEU_2024_FR_MEL%20%281%29%20%281%29.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -9373,7 +9524,8 @@
     "part_date": "2024-09-30",
     "source": {
      "url": "https://compagniedesalpes.com/sites/default/files/documents/2025-02/COMPAGNIE_DES_ALPES_DEU_2024_FR_MEL%20%281%29%20%281%29.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -9386,7 +9538,8 @@
     "part_date": "2024-09-30",
     "source": {
      "url": "https://compagniedesalpes.com/sites/default/files/documents/2025-02/COMPAGNIE_DES_ALPES_DEU_2024_FR_MEL%20%281%29%20%281%29.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -9397,7 +9550,8 @@
     "part_date": "2024-09-30",
     "source": {
      "url": "https://compagniedesalpes.com/sites/default/files/documents/2025-02/COMPAGNIE_DES_ALPES_DEU_2024_FR_MEL%20%281%29%20%281%29.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -9408,7 +9562,8 @@
     "part_date": "2024-09-30",
     "source": {
      "url": "https://compagniedesalpes.com/sites/default/files/documents/2025-02/COMPAGNIE_DES_ALPES_DEU_2024_FR_MEL%20%281%29%20%281%29.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -9439,7 +9594,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.bois-sauvage.be/wp-content/uploads/2026/07/25097-AKKA-Cie-Bois-Sauvage-Rapport-25-FR-260703.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -9674,7 +9830,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://continental.com/en/investors/shares/shareholder-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -10050,7 +10207,8 @@
     "part_date": "2025-06-30",
     "source": {
      "url": "https://www.ca-assurances.com/wp-content/uploads/CAA-consolidated-financial-statement-30.06.2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -10079,7 +10237,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.credit-agricole.com/pdfPreview/211079",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -10090,7 +10249,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.credit-agricole.com/pdfPreview/211079",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -10101,7 +10261,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.credit-agricole.com/pdfPreview/211079",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -10191,7 +10352,8 @@
     "part_date": "2026-02-28",
     "source": {
      "url": "https://www.groupe-crit.com/infos/annuel/CRIT_DEU_2025_FR_OPTI.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -10204,7 +10366,8 @@
     "part_date": "2026-02-28",
     "source": {
      "url": "https://www.groupe-crit.com/infos/annuel/CRIT_DEU_2025_FR_OPTI.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -10260,7 +10423,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://irpages2.eqs.com/download/companies/cts-eventim/factsheet_418_English.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -10420,7 +10584,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.edf.fr/sites/groupe/files/2026-04/2026-04-02-edf-urd-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -10554,7 +10719,8 @@
     "part_date": "2025-04-02",
     "source": {
      "url": "https://announcements.asx.com.au/asxpdf/20241223/pdf/06czb0h34nyj92.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -10840,7 +11006,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://via.ritzau.dk/ir-files/13560112/14774039/17104/Demant%20Annual%20Report%202025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -10902,7 +11069,8 @@
     "part_date": "2025-08-31",
     "source": {
      "url": "https://www.desjoyaux.com/wp-content/uploads/2025/12/Bilan-24-25.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -10969,7 +11137,8 @@
     "part_date": "2024-02-07",
     "source": {
      "url": "https://www.boerse-online.de/dpa-afx/eqs-stimmrechte-deutsche-post-ag-deutsch-348172.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -11123,7 +11292,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://le-groupe-laposte.cdn.prismic.io/le-groupe-laposte/ah1HHgeQX7-eWeOy_LAPO_DEU_2025_eAccess_FR_PDF_UA_V2.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -11432,7 +11602,8 @@
     "part_date": "2026-08-06",
     "source": {
      "url": "https://s203.q4cdn.com/522538739/files/doc_downloads/2026/08/Statement-re-recommended-acquisition-06-08-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -11495,7 +11666,8 @@
     "part_date": "2023",
     "source": {
      "url": "https://www.eaudugrandlyon.com/mon-service-public/qui-sommes-nous/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -11543,7 +11715,8 @@
     "part_date": "2025-01-28",
     "source": {
      "url": "https://www.creditmutuel.fr/fr/alliancefederale/presse/communiques-de-presse/depart-philippe-carli-groupe-ebra.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -11856,7 +12029,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://s202.q4cdn.com/903232390/files/doc_downloads/AGM/2026/28/Annual-Corporate-Governance-Report-fiscal-year-ended-March-31-2026-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -11867,7 +12041,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://s202.q4cdn.com/903232390/files/doc_downloads/AGM/2026/28/Annual-Corporate-Governance-Report-fiscal-year-ended-March-31-2026-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -11878,7 +12053,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://s202.q4cdn.com/903232390/files/doc_downloads/AGM/2026/28/Annual-Corporate-Governance-Report-fiscal-year-ended-March-31-2026-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -11889,7 +12065,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://s202.q4cdn.com/903232390/files/doc_downloads/AGM/2026/28/Annual-Corporate-Governance-Report-fiscal-year-ended-March-31-2026-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -11900,7 +12077,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://s202.q4cdn.com/903232390/files/doc_downloads/AGM/2026/28/Annual-Corporate-Governance-Report-fiscal-year-ended-March-31-2026-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -11937,7 +12115,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.groupe-sncf.com/medias-publics/2026-02/rapport-financier-annuel-2025-groupe-sncf.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -11985,7 +12164,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.eiffage.com/files/live/sites/eiffagev2/files/Finance/Rapport%20Annuel/EIF_2025_URD_FR-Version%20Accessible.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -12037,7 +12217,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.eiffage.com/files/live/sites/eiffagev2/files/Finance/Rapport%20Annuel/EIF_2025_URD_FR-Version%20Accessible.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -12304,7 +12485,8 @@
     "part_date": "2025-09-30",
     "source": {
      "url": "https://www.eliorgroup.com/sites/www.eliorgroup.com/files/2025-12/urd_elior_group_2024-2025_fr.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -12317,7 +12499,8 @@
     "part_date": "2024-11-04",
     "source": {
      "url": "https://www.eliorgroup.com/sites/www.eliorgroup.com/files/2025-12/urd_elior_group_2024-2025_fr.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -12459,7 +12642,8 @@
     "part_date": "2021-10-12",
     "source": {
      "url": "https://www.ta.com/news/ta-associates-to-acquire-a-significant-stake-in-partners-group-owned-foncia/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -12505,7 +12689,8 @@
     "part_date": "2020-04-06",
     "source": {
      "url": "https://www.haniel.de/en/press-releases/news/another-milestone-in-the-transformation-process-emma-becomes-part-of-haniel-group/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -12516,7 +12701,8 @@
     "part_date": "2020-04-06",
     "source": {
      "url": "https://www.haniel.de/en/press-releases/news/another-milestone-in-the-transformation-process-emma-becomes-part-of-haniel-group/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -12527,7 +12713,8 @@
     "part_date": "2020-04-06",
     "source": {
      "url": "https://www.haniel.de/en/press-releases/news/another-milestone-in-the-transformation-process-emma-becomes-part-of-haniel-group/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -12630,7 +12817,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.edf.fr/sites/groupe/files/2026-04/2026-04-02-edf-urd-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -12689,7 +12877,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.engie.com/app/uploads/2026/04/Document-denregistrement-universel-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -12702,7 +12891,8 @@
     "lei": "529900VBK42Y5HHRMD23",
     "source": {
      "url": "https://www.engie.com/app/uploads/2026/04/Document-denregistrement-universel-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -12713,7 +12903,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.engie.com/app/uploads/2026/04/Document-denregistrement-universel-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -12727,7 +12918,8 @@
     "lei": "969500Q2PFTTP0Y5QL44",
     "source": {
      "url": "https://www.engie.com/app/uploads/2026/04/Document-denregistrement-universel-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -13152,7 +13344,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.essilorluxottica.com/cap/content/284350/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -13163,7 +13356,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.essilorluxottica.com/cap/content/284350/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -13174,7 +13368,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.essilorluxottica.com/cap/content/284350/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -13455,7 +13650,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.generali.com/doc/jcr:8008ad07-5dcc-4b02-b0ac-2643cddc6d52/Half-Yearly%20Consolidated%20Financial%20Report%202026_Generali%20Group.pdf/lang:en/Half-Yearly_Consolidated_Financial_Report_2026_Generali_Group.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -13485,7 +13681,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://europacorp.com/storage/764/01KYQETYDBQNAM4R8941XVE8GT.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -13496,7 +13693,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://europacorp.com/storage/764/01KYQETYDBQNAM4R8941XVE8GT.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -13507,7 +13705,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://europacorp.com/storage/764/01KYQETYDBQNAM4R8941XVE8GT.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -13518,7 +13717,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://europacorp.com/storage/764/01KYQETYDBQNAM4R8941XVE8GT.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -13553,7 +13753,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.europcar-mobility-group.com/wp-content/uploads/2026-04-30_fy-2025-consolidated-accounts.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -13583,7 +13784,8 @@
     "part_date": "2022-04-29",
     "source": {
      "url": "https://www.lacaisse.com/en/news/pressreleases/eurostar-thalys-join-forces-lay-foundations-new-european-player-sustainable-high",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -13596,7 +13798,8 @@
     "part_date": "2022-04-29",
     "source": {
      "url": "https://www.lacaisse.com/en/news/pressreleases/eurostar-thalys-join-forces-lay-foundations-new-european-player-sustainable-high",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -13609,7 +13812,8 @@
     "part_date": "2022-04-29",
     "source": {
      "url": "https://www.lacaisse.com/en/news/pressreleases/eurostar-thalys-join-forces-lay-foundations-new-european-player-sustainable-high",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -13620,7 +13824,8 @@
     "part_date": "2022-04-29",
     "source": {
      "url": "https://www.lacaisse.com/en/news/pressreleases/eurostar-thalys-join-forces-lay-foundations-new-european-player-sustainable-high",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -15735,7 +15940,8 @@
     "part_date": "2022-10-17",
     "source": {
      "url": "https://content.presspage.com/uploads/2519/pr-fastnedannouncesa75millioneurostrategicinvestmentfromschroderscapitalthatwillacceleratefastnedsfuturegrowth.pdf?10000",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -15783,7 +15989,8 @@
     "part_date": "2026-02",
     "source": {
      "url": "https://www.fdjunited.com/wp-content/uploads/2026/04/FDJRAI25FRAccessible.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -15794,7 +16001,8 @@
     "part_date": "2026-02",
     "source": {
      "url": "https://www.fdjunited.com/wp-content/uploads/2026/04/FDJRAI25FRAccessible.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -15805,7 +16013,8 @@
     "part_date": "2026-02",
     "source": {
      "url": "https://www.fdjunited.com/wp-content/uploads/2026/04/FDJRAI25FRAccessible.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -15902,7 +16111,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.fsitaliane.it/content/dam/fsitaliane/Documents/investor-relations/relazioni-finanziarie/2026/22.05.2026_REPORT_INTEGRATO_FS2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -15947,7 +16157,8 @@
     "part_date": "2026-02-24",
     "source": {
      "url": "https://bassac.fr/__l5e/assets-v1/3519a3b9-c958-41e0-a70f-d95db4f497d5/Finalisation_acquisition_Feu_Vert.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -16023,7 +16234,8 @@
     "part_date": "2026-04-15",
     "source": {
      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-04/20260415_182094.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -16152,7 +16364,8 @@
     "part_date": "2023-10-12",
     "source": {
      "url": "https://www.boerse-online.de/dpa-afx/eqs-stimmrechte-flatexdegiro-ag-deutsch-325461.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -16222,7 +16435,8 @@
     "part_date": "2024-07-04",
     "source": {
      "url": "https://eqtgroup.com/en/news/eqt-and-kuhne-holding-invest-in-flix-the-global-travel-company-2024-07-04",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -16260,7 +16474,8 @@
     "part_date": "2022",
     "source": {
      "url": "https://invest.bnpparibas/en/document/universal-registration-document-annual-financial-report-2025-pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -16349,7 +16564,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.fnacdarty.com/wp-content/uploads/2026/07/rapport-financier-semestriel-2026-final.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -16362,7 +16578,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.fnacdarty.com/wp-content/uploads/2026/07/rapport-financier-semestriel-2026-final.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -16374,7 +16591,8 @@
     "part_date": "2026-01-31",
     "source": {
      "url": "https://www.fnacdarty.com/wp-content/uploads/2026/03/fnac-darty-deu-2025-assemblage-pdf-opti-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -16723,7 +16941,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://investors.societegenerale.com/sites/default/files/documents/2026-03/document-enregistrement-universel-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -16753,7 +16972,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://www.plesio.fr/wp-content/uploads/2025/03/CASINO_DEU_2024_VFR.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -16862,7 +17082,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.nestle.com/sites/default/files/2026-02/financial-statements-2025-en.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -16901,7 +17122,8 @@
     "part_date": "2025-10",
     "source": {
      "url": "https://thewaltdisneycompany.com/news/fubo-hulu-live-tv-combine/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -17086,7 +17308,8 @@
     "part_date": "2020-03-06",
     "source": {
      "url": "https://www.cppinvestments.com/wp-content/uploads/2020/03/cpp-investments-global-investors-galileo-global-education-06Mar2020-EN.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -17098,7 +17321,8 @@
     "part_date": "2020-03-06",
     "source": {
      "url": "https://www.cppinvestments.com/wp-content/uploads/2020/03/cpp-investments-global-investors-galileo-global-education-06Mar2020-EN.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -17149,7 +17373,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.vivendi.com/en/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -17197,7 +17422,8 @@
     "part_date": "2026-07-17",
     "source": {
      "url": "https://www.gaumont.com/sites/com/files/2026-07/Gaumont%20-%20Projet%20de%20note%20en%20r%C3%A9ponse.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -17208,7 +17434,8 @@
     "part_date": "2025",
     "source": {
      "url": "https://www.gaumont.com/sites/com/files/2026-07/Gaumont%20-%20Projet%20de%20note%20en%20r%C3%A9ponse.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -17360,7 +17587,8 @@
     "part_date": "2026-10-07",
     "source": {
      "url": "https://www.generali.com/investors/share-information-analysts/ownership-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -17373,7 +17601,8 @@
     "part_date": "2026-10-07",
     "source": {
      "url": "https://www.generali.com/investors/share-information-analysts/ownership-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -17385,7 +17614,8 @@
     "part_date": "2026-10-07",
     "source": {
      "url": "https://www.generali.com/investors/share-information-analysts/ownership-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -17396,7 +17626,8 @@
     "part_date": "2026-10-07",
     "source": {
      "url": "https://www.generali.com/investors/share-information-analysts/ownership-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -17408,7 +17639,8 @@
     "part_date": "2026-10-07",
     "source": {
      "url": "https://www.generali.com/investors/share-information-analysts/ownership-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -17420,7 +17652,8 @@
     "part_date": "2026-10-07",
     "source": {
      "url": "https://www.generali.com/investors/share-information-analysts/ownership-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -17477,7 +17710,8 @@
     "part_date": "2025",
     "source": {
      "url": "https://assets2.keepeek.com/medias/domain7894/media100366/109881-jiete0ws7y.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -17509,7 +17743,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.lapostegroupe.com/assets/media/le-groupe-laposte/aaBf48FoBIGEg3bI_2025_12_Comptes_consolides_EN.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -17758,7 +17993,8 @@
     "part_date": "2025-08-18",
     "source": {
      "url": "https://d1io3yog0oux5.cloudfront.net/_3c8b019cee13fc1263029a983a9a9883/shift4/news/2025-08-18_Shift4_Completes_Squeeze_Out_Merger_of_Global_274.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -17790,7 +18026,8 @@
     "part_date": "2026-03-29",
     "source": {
      "url": "https://www.internationaldistributionservices.com/media/13027/ids-annual-report-2025-26.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -18572,7 +18809,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.lagardere.com/wp-content/uploads/2026/04/260409_lagardere_urd_fr.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -18713,7 +18951,8 @@
     "part_date": "2026-02-20",
     "source": {
      "url": "https://www.havas.com/wp-content/uploads/2026/02/pr_etoiledesmers_final.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -18724,7 +18963,8 @@
     "part_date": "2026-02-20",
     "source": {
      "url": "https://www.havas.com/wp-content/uploads/2026/02/pr_etoiledesmers_final.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -18805,7 +19045,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.theheinekencompany.com/sites/heineken-corp/files/2026-02/2025_Heineken_NV_Annual_Report_Interactive_100226_FINAL.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -18927,7 +19168,8 @@
     "part_date": "2026-02-11",
     "source": {
      "url": "https://corporate.hema.com/en/hema-continues-growth-strategy-under-full-ownership-of-the-van-eerd-family/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -19035,7 +19277,8 @@
     "part_date": "2025-12-23",
     "source": {
      "url": "https://www.nestle.com/media/news/nestle-sells-herta-foods-stake-casa-tarradellas",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -19482,7 +19725,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www-file.huawei.com/dam/asset/view/dec782afd1544f558c32fc76e3141334.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -19573,7 +19817,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.iairgroup.com/media/ktnlp1jx/iag-annual-report-and-accounts-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -19584,7 +19829,8 @@
     "part_date": "2026-02-11",
     "source": {
      "url": "https://www.iairgroup.com/media/ipdhlhw4/annual-corporate-governance-report-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -19623,7 +19869,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.icade.fr/finance/publications/document-d-enregistrement-universel-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -19637,7 +19884,8 @@
     "lei": "969500K2MUPSI57XK083",
     "source": {
      "url": "https://www.icade.fr/finance/publications/document-d-enregistrement-universel-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -19969,7 +20217,8 @@
     "part_date": "2026-03-26",
     "source": {
      "url": "https://www.group-indigo.com/wp-content/uploads/2026/03/Communique-de-Presse-Resultats-FY25_FR.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -19982,7 +20231,8 @@
     "part_date": "2026-03-26",
     "source": {
      "url": "https://www.group-indigo.com/wp-content/uploads/2026/03/Communique-de-Presse-Resultats-FY25_FR.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -19993,7 +20243,8 @@
     "part_date": "2026-03-26",
     "source": {
      "url": "https://www.group-indigo.com/wp-content/uploads/2026/03/Communique-de-Presse-Resultats-FY25_FR.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -20027,7 +20278,8 @@
     "part_date": "2026-01-31",
     "source": {
      "url": "https://www.inditex.com/itxcomweb/api/media/bc056846-807b-4924-b11c-c85797226a7f/IAGC2025_ENG.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -20038,7 +20290,8 @@
     "part_date": "2026-01-31",
     "source": {
      "url": "https://www.inditex.com/itxcomweb/api/media/bc056846-807b-4924-b11c-c85797226a7f/IAGC2025_ENG.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -20094,7 +20347,8 @@
     "part_date": "2025-08-31",
     "source": {
      "url": "https://assets.site.ingka.com/ingka-com/reports/ingka-group-annual-report-summary-fy25.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -20147,7 +20401,8 @@
     "part_date": "2026-09-30",
     "source": {
      "url": "https://bliskociebie.inpost.pl/en/oferta-konsorcjum",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -20160,7 +20415,8 @@
     "part_date": "2026-09-30",
     "source": {
      "url": "https://bliskociebie.inpost.pl/en/oferta-konsorcjum",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -20171,7 +20427,8 @@
     "part_date": "2026-09-30",
     "source": {
      "url": "https://bliskociebie.inpost.pl/en/oferta-konsorcjum",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -20184,7 +20441,8 @@
     "part_date": "2026-09-30",
     "source": {
      "url": "https://bliskociebie.inpost.pl/en/oferta-konsorcjum",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -20563,7 +20821,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.edf.fr/sites/groupe/files/2026-04/2026-04-02-edf-urd-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -20692,7 +20951,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.jcdecaux.com/jcdecaux/download-file?url=public%3A//blocks/downloadable_file/2026-04/2025_JCDecaux_URD.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -20703,7 +20963,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.jcdecaux.com/jcdecaux/download-file?url=public%3A//blocks/downloadable_file/2026-04/2025_JCDecaux_URD.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -20739,7 +21000,8 @@
     "part_date": "2026-09-01",
     "source": {
      "url": "https://www.investegate.co.uk/announcement/rns/jd-sports-fashion--jd./holding-s-in-company/9754666",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -20898,7 +21160,8 @@
     "part_date": "2019-12-05",
     "source": {
      "url": "https://www.kantar.com/press-center/completion-of-kantar-transaction",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -20911,7 +21174,8 @@
     "part_date": "2019-12-05",
     "source": {
      "url": "https://www.kantar.com/press-center/completion-of-kantar-transaction",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -20936,7 +21200,8 @@
     "part_date": "2025-08",
     "source": {
      "url": "https://hig.com/news/h-i-g-capital-completes-acquisition-of-kantar-media/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -21139,7 +21404,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.groupe-sncf.com/medias-publics/2026-04/rapport-annuel-integre-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -21210,7 +21476,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://www.kering.com/fr/finance/a-propos-de-kering/repartition-du-capital/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -21420,7 +21687,8 @@
     "part_date": "2023-08-11",
     "source": {
      "url": "https://celluloidjunkie.com/wire/kinohold-bis-sa-announces-private-sale-of-180001-shares-to-eddy-duquenne-ceo-of-kinepolis-and-members-of-the-bert-family/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -21720,7 +21988,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://filings.xbrl.org/5299001O0WJQYB5GYZ19/2025-12-31/ESEF/DK/0/Carlsberg-2025-12-31-en/reports/Carlsberg-2025-12-31-en.xhtml",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -21869,7 +22138,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.loreal-finance.com/eng/2025-universal-registration-document/en/article/396/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -21882,7 +22152,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.loreal-finance.com/eng/2025-universal-registration-document/en/article/396/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -21921,7 +22192,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://filings.xbrl.org/96950066U5XAAIRCPA78/2025-12-31/ESEF/FR/0/96950066U5XAAIRCPA78-2025-12-31-1-FR/reports/96950066U5XAAIRCPA78-2025-12-31-1-FR.xhtml",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -21949,7 +22221,8 @@
     "part_date": "2025-09-26",
     "source": {
      "url": "https://www.olxgroup.com/?p=4319",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -22083,7 +22356,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.lapostegroupe.com/assets/media/le-groupe-laposte/adTxQZGXnQHGZUXK_Nombre_total_d_actions_et_de_droits_de_vote_composant_le_capital_social_au_31122025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -22095,7 +22369,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.lapostegroupe.com/assets/media/le-groupe-laposte/adTxQZGXnQHGZUXK_Nombre_total_d_actions_et_de_droits_de_vote_composant_le_capital_social_au_31122025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -22130,7 +22405,8 @@
     "part_date": "2024-11",
     "source": {
      "url": "https://www.corporate.bouyguestelecom.fr/wp-content/uploads/2024/11/Bouygues-Telecom-acquiert-loperateur-virtuel-La-Poste-Mobile.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -22279,7 +22555,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.nestle.com/sites/default/files/2026-02/financial-statements-2025-en.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -22292,7 +22569,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.nestle.com/sites/default/files/2026-02/financial-statements-2025-en.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -22323,7 +22601,8 @@
     "part_date": "2026-05-05",
     "source": {
      "url": "https://www.louishachettegroup.com/wp-content/uploads/2026/05/260505_AG2026_Louis_Hachette_Group_Presentation_FR.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -22336,7 +22615,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.lagardere.com/wp-content/uploads/2026/04/260409_lagardere_urd_fr.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -22350,7 +22630,8 @@
     "lei": "969500FU4DRAEVJW7U54",
     "source": {
      "url": "https://www.lagardere.com/wp-content/uploads/2026/04/260409_lagardere_urd_fr.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -22452,7 +22733,8 @@
     "part_date": "2021-06-01",
     "source": {
      "url": "https://mutares.com/en/?p=25045",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -22482,7 +22764,8 @@
     "part_date": "2026-08-31",
     "source": {
      "url": "https://corporate.lastminute.com/investors/shareholders/shareholder-structure/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -22493,7 +22776,8 @@
     "part_date": "2026-08-31",
     "source": {
      "url": "https://corporate.lastminute.com/investors/shareholders/shareholder-structure/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -22504,7 +22788,8 @@
     "part_date": "2026-08-31",
     "source": {
      "url": "https://corporate.lastminute.com/investors/shareholders/shareholder-structure/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -22515,7 +22800,8 @@
     "part_date": "2026-08-31",
     "source": {
      "url": "https://corporate.lastminute.com/investors/shareholders/shareholder-structure/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -22579,7 +22865,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://www.finance-groupelp.com/sites/files/lpfinances/pdf/2026/Geographie_actionnariat_FR.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -22645,7 +22932,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://portail-lcl-web.cdn.prismic.io/portail-lcl-web/agRMdqYofJOwHLMw_LCLComptesconsolid%C3%A9sau31d%C3%A9cembre2025Vcac.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -22656,7 +22944,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://portail-lcl-web.cdn.prismic.io/portail-lcl-web/agRMdqYofJOwHLMw_LCLComptesconsolid%C3%A9sau31d%C3%A9cembre2025Vcac.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -22965,7 +23254,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://origin-corporatewebleasys.leasys.com/corporate/investor-relations/2025_Credit_Update_Leasys Group__IR Deck_VF_1307.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -22977,7 +23267,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://origin-corporatewebleasys.leasys.com/corporate/investor-relations/2025_Credit_Update_Leasys Group__IR Deck_VF_1307.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -23053,7 +23344,8 @@
     "lei": "5493005XXPWUMR2E5305",
     "source": {
      "url": "https://www.kirkbi.com/lego-holding/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -23064,7 +23356,8 @@
     "lei": "549300GLXGLTNDF1I826",
     "source": {
      "url": "https://www.kirkbi.com/lego-holding/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -23137,7 +23430,8 @@
     "part_date": "2026-07-01",
     "source": {
      "url": "https://www.belfius.be/about-us/dam/corporate/press-room/press-articles/downloads/fr/2026/Communique-de-presse-Belfius-Insurance-Leocare-12-06-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -23928,7 +24222,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://filings.xbrl.org/549300GWJTQLQRWX8O02/2024-12-31/ESEF/LU/0/ldc-2024-12-31-en/reports/ldc-2024-12-31-en.xhtml",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -23959,7 +24254,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.louishachettegroup.com/wp-content/uploads/2026/05/260326_LHG_RAPPORT_ANNUEL.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -23970,7 +24266,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.louishachettegroup.com/wp-content/uploads/2026/05/260326_LHG_RAPPORT_ANNUEL.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -23981,7 +24278,8 @@
     "part_date": "2025-11-24",
     "source": {
      "url": "https://www.louishachettegroup.com/wp-content/uploads/2026/05/260326_LHG_RAPPORT_ANNUEL.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -24285,7 +24583,8 @@
     "part_date": "2017",
     "source": {
      "url": "https://weare.lush.com/lush-life/our-company/what-youre-part-of/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -25092,7 +25391,8 @@
     "part_date": "2025-02-17",
     "source": {
      "url": "https://mbws.com/wp-content/uploads/2025/04/MBWS_Document_de_reference_2024_FR__vf.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -25103,7 +25403,8 @@
     "part_date": "2025-02-17",
     "source": {
      "url": "https://mbws.com/wp-content/uploads/2025/04/MBWS_Document_de_reference_2024_FR__vf.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -25261,7 +25562,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25275,7 +25577,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25289,7 +25592,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25302,7 +25606,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25316,7 +25621,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25328,7 +25634,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25341,7 +25648,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25353,7 +25661,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25364,7 +25673,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25376,7 +25686,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25390,7 +25701,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25404,7 +25716,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25415,7 +25728,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25426,7 +25740,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25440,7 +25755,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.mediametrie.fr/en/mediametries-capital",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -25469,7 +25785,8 @@
     "part_date": "2024",
     "source": {
      "url": "https://fondspresselibre.org/wp/assets/uploads/2025/09/rapport-dimpact-2024-EN.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -25629,7 +25946,8 @@
     "part_date": "2026-09-22",
     "source": {
      "url": "https://www.eqs-news.com/news/voting-rights/blackrock-inc-wilmington-delaware-united-states-of-america-usa/f7e74e5b-4643-4f92-b042-7db5b276435a_en",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -25751,7 +26069,8 @@
     "part_date": "2025-02-05",
     "source": {
      "url": "https://www.boerse-online.de/dpa-afx/eqs-adhoc-metro-ag-und-epgc-vereinbaren-delisting-der-metro-aktien-deutsch-425665.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -25762,7 +26081,8 @@
     "part_date": "2025-02-05",
     "source": {
      "url": "https://reports.metroag.de/annual-report/2023-2024/to-our-shareholders/metro-share/shareholder-structure.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -25814,7 +26134,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.edenred.com/system/files/documents/edenred-deu-2025-fr_0.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -26011,7 +26332,8 @@
     "part_date": "2025-09",
     "source": {
      "url": "https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -26180,7 +26502,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://urd.lvmh.com/en/2025",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -26269,7 +26592,8 @@
     "pays": "FR",
     "source": {
      "url": "https://www.monnaiedeparis.fr/fr/mentions-legales",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -26300,7 +26624,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://www.groupe-casino.fr/wp-content/uploads/2025/03/CASINO_DEU_2024_VFR.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -26357,7 +26682,8 @@
     "part_date": "2014",
     "source": {
      "url": "https://investor.lenovo.com/en/ir/corp_actions/a141030_press.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -26384,7 +26710,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://mr-bricolage.com/wp-content/uploads/2026/04/Rapport-annuel-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -26395,7 +26722,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://mr-bricolage.com/wp-content/uploads/2026/04/Rapport-annuel-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -26470,7 +26798,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.mundys.com/sites/default/files/documents/2025%20RAI%20MUNDYS_ENG_20260330.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -26483,7 +26812,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.mundys.com/sites/default/files/documents/2025%20RAI%20MUNDYS_ENG_20260330.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -26495,7 +26825,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.mundys.com/sites/default/files/documents/2025%20RAI%20MUNDYS_ENG_20260330.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -26523,7 +26854,8 @@
     "part_date": "2026-04-07",
     "source": {
      "url": "https://ir.mutares.com/wp-content/uploads/2026/04/Robin-Laik-Stimmrechtsmitteilung-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -26578,7 +26910,8 @@
     "part_date": "2025-08-19",
     "source": {
      "url": "https://n26.com/en-eu/press/press-release/n26-founder-valentin-stalf-to-move-to-digital-bank-supervisory-board",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -26675,7 +27008,8 @@
     "part_date": "2021",
     "source": {
      "url": "https://natixis.groupebpce.com/wp-content/uploads/2025/08/Natixis_RFS_2025_07082025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -26808,7 +27142,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.nestle.com/sites/default/files/2026-02/financial-statements-2025-en.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -26892,7 +27227,8 @@
     "part_date": "2026-02-16",
     "source": {
      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-02/20260216_177552.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -26903,7 +27239,8 @@
     "part_date": "2026-02-16",
     "source": {
      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-02/20260216_177552.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -27052,7 +27389,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://invest.bnpparibas/document/4t25-efna",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -27065,7 +27403,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://invest.bnpparibas/document/4t25-efna",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -27333,7 +27672,8 @@
     "part_date": "2025-11-28",
     "source": {
      "url": "https://ml-eu.globenewswire.com/Resource/Download/59d9cc4f-163b-4577-807b-d95286402a65",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -27440,7 +27780,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.nrjgroup.fr/files/2026/03/nrj-urd-2025-opti.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -27627,7 +27968,8 @@
     "part_date": "2017-04-12",
     "source": {
      "url": "https://otpp.com/fr-ca/a-propos-de-nous/reflexions-et-nouvelles/2017/ontario-teachers-buys-additional-stake-in-frances-leading-funer/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -27639,7 +27981,8 @@
     "part_date": "2017-04-12",
     "source": {
      "url": "https://otpp.com/fr-ca/a-propos-de-nous/reflexions-et-nouvelles/2017/ontario-teachers-buys-additional-stake-in-frances-leading-funer/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -27650,7 +27993,8 @@
     "part_date": "2017-04-12",
     "source": {
      "url": "https://otpp.com/fr-ca/a-propos-de-nous/reflexions-et-nouvelles/2017/ontario-teachers-buys-additional-stake-in-frances-leading-funer/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -27834,7 +28178,8 @@
     "part_date": "2023-05-22",
     "source": {
      "url": "https://newsroom-en.groupebpce.fr/news/jean-pierre-charles-appointed-chief-executive-officer-of-oney-9bcf-53927.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -27846,7 +28191,8 @@
     "part_date": "2023-05-22",
     "source": {
      "url": "https://newsroom-en.groupebpce.fr/news/jean-pierre-charles-appointed-chief-executive-officer-of-oney-9bcf-53927.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -27873,7 +28219,8 @@
     "part_date": "2025-04-30",
     "source": {
      "url": "https://www.nasdaq.com/press-release/press-release-sanofi-and-cdr-close-opella-transaction-create-global-consumer",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -27887,7 +28234,8 @@
     "part_date": "2025-04-30",
     "source": {
      "url": "https://www.nasdaq.com/press-release/press-release-sanofi-and-cdr-close-opella-transaction-create-global-consumer",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -27901,7 +28249,8 @@
     "part_date": "2025-04-30",
     "source": {
      "url": "https://www.nasdaq.com/press-release/press-release-sanofi-and-cdr-close-opella-transaction-create-global-consumer",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -28088,7 +28437,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://assets.orange.com/medias/domain12751/media101746/523986-yvts1td99t-75.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -28113,7 +28463,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://assets.orange.com/medias/domain12751/media101746/523986-yvts1td99t-75.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -28190,33 +28541,36 @@
     "pays": "FR",
     "siren": "380129866",
     "lei": "969500MCOONR8990S771",
-    "part_date": "2021-11-05",
+    "part_date": "2021-08-25",
     "source": {
-     "url": "https://www.cnp.fr/en/cnp/content/download/10142/file/PR_Orange%20Concessions_EN_051121.pdf",
-     "type": "document_societe"
+     "url": "https://ec.europa.eu/competition/mergers/cases1/202228/M_10205_8404365_552_3.pdf",
+     "type": "autorite"
     }
    },
    {
-    "nom": "Consortium Banque des Territoires / CNP Assurances / EDF Invest",
+    "nom": "Holding d'Infrastructures Numériques (Banque des Territoires / Caisse des dépôts, CNP Assurances, EDF Invest)",
     "id": "caisse-des-depots",
     "part_pct": 50.0,
     "type": "public",
     "pays": "FR",
     "siren": "180020026",
     "lei": "969500Q2PFTTP0Y5QL44",
-    "part_date": "2021-11-05",
+    "part_date": "2021-08-25",
     "source": {
-     "url": "https://www.cnp.fr/en/cnp/content/download/10142/file/PR_Orange%20Concessions_EN_051121.pdf",
-     "type": "document_societe"
+     "url": "https://ec.europa.eu/competition/mergers/cases1/202228/M_10205_8404365_552_3.pdf",
+     "type": "autorite"
     }
    }
   ],
   "description": "Exploitant de réseaux d'initiative publique (RIP) fibre en zones rurales.",
   "sources": [
    "https://www.orange.com/fr",
-   "https://www.cnp.fr/en/cnp/content/download/10142/file/PR_Orange%20Concessions_EN_051121.pdf"
+   "https://www.cnp.fr/en/cnp/content/download/10142/file/PR_Orange%20Concessions_EN_051121.pdf",
+   "https://ec.europa.eu/competition/mergers/cases1/202228/M_10205_8404365_552_3.pdf",
+   "https://www.caissedesdepots.fr/sites/cdc.fr/files/2026-03/CDC%20ETATS%20FINANCIERS%20CONSOLIDES%20DU%20GROUPE%20CDC%2031122025_0.pdf"
   ],
-  "verifie_le": "2026-11"
+  "verifie_le": "2026-11",
+  "note": "Après l'opération autorisée par la Commission européenne (décision M.10205 du 25/08/2021), le capital et les droits de vote sont détenus à 50 % par Orange (via Orange Participations) et à 50 % par la holding du consortium, contrôlée conjointement par la Caisse des dépôts et EDF, avec CNP Assurances (Infra-Invest France) et EDF Invest (C71). Cette holding est Holding d'Infrastructures Numériques (SIREN 891282774) : la Caisse des dépôts y détient 66,66 % du contrôle et 55,33 % d'intérêt, CNP Assurances compris (comptes consolidés 2025 de la Caisse des dépôts)."
  },
  {
   "id": "orchestra",
@@ -28471,7 +28825,8 @@
     "part_date": "2026-08-20",
     "source": {
      "url": "https://www.inderes.fi/en/releases/major-shareholder-announcement-434",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -28484,7 +28839,8 @@
     "part_date": "2025-06-19",
     "source": {
      "url": "https://www.placera.se/pressmeddelanden/pandora-major-shareholder-announcement-20250619",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -28592,7 +28948,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aczo-pGXnQHGZKQ5_UniversalRegistrationDocument2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -28661,7 +29018,8 @@
     "part_date": "2025-10-31",
     "source": {
      "url": "https://partouchecms.ptech.fr/groupepartouche/documents/3540d37a-fba0-4614-84e8-d20430eb1761.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -28674,7 +29032,8 @@
     "part_date": "2025-10-31",
     "source": {
      "url": "https://partouchecms.ptech.fr/groupepartouche/documents/3540d37a-fba0-4614-84e8-d20430eb1761.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -28685,7 +29044,8 @@
     "part_date": "2025-10-31",
     "source": {
      "url": "https://partouchecms.ptech.fr/groupepartouche/documents/3540d37a-fba0-4614-84e8-d20430eb1761.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -28696,7 +29056,8 @@
     "part_date": "2025-10-31",
     "source": {
      "url": "https://partouchecms.ptech.fr/groupepartouche/documents/3540d37a-fba0-4614-84e8-d20430eb1761.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -28748,7 +29109,8 @@
     "part_pct": 70,
     "source": {
      "url": "https://pass.culture.fr/notre-gouvernance",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -28761,7 +29123,8 @@
     "part_pct": 30,
     "source": {
      "url": "https://pass.culture.fr/notre-gouvernance",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -28792,7 +29155,8 @@
     "part_date": "2025-05-12",
     "source": {
      "url": "https://www.pathe.com/wp-content/uploads/2025/05/Communique-de-Presse-Pathe-X-Merit-12-mai-2025-Anglais-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -28804,7 +29168,8 @@
     "part_date": "2025-05-12",
     "source": {
      "url": "https://www.pathe.com/wp-content/uploads/2025/05/Communique-de-Presse-Pathe-X-Merit-12-mai-2025-Anglais-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -28961,7 +29326,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.unilever.com/files/unilever-annual-report-and-accounts-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -28972,7 +29338,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.unilever.com/files/unilever-annual-report-and-accounts-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -29101,7 +29468,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://peugeot-invest.com/en/media/publications/1288",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -29112,7 +29480,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://peugeot-invest.com/en/media/publications/1288",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -29223,7 +29592,8 @@
     "part_date": "2024-10-02",
     "source": {
      "url": "https://www.mondaq.com/pressrelease/148368/lion-capital-signs-a-put-option-agreement-for-the-acquisition-of-its-majority-stake-in-picard-surgel%C3%A9s-by-invest-group-zouari",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -29311,7 +29681,8 @@
     "part_date": "2026-03",
     "source": {
      "url": "https://www.pierre-fabre.com/fr/notre-entreprise/gouvernance",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -29322,7 +29693,8 @@
     "part_date": "2026-03",
     "source": {
      "url": "https://www.pierre-fabre.com/fr/notre-entreprise/gouvernance",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -29333,7 +29705,8 @@
     "part_date": "2026-03",
     "source": {
      "url": "https://www.pierre-fabre.com/fr/notre-entreprise/gouvernance",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -29364,7 +29737,8 @@
     "part_date": "2026-07-20",
     "source": {
      "url": "https://www.groupepvcp.com/app/uploads/2026/07/pr-toa-200726-en-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -29375,7 +29749,8 @@
     "part_date": "2026-07-20",
     "source": {
      "url": "https://www.groupepvcp.com/app/uploads/2026/07/pr-toa-200726-en-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -29386,7 +29761,8 @@
     "part_date": "2025-09-30",
     "source": {
      "url": "https://www.groupepvcp.com/app/uploads/2025/12/document-denregistrement-universel-20242025-deu-2025-pvcp.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -29397,7 +29773,8 @@
     "part_date": "2026-07-20",
     "source": {
      "url": "https://www.groupepvcp.com/app/uploads/2026/07/pr-toa-200726-en-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -29637,7 +30014,8 @@
     "part_date": "2026-02-28",
     "source": {
      "url": "https://www.pluxeegroup.com/share-ownership/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -29923,7 +30301,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://www.louishachettegroup.com/en/press-releases-lhg/louis-hachette-group-announces-the-sale-of-prisma-medias-luxury-division-and-vivendis-acquisition-of-a-stake-in-prisma-group/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -29937,7 +30316,8 @@
     "part_date": "2026-03-31",
     "source": {
      "url": "https://www.louishachettegroup.com/en/press-releases-lhg/louis-hachette-group-announces-the-sale-of-prisma-medias-luxury-division-and-vivendis-acquisition-of-a-stake-in-prisma-group/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -30207,7 +30587,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://publicis-groupe.publispeak.com/2025-universal-registration-document/article/375/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -30218,7 +30599,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://publicis-groupe.publispeak.com/2025-universal-registration-document/article/375/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -30231,7 +30613,8 @@
     "lei": "529900VBK42Y5HHRMD23",
     "source": {
      "url": "https://publicis-groupe.publispeak.com/2025-universal-registration-document/article/375/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -30293,7 +30676,8 @@
     "part_date": "2026-10-07",
     "source": {
      "url": "https://live.deutsche-boerse.com/news/EQS-News-PUMA-welcomes-ANTA-Sports-as-new-largest-shareholder-426245e8-6183-4470-9ef9-e2be8a92dd4c",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -30355,7 +30739,8 @@
     "part_date": "2005",
     "source": {
      "url": "https://www.qia.qa/en/About/Pages/default.aspx",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -30521,7 +30906,8 @@
     "part_date": "2023-06-27",
     "source": {
      "url": "https://www.banquedesterritoires.fr/sites/default/files/2023-06/CP%20BDT%20SYNFONIUM%20QWANT%20SIGNATURE%20ACCORD%2027062023.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -30535,7 +30921,8 @@
     "part_date": "2023-06-27",
     "source": {
      "url": "https://www.banquedesterritoires.fr/sites/default/files/2023-06/CP%20BDT%20SYNFONIUM%20QWANT%20SIGNATURE%20ACCORD%2027062023.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -30640,7 +31027,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.ramsayhealth.com/en/investors/demerger/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -30654,7 +31042,8 @@
     "part_date": "2026-10",
     "source": {
      "url": "https://www.ramsayhealth.com/en/investors/demerger/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -30692,7 +31081,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.randstad.com/investor-relations/randstad-share/shareholder-base/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -30708,7 +31098,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.randstad.com/investor-relations/randstad-share/shareholder-base/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -30719,7 +31110,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.randstad.com/investor-relations/randstad-share/shareholder-base/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -30787,7 +31179,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://ratpgroup.com/api/media/rapport-financier-et-de-durabilite-annuel-2025---groupe-ratp.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -31111,7 +31504,8 @@
     "part_date": "2003",
     "source": {
      "url": "https://www.groupama.com/app/uploads/2015/06/groupama-innove-en-lancant-le-service-auto-nuevo.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -31354,7 +31748,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.edf.fr/sites/groupe/files/2026-04/2026-04-02-edf-urd-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -31368,7 +31763,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.edf.fr/sites/groupe/files/2026-04/2026-04-02-edf-urd-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -31382,7 +31778,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.edf.fr/sites/groupe/files/2026-04/2026-04-02-edf-urd-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -31478,7 +31875,8 @@
     "part_date": "2026-06",
     "source": {
      "url": "https://saemes.fr/sites/default/files/Antoine%20Guillou_nouveau%20pr%C3%A9sident%20Saemes.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -31504,7 +31902,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://saemes.fr/sites/default/files/CP%20SAEMES-SOGARIS-CDC%20DEF.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -31570,7 +31969,8 @@
     "part_date": "2021-04-28",
     "source": {
      "url": "https://www.permira.com/news-and-insights/announcements/permira-becomes-minority-shareholder-in-new-immo-group-supporting-its-goal-to-become-the-new-european-leader-in-digital-real-estate-industry",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -31795,25 +32195,28 @@
   "groupe_parent": "abertis",
   "actionnaires": [
    {
-    "nom": "Abertis",
+    "nom": "Abertis (via Holding d'Infrastructures de Transport)",
     "id": "abertis",
     "part_pct": 100.0,
     "pays": "ES",
     "lei": "549300GKFVWI02JQ5332",
     "type": "groupe",
-    "part_date": "2020-09-09",
+    "part_date": "2024-12-31",
     "source": {
-     "url": "https://abertis.com/noticias/abertis-coloca-con-exito-una-emision-de-600-millo/?lang=en",
-     "type": "document_societe"
+     "url": "https://abertis.com/media/web_abertis/Abertis%20Informe%20Anual%202024_20250227174232.pdf",
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
   "description": "Troisième concessionnaire autoroutier français (Nord, Est, Normandie via SAPN).",
   "sources": [
    "https://abertis.com/noticias/abertis-coloca-con-exito-una-emision-de-600-millo/?lang=en",
-   "https://fr.wikipedia.org/wiki/Sanef"
+   "https://fr.wikipedia.org/wiki/Sanef",
+   "https://abertis.com/media/web_abertis/Abertis%20Informe%20Anual%202024_20250227174232.pdf"
   ],
-  "verifie_le": "2026-10"
+  "verifie_le": "2026-11",
+  "note": "Abertis détient 100 % de Holding d'Infrastructures de Transport (HIT), qui détient 100 % de Sanef (comptes consolidés 2024 d'Abertis, annexe I)."
  },
  {
   "id": "sanofi",
@@ -31834,7 +32237,8 @@
     "part_date": "2026-01-31",
     "source": {
      "url": "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/swi-sanofi-2025-urd-fr-pages-amf.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -31846,7 +32250,8 @@
     "part_date": "2025-07-31",
     "source": {
      "url": "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/swi-sanofi-2025-urd-fr-pages-amf.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -31857,7 +32262,8 @@
     "part_date": "2026-01-31",
     "source": {
      "url": "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/swi-sanofi-2025-urd-fr-pages-amf.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -31889,7 +32295,8 @@
     "part_date": "2022",
     "source": {
      "url": "https://www.columnacapital.com/news/sant%C3%A9vet-group-signs-strategic-partnership-with-tedaisy",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -31969,7 +32376,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://savencia.com/wp-content/uploads/2026/04/Savencia-FD_RFA-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -32194,7 +32602,8 @@
     "part_date": "2025-09-30",
     "source": {
      "url": "https://reports.ticker.app/549300DFVPOB67JL3A42/2026-01-30/549300DFVPOB67JL3A42-2025-09-30-T01.xhtml",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -32245,7 +32654,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aczo-pGXnQHGZKQ5_UniversalRegistrationDocument2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -32360,7 +32770,8 @@
     "part_date": "2026-07-31",
     "source": {
      "url": "https://www.caissedesdepots.fr/sites/cdc.fr/files/2026-07/31072026%20-%20CP_Closing_Cession_ATMB_SFTRF.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -32896,7 +33307,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://group-indigo.com/wp-content/uploads/2025/02/20241231-Communique-de-Presse.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -33100,7 +33512,8 @@
     "part_date": "2024-03",
     "source": {
      "url": "https://www.groupe-sncf.com/medias-publics/2024-03/sncf_groupe_investor_presentation_2023.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -33291,7 +33704,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://filings.xbrl.org/O2RNE8IBXP4R0TD8PU41/2025-12-31/ESEF/FR/0/O2RNE8IBXP4R0TD8PU41-2025-12-31-1-FR/reports/O2RNE8IBXP4R0TD8PU41-2025-12-31-1-FR.xhtml",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -33322,7 +33736,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.societegenerale.com/sites/default/files/documents/2026-03/document-enregistrement-universel-2026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -33497,7 +33912,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://spartoo-finance.com/images/Spartoo_Rapport_financier_annuel_2025_21042026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -33508,7 +33924,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://spartoo-finance.com/images/Spartoo_Rapport_financier_annuel_2025_21042026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -33519,7 +33936,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://spartoo-finance.com/images/Spartoo_Rapport_financier_annuel_2025_21042026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -33530,7 +33948,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://spartoo-finance.com/images/Spartoo_Rapport_financier_annuel_2025_21042026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -33541,7 +33960,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://spartoo-finance.com/images/Spartoo_Rapport_financier_annuel_2025_21042026.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -33598,7 +34018,8 @@
     "part_date": "2016-07",
     "source": {
      "url": "https://www.automotiveworld.com/news-releases/bridgestone-emea-completes-acquisition-speedy-france-subsidiary-enters-joint-venture-pneuhage/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -33673,7 +34094,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://s29.q4cdn.com/175625835/files/doc_financials/2025/q4/Spotify-20-F-Filing.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -33686,7 +34108,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://s29.q4cdn.com/175625835/files/doc_financials/2025/q4/Spotify-20-F-Filing.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -33697,7 +34120,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://s29.q4cdn.com/175625835/files/doc_financials/2025/q4/Spotify-20-F-Filing.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -33856,7 +34280,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.exor.com/system/files/2026/document-documents/EXOR%202025%20Annual%20Report.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -33870,7 +34295,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://peugeot-invest.com/telecharger/1111",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -34064,7 +34490,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.suez.com/-/media/suez-global/files/publication/annual-report/suez-sa-consolidated-financial-statements-year-ended-december-31-2025.pdf?h=12&w=12&v=1&d=20260409T151844Z&open=true",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -34076,7 +34503,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.suez.com/-/media/suez-global/files/publication/annual-report/suez-sa-consolidated-financial-statements-year-ended-december-31-2025.pdf?h=12&w=12&v=1&d=20260409T151844Z&open=true",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -34090,7 +34518,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.suez.com/-/media/suez-global/files/publication/annual-report/suez-sa-consolidated-financial-statements-year-ended-december-31-2025.pdf?h=12&w=12&v=1&d=20260409T151844Z&open=true",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -34101,7 +34530,8 @@
     "part_date": "2026-06-30",
     "source": {
      "url": "https://www.suez.com/-/media/suez-global/files/publication-docs/pdf-english/finance/20262907-suez-sa-financial-statements.pdf?v=1&d=20260729T055845Z&open=true",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -34235,7 +34665,8 @@
     "part_date": "2023-01-05",
     "source": {
      "url": "https://newsroom.groupebpce.fr/assets/20230105-cp-swile-groupe-bpce-pdf-0cb4-7b707.html?dl=1",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -34313,7 +34744,8 @@
     "part_date": "2025-12-08",
     "source": {
      "url": "https://www.synergie.com/system/files/Synergie_Rapport_Annuel_2025_FR.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -34324,7 +34756,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.synergie.com/system/files/Synergie_Rapport_Annuel_2025_FR.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -34498,33 +34931,48 @@
     "part_pct": 45.0,
     "type": "fonds",
     "pays": "CA",
-    "part_date": "2015-05-28",
+    "part_date": "2025-12-31",
     "source": {
-     "url": "https://ca-assurances.com/en/?p=7235",
-     "type": "document_societe"
+     "url": "https://www.tdf-infrastructure.com/wp-content/uploads/2026/03/TDF_AUDITED-CONSOLIDATED-FINANCIAL-STATEMENTS-31-DECEMBER-2025.pdf",
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
-    "nom": "APG et PSP Investments",
-    "part_pct": 45.0,
+    "nom": "APG Asset Management (via Arcus Tivana Investor Vehicle 2)",
+    "part_pct": 22.5,
     "type": "fonds",
-    "pays": "XX",
-    "part_date": "2015-05-19",
+    "pays": "NL",
+    "part_date": "2025-12-31",
     "source": {
-     "url": "https://ca-assurances.com/wp-content/uploads/FR-28-05-15-_-CA-Assurances-TDF.pdf",
-     "type": "document_societe"
+     "url": "https://www.tdf-infrastructure.com/wp-content/uploads/2026/03/TDF_AUDITED-CONSOLIDATED-FINANCIAL-STATEMENTS-31-DECEMBER-2025.pdf",
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
-    "nom": "Crédit Agricole Assurances",
+    "nom": "PSP Investments (via Arcus Tivana Investor Vehicle 1)",
+    "part_pct": 22.5,
+    "type": "fonds",
+    "pays": "CA",
+    "part_date": "2025-12-31",
+    "source": {
+     "url": "https://www.tdf-infrastructure.com/wp-content/uploads/2026/03/TDF_AUDITED-CONSOLIDATED-FINANCIAL-STATEMENTS-31-DECEMBER-2025.pdf",
+     "type": "document_societe",
+     "nature": "rapport"
+    }
+   },
+   {
+    "nom": "Crédit Agricole Assurances (Predica 9,17 %, CAA Retraite 0,83 %)",
     "id": "credit-agricole",
     "part_pct": 10.0,
     "type": "groupe",
     "pays": "FR",
-    "part_date": "2015-05-19",
+    "part_date": "2025-12-31",
     "source": {
-     "url": "https://ca-assurances.com/wp-content/uploads/FR-28-05-15-_-CA-Assurances-TDF.pdf",
-     "type": "document_societe"
+     "url": "https://www.tdf-infrastructure.com/wp-content/uploads/2026/03/TDF_AUDITED-CONSOLIDATED-FINANCIAL-STATEMENTS-31-DECEMBER-2025.pdf",
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -34533,10 +34981,12 @@
    "https://www.universfreebox.com/?p=597934",
    "https://www.universfreebox.com/article/526956/8-a-10-milliards-deuros-attendus-pour-la-vente-de-tdf/amp",
    "https://ca-assurances.com/wp-content/uploads/FR-28-05-15-_-CA-Assurances-TDF.pdf",
-   "https://ca-assurances.com/en/?p=7235"
+   "https://ca-assurances.com/en/?p=7235",
+   "https://www.tdf-infrastructure.com/wp-content/uploads/2026/03/TDF_AUDITED-CONSOLIDATED-FINANCIAL-STATEMENTS-31-DECEMBER-2025.pdf",
+   "https://www.tdf-infrastructure.com/wp-content/uploads/2025/07/TDFI-2025-New-Issue-Prospectus-AMF-Approval.pdf"
   ],
   "verifie_le": "2026-11",
-  "note": "Répartition de 2015 (communiqué de Crédit Agricole Assurances) ; la presse donne toujours 45 % à Brookfield en septembre 2026."
+  "note": "TDF SAS est détenue à 100 % par une chaîne de holdings (TDF Infrastructure, TDF Infrastructure Holding, Tivana France Holdings, Tivana MidCo) jusqu'à Tivana TopCo (Luxembourg). Comptes consolidés 2025 de TDF Infrastructure : détention indirecte de 45 % par Brookfield, 22,5 % par PSP Investments, 22,5 % par APG et 10 % par le groupe Crédit Agricole ; le prospectus obligataire approuvé par l'AMF le 11/07/2025 détaille Predica 9,17 % et Crédit Agricole Assurances Retraite 0,83 %. La cession de la diffusion et de la part de Brookfield est en discussion selon la presse (septembre 2026)."
  },
  {
   "id": "tdr-capital",
@@ -34734,7 +35184,8 @@
     "part_date": "2026-07-30",
     "source": {
      "url": "https://www.enagas.es/en/press-room/news-room/press-releases/results-3t-2026/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -34929,7 +35380,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://groupe-tf1.fr/sites/default/files//TF1_DEU_2025_0.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -34940,7 +35392,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://groupe-tf1.fr/sites/default/files//TF1_DEU_2025_0.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -35021,7 +35474,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://www.dassault-aviation.com/wp-content/blogs.dir/1/files/2025/04/RA_2024_VF_BD.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -35201,7 +35655,8 @@
     "lei": "529900VBK42Y5HHRMD23",
     "source": {
      "url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2025_2026_fr.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -35360,7 +35815,8 @@
     "part_date": "2025-12-17",
     "source": {
      "url": "https://www.sino.de/wp-content/uploads/2026/04/sino-Geschaeftsbericht-2024-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -35390,7 +35846,8 @@
     "part_date": "2025-07-01",
     "source": {
      "url": "https://www.caissedesdepots.fr/sites/cdc.fr/files/2025-09/CP_Finalisation_%C3%A9volution%20de%20l%E2%80%99actionnariat%20du%20Groupe%20Transdev_accessible.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -35404,7 +35861,8 @@
     "part_date": "2025-07-01",
     "source": {
      "url": "https://www.caissedesdepots.fr/sites/cdc.fr/files/2025-09/CP_Finalisation_%C3%A9volution%20de%20l%E2%80%99actionnariat%20du%20Groupe%20Transdev_accessible.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -35569,7 +36027,8 @@
     "part_date": "2026-09",
     "source": {
      "url": "https://www.tuigroup.com/en/investors/share/shareholder-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -35580,7 +36039,8 @@
     "part_date": "2026-09",
     "source": {
      "url": "https://www.tuigroup.com/en/investors/share/shareholder-structure",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -35926,7 +36386,8 @@
     "part_date": "2025-11-07",
     "source": {
      "url": "https://www.ticker.app/lse/CAN/rns/2025-11-07/Completion-of-Acquisition-of-Minority-Stake-in-UGC/6685G",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -35940,7 +36401,8 @@
     "part_date": "2025-11-07",
     "source": {
      "url": "https://www.ticker.app/lse/CAN/rns/2025-11-07/Completion-of-Acquisition-of-Minority-Stake-in-UGC/6685G",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -36118,7 +36580,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.reworldmedia.com/investisseurs/laction/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -36129,7 +36592,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.reworldmedia.com/investisseurs/laction/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -36140,7 +36604,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.reworldmedia.com/investisseurs/laction/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -36388,7 +36853,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://group.vattenfall.com/who-we-are",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],
@@ -36484,7 +36950,8 @@
     "lei": "969500Q2PFTTP0Y5QL44",
     "source": {
      "url": "https://www.veolia.com/sites/g/files/dvc4206/files/document/2026/03/Veolia_Finance_DEU_2025_fr.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -36495,7 +36962,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.veolia.com/sites/g/files/dvc4206/files/document/2026/03/Veolia_Finance_DEU_2025_fr.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -36511,7 +36979,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.veolia.com/sites/g/files/dvc4206/files/document/2026/03/Veolia_Finance_DEU_2025_fr.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -36524,7 +36993,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.veolia.com/sites/g/files/dvc4206/files/document/2026/03/Veolia_Finance_DEU_2025_fr.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -36643,7 +37113,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://reckitt.com/news/reckitt-completes-divestment-of-essential-home/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -36656,7 +37127,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://reckitt.com/news/reckitt-completes-divestment-of-essential-home/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -36883,7 +37355,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://filings.xbrl.org/213800WFQ334R8UXUG83/2025-12-31/ESEF/FR/0/VINCI-2025-12-31-1-fr/reports/VINCI-2025-12-31-1-fr.xhtml",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -36913,7 +37386,8 @@
     "part_date": "2026-06",
     "source": {
      "url": "https://www.vinci.com/sites/default/files/medias/file/2026/06/vinci-full-list-controlled-companies-2026-en.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -37083,7 +37557,8 @@
     "part_date": "2026-07-06",
     "source": {
      "url": "https://www.bollore.com/wp-content/uploads/2026/09/rfs_bollore_2026_fr_mel-1.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -37137,7 +37612,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://storage.mfn.se/e8a369e3-c1b6-481f-8ff1-9809d0614a01/voi-group-2024-arsredovisning.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -37148,7 +37624,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://storage.mfn.se/e8a369e3-c1b6-481f-8ff1-9809d0614a01/voi-group-2024-arsredovisning.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -37159,7 +37636,8 @@
     "part_date": "2024-12-31",
     "source": {
      "url": "https://storage.mfn.se/e8a369e3-c1b6-481f-8ff1-9809d0614a01/voi-group-2024-arsredovisning.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -37194,7 +37672,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://annualreport2025.volkswagen-group.com/group-management-report/shares-and-bonds/shareholder-structure.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -37205,7 +37684,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://annualreport2025.volkswagen-group.com/group-management-report/shares-and-bonds/shareholder-structure.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -37216,7 +37696,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://annualreport2025.volkswagen-group.com/group-management-report/shares-and-bonds/shareholder-structure.html",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    },
    {
@@ -37394,7 +37875,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.maisonpommery.com/wp-content/uploads/2026/09/DEU-MPA-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -37405,7 +37887,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.maisonpommery.com/wp-content/uploads/2026/09/DEU-MPA-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -37416,7 +37899,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://www.maisonpommery.com/wp-content/uploads/2026/09/DEU-MPA-2025.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -38032,7 +38516,8 @@
     "part_date": "2018-11-30",
     "source": {
      "url": "https://www.omers.com/news/omers-allianz-and-axa-im-real-assets-announce-investment-in-altice-france-s-fibre-to-the-home-business",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    },
    {
@@ -38043,7 +38528,8 @@
     "part_date": "2018-11-30",
     "source": {
      "url": "https://www.omers.com/news/omers-allianz-and-axa-im-real-assets-announce-investment-in-altice-france-s-fibre-to-the-home-business",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "communique"
     }
    }
   ],
@@ -38360,7 +38846,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -38371,7 +38858,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -38383,7 +38871,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -38394,7 +38883,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -38405,7 +38895,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -38417,7 +38908,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    },
    {
@@ -38428,7 +38920,8 @@
     "part_date": "2025-12-31",
     "source": {
      "url": "https://younited.com/app/uploads/sites/4/2026/05/younited-financial-s.a.-fy-2025-annual-report-standalone.pdf",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "rapport"
     }
    }
   ],
@@ -38527,7 +39020,8 @@
     "part_date": "2026",
     "source": {
      "url": "https://www.zigzag.global/",
-     "type": "document_societe"
+     "type": "document_societe",
+     "nature": "page"
     }
    }
   ],

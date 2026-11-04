@@ -25,6 +25,8 @@ SIREN = re.compile(r"^\d{9}$")
 LEI = re.compile(r"^[A-Z0-9]{18}\d{2}$")
 MOTIFS = {"renommage", "fusion", "scission", "suppression"}
 TYPES_SOURCE = {"document_societe", "autorite", "registre", "presse", "encyclopedie"}
+# nature d'un document de la société : rapport (annuel, semestriel, DEU, comptes), communiqué, page de son site.
+NATURES_DOC = {"rapport", "communique", "page"}
 TYPES_ACT = {"personne", "famille", "etat", "public", "fonds", "groupe", "flottant", "salaries", "societaires", "autre"}
 
 
@@ -117,9 +119,13 @@ def main():
             if s is not None:
                 if a.get("part_pct") is None:
                     err(f"groupe {gid} : actionnaire {a.get('nom')} a une source sans part_pct")
-                if not isinstance(s, dict) or set(s) != {"url", "type"}:
-                    err(f"groupe {gid} : actionnaire {a.get('nom')} source attendue {{url, type}}")
+                if not isinstance(s, dict) or not {"url", "type"} <= set(s) <= {"url", "type", "nature"}:
+                    err(f"groupe {gid} : actionnaire {a.get('nom')} source attendue {{url, type[, nature]}}")
                 else:
+                    if s["type"] == "document_societe" and s.get("nature") not in NATURES_DOC:
+                        err(f"groupe {gid} : actionnaire {a.get('nom')} document de la société sans nature valide ({s.get('nature')!r})")
+                    if s["type"] != "document_societe" and "nature" in s:
+                        err(f"groupe {gid} : actionnaire {a.get('nom')} nature réservée aux documents de la société")
                     if s["type"] not in TYPES_SOURCE:
                         err(f"groupe {gid} : actionnaire {a.get('nom')} type de source inconnu {s['type']!r}")
                     if s["url"] not in g.get("sources", []):
