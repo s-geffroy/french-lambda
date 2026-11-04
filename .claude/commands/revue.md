@@ -25,7 +25,7 @@ Avant de déléguer quoi que ce soit, pose-moi tes questions avec l'outil de que
 
 - **Objectif** : avant une mise en production, état des lieux, après un gros changement, ou un problème précis (lequel ?).
 - **Priorités** : les domaines de l'étape 3 à creuser en premier (choix multiple). Ne propose que ceux qui ont un objet ici.
-- **Profondeur** : rapide (trois domaines prioritaires, un agent chacun) ou complète (tous les domaines).
+- **Profondeur** : rapide (une mission courte par agent, centrée sur les priorités) ou complète (tous les domaines applicables, en profondeur). Dans les deux cas, chaque agent de l'équipe travaille.
 - **Déjà connu** : des problèmes connus à ne pas remonter, ou des zones hors périmètre.
 
 Si tu manques encore d'une information pour bien répartir le travail (un environnement que tu ne vois pas, une contrainte d'hébergement…), demande-la dans la même série. Ensuite, tiens-t'en à mes réponses.
@@ -33,10 +33,13 @@ Si tu manques encore d'une information pour bien répartir le travail (un enviro
 ## 3. Constituer l'équipe de revue
 
 - Liste les sous-agents disponibles (nom, description, skills préchargés).
-- Associe chacun aux domaines retenus, en n'utilisant que les agents qui existent.
+- **Chaque agent de l'équipe reçoit au moins une mission.**
+  - D'abord, associe les agents aux domaines retenus : le plus adapté prend la tête de chaque domaine, un second peut y ajouter son angle.
+  - Ensuite, un agent qui n'a encore rien reçoit une mission tirée de son métier et appliquée à CETTE application. Exemples : un agent SEO sur un outil interne vérifie qu'il n'est pas indexé par erreur ; un game designer sur un site regarde l'engagement et la progression. Si son métier n'a vraiment aucune prise ici, sa mission est de le montrer en une page, avec les preuves, et de dire ce qu'il faudrait pour qu'il serve. Il ne reste pas inactif.
+  - Utilise les skills : rappelle à chaque agent ceux qu'il précharge. Un skill installé que personne ne précharge est confié à l'agent dont le métier s'en rapproche le plus.
 - Un domaine retenu sans agent adapté, tu le traites toi-même, plus brièvement, en le signalant.
-- Un domaine sans objet ici (pas de données personnelles, pas d'interface…), tu l'écartes en une phrase.
-- Montre-moi ce plan d'affectation, puis lance la revue sans attendre.
+- Un domaine sans objet ici (pas de données personnelles, pas d'interface…), tu l'écartes en une phrase. Les agents qui y étaient destinés reçoivent une autre mission.
+- Montre-moi ce plan d'affectation : un tableau agent → mission(s) → skills, où aucun agent ne manque. Puis lance la revue sans attendre.
 
 Domaines :
 - Fonctionnel : conformité aux specs, règles métier, cas limites.
@@ -67,6 +70,7 @@ Domaines :
 1. Objectif et périmètre retenus (mes réponses), résumé en 10 lignes, état général.
 2. Top 10 des actions, par ordre de priorité (gain / effort).
 3. Constats par domaine, avec l'agent qui les a remontés.
+   Puis, pour chaque agent : sa mission, ses principaux constats (ou « rien à signaler », justifié), et les skills qu'il a utilisés.
 4. Depuis la revue précédente (s'il y en a une) : ce qui est corrigé, ce qui reste.
 5. Domaines écartés ou traités sans agent, et pourquoi.
 6. Ce qui n'a pas pu être vérifié, et pourquoi.
